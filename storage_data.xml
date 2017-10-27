@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="internal" />
+      <item value="utilities" />
+      <item value="/ Initialization hook for subclasses . This method is called in all constructors and pseudo - constructors ( clone , read Object ) after Hash Map has been initialized but before any entries have been inserted . ( In the absence of this method , read Object would require explicit knowledge of subclasses .) /" />
       <item value="Adds a member , which is a name - value pair , to self . The name must be a String , but the value can be an arbitrary Json Element , thereby allowing you to build a full tree of Json Elements rooted at this node ." />
       <item value="/ A class representing an object type in Json . An object consists of name - value pairs where names are strings , and values are any other type of {@ link Json Element }. This allows for a creating a tree of Json Elements . The member elements of this object are maintained in order they were added . @ author Inderjeet Singh @ author Joel Leitch /" />
       <item value="Parameterized Type" />
@@ -48,9 +51,6 @@
       <item value="Spliterator" />
       <item value="pliterator" />
       <item value="tab" />
-      <item value="evict false when initially constructing this map , else true ( relayed to method after Node Insertion )." />
-      <item value="/ Computes key . hash Code () and spreads ( XO Rs ) higher bits of hash to lower . Because the table uses power - of - two masking , sets of hashes that vary only in bits above the current mask will always collide . ( Among known examples are sets of Float keys holding consecutive whole numbers in small tables .) So we apply a transform that spreads the impact of higher bits downward . There is a tradeoff between speed , utility , and quality of bit - spreading . Because many common sets of hashes are already reasonably distributed ( so don ' t benefit from spreading ), and because we use trees to handle large sets of collisions in bins , we just XOR some shifted bits in the cheapest possible way to reduce systematic lossage , as well as to incorporate impact of the highest bits that would otherwise never be used in index calculations because of table bounds . /" />
-      <item value="XO Rs" />
     </histories>
   </component>
 </application>
