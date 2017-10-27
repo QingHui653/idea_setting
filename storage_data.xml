@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transfer" />
       <item value="internal" />
       <item value="utilities" />
       <item value="/ Initialization hook for subclasses . This method is called in all constructors and pseudo - constructors ( clone , read Object ) after Hash Map has been initialized but before any entries have been inserted . ( In the absence of this method , read Object would require explicit knowledge of subclasses .) /" />
@@ -50,7 +51,6 @@
       <item value="Value Spliterator" />
       <item value="Spliterator" />
       <item value="pliterator" />
-      <item value="tab" />
     </histories>
   </component>
 </application>
