@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="loansing" />
+      <item value="repayment" />
+      <item value="loan Notice" />
+      <item value="loan" />
       <item value="Transfer" />
       <item value="internal" />
       <item value="utilities" />
@@ -47,10 +51,6 @@
       <item value="initialize fence and size on first use" />
       <item value="spliterators" />
       <item value="Spliter" />
-      <item value="Spliterat" />
-      <item value="Value Spliterator" />
-      <item value="Spliterator" />
-      <item value="pliterator" />
     </histories>
   </component>
 </application>
