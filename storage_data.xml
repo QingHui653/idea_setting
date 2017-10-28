@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Column ' id ' in where clause is ambiguous" />
       <item value="loansing" />
       <item value="repayment" />
       <item value="loan Notice" />
@@ -50,7 +51,6 @@
       <item value="/ Load or refresh the persistent representation of the configuration , which might an XML file , properties file , or relational database schema . &lt; p &gt; As this is a startup method , it should destroy already created singletons if it fails , to avoid dangling resources . In other words , after invocation of that method , either all or no singletons at all should be instantiated . @ throws Beans Exception if the bean factory could not be initialized @ throws Illegal State Exception if already initialized and multiple refresh attempts are not supported /" />
       <item value="initialize fence and size on first use" />
       <item value="spliterators" />
-      <item value="Spliter" />
     </histories>
   </component>
 </application>
