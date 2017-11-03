@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="divide" />
+      <item value="subtract" />
+      <item value="multiply" />
       <item value="No Such Method Exception" />
       <item value="/ convenience method to get this element as a string value . @ return get this element as a string value . @ throws Class Cast Exception if the element is of not a {@ link Json Primitive } and is not a valid string value . @ throws Illegal State Exception if the element is of the type {@ link Json Array } but contains more than a single element . /" />
       <item value="Platform" />
@@ -48,9 +51,6 @@
       <item value="Reflection Utils" />
       <item value="get Declared Constructor" />
       <item value="instantiate Class" />
-      <item value="load Bean Definitions" />
-      <item value="Initialize the bean definition reader used for loading the bean definitions of this context . Default implementation is empty . &lt; p &gt; Can be overridden in subclasses , e . g . for turning off XML validation or using a different Xml Bean Definition Parser implementation ." />
-      <item value="The config location defaults can be overridden via the &quot; context Config Location &quot; context - param of {@ link org . springframework . web . context . Context Loader } and servlet init - param of {@ link org . springframework . web . servlet . Framework Servlet }. Config locations can either denote concrete files like &quot;/ WEB - INF / context . xml &quot; or Ant - style patterns like &quot;/ WEB - INF / - context . xml &quot; ( see {@ link org . springframework . util . Path Matcher } javadoc for pattern details )." />
     </histories>
   </component>
 </application>
