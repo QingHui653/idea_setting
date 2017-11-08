@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ambiguous" />
+      <item value="select By Order Id is ambiguous in Mapped Statements collection" />
       <item value="divide" />
       <item value="subtract" />
       <item value="multiply" />
@@ -49,8 +51,6 @@
       <item value="is Active" />
       <item value="The context has not yet been refreshed -&gt; provide services such as // setting the parent context , setting the application context id , etc" />
       <item value="Reflection Utils" />
-      <item value="get Declared Constructor" />
-      <item value="instantiate Class" />
     </histories>
   </component>
 </application>
