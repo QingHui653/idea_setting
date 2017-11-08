@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Criteria" />
       <item value="ambiguous" />
       <item value="select By Order Id is ambiguous in Mapped Statements collection" />
       <item value="divide" />
@@ -50,7 +51,6 @@
       <item value="Customize the {@ link Configurable Web Application Context } created by this Context Loader after config locations have been supplied to the context but before the context is &lt; em &gt; refreshed &lt;/ em &gt;. &lt; p &gt; The default implementation {@ linkplain # determine Context Initializer Classes ( Servlet Context ) determines } what ( if any ) context initializer classes have been specified through {@ linkplain # CONTEXT INITIALIZER CLASSES PARAM context init parameters } and {@ linkplain Application Context Initializer # initialize invokes each } with the given web application context . &lt; p &gt; Any {@ code Application Context Initializers } implementing {@ link org . springframework . core . Ordered Ordered } or marked with @{@ link org . springframework . core . annotation . Order Order } will be sorted appropriately ." />
       <item value="is Active" />
       <item value="The context has not yet been refreshed -&gt; provide services such as // setting the parent context , setting the application context id , etc" />
-      <item value="Reflection Utils" />
     </histories>
   </component>
 </application>
