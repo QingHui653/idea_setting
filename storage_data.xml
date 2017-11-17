@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unchecked" />
+      <item value="Feature" />
+      <item value="dump" />
       <item value="supplier" />
       <item value="dealer" />
       <item value="Authentication Failed Exception" />
@@ -48,9 +51,6 @@
       <item value="Standard xml based mvc config" />
       <item value="Enable swagger 2.0 spec" />
       <item value="Only needed in a non - springboot application" />
-      <item value="@ Enable Swagger" />
-      <item value="set Open Mode" />
-      <item value="date Precision" />
     </histories>
   </component>
 </application>
