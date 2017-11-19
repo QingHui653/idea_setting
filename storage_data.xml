@@ -1,47 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="divide" />
-      <item value="subtract" />
-      <item value="multiply" />
-      <item value="No Such Method Exception" />
-      <item value="/ convenience method to get this element as a string value . @ return get this element as a string value . @ throws Class Cast Exception if the element is of not a {@ link Json Primitive } and is not a valid string value . @ throws Illegal State Exception if the element is of the type {@ link Json Array } but contains more than a single element . /" />
-      <item value="Platform" />
-      <item value="call" />
-      <item value="site" />
-      <item value="copy" />
-      <item value="Defensive" />
-      <item value="Defensive copy at call site ." />
-      <item value="Column ' id ' in where clause is ambiguous" />
-      <item value="loansing" />
-      <item value="repayment" />
-      <item value="loan Notice" />
-      <item value="loan" />
-      <item value="Transfer" />
-      <item value="internal" />
-      <item value="utilities" />
-      <item value="/ Initialization hook for subclasses . This method is called in all constructors and pseudo - constructors ( clone , read Object ) after Hash Map has been initialized but before any entries have been inserted . ( In the absence of this method , read Object would require explicit knowledge of subclasses .) /" />
-      <item value="Adds a member , which is a name - value pair , to self . The name must be a String , but the value can be an arbitrary Json Element , thereby allowing you to build a full tree of Json Elements rooted at this node ." />
-      <item value="/ A class representing an object type in Json . An object consists of name - value pairs where names are strings , and values are any other type of {@ link Json Element }. This allows for a creating a tree of Json Elements . The member elements of this object are maintained in order they were added . @ author Inderjeet Singh @ author Joel Leitch /" />
-      <item value="Parameterized Type" />
-      <item value="/ A relative or absolute path , or full URL of the endpoint . This value is optional if the first parameter of the method is annotated with {@ link Url @ Url }. &lt; p &gt; See {@ linkplain retrofit 2. Retrofit . Builder # base Url ( Http Url ) base URL } for details of how this is resolved against a base URL to create the full endpoint URL . /" />
-      <item value="/ Denotes that the request body will use form URL encoding . Fields should be declared as parameters and annotated with {@ link Field @ Field }. &lt; p &gt; Requests made with this annotation will have {@ code application / x - www - form - urlencoded } MIME type . Field names and values will be UTF -8 encoded before being URI - encoded in accordance to &lt; a href =&quot; http :// tools . ietf . org / html / rfc 3986&quot;&gt; RFC -3986&lt;/ a &gt;. /" />
-      <item value="Named pair for a form - encoded request ." />
-      <item value="/ Named pair for a form - encoded request . &lt; p &gt; Values are converted to strings using {@ link Retrofit # string Converter ( Type , Annotation [])} ( or {@ link Object # to String ()}, if no matching string converter is installed ) and then form URL encoded . {@ code null } values are ignored . Passing a {@ link java . util . List List } or array will result in a field pair for each non -{@ code null } item . &lt; p &gt; Simple Example : &lt; pre &gt;&lt; code &gt; &amp;#64; Form Url Encoded &amp;#64; POST (&quot;/&quot;) Call &amp; lt ; Response Body &amp; gt ; example ( &amp;#64; Field (&quot; name &quot;) String name , &amp;#64; Field (&quot; occupation &quot;) String occupation ); &lt;/ code &gt;&lt;/ pre &gt; Calling with {@ code foo . example (&quot; Bob Smith &quot;, &quot; President &quot;)} yields a request body of {@ code name = Bob + Smith &amp; occupation = President }. &lt; p &gt; Array / Varargs Example : &lt; pre &gt;&lt; code &gt; &amp;#64; Form Url Encoded &amp;#64; POST (&quot;/ list &quot;) Call &amp; lt ; Response Body &amp; gt ; example (@ Field (&quot; name &quot;) String ... names ); &lt;/ code &gt;&lt;/ pre &gt; Calling with {@ code foo . example (&quot; Bob Smith &quot;, &quot; Jane Doe &quot;)} yields a request body of {@ code name = Bob + Smith &amp; name = Jane + Doe }. @ see Form Url Encoded @ see Field Map /" />
-      <item value="/ Use this annotation on a service method param when you want to directly control the request body of a POST / PUT request ( instead of sending in as request parameters or form - style request body ). The object will be serialized using the {@ link Retrofit Retrofit } instance {@ link Converter Converter } and the result will be set directly as the request body . &lt; p &gt; Body parameters may not be {@ code null }. /" />
-      <item value="Mapped Statements collection" />
-      <item value="Mapped Statements collection does not contain value for com . ivyb 2 b . oms . finance Cap Or Mat . entity . Financing Orders . select View" />
-      <item value="enable - matrix - variables" />
-      <item value="Standard xml based mvc config" />
-      <item value="Enable swagger 2.0 spec" />
-      <item value="Only needed in a non - springboot application" />
-      <item value="@ Enable Swagger" />
-      <item value="set Open Mode" />
-      <item value="date Precision" />
-      <item value="Controller Advice" />
-      <item value="Detects handler methods at initialization ." />
+      <item value="Unsatisfied Dependency Exception" />
+      <item value="Base packages to scan for annotated components . {@ link # value ()} is an alias for ( and mutually exclusive with ) this attribute . Use {@ link # base Package Classes ()} for a type - safe alternative to String - based package names . /" />
+      <item value="Annotation to activate Redis repositories . If no base package is configured through either {@ link # value ()}, {@ link # base Packages ()} or {@ link # base Package Classes ()} it will trigger scanning of the package of annotated class ." />
+      <item value="store" />
+      <item value="search Analyzer" />
+      <item value="current type" />
+      <item value="mapper [ id ] of different type , current type [ long ], merged type [ string ]" />
+      <item value="merged type" />
+      <item value="Allows post - processing of the bean factory in context subclasses ." />
+      <item value="// Allows post - processing of the bean factory in context subclasses ." />
+      <item value="pre Instantiate Singletons" />
+      <item value="Trigger post - initialization callback for all applicable beans ..." />
       <item value="detect" />
       <item value="detect Handler Methods" />
+      <item value="Implementation of Bean Factory interface" />
+      <item value="put If Absent" />
       <item value="/ Whether the given type is a handler with handler methods . @ param bean Type the type of the bean being checked @ return &quot; true &quot; if this a handler type , &quot; false &quot; otherwise . / prote" />
       <item value="// JSR -330 API not available - Provider interface simply not supported then ." />
       <item value="// Java 8 not available - Optional references simply not supported then ." />
@@ -51,6 +26,31 @@
       <item value="Reflection Utils" />
       <item value="get Declared Constructor" />
       <item value="instantiate Class" />
+      <item value="load Bean Definitions" />
+      <item value="Initialize the bean definition reader used for loading the bean definitions of this context . Default implementation is empty . &lt; p &gt; Can be overridden in subclasses , e . g . for turning off XML validation or using a different Xml Bean Definition Parser implementation ." />
+      <item value="The config location defaults can be overridden via the &quot; context Config Location &quot; context - param of {@ link org . springframework . web . context . Context Loader } and servlet init - param of {@ link org . springframework . web . servlet . Framework Servlet }. Config locations can either denote concrete files like &quot;/ WEB - INF / context . xml &quot; or Ant - style patterns like &quot;/ WEB - INF / - context . xml &quot; ( see {@ link org . springframework . util . Path Matcher } javadoc for pattern details )." />
+      <item value="&lt; p &gt; By default , the configuration will be taken from &quot;/ WEB - INF / application Context . xml &quot; for the root context , and &quot;/ WEB - INF / test - servlet . xml &quot; for a context with the namespace &quot; test - servlet &quot; ( like for a Dispatcher Servlet instance with the servlet - name &quot; test &quot;)." />
+      <item value="/ {@ link org . springframework . web . context . Web Application Context } implementation which takes its configuration from XML documents , understood by an {@ link org . springframework . beans . factory . xml . Xml Bean Definition Reader }. This is essentially the equivalent of {@ link org . springframework . context . support . Generic Xml Application Context } for a web environment . &lt; p &gt; By default , the configuration will be taken from &quot;/ WEB - INF / application Context . xml &quot; for the root context , and &quot;/ WEB - INF / test - servlet . xml &quot; for a context with the namespace &quot; test - servlet &quot; ( like for a Dispatcher Servlet instance with the servlet - name &quot; test &quot;). &lt; p &gt; The config location defaults can be overridden via the &quot; context Config Location &quot; context - param of {@ link org . springframework . web . context . Context Loader } and servlet init - param of {@ link org . springframework . web . servlet . Framework Servlet }. Config locations can either denote concrete files like &quot;/ WEB - INF / context . xml &quot; or Ant - style patterns like &quot;/ WEB - INF / - context . xml &quot; ( see {@ link org . springframework . util . Path Matcher } javadoc for pattern details ). &lt; p &gt; Note : In case of multiple config locations , later bean definitions will override ones defined in earlier loaded files . This can be leveraged to deliberately override certain bean definitions via an extra XML file . &lt; p &gt;&lt; b &gt; For a Web Application Context that reads in a different bean definition format , create an analogous subclass of {@ link Abstract Refreshable Web Application Context }.&lt;/ b &gt; Such a context implementation can be specified as &quot; context Class &quot; context - param for Context Loader or &quot; context Class &quot; init - param for Framework Servlet . @ author Rod Johnson @ author Juergen Hoeller @ see # set Namespace @ see # set Config Locations @ see org . springframework . beans . factory . xml . Xml Bean Definition Reader @ see org . springframework . web . context . Context Loader # init Web Application Context @ see org . springframework . web . servlet . Framework Servlet # init Web Application Context /" />
+      <item value="Pseudo URL prefix for all matching resources from the class path : &quot; classpath :&quot; This differs from Resource Loader ' s classpath URL prefix in that it retrieves all matching resources for a given name ( e . g . &quot;/ beans . xml &quot;), for example in the root of all deployed JAR files ." />
+      <item value="/ Pseudo URL prefix for all matching resources from the class path : &quot; classpath :&quot; This differs from Resource Loader ' s classpath URL prefix in that it retrieves all matching resources for a given name ( e . g . &quot;/ beans . xml &quot;), for example in the root of all deployed JAR files . @ see org . springframework . core . io . Resource Loader # CLASSPATH URL PREFIX /" />
+      <item value="Load or refresh the persistent representation of the configuration , which might an XML file , properties file , or relational database schema . &lt; p &gt; As this is a startup method , it should destroy already created singletons if it fails , to avoid dangling resources . In other words , after invocation of that method , either all or no singletons at all should be instantiated . @ throws Beans Exception if the bean factory could not be initialized @ throws Illegal State Exception if already initialized and multiple refresh attempts are not supported" />
+      <item value="/ Load or refresh the persistent representation of the configuration , which might an XML file , properties file , or relational database schema . &lt; p &gt; As this is a startup method , it should destroy already created singletons if it fails , to avoid dangling resources . In other words , after invocation of that method , either all or no singletons at all should be instantiated . @ throws Beans Exception if the bean factory could not be initialized @ throws Illegal State Exception if already initialized and multiple refresh attempts are not supported /" />
+      <item value="initialize fence and size on first use" />
+      <item value="spliterators" />
+      <item value="Spliter" />
+      <item value="Spliterat" />
+      <item value="Value Spliterator" />
+      <item value="Spliterator" />
+      <item value="pliterator" />
+      <item value="tab" />
+      <item value="evict false when initially constructing this map , else true ( relayed to method after Node Insertion )." />
+      <item value="/ Computes key . hash Code () and spreads ( XO Rs ) higher bits of hash to lower . Because the table uses power - of - two masking , sets of hashes that vary only in bits above the current mask will always collide . ( Among known examples are sets of Float keys holding consecutive whole numbers in small tables .) So we apply a transform that spreads the impact of higher bits downward . There is a tradeoff between speed , utility , and quality of bit - spreading . Because many common sets of hashes are already reasonably distributed ( so don ' t benefit from spreading ), and because we use trees to handle large sets of collisions in bins , we just XOR some shifted bits in the cheapest possible way to reduce systematic lossage , as well as to incorporate impact of the highest bits that would otherwise never be used in index calculations because of table bounds . /" />
+      <item value="XO Rs" />
+      <item value="spreads" />
+      <item value="Computes" />
+      <item value="Static utilities" />
+      <item value="MIN TREEIFY CAPACITY" />
+      <item value="TREEIFY" />
     </histories>
   </component>
 </application>
