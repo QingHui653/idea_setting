@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inject" />
       <item value="Creates an ' or ' criteria using the $ or operator for all of the provided criteria" />
       <item value="unchecked" />
       <item value="Feature" />
@@ -50,7 +51,6 @@
       <item value="Mapped Statements collection does not contain value for com . ivyb 2 b . oms . finance Cap Or Mat . entity . Financing Orders . select View" />
       <item value="enable - matrix - variables" />
       <item value="Standard xml based mvc config" />
-      <item value="Enable swagger 2.0 spec" />
     </histories>
   </component>
 </application>
