@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates an ' or ' criteria using the $ or operator for all of the provided criteria" />
       <item value="unchecked" />
       <item value="Feature" />
       <item value="dump" />
@@ -50,7 +51,6 @@
       <item value="enable - matrix - variables" />
       <item value="Standard xml based mvc config" />
       <item value="Enable swagger 2.0 spec" />
-      <item value="Only needed in a non - springboot application" />
     </histories>
   </component>
 </application>
