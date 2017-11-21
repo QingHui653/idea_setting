@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the delivery mode to use when sending a message . Default is the JMS Message default : &quot; PERSISTENT &quot;. &lt; p &gt; Since a default value may be defined administratively , this is only used when &quot; is Explicit Qos Enabled &quot; equals &quot; true &quot;." />
       <item value="delivery Mode" />
       <item value="pub Sub Domain" />
       <item value="inject" />
@@ -50,7 +51,6 @@
       <item value="/ Named pair for a form - encoded request . &lt; p &gt; Values are converted to strings using {@ link Retrofit # string Converter ( Type , Annotation [])} ( or {@ link Object # to String ()}, if no matching string converter is installed ) and then form URL encoded . {@ code null } values are ignored . Passing a {@ link java . util . List List } or array will result in a field pair for each non -{@ code null } item . &lt; p &gt; Simple Example : &lt; pre &gt;&lt; code &gt; &amp;#64; Form Url Encoded &amp;#64; POST (&quot;/&quot;) Call &amp; lt ; Response Body &amp; gt ; example ( &amp;#64; Field (&quot; name &quot;) String name , &amp;#64; Field (&quot; occupation &quot;) String occupation ); &lt;/ code &gt;&lt;/ pre &gt; Calling with {@ code foo . example (&quot; Bob Smith &quot;, &quot; President &quot;)} yields a request body of {@ code name = Bob + Smith &amp; occupation = President }. &lt; p &gt; Array / Varargs Example : &lt; pre &gt;&lt; code &gt; &amp;#64; Form Url Encoded &amp;#64; POST (&quot;/ list &quot;) Call &amp; lt ; Response Body &amp; gt ; example (@ Field (&quot; name &quot;) String ... names ); &lt;/ code &gt;&lt;/ pre &gt; Calling with {@ code foo . example (&quot; Bob Smith &quot;, &quot; Jane Doe &quot;)} yields a request body of {@ code name = Bob + Smith &amp; name = Jane + Doe }. @ see Form Url Encoded @ see Field Map /" />
       <item value="/ Use this annotation on a service method param when you want to directly control the request body of a POST / PUT request ( instead of sending in as request parameters or form - style request body ). The object will be serialized using the {@ link Retrofit Retrofit } instance {@ link Converter Converter } and the result will be set directly as the request body . &lt; p &gt; Body parameters may not be {@ code null }. /" />
       <item value="Mapped Statements collection" />
-      <item value="Mapped Statements collection does not contain value for com . ivyb 2 b . oms . finance Cap Or Mat . entity . Financing Orders . select View" />
     </histories>
   </component>
 </application>
