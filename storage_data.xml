@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="header" />
+      <item value="topic" />
+      <item value="direct" />
+      <item value="fanout" />
       <item value="version 0-9-1" />
       <item value="AMQP protocol version mismatch" />
       <item value="exclusive" />
@@ -47,10 +51,6 @@
       <item value="internal" />
       <item value="utilities" />
       <item value="/ Initialization hook for subclasses . This method is called in all constructors and pseudo - constructors ( clone , read Object ) after Hash Map has been initialized but before any entries have been inserted . ( In the absence of this method , read Object would require explicit knowledge of subclasses .) /" />
-      <item value="Adds a member , which is a name - value pair , to self . The name must be a String , but the value can be an arbitrary Json Element , thereby allowing you to build a full tree of Json Elements rooted at this node ." />
-      <item value="/ A class representing an object type in Json . An object consists of name - value pairs where names are strings , and values are any other type of {@ link Json Element }. This allows for a creating a tree of Json Elements . The member elements of this object are maintained in order they were added . @ author Inderjeet Singh @ author Joel Leitch /" />
-      <item value="Parameterized Type" />
-      <item value="/ A relative or absolute path , or full URL of the endpoint . This value is optional if the first parameter of the method is annotated with {@ link Url @ Url }. &lt; p &gt; See {@ linkplain retrofit 2. Retrofit . Builder # base Url ( Http Url ) base URL } for details of how this is resolved against a base URL to create the full endpoint URL . /" />
     </histories>
   </component>
 </application>
