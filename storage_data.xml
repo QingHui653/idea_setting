@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pattern" />
       <item value="no queue ' topic ' in vhost '/" />
       <item value="@ Rabbit Listener can have ' queues ' or ' bindings ' but not both" />
       <item value="The queues for this listener . The entries can be ' queue name ', ' property - placeholder keys ' or ' expressions '. Expression must be resolved to the queue name or {@ code Queue } object . Mutually exclusive with {@ link # bindings ()}" />
@@ -50,7 +51,6 @@
       <item value="call" />
       <item value="site" />
       <item value="copy" />
-      <item value="Defensive" />
     </histories>
   </component>
 </application>
