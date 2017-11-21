@@ -1,13 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no queue ' topic ' in vhost '/" />
+      <item value="@ Rabbit Listener can have ' queues ' or ' bindings ' but not both" />
+      <item value="The queues for this listener . The entries can be ' queue name ', ' property - placeholder keys ' or ' expressions '. Expression must be resolved to the queue name or {@ code Queue } object . Mutually exclusive with {@ link # bindings ()}" />
+      <item value="@ return true if the exchange is to be declared as durable ." />
+      <item value="/ If provided , the listener container for this listener will be added to a bean with this value as its name , of type {@ code Collection &lt; Message Listener Container &gt;}. This allows , for example , iteration over the collection to start / stop a subset of containers . @ return the bean name for the group . @ since 1.5 /" />
+      <item value="/ When {@ code true }, a single consumer in the container will have exclusive use of the {@ link # queues ()}, preventing other consumers from receiving messages from the queues . When {@ code true }, requires a concurrency of 1. Default {@ code false }. @ return the {@ code exclusive } boolean flag . /" />
+      <item value="exclusive" />
+      <item value="Target" />
+      <item value="Represents an argument used when declaring queues etc within a" />
+      <item value="Defines a queue , the exchange it is to be bound to , and an optional binding key ; used" />
+      <item value="A queue definition used within the bindings attribute of a {@ code Queue Binding }." />
       <item value="header" />
       <item value="topic" />
       <item value="direct" />
       <item value="fanout" />
       <item value="version 0-9-1" />
       <item value="AMQP protocol version mismatch" />
-      <item value="exclusive" />
       <item value="delete" />
       <item value="durable" />
       <item value="Set the delivery mode to use when sending a message . Default is the JMS Message default : &quot; PERSISTENT &quot;. &lt; p &gt; Since a default value may be defined administratively , this is only used when &quot; is Explicit Qos Enabled &quot; equals &quot; true &quot;." />
@@ -41,16 +51,6 @@
       <item value="site" />
       <item value="copy" />
       <item value="Defensive" />
-      <item value="Defensive copy at call site ." />
-      <item value="Column ' id ' in where clause is ambiguous" />
-      <item value="loansing" />
-      <item value="repayment" />
-      <item value="loan Notice" />
-      <item value="loan" />
-      <item value="Transfer" />
-      <item value="internal" />
-      <item value="utilities" />
-      <item value="/ Initialization hook for subclasses . This method is called in all constructors and pseudo - constructors ( clone , read Object ) after Hash Map has been initialized but before any entries have been inserted . ( In the absence of this method , read Object would require explicit knowledge of subclasses .) /" />
     </histories>
   </component>
 </application>
