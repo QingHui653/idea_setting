@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="X DELAY" />
+      <item value="The x - delay header ( outbound )." />
+      <item value="he x - delay header ( outbound )." />
+      <item value="NOTE stucture Type is int in qpid" />
       <item value="The 0-8 and 0-9-1 AMQP specifications do not define an Message class or interface . Instead , when performing an operation such as basic Publish the content is passed as a byte - array argument and additional properties are passed in as separate arguments . Spring AMQP defines a Message class as part of a more general AMQP domain model representation . The purpose of the Message class is to simply encapsulate the body and properties within a single instance so that the rest of the AMQP API can in turn be simpler ." />
       <item value="pattern" />
       <item value="no queue ' topic ' in vhost '/" />
@@ -47,10 +51,6 @@
       <item value="subtract" />
       <item value="multiply" />
       <item value="No Such Method Exception" />
-      <item value="/ convenience method to get this element as a string value . @ return get this element as a string value . @ throws Class Cast Exception if the element is of not a {@ link Json Primitive } and is not a valid string value . @ throws Illegal State Exception if the element is of the type {@ link Json Array } but contains more than a single element . /" />
-      <item value="Platform" />
-      <item value="call" />
-      <item value="site" />
     </histories>
   </component>
 </application>
