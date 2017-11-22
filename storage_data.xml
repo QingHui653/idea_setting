@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A Map to pass to the broker when this component is declared ." />
       <item value="Binds a queue to this exchange . Messages sent to this exchange will be placed on this queue by the broker if they contain a header that matches this binding ( key - value pair )." />
       <item value="Creates a headers exchange for producers to send messages to . Uses an existing exchange with the same name if it exists on the broker , or declares a new one . A headers exchange routes messages to all queues where a message header matches that specified in the binding of the queue . You can set up bindings here too ." />
       <item value="X DELAY" />
@@ -50,7 +51,6 @@
       <item value="ambiguous" />
       <item value="select By Order Id is ambiguous in Mapped Statements collection" />
       <item value="divide" />
-      <item value="subtract" />
     </histories>
   </component>
 </application>
