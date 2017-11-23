@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="partition" />
+      <item value="topic" />
+      <item value="0" />
       <item value="A Map to pass to the broker when this component is declared ." />
       <item value="Binds a queue to this exchange . Messages sent to this exchange will be placed on this queue by the broker if they contain a header that matches this binding ( key - value pair )." />
       <item value="Creates a headers exchange for producers to send messages to . Uses an existing exchange with the same name if it exists on the broker , or declares a new one . A headers exchange routes messages to all queues where a message header matches that specified in the binding of the queue . You can set up bindings here too ." />
@@ -22,7 +25,6 @@
       <item value="Defines a queue , the exchange it is to be bound to , and an optional binding key ; used" />
       <item value="A queue definition used within the bindings attribute of a {@ code Queue Binding }." />
       <item value="header" />
-      <item value="topic" />
       <item value="direct" />
       <item value="fanout" />
       <item value="version 0-9-1" />
@@ -49,8 +51,6 @@
       <item value="Alias Query is useful for creating new alias or deleting existing ones" />
       <item value="Criteria" />
       <item value="ambiguous" />
-      <item value="select By Order Id is ambiguous in Mapped Statements collection" />
-      <item value="divide" />
     </histories>
   </component>
 </application>
