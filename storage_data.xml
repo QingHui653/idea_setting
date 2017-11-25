@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concurrent" />
+      <item value="Kafka Listener Configurer" />
+      <item value="Processing of {@ code @ Kafka Listener } annotations is performed by registering a {@ link Kafka Listener Annotation Bean Post Processor }. This can be done manually or , more conveniently , through {@ link Enable Kafka } annotation ." />
       <item value="If provided , the listener container for this listener will be added to a bean with this value as its name , of type {@ code Collection &lt; Message Listener Container &gt;}. This allows , for example , iteration over the collection to start / stop a subset of containers ." />
       <item value="the bean name for the container group ." />
       <item value="Use container Group instead ." />
@@ -48,9 +51,6 @@
       <item value="None of the configured nodes are available" />
       <item value="A client can either be retrieved from a {@ link org . elasticsearch . node . Node } started , or connected remotely to one or more nodes using {@ link org . elasticsearch . client . transport . Transport Client }." />
       <item value="All operations performed are asynchronous by nature . Each action / operation has two flavors , the first simply returns an {@ link org . elasticsearch . action . Action Future }, while the second accepts an" />
-      <item value="A client provides a one stop interface for performing actions / operations against the cluster ." />
-      <item value="Defines a Index Boost to be applied on the &quot; indices boost &quot; query clause" />
-      <item value="Alias Query is useful for creating new alias or deleting existing ones" />
     </histories>
   </component>
 </application>
