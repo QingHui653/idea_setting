@@ -21,6 +21,7 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
