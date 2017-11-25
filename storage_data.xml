@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If provided , the listener container for this listener will be added to a bean with this value as its name , of type {@ code Collection &lt; Message Listener Container &gt;}. This allows , for example , iteration over the collection to start / stop a subset of containers ." />
+      <item value="the bean name for the container group ." />
+      <item value="Use container Group instead ." />
       <item value="subscribe" />
       <item value="A Map to pass to the broker when this component is declared ." />
       <item value="Binds a queue to this exchange . Messages sent to this exchange will be placed on this queue by the broker if they contain a header that matches this binding ( key - value pair )." />
@@ -48,9 +51,6 @@
       <item value="A client provides a one stop interface for performing actions / operations against the cluster ." />
       <item value="Defines a Index Boost to be applied on the &quot; indices boost &quot; query clause" />
       <item value="Alias Query is useful for creating new alias or deleting existing ones" />
-      <item value="Criteria" />
-      <item value="ambiguous" />
-      <item value="select By Order Id is ambiguous in Mapped Statements collection" />
     </histories>
   </component>
 </application>
