@@ -27,6 +27,7 @@
       <item value="Defines a queue , the exchange it is to be bound to , and an optional binding key ; used" />
       <item value="A queue definition used within the bindings attribute of a {@ code Queue Binding }." />
       <item value="header" />
+      <item value="topic" />
       <item value="direct" />
       <item value="fanout" />
       <item value="version 0-9-1" />
@@ -51,6 +52,10 @@
       <item value="A client provides a one stop interface for performing actions / operations against the cluster ." />
       <item value="Defines a Index Boost to be applied on the &quot; indices boost &quot; query clause" />
       <item value="Alias Query is useful for creating new alias or deleting existing ones" />
+      <item value="Criteria" />
+      <item value="ambiguous" />
+      <item value="select By Order Id is ambiguous in Mapped Statements collection" />
+      <item value="divide" />
     </histories>
   </component>
 </application>
