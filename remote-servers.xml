@@ -3,9 +3,9 @@
     <remote-server name="Heroku" type="heroku">
       <configuration email="910944453@qq.com" password="sh1003555356hs" />
     </remote-server>
-    <remote-server name="Docker" type="docker">
+    <remote-server name="ali" type="docker">
       <configuration>
-        <option name="apiUrl" value="https://hub.docker.com/" />
+        <option name="apiUrl" value="http://119.23.231.239:2375" />
       </configuration>
     </remote-server>
   </component>
