@@ -1,0 +1,12 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Heroku" type="heroku">
+      <configuration email="910944453@qq.com" password="sh1003555356hs" />
+    </remote-server>
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://hub.docker.com/" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
