@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="UploadDockerfile" type="Dockerfile" />
       <mapping pattern="context" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="YAML" />
     </extensionMap>
   </component>
 </application>
