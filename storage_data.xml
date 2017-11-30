@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Note : The Data Source used by the Environment should be synchronized with the // transaction either through Data Source Tx Mgr or another tx synchronization . // Further assume that if an exception is thrown , whatever started the transaction will // handle closing / rolling back the Connection associated with the Sql Session ." />
+      <item value="active" />
+      <item value="synchronization" />
+      <item value="holder" />
+      <item value="Register" />
+      <item value="Register session holder if synchronization is active ( i . e . a Spring TX is active )" />
       <item value="is Jar" />
       <item value="is Valid" />
       <item value="JAR MAGIC" />
@@ -45,12 +51,6 @@
       <item value="Represents an argument used when declaring queues etc within a" />
       <item value="Defines a queue , the exchange it is to be bound to , and an optional binding key ; used" />
       <item value="A queue definition used within the bindings attribute of a {@ code Queue Binding }." />
-      <item value="header" />
-      <item value="topic" />
-      <item value="direct" />
-      <item value="fanout" />
-      <item value="version 0-9-1" />
-      <item value="AMQP protocol version mismatch" />
       <item value="Alias Query is useful for creating new alias or deleting existing ones" />
       <item value="Criteria" />
       <item value="ambiguous" />
