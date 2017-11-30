@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Jar" />
+      <item value="is Valid" />
+      <item value="JAR MAGIC" />
+      <item value="A default implementation of {@ link VFS } that works for most application servers ." />
+      <item value="A class to wrap access to multiple class loaders making them work as one" />
+      <item value="Provides a very simple API for accessing resources within an application server ." />
+      <item value="Offline entity resolver for the i BATIS DT Ds" />
+      <item value="Unless required by applicable law or agreed to in writing , software distributed under the License is distributed on an &quot; AS IS &quot; BASIS , WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND , either express or implied . See the License for the specific language governing permissions and limitations under the License ." />
+      <item value="you may not use this file except in compliance with the License . You may obtain a copy of the License at" />
+      <item value="Version 2.0 ( the &quot; License &quot;);" />
+      <item value="Licensed under the Apache License" />
+      <item value="Copyright 2009-2012 the original author or authors ." />
+      <item value="/ Copyright 2009-2012 the original author or authors . Licensed under the Apache License , Version 2.0 ( the &quot; License &quot;); you may not use this file except in compliance with the License . You may obtain a copy of the License at http :// www . apache . org / licenses / LICENSE -2.0 Unless required by applicable law or agreed to in writing , software distributed under the License is distributed on an &quot; AS IS &quot; BASIS , WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND , either express or implied . See the License for the specific language governing permissions and limitations under the License . /" />
+      <item value="invocation" />
       <item value="type Handlers" />
       <item value="type Handlers Package" />
       <item value="attribute" />
@@ -37,20 +51,6 @@
       <item value="fanout" />
       <item value="version 0-9-1" />
       <item value="AMQP protocol version mismatch" />
-      <item value="delete" />
-      <item value="durable" />
-      <item value="Set the delivery mode to use when sending a message . Default is the JMS Message default : &quot; PERSISTENT &quot;. &lt; p &gt; Since a default value may be defined administratively , this is only used when &quot; is Explicit Qos Enabled &quot; equals &quot; true &quot;." />
-      <item value="delivery Mode" />
-      <item value="pub Sub Domain" />
-      <item value="inject" />
-      <item value="Creates an ' or ' criteria using the $ or operator for all of the provided criteria" />
-      <item value="unchecked" />
-      <item value="Feature" />
-      <item value="dump" />
-      <item value="supplier" />
-      <item value="dealer" />
-      <item value="Authentication Failed Exception" />
-      <item value="com . google . gson . stream . Malformed Json Exception : Unterminated object at line 1 column 32" />
       <item value="Alias Query is useful for creating new alias or deleting existing ones" />
       <item value="Criteria" />
       <item value="ambiguous" />
