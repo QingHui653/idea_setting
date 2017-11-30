@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="type Handlers" />
+      <item value="type Handlers Package" />
       <item value="attribute" />
       <item value="expected single matching" />
       <item value="xpected single matching bean but found 33" />
@@ -49,8 +51,6 @@
       <item value="dealer" />
       <item value="Authentication Failed Exception" />
       <item value="com . google . gson . stream . Malformed Json Exception : Unterminated object at line 1 column 32" />
-      <item value="None of the configured nodes are available" />
-      <item value="A client can either be retrieved from a {@ link org . elasticsearch . node . Node } started , or connected remotely to one or more nodes using {@ link org . elasticsearch . client . transport . Transport Client }." />
       <item value="Alias Query is useful for creating new alias or deleting existing ones" />
       <item value="Criteria" />
       <item value="ambiguous" />
