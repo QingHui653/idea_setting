@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Simple cache manager working against a given collection of caches . Useful for testing or simple caching declarations ." />
       <item value="if loading the config file failed" />
       <item value="The default implementation uses the standard My Batis" />
       <item value="Build a {@ code Sql Session Factory } instance ." />
@@ -50,7 +51,6 @@
       <item value="a commit / rollback before calling close ()" />
       <item value="Note : The Data Source used by the Environment should be synchronized with the // transaction either through Data Source Tx Mgr or another tx synchronization . // Further assume that if an exception is thrown , whatever started the transaction will // handle closing / rolling back the Connection associated with the Sql Session ." />
       <item value="active" />
-      <item value="synchronization" />
       <item value="Alias Query is useful for creating new alias or deleting existing ones" />
       <item value="Criteria" />
       <item value="ambiguous" />
