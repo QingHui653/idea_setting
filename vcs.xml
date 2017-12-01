@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/QingHui653/upload.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/QingHui653/AnewB_Boot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\qhCode" />
