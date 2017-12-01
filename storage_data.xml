@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="product Name" />
+      <item value="no match , return null" />
+      <item value="Vendor Database Id provider" />
+      <item value="Vendor Database Id provider It returns database product name as a database Id If the user provides a properties it uses it to translate database product name key =&quot; Microsoft SQL Server &quot;, value =&quot; ms &quot; will return &quot; ms &quot; It can return null , if no database product name or a properties was specified and no translation was found /" />
+      <item value="Result Handler" />
+      <item value="Executor" />
+      <item value="state" />
       <item value="&lt; b &gt; NOTE :&lt;/ b &gt; This class &lt; em &gt; overrides &lt;/ em &gt; any {@ code Environment } you have set in the My Batis config file . This is used only as a placeholder name . The default value is {@ code Sql Session Factory Bean . class . get Simple Name ()}." />
       <item value="trade" />
       <item value="sandzhang" />
@@ -44,13 +51,6 @@
       <item value="Register" />
       <item value="Register session holder if synchronization is active ( i . e . a Spring TX is active )" />
       <item value="is Jar" />
-      <item value="is Valid" />
-      <item value="JAR MAGIC" />
-      <item value="A default implementation of {@ link VFS } that works for most application servers ." />
-      <item value="A class to wrap access to multiple class loaders making them work as one" />
-      <item value="Provides a very simple API for accessing resources within an application server ." />
-      <item value="Offline entity resolver for the i BATIS DT Ds" />
-      <item value="Unless required by applicable law or agreed to in writing , software distributed under the License is distributed on an &quot; AS IS &quot; BASIS , WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND , either express or implied . See the License for the specific language governing permissions and limitations under the License ." />
       <item value="Alias Query is useful for creating new alias or deleting existing ones" />
       <item value="Criteria" />
       <item value="ambiguous" />
