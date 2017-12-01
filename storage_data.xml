@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="issue #117 read properties first" />
       <item value="product Name" />
       <item value="no match , return null" />
       <item value="Vendor Database Id provider" />
@@ -50,7 +51,6 @@
       <item value="holder" />
       <item value="Register" />
       <item value="Register session holder if synchronization is active ( i . e . a Spring TX is active )" />
-      <item value="is Jar" />
       <item value="Alias Query is useful for creating new alias or deleting existing ones" />
       <item value="Criteria" />
       <item value="ambiguous" />
