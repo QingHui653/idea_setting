@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transaction" />
+      <item value="XML Config Builder" />
+      <item value="Please specify one or the other" />
+      <item value="specify" />
+      <item value="object Wrapper Factory" />
+      <item value="object Factory" />
+      <item value="read it after object Factory and object Wrapper Factory issue" />
+      <item value="issue #117 read properties first" />
+      <item value="#117 read properties first" />
+      <item value="error" />
+      <item value="previous" />
+      <item value="Prefer" />
+      <item value="Prefer previous error" />
+      <item value="Intentionally ignore . Prefer previous error ." />
       <item value="SERIALIZABLE" />
       <item value="REPEATABLE READ" />
       <item value="READ UNCOMMITTED" />
@@ -18,7 +32,6 @@
       <item value="if loading the config file failed" />
       <item value="The default implementation uses the standard My Batis" />
       <item value="Build a {@ code Sql Session Factory } instance ." />
-      <item value="issue #117 read properties first" />
       <item value="product Name" />
       <item value="no match , return null" />
       <item value="Vendor Database Id provider" />
@@ -38,20 +51,6 @@
       <item value="szujobs" />
       <item value="ljw 2083" />
       <item value="ljw 2083@ alibaba - inc . com" />
-      <item value="Not allowed to update a Null Cache Key instance ." />
-      <item value="Executing prepared SQL query" />
-      <item value="Resource Transaction Manager" />
-      <item value="Platform" />
-      <item value="&lt; p &gt; Application code is required to retrieve the JDBC Connection via {@ link Data Source Utils # get Connection ( Data Source )} instead of a standard J 2 EE - style {@ link Data Source # get Connection ()} call . Spring classes such as {@ link org . springframework . jdbc . core . Jdbc Template } use this strategy implicitly . If not used in combination with this transaction manager , the {@ link Data Source Utils } lookup strategy behaves exactly like the native Data Source lookup ; it can thus be used in a portable fashion ." />
-      <item value="&lt; p &gt;&lt; b &gt; Note : The Data Source that this transaction manager operates on needs to return independent Connections .&lt;/ b &gt; The Connections may come from a pool ( the typical case ), but the Data Source must not return thread - scoped / request - scoped Connections or the like . This transaction manager will associate Connections with thread - bound transactions itself , according to the specified propagation behavior . It assumes that a separate , independent Connection can be obtained even during an ongoing transaction ." />
-      <item value="@ link org . springframework . transaction . Platform Transaction Manager } implementation for a single JDBC {@ link javax . sql . Data Source }. This class is capable of working in any environment with any JDBC driver , as long as the setup uses a {@ code javax . sql . Data Source } as its {@ code Connection } factory mechanism . Binds a JDBC Connection from the specified Data Source to the current thread , potentially allowing for one thread - bound Connection per Data Source ." />
-      <item value="do Suspend" />
-      <item value="Bind the session holder to the thread ." />
-      <item value="determine Timeout" />
-      <item value="set Transaction Active" />
-      <item value="for example if we ' ve explicitly // configured the connection pool to set it already" />
-      <item value="unnecessarily" />
-      <item value="ambiguous" />
       <item value="select By Order Id is ambiguous in Mapped Statements collection" />
       <item value="divide" />
     </histories>
