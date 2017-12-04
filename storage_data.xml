@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Too many connections" />
+      <item value="message from server" />
+      <item value="Data source rejected establishment of connection" />
       <item value="a commit / rollback before calling close ()" />
       <item value="force commit even on non - dirty sessions because some databases require" />
       <item value="Simple cache manager working against a given collection of caches . Useful for testing or simple caching declarations ." />
@@ -48,9 +51,6 @@
       <item value="// If we got a Transaction Aware Data Source Proxy , we need to perform transactions // for its underlying target Data Source , else data access code won ' t see // properly exposed transactions ( i . e . transactions for the target Data Source )." />
       <item value="// Silently ignores autocommit and isolation level , as managed transactions are entirely // controlled by an external manager . It ' s silently ignored so that // code remains portable between managed and unmanaged configurations ." />
       <item value="controlled by an external manager . It ' s silently ignored so that" />
-      <item value="Silently ignores autocommit and isolation level , as managed transactions are entirely" />
-      <item value="Note : The Data Source used by the Environment should be synchronized with the // transaction either through Data Source Tx Mgr or another tx synchronization . // Further assume that if an exception is thrown , whatever started the transaction will // handle closing / rolling back the Connection associated with the Sql Session ." />
-      <item value="active" />
       <item value="ambiguous" />
       <item value="select By Order Id is ambiguous in Mapped Statements collection" />
       <item value="divide" />
