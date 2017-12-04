@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SERIALIZABLE" />
+      <item value="REPEATABLE READ" />
+      <item value="READ UNCOMMITTED" />
+      <item value="READ COMMITTED" />
+      <item value="NONE" />
+      <item value="TRANSACTION READ COMMITTED" />
+      <item value="TRANSACTION NONE" />
+      <item value="Interceptor" />
       <item value="Too many connections" />
       <item value="message from server" />
       <item value="Data source rejected establishment of connection" />
@@ -43,14 +51,6 @@
       <item value="set Transaction Active" />
       <item value="for example if we ' ve explicitly // configured the connection pool to set it already" />
       <item value="unnecessarily" />
-      <item value="expensive" />
-      <item value="// Switch to manual commit if necessary . This is very expensive in some JDBC drivers , // so we don ' t want to do it unnecessarily ( for example if we ' ve explicitly // configured the connection pool to set it already )." />
-      <item value="previous Isolation Level" />
-      <item value="is Existing Transaction" />
-      <item value="Return whether nested transactions are allowed ." />
-      <item value="// If we got a Transaction Aware Data Source Proxy , we need to perform transactions // for its underlying target Data Source , else data access code won ' t see // properly exposed transactions ( i . e . transactions for the target Data Source )." />
-      <item value="// Silently ignores autocommit and isolation level , as managed transactions are entirely // controlled by an external manager . It ' s silently ignored so that // code remains portable between managed and unmanaged configurations ." />
-      <item value="controlled by an external manager . It ' s silently ignored so that" />
       <item value="ambiguous" />
       <item value="select By Order Id is ambiguous in Mapped Statements collection" />
       <item value="divide" />
