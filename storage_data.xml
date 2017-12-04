@@ -1,6 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STATEMENT" />
+      <item value="SESSION" />
+      <item value="defer Load" />
+      <item value="deferred Load" />
+      <item value="get Local Cache Scope" />
+      <item value="Output" />
+      <item value="Parameter" />
+      <item value="Local" />
+      <item value="local Cache" />
+      <item value="Cache" />
+      <item value="local" />
+      <item value="handle Locally Cached Output Parameters" />
+      <item value="query Stack" />
+      <item value="clear Local Cache" />
+      <item value="482" />
+      <item value="// issue #601" />
+      <item value="NO RESULT HANDLER" />
+      <item value="dirty" />
+      <item value="ambiguous" />
+      <item value="Strict" />
+      <item value="BATCH" />
+      <item value="REUSE" />
+      <item value="SIMPLE" />
+      <item value="Executor" />
       <item value="Transaction" />
       <item value="XML Config Builder" />
       <item value="Please specify one or the other" />
@@ -27,32 +51,6 @@
       <item value="message from server" />
       <item value="Data source rejected establishment of connection" />
       <item value="a commit / rollback before calling close ()" />
-      <item value="force commit even on non - dirty sessions because some databases require" />
-      <item value="Simple cache manager working against a given collection of caches . Useful for testing or simple caching declarations ." />
-      <item value="if loading the config file failed" />
-      <item value="The default implementation uses the standard My Batis" />
-      <item value="Build a {@ code Sql Session Factory } instance ." />
-      <item value="product Name" />
-      <item value="no match , return null" />
-      <item value="Vendor Database Id provider" />
-      <item value="Vendor Database Id provider It returns database product name as a database Id If the user provides a properties it uses it to translate database product name key =&quot; Microsoft SQL Server &quot;, value =&quot; ms &quot; will return &quot; ms &quot; It can return null , if no database product name or a properties was specified and no translation was found /" />
-      <item value="Result Handler" />
-      <item value="Executor" />
-      <item value="state" />
-      <item value="&lt; b &gt; NOTE :&lt;/ b &gt; This class &lt; em &gt; overrides &lt;/ em &gt; any {@ code Environment } you have set in the My Batis config file . This is used only as a placeholder name . The default value is {@ code Sql Session Factory Bean . class . get Simple Name ()}." />
-      <item value="trade" />
-      <item value="sandzhang" />
-      <item value="3 seconds is slow sql" />
-      <item value="hexianmao" />
-      <item value="For IBM JDK , 原因请看解密方法中的说明" />
-      <item value="判断是否需要解密，如果需要就进行解密行动" />
-      <item value="A Consumer Factory must be provided" />
-      <item value="lock Interruptibly" />
-      <item value="szujobs" />
-      <item value="ljw 2083" />
-      <item value="ljw 2083@ alibaba - inc . com" />
-      <item value="select By Order Id is ambiguous in Mapped Statements collection" />
-      <item value="divide" />
     </histories>
   </component>
 </application>
