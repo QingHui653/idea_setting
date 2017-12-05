@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Request" />
+      <item value="pending" />
       <item value="STATEMENT" />
       <item value="SESSION" />
       <item value="defer Load" />
@@ -49,8 +51,6 @@
       <item value="Interceptor" />
       <item value="Too many connections" />
       <item value="message from server" />
-      <item value="Data source rejected establishment of connection" />
-      <item value="a commit / rollback before calling close ()" />
     </histories>
   </component>
 </application>
