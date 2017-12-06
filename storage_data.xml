@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Session establishment complete on server" />
+      <item value="Socket connection established to 192.168.1.188/192.168.1.188:2181, initiating session" />
+      <item value="Will not attempt to authenticate using SASL ( unknown error )" />
+      <item value="Will not attempt" />
       <item value="Request" />
       <item value="pending" />
       <item value="STATEMENT" />
@@ -47,10 +51,6 @@
       <item value="READ COMMITTED" />
       <item value="NONE" />
       <item value="TRANSACTION READ COMMITTED" />
-      <item value="TRANSACTION NONE" />
-      <item value="Interceptor" />
-      <item value="Too many connections" />
-      <item value="message from server" />
     </histories>
   </component>
 </application>
