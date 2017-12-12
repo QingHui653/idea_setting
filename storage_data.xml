@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resource URL" />
+      <item value="bind Event" />
+      <item value="unbind" />
+      <item value="ajax Redirect" />
+      <item value="click" />
+      <item value="focus" />
+      <item value="Alert" />
+      <item value="Confirm" />
+      <item value="oms Confirm" />
+      <item value="prompt" />
+      <item value="promptfun" />
+      <item value="alphanumeric" />
       <item value="Set retry times when download fail , 0 by default .&lt; br &gt;" />
       <item value="retry Times" />
       <item value="Set cycle Retry Times times when download fail , 0 by default . &lt; br &gt;" />
@@ -39,18 +51,6 @@
       <item value="BATCH" />
       <item value="REUSE" />
       <item value="SIMPLE" />
-      <item value="Executor" />
-      <item value="Transaction" />
-      <item value="XML Config Builder" />
-      <item value="Please specify one or the other" />
-      <item value="specify" />
-      <item value="object Wrapper Factory" />
-      <item value="object Factory" />
-      <item value="read it after object Factory and object Wrapper Factory issue" />
-      <item value="issue #117 read properties first" />
-      <item value="#117 read properties first" />
-      <item value="error" />
-      <item value="previous" />
     </histories>
   </component>
 </application>
