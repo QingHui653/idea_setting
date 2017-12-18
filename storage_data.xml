@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="you need to share your Docker host socket with a volume at / tmp / docker . sock" />
+      <item value="you need to share your Docker" />
       <item value="resource URL" />
       <item value="bind Event" />
       <item value="unbind" />
@@ -49,8 +51,6 @@
       <item value="ambiguous" />
       <item value="Strict" />
       <item value="BATCH" />
-      <item value="REUSE" />
-      <item value="SIMPLE" />
     </histories>
   </component>
 </application>
