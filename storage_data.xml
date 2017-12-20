@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validation" />
       <item value="you need to share your Docker host socket with a volume at / tmp / docker . sock" />
       <item value="you need to share your Docker" />
       <item value="resource URL" />
@@ -50,7 +51,6 @@
       <item value="dirty" />
       <item value="ambiguous" />
       <item value="Strict" />
-      <item value="BATCH" />
     </histories>
   </component>
 </application>
