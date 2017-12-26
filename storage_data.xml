@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aware" />
+      <item value="Available Cluster" />
+      <item value="registry URL" />
+      <item value="interface Name" />
+      <item value="url" />
+      <item value="refprotocol" />
+      <item value="LOCALHOST" />
+      <item value="LOCAL PROTOCOL" />
+      <item value="is Jvm Refer" />
       <item value="is Any Host" />
       <item value="Unexpected error occur at failed retry , cause" />
       <item value="Failback Registry" />
@@ -11,7 +20,6 @@
       <item value="Processor" />
       <item value="post" />
       <item value="Application Context Aware" />
-      <item value="Aware" />
       <item value="set Accessible" />
       <item value="counter" />
       <item value="The method retry times" />
@@ -43,14 +51,6 @@
       <item value="retry Times" />
       <item value="Set cycle Retry Times times when download fail , 0 by default . &lt; br &gt;" />
       <item value="cycle Retry Times" />
-      <item value="set Cycle Retry Times" />
-      <item value="/ Use this annotation on a service method param when you want to directly control the request body of a POST / PUT request ( instead of sending in as request parameters or form - style request body ). The object will be serialized using the {@ link Retrofit Retrofit } instance {@ link Converter Converter } and the result will be set directly as the request body . &lt; p &gt; Body parameters may not be {@ code null }. /" />
-      <item value="Body" />
-      <item value="/ A relative or absolute path , or full URL of the endpoint . This value is optional if the first parameter of the method is annotated with {@ link Url @ Url }. &lt; p &gt; See {@ linkplain retrofit 2. Retrofit . Builder # base Url ( Http Url ) base URL } for details of how this is resolved against a base URL to create the full endpoint URL . /" />
-      <item value="Type Error : First argument must be a string or Buffer" />
-      <item value="Session establishment complete on server" />
-      <item value="Socket connection established to 192.168.1.188/192.168.1.188:2181, initiating session" />
-      <item value="Will not attempt to authenticate using SASL ( unknown error )" />
     </histories>
   </component>
 </application>
