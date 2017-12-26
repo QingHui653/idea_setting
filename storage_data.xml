@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The method retry times" />
+      <item value="The method invoke timeout" />
+      <item value="Namespace support for the dubbo services provided by dubbo framework" />
       <item value="define" />
       <item value="function (" />
       <item value="column" />
@@ -48,9 +51,6 @@
       <item value="Local" />
       <item value="local Cache" />
       <item value="Cache" />
-      <item value="local" />
-      <item value="handle Locally Cached Output Parameters" />
-      <item value="query Stack" />
     </histories>
   </component>
 </application>
