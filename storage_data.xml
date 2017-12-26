@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Any Host" />
+      <item value="Unexpected error occur at failed retry , cause" />
+      <item value="Failback Registry" />
+      <item value="Set" />
+      <item value="Properties" />
+      <item value="after" />
+      <item value="Post" />
+      <item value="Processor" />
+      <item value="post" />
+      <item value="Application Context Aware" />
+      <item value="Aware" />
       <item value="set Accessible" />
       <item value="counter" />
       <item value="The method retry times" />
@@ -40,17 +51,6 @@
       <item value="Session establishment complete on server" />
       <item value="Socket connection established to 192.168.1.188/192.168.1.188:2181, initiating session" />
       <item value="Will not attempt to authenticate using SASL ( unknown error )" />
-      <item value="Will not attempt" />
-      <item value="Request" />
-      <item value="pending" />
-      <item value="STATEMENT" />
-      <item value="SESSION" />
-      <item value="defer Load" />
-      <item value="deferred Load" />
-      <item value="get Local Cache Scope" />
-      <item value="Output" />
-      <item value="Parameter" />
-      <item value="Local" />
     </histories>
   </component>
 </application>
