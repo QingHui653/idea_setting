@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="define" />
+      <item value="function (" />
+      <item value="column" />
+      <item value="references invalid table ( s )" />
       <item value="filter Vitual" />
       <item value="A unchecked wrapper for any of Java ' s checked reflection exceptions :" />
       <item value="brand Num" />
@@ -47,10 +51,6 @@
       <item value="local" />
       <item value="handle Locally Cached Output Parameters" />
       <item value="query Stack" />
-      <item value="clear Local Cache" />
-      <item value="482" />
-      <item value="// issue #601" />
-      <item value="NO RESULT HANDLER" />
     </histories>
   </component>
 </application>
