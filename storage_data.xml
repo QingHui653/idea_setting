@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="menu List" />
       <item value="Aware" />
       <item value="Available Cluster" />
       <item value="registry URL" />
@@ -50,7 +51,6 @@
       <item value="Set retry times when download fail , 0 by default .&lt; br &gt;" />
       <item value="retry Times" />
       <item value="Set cycle Retry Times times when download fail , 0 by default . &lt; br &gt;" />
-      <item value="cycle Retry Times" />
     </histories>
   </component>
 </application>
