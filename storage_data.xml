@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="signature" />
       <item value="OUTBOUNDLIFEDAYS" />
       <item value="SHELFLIFETYPE" />
       <item value="SHELFLIFE" />
@@ -50,7 +51,6 @@
       <item value="oms Confirm" />
       <item value="prompt" />
       <item value="promptfun" />
-      <item value="alphanumeric" />
     </histories>
   </component>
 </application>
