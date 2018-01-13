@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="such as the context ' s Class Loader and post - processors ." />
+      <item value="Configure the factory ' s standard context characteristics ," />
+      <item value="Listable" />
+      <item value="Default Listable Bean Factory" />
+      <item value="Allow for the collection of early Application Events , // to be published once the multicaster is available ..." />
+      <item value="Validate that all properties marked as required are resolvable // see Configurable Property Resolver # set Required Properties" />
+      <item value="Initialize any placeholder property sources in the context environment" />
+      <item value="Prepare this context for refreshing" />
       <item value="No context instance is defined for this servlet -&gt; create a local one" />
       <item value="// No context instance was injected at construction time -&gt; see if one // has been registered in the servlet context . If one exists , it is assumed // that the parent context ( if any ) has already been set and that the // user has performed any initialization such as setting the context id" />
       <item value="Initialize and publish the Web Application Context for this servlet . &lt; p &gt; Delegates to {@ link # create Web Application Context } for actual creation of the context . Can be overridden in subclasses ." />
@@ -43,14 +51,6 @@
       <item value="is Any Host" />
       <item value="Unexpected error occur at failed retry , cause" />
       <item value="Failback Registry" />
-      <item value="Set" />
-      <item value="Properties" />
-      <item value="after" />
-      <item value="Post" />
-      <item value="Processor" />
-      <item value="post" />
-      <item value="Application Context Aware" />
-      <item value="set Accessible" />
     </histories>
   </component>
 </application>
