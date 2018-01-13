@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prototype" />
+      <item value="Eagerly check singleton cache for manually registered singletons ." />
+      <item value="Fail if we ' re already creating this bean instance : // We ' re assumably within a circular reference ." />
+      <item value="// Fail if we ' re already creating this bean instance :" />
       <item value="Eager" />
       <item value="While this may not be part of the regular factory bootstrap , it does otherwise work fine ." />
       <item value="Iterate over a copy to allow for init methods which in turn register new bean definitions ." />
@@ -47,10 +51,6 @@
       <item value="Http Servlet Bean" />
       <item value="Wrapper" />
       <item value="Initialize the Bean Wrapper for this Http Servlet Bean , possibly with custom editors . &lt; p &gt; This default implementation is empty ." />
-      <item value="signature" />
-      <item value="OUTBOUNDLIFEDAYS" />
-      <item value="SHELFLIFETYPE" />
-      <item value="SHELFLIFE" />
     </histories>
   </component>
 </application>
