@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Eager" />
+      <item value="While this may not be part of the regular factory bootstrap , it does otherwise work fine ." />
+      <item value="Iterate over a copy to allow for init methods which in turn register new bean definitions ." />
+      <item value="Iterate over a copy to allow for init methods which in turn register new bean definitions . // While this may not be part of the regular factory bootstrap , it does otherwise work fine ." />
+      <item value="Check for listener beans and register them ." />
+      <item value="Initialize other special beans in specific context subclasses ." />
+      <item value="Initialize event multicaster for this context ." />
+      <item value="Initialize message source for this context ." />
+      <item value="Register bean processors that intercept bean creation ." />
+      <item value="Invoke factory processors registered as beans in the context ." />
+      <item value="Allows post - processing of the bean factory in context subclasses ." />
+      <item value="Prepare the bean factory for use in this context ." />
+      <item value="Definitions" />
       <item value="such as the context ' s Class Loader and post - processors ." />
       <item value="Configure the factory ' s standard context characteristics ," />
       <item value="Listable" />
@@ -38,19 +51,6 @@
       <item value="OUTBOUNDLIFEDAYS" />
       <item value="SHELFLIFETYPE" />
       <item value="SHELFLIFE" />
-      <item value="menu List" />
-      <item value="Aware" />
-      <item value="Available Cluster" />
-      <item value="registry URL" />
-      <item value="interface Name" />
-      <item value="url" />
-      <item value="refprotocol" />
-      <item value="LOCALHOST" />
-      <item value="LOCAL PROTOCOL" />
-      <item value="is Jvm Refer" />
-      <item value="is Any Host" />
-      <item value="Unexpected error occur at failed retry , cause" />
-      <item value="Failback Registry" />
     </histories>
   </component>
 </application>
