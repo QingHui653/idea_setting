@@ -1,6 +1,31 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No context instance is defined for this servlet -&gt; create a local one" />
+      <item value="// No context instance was injected at construction time -&gt; see if one // has been registered in the servlet context . If one exists , it is assumed // that the parent context ( if any ) has already been set and that the // user has performed any initialization such as setting the context id" />
+      <item value="Initialize and publish the Web Application Context for this servlet . &lt; p &gt; Delegates to {@ link # create Web Application Context } for actual creation of the context . Can be overridden in subclasses ." />
+      <item value="&lt; p &gt; Delegates to {@ link # create Web Application Context } for actual creation of the context . Can be overridden in subclasses ." />
+      <item value="Initialize and publish the Web Application Context for this servlet ." />
+      <item value="Let subclasses do whatever initialization they like ." />
+      <item value="if any required properties are missing" />
+      <item value="set of property names we need , where we can ' t accept default values" />
+      <item value="set of property names we need , where" />
+      <item value="Servlet Config we ' ll use to take Property Values from" />
+      <item value="Create new Servlet Config Property Values ." />
+      <item value="we can ' t accept default values" />
+      <item value="register Custom Editor" />
+      <item value="This method will be invoked after any bean properties have been set and the Web Application Context has been loaded . The default implementation is empty ; subclasses may override this method to perform any initialization they require ." />
+      <item value="This default implementation is empty ." />
+      <item value="Initialize the Bean Wrapper for this Http Servlet Bean , possibly with custom editors ." />
+      <item value="editors" />
+      <item value="custom" />
+      <item value="with" />
+      <item value="possibly" />
+      <item value="Initialize" />
+      <item value="Bean Wrapper" />
+      <item value="Http Servlet Bean" />
+      <item value="Wrapper" />
+      <item value="Initialize the Bean Wrapper for this Http Servlet Bean , possibly with custom editors . &lt; p &gt; This default implementation is empty ." />
       <item value="signature" />
       <item value="OUTBOUNDLIFEDAYS" />
       <item value="SHELFLIFETYPE" />
@@ -26,31 +51,6 @@
       <item value="post" />
       <item value="Application Context Aware" />
       <item value="set Accessible" />
-      <item value="counter" />
-      <item value="The method retry times" />
-      <item value="The method invoke timeout" />
-      <item value="Namespace support for the dubbo services provided by dubbo framework" />
-      <item value="define" />
-      <item value="function (" />
-      <item value="column" />
-      <item value="references invalid table ( s )" />
-      <item value="filter Vitual" />
-      <item value="A unchecked wrapper for any of Java ' s checked reflection exceptions :" />
-      <item value="brand Num" />
-      <item value="validation" />
-      <item value="you need to share your Docker host socket with a volume at / tmp / docker . sock" />
-      <item value="you need to share your Docker" />
-      <item value="resource URL" />
-      <item value="bind Event" />
-      <item value="unbind" />
-      <item value="ajax Redirect" />
-      <item value="click" />
-      <item value="focus" />
-      <item value="Alert" />
-      <item value="Confirm" />
-      <item value="oms Confirm" />
-      <item value="prompt" />
-      <item value="promptfun" />
     </histories>
   </component>
 </application>
