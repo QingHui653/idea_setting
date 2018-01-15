@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Tell the subclass to refresh the internal bean factory." />
+      <item value="it is available on ServletContext shutdown." />
+      <item value="Store context in local instance variable, to guarantee that" />
+      <item value="Find all ServletContext attributes which implement {@link DisposableBean} * and destroy them, removing all affected ServletContext attributes eventually." />
       <item value="@Configuration class. Add the 'static' modifier to this method to avoid these container lifecycle issues; see @Bean javadoc for complete details." />
       <item value="Let subclasses do whatever initialization they like." />
       <item value="Ambiguous" />
