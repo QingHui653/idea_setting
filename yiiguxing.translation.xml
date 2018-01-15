@@ -3,6 +3,24 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Check if bean definition exists in this factory." />
+      <item value="is Singleton Currently In Creation" />
+      <item value="bean Name" />
+      <item value="Eagerly check singleton cache for manually registered singletons." />
+      <item value="Handle aliasing..." />
+      <item value="Create a deep copy, resolving any references for values." />
+      <item value="is Converted" />
+      <item value="apply Property Values" />
+      <item value="needs Dep Check" />
+      <item value="continue With Property Population" />
+      <item value="has Instantiation Aware Bean Post Processors" />
+      <item value="is Synthetic" />
+      <item value="instantiate Class" />
+      <item value="instantiate" />
+      <item value="transformed" />
+      <item value="instance" />
+      <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
+      <item value="Allows post-processing of the bean factory in context subclasses." />
       <item value="Tell the subclass to refresh the internal bean factory." />
       <item value="it is available on ServletContext shutdown." />
       <item value="Store context in local instance variable, to guarantee that" />
