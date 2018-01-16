@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Suffix" />
+      <item value="instance Url Suffix" />
       <item value="/** * to classify a filter by type. Standard types in Zuul are &quot;pre&quot; for pre-routing filtering, * &quot;route&quot; for routing to an origin, &quot;post&quot; for post-routing filters, &quot;error&quot; for error handling. * We also support a &quot;static&quot; type for static responses see StaticResponseFilter. * Any filterType made be created or added and run by calling FilterProcessor.runFilters(type) * * @return A String representing that type */" />
       <item value="dispatcher Servlet" />
       <item value="875" />
