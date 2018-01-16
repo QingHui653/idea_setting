@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="dispatcher Servlet" />
+      <item value="875" />
       <item value="Check if bean definition exists in this factory." />
       <item value="is Singleton Currently In Creation" />
       <item value="bean Name" />
