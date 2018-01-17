@@ -3,6 +3,29 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Overridden method, invoked after any bean properties have been set and the * WebApplicationContext and BeanFactory for this namespace is available. * &lt;p&gt;Loads HandlerMapping and HandlerAdapter objects, and configures a * ViewResolver and a LocaleResolver. */" />
+      <item value="Request attribute to hold current theme, retrievable by views." />
+      <item value="Request attribute to hold current locale, retrievable by views." />
+      <item value="Request attribute to hold current web application context. * Otherwise only the global web app context is obtainable by tags etc. */" />
+      <item value="Well-known name for the ViewResolver object in the bean factory for * this namespace. */" />
+      <item value="Well-known name for the ViewResolver object in the bean factory for * th" />
+      <item value="Well-known name for the LocaleResolver object in the bean factory for * this namespace." />
+      <item value="locale Resolver" />
+      <item value="Concrete front controller for use within the Interface21 MVC framework.&lt;br&gt; * This class and the MVC approach it delivers is discussed in Chapter 12 of * &lt;a href=&quot;http://www.amazon.com/exec/obidos/tg/detail/-/1861007841/&quot;&gt;Expert One-On-One J2EE Design and Development&lt;/a&gt; * by Rod Johnson (Wrox, 2002). * * &lt;p&gt;This servlet is very flexible: It can be used with just about any workflow, * with the installation of the appropriate adapter classes. * * &lt;p&gt;It offers the following functionality that distinguishes it from other MVC frameworks: * &lt;ul&gt; * &lt;li&gt;It is based around a JavaBeans configuration mechanism. * &lt;li&gt;It can use any HandlerMapping implementation - whether standard, or provided * as part of an application - to control the routing of requests to handler objects. * Additional HandlerMapping objects can be added through defining beans in the * servlet's application context that implement the HandlerMapping interface in this * package. HandlerMappings can be given any bean name (they are tested by type). * &lt;li&gt;It can use any HandlerAdapter (additional HandlerAdapter objects can be added * through the application context). * &lt;li&gt;Its view resoltion strategy can be specified via a ViewResolver implementation. * Standard implementations support mapping URLs to bean names, and explicit mappings. * &lt;li&gt;Its locale resolution strategy is determined by a LocaleResolver implementation. * Standard implementations work via HTTP accept header, cookie, or session. * &lt;/ul&gt; * * &lt;p&gt;A web application can use any number of controller servlets. * Each servlet will operate in its own namespace. Only the default name space, * and any config objects set for the application as a whole, will be shared. *" />
+      <item value="Base servlet for servlets within the Interface21 framework. Allows integration with bean factory and application context, in a JavaBean-based overall solution. This class offers the following functionality: Uses a WebApplicationContext to access a BeanFactory. The servlet's configuration is determined by the beans in the namespace 'servlet-name'-servlet, if not overridden via the namespace property. Publishes events on request processing, whether or not a request is successfully handled. Subclasses must implement doService() to handle requests. Because this extends HttpServletBean rather than HttpServlet directly, bean properties are mapped onto it. Subclasses can override initFrameworkServlet() for custom initialization." />
+      <item value="Supports remote as well as local URLs" />
+      <item value="Now we must load the WebApplicationContext. // It configures itself: all we need to do is construct the class with a no-arg // constructor, and invoke setServletContext." />
+      <item value="Now we must load the WebApplicationContext." />
+      <item value="Publish the context as a servlet context attribute" />
+      <item value="/** * Delegate the WebApplicationContext before it is refreshed to any * {@link ApplicationContextInitializer} instances specified by the * &quot;contextInitializerClasses&quot; servlet init-param. * &lt;p&gt;See also {@link #postProcessWebApplicationContext}, which is designed to allow * subclasses (as opposed to end-users) to modify the application context, and is * called immediately before this method. * @param wac the configured WebApplicationContext (not refreshed yet) * @see #createWebApplicationContext * @see #postProcessWebApplicationContext * @see ConfigurableApplicationContext#refresh() */" />
+      <item value="// For subclasses: do nothing by default." />
+      <item value="allowing parameterization * of the class name." />
+      <item value="instantiate" />
+      <item value="Try to instantiate a custom web application context, allowing parameterization * of the class name." />
+      <item value="/** * Subclasses must implement this method to perform any initialization they require. * The implementation may be empty. This method will be invoked after any bean properties * have been set and WebApplicationContext and BeanFactory have been loaded. * @throws ServletException in case of an initialization exception */" />
+      <item value="Let subclasses do whatever initialization they like" />
+      <item value="/** * Map config parameters onto bean properties of this servlet, and * invoke subclass initialization. * @throws ServletException if bean properties are invalid (or required properties * are missing), or if subclass initialization fails. */" />
+      <item value="Set bean properties" />
       <item value="this will be called after a failure occurs and we increment the counter //so we check that the count is less than or equals to too make sure //we try the next server the right number of times" />
       <item value="the retry policy from the load balancer" />
       <item value="//Check if we need to ask the load balancer for a new server. //Do this before we increment the counters because the first call to this method //is not a retry it is just an initial failure." />
@@ -27,22 +50,9 @@
       <item value="has Instantiation Aware Bean Post Processors" />
       <item value="is Synthetic" />
       <item value="instantiate Class" />
-      <item value="instantiate" />
       <item value="transformed" />
       <item value="instance" />
       <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
-      <item value="Allows post-processing of the bean factory in context subclasses." />
-      <item value="Tell the subclass to refresh the internal bean factory." />
-      <item value="it is available on ServletContext shutdown." />
-      <item value="Store context in local instance variable, to guarantee that" />
-      <item value="Find all ServletContext attributes which implement {@link DisposableBean} * and destroy them, removing all affected ServletContext attributes eventually." />
-      <item value="@Configuration class. Add the 'static' modifier to this method to avoid these container lifecycle issues; see @Bean javadoc for complete details." />
-      <item value="Let subclasses do whatever initialization they like." />
-      <item value="Ambiguous" />
-      <item value="authentication" />
-      <item value="跳转到新增 融物 编辑 页面" />
-      <item value="request" />
-      <item value="contains" />
     </histories>
   </component>
 </application>
