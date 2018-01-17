@@ -3,6 +3,23 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="/** * Initialize the given bean instance, applying factory callbacks * as well as init methods and bean post processors. * &lt;p&gt;Called from {@link #createBean} for traditionally defined beans, * and from {@link #initializeBean} for existing bean instances. * @param beanName the bean name in the factory (for debugging purposes) * @param bean the new bean instance we may need to initialize * @param mbd the bean definition that the bean was created with * (can also be {@code null}, if given an existing bean instance) * @return the initialized bean instance (potentially wrapped) * @see BeanNameAware * @see BeanClassLoaderAware * @see BeanFactoryAware * @see #applyBeanPostProcessorsBeforeInitialization * @see #invokeInitMethods * @see #applyBeanPostProcessorsAfterInitialization" />
+      <item value="Bean Wrapper Impl" />
+      <item value="into" />
+      <item value="refactoring" />
+      <item value="consider" />
+      <item value="consider refactoring into BeanWrapperImpl?" />
+      <item value="/** * Given a PropertyValue, return a value, resolving any references to other * beans in the factory if necessary. The value could be: * &lt;li&gt;An ordinary object or null, in which case it's left alone * &lt;li&gt;A RuntimeBeanReference, which must be resolved * &lt;li&gt;A ManagedList. This is a special collection that may contain * RuntimeBeanReferences that will need to be resolved. * &lt;li&gt;A ManagedMap. In this case the value may be a reference that * must be resolved. * If the value is a simple object, but the property takes a Collection type, * the value must be placed in a list. */" />
+      <item value="Initialize the bean instance." />
+      <item value="Specified" />
+      <item value="Method Injection" />
+      <item value="// Must generate CGLIB subclass." />
+      <item value="Don't override the class with CGLIB if no overrides." />
+      <item value="instantiate" />
+      <item value="get Instantiation Strategy" />
+      <item value="// No special handling: simply use no-arg constructor." />
+      <item value="Need to determine the constructor..." />
+      <item value="create Bean Instance" />
       <item value="cache new instance to be able resolve circular references" />
       <item value="Convenience method to instantiate a class using its * no arg constructor. As this method doesn't try to load * classes by name, it should avoid class-loading issues." />
       <item value="cached Introspection Results" />
@@ -17,7 +34,6 @@
       <item value="Instantiate the bean." />
       <item value="Instantiate all remaining (non-lazy-init) singletons." />
       <item value="/** * Apply the given property values, resolving any runtime references * to other beans in this bean factory. * Must use deep copy, so we don't permanently modify this property * @param bw BeanWrapper wrapping the target object * @param pvs new property values * @param name bean name passed for better exception information * @param newlyCreatedBeans cache with newly created beans (name, instance) * if triggered by the creation of another bean, or null else * (necessary to resolve circular references) */" />
-      <item value="Don't override the class with CGLIB if no overrides." />
       <item value="No special handling: simply use no-arg constructor." />
       <item value="Eagerly check singleton cache for manually registered singletons." />
       <item value="/** * Return the bean with the given name, * checking the parent bean factory if not found. * @param name name of the bean to retrieve * @param newlyCreatedBeans cache with newly created beans (name, instance) * if triggered by the creation of another bean, or null else * (necessary to resolve circular references) */" />
@@ -37,22 +53,6 @@
       <item value="Definition" />
       <item value="/** * Invoke the setApplicationContext() callback on all objects * in the context. This involves instantiating the objects. * Only singletons will be instantiated eagerly. */" />
       <item value="/** * Initialize the config location for the current namespace. * This can be overridden in subclasses for custom config lookup. * &lt;p&gt;Default implementation returns the namespace with the default prefix * &quot;WEB-INF/&quot; and suffix &quot;.xml&quot;, if a namespace is set. For the root context, * the &quot;configLocation&quot; servlet context parameter is used, falling back to * &quot;WEB-INF/applicationContext.xml&quot; if no parameter is found. * @return the URL or path of the configuration to use */" />
-      <item value="Initialize the theme capability." />
-      <item value="Subclasses must implement this method to perform the actual configuration load." />
-      <item value="/** * Callback method which can be overridden to add context-specific refresh work. * @throws ApplicationContextException in case of errors during refresh */" />
-      <item value="Add beans that implement listener as listeners. * Doesn't affect other listeners, that can be added without being beans." />
-      <item value="Loads the bean definitions via an XmlBeanDefinitionReader." />
-      <item value="org.springframework.web.context.WebApplicationContext implementation which takes its configuration from XML documents, understood by an XmlBeanDefinitionReader. This is essentially the equivalent of org.springframework.context.support.GenericXmlApplicationContext for a web environment. By default, the configuration will be taken from &quot;/WEB-INF/applicationContext.xml&quot; for the root context, and &quot;/WEB-INF/test-servlet.xml&quot; for a context with the namespace &quot;test-servlet&quot; (like for a DispatcherServlet instance with the servlet-name &quot;test&quot;). The config location defaults can be overridden via the &quot;contextConfigLocation&quot; context-param of org.springframework.web.context.ContextLoader and servlet init-param of org.springframework.web.servlet.FrameworkServlet. Config locations can either denote concrete files like &quot;/WEB-INF/context.xml&quot; or Ant-style patterns like &quot;/WEB-INF/*-context.xml&quot; (see org.springframework.util.PathMatcher javadoc for pattern details). Note: In case of multiple config locations, later bean definitions will override ones defined in earlier loaded files. This can be leveraged to deliberately override certain bean definitions via an extra XML file. For a WebApplicationContext that reads in a different bean definition format, create an analogous subclass of AbstractRefreshableWebApplicationContext. Such a context implementation can be specified as &quot;contextClass&quot; context-param for ContextLoader or &quot;contextClass&quot; init-param for FrameworkServlet." />
-      <item value="if the configuration was invalid or couldn't be found, or if configuration has already been loaded and reloading is forbidden DYNAMIC CLASSLOADER ISSUE...subclass to get classloader!?" />
-      <item value="Load or reload configuration." />
-      <item value="Exception thrown during application context initialization." />
-      <item value="if the configuration was invalid or couldn't * be found, or if configuration has already been loaded and reloading is forbidden * DYNAMIC CLASSLOADER ISSUE...subclass to get classloader!?" />
-      <item value="** * Return a friendly name for context * @return a display name for the context */" />
-      <item value="/** * To avoid endless constructor chaining, only concrete classes * take this in their constructor, and then invoke this method */" />
-      <item value="Let subclasses do whatever initialization they like" />
-      <item value="&lt;!-- - Maps the petclinic dispatcher to *.htm. All handler mappings in - petclinic-servlet.xml will by default be applied to this subpath. - If a mapping isn't a /* subpath, the handler mappings are considered - relative to the web app root. - - A single dispatcher could get mapped to multiple paths, like any servlet. --&gt;" />
-      <item value="Render the given ModelAndView. This is the last stage in handling a request. * It may involve resolving the view by name." />
-      <item value="direct evaluation instead of Integer.compareTo to avoid unnecessary object creation" />
     </histories>
   </component>
 </application>
