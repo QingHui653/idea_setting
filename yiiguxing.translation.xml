@@ -3,6 +3,21 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Loads the bean definitions via an XmlBeanDefinitionReader." />
+      <item value="org.springframework.web.context.WebApplicationContext implementation which takes its configuration from XML documents, understood by an XmlBeanDefinitionReader. This is essentially the equivalent of org.springframework.context.support.GenericXmlApplicationContext for a web environment. By default, the configuration will be taken from &quot;/WEB-INF/applicationContext.xml&quot; for the root context, and &quot;/WEB-INF/test-servlet.xml&quot; for a context with the namespace &quot;test-servlet&quot; (like for a DispatcherServlet instance with the servlet-name &quot;test&quot;). The config location defaults can be overridden via the &quot;contextConfigLocation&quot; context-param of org.springframework.web.context.ContextLoader and servlet init-param of org.springframework.web.servlet.FrameworkServlet. Config locations can either denote concrete files like &quot;/WEB-INF/context.xml&quot; or Ant-style patterns like &quot;/WEB-INF/*-context.xml&quot; (see org.springframework.util.PathMatcher javadoc for pattern details). Note: In case of multiple config locations, later bean definitions will override ones defined in earlier loaded files. This can be leveraged to deliberately override certain bean definitions via an extra XML file. For a WebApplicationContext that reads in a different bean definition format, create an analogous subclass of AbstractRefreshableWebApplicationContext. Such a context implementation can be specified as &quot;contextClass&quot; context-param for ContextLoader or &quot;contextClass&quot; init-param for FrameworkServlet." />
+      <item value="if the configuration was invalid or couldn't be found, or if configuration has already been loaded and reloading is forbidden DYNAMIC CLASSLOADER ISSUE...subclass to get classloader!?" />
+      <item value="Load or reload configuration." />
+      <item value="Exception thrown during application context initialization." />
+      <item value="if the configuration was invalid or couldn't * be found, or if configuration has already been loaded and reloading is forbidden * DYNAMIC CLASSLOADER ISSUE...subclass to get classloader!?" />
+      <item value="** * Return a friendly name for context * @return a display name for the context */" />
+      <item value="/** * To avoid endless constructor chaining, only concrete classes * take this in their constructor, and then invoke this method */" />
+      <item value="Let subclasses do whatever initialization they like" />
+      <item value="&lt;!-- - Maps the petclinic dispatcher to *.htm. All handler mappings in - petclinic-servlet.xml will by default be applied to this subpath. - If a mapping isn't a /* subpath, the handler mappings are considered - relative to the web app root. - - A single dispatcher could get mapped to multiple paths, like any servlet. --&gt;" />
+      <item value="Render the given ModelAndView. This is the last stage in handling a request. * It may involve resolving the view by name." />
+      <item value="direct evaluation instead of Integer.compareTo to avoid unnecessary object creation" />
+      <item value="We keep HandlerMappings in sorted order" />
+      <item value="/** * Initialize the HandlerMappings used by this class. * If no HandlerMapping beans are defined in the BeanFactory * for this namespace, we default to a BeanNameUrlHandlerMapping. */" />
+      <item value="// We tried and failed to load the ThemeResolver specified by a bean" />
       <item value="Overridden method, invoked after any bean properties have been set and the * WebApplicationContext and BeanFactory for this namespace is available. * &lt;p&gt;Loads HandlerMapping and HandlerAdapter objects, and configures a * ViewResolver and a LocaleResolver. */" />
       <item value="Request attribute to hold current theme, retrievable by views." />
       <item value="Request attribute to hold current locale, retrievable by views." />
@@ -23,7 +38,6 @@
       <item value="instantiate" />
       <item value="Try to instantiate a custom web application context, allowing parameterization * of the class name." />
       <item value="/** * Subclasses must implement this method to perform any initialization they require. * The implementation may be empty. This method will be invoked after any bean properties * have been set and WebApplicationContext and BeanFactory have been loaded. * @throws ServletException in case of an initialization exception */" />
-      <item value="Let subclasses do whatever initialization they like" />
       <item value="/** * Map config parameters onto bean properties of this servlet, and * invoke subclass initialization. * @throws ServletException if bean properties are invalid (or required properties * are missing), or if subclass initialization fails. */" />
       <item value="Set bean properties" />
       <item value="this will be called after a failure occurs and we increment the counter //so we check that the count is less than or equals to too make sure //we try the next server the right number of times" />
@@ -39,20 +53,6 @@
       <item value="875" />
       <item value="Check if bean definition exists in this factory." />
       <item value="is Singleton Currently In Creation" />
-      <item value="bean Name" />
-      <item value="Eagerly check singleton cache for manually registered singletons." />
-      <item value="Handle aliasing..." />
-      <item value="Create a deep copy, resolving any references for values." />
-      <item value="is Converted" />
-      <item value="apply Property Values" />
-      <item value="needs Dep Check" />
-      <item value="continue With Property Population" />
-      <item value="has Instantiation Aware Bean Post Processors" />
-      <item value="is Synthetic" />
-      <item value="instantiate Class" />
-      <item value="transformed" />
-      <item value="instance" />
-      <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
     </histories>
   </component>
 </application>
