@@ -3,8 +3,15 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
-      <item value="All bean instantiation within this class is performed by this method. * Return a BeanWrapper object for a new instance of this bean. * First look up BeanDefinition for the given bean name. * Uses recursion to support instance &quot;inheritance&quot;." />
       <item value="cache new instance to be able resolve circular references" />
+      <item value="Convenience method to instantiate a class using its * no arg constructor. As this method doesn't try to load * classes by name, it should avoid class-loading issues." />
+      <item value="cached Introspection Results" />
+      <item value="wrapped" />
+      <item value="The wrapped object" />
+      <item value="Subclasses may override this, to create bean * wrappers differently or perform custom preprocessing. * This implementation wraps the bean class directly. * @return a new BeanWrapper wrapper the target object" />
+      <item value="Given a bean wrapper, add listeners" />
+      <item value="get Bean Wrapper For New Instance" />
+      <item value="All bean instantiation within this class is performed by this method. * Return a BeanWrapper object for a new instance of this bean. * First look up BeanDefinition for the given bean name. * Uses recursion to support instance &quot;inheritance&quot;." />
       <item value="not found -&gt; check parent" />
       <item value="Allow post-processors to modify the merged bean definition." />
       <item value="Instantiate the bean." />
@@ -13,7 +20,6 @@
       <item value="Don't override the class with CGLIB if no overrides." />
       <item value="No special handling: simply use no-arg constructor." />
       <item value="Eagerly check singleton cache for manually registered singletons." />
-      <item value="Given a bean wrapper, add listeners" />
       <item value="/** * Return the bean with the given name, * checking the parent bean factory if not found. * @param name name of the bean to retrieve * @param newlyCreatedBeans cache with newly created beans (name, instance) * if triggered by the creation of another bean, or null else * (necessary to resolve circular references) */" />
       <item value="Return the bean with the given name," />
       <item value="Return the bean with the given name, * checking the parent bean factory if not found." />
@@ -47,12 +53,6 @@
       <item value="&lt;!-- - Maps the petclinic dispatcher to *.htm. All handler mappings in - petclinic-servlet.xml will by default be applied to this subpath. - If a mapping isn't a /* subpath, the handler mappings are considered - relative to the web app root. - - A single dispatcher could get mapped to multiple paths, like any servlet. --&gt;" />
       <item value="Render the given ModelAndView. This is the last stage in handling a request. * It may involve resolving the view by name." />
       <item value="direct evaluation instead of Integer.compareTo to avoid unnecessary object creation" />
-      <item value="We keep HandlerMappings in sorted order" />
-      <item value="/** * Initialize the HandlerMappings used by this class. * If no HandlerMapping beans are defined in the BeanFactory * for this namespace, we default to a BeanNameUrlHandlerMapping. */" />
-      <item value="// We tried and failed to load the ThemeResolver specified by a bean" />
-      <item value="Overridden method, invoked after any bean properties have been set and the * WebApplicationContext and BeanFactory for this namespace is available. * &lt;p&gt;Loads HandlerMapping and HandlerAdapter objects, and configures a * ViewResolver and a LocaleResolver. */" />
-      <item value="Request attribute to hold current theme, retrievable by views." />
-      <item value="Request attribute to hold current locale, retrievable by views." />
     </histories>
   </component>
 </application>
