@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="this will be called after a failure occurs and we increment the counter //so we check that the count is less than or equals to too make sure //we try the next server the right number of times" />
+      <item value="the retry policy from the load balancer" />
+      <item value="//Check if we need to ask the load balancer for a new server. //Do this before we increment the counters because the first call to this method //is not a retry it is just an initial failure." />
+      <item value="//this will be called after a failure occurs and we increment the counter //so we check that the count is less than or equals to too make sure //we try the next server the right number of times" />
       <item value="while parsing MappingNode" />
       <item value="org.yaml.snakeyaml.parser.ParserException: while parsing MappingNode" />
       <item value="Suffix" />
