@@ -3,6 +3,20 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="initialize Bean" />
+      <item value="is Synthetic" />
+      <item value="Create a new instance of a dynamically generated subclass implementing the * required lookups." />
+      <item value="Method Injection not supported in SimpleInstantiationStrategy" />
+      <item value="// Don't override the class with CGLIB if no overrides." />
+      <item value="resolved" />
+      <item value="Cglib Subclassing Instantiation Strategy" />
+      <item value="Return the instantiation strategy to use for creating bean instances." />
+      <item value="get Security Manager" />
+      <item value="instantiate Using Factory Method" />
+      <item value="resolve" />
+      <item value="// Make sure bean class is actually resolved at this point." />
+      <item value="&quot;autowire constructor&quot; (with constructor arguments by type) behavior. Also applied if explicit constructor argument values are specified, matching all remaining arguments with beans from the bean factory. This corresponds to constructor injection: In this mode, a Spring bean factory is able to host components that expect constructor-based dependency resolution." />
+      <item value="autowire Constructor" />
       <item value="Need to determine the constructor..." />
       <item value="Instantiate the bean." />
       <item value="Bean Post Processors" />
@@ -39,20 +53,6 @@
       <item value="populate Bean" />
       <item value="denied" />
       <item value="command" />
-      <item value="A multipart email. * * &lt;p&gt;This class is used to send multi-part internet email like * messages with attachments. * * &lt;p&gt;To create a multi-part email, call the default constructor and * then you can call setMsg() to set the message and call the * different attach() methods. *" />
-      <item value="This class is used to send simple internet email messages without * attachments." />
-      <item value="/** * An HTML multipart email. * * &lt;p&gt;This class is used to send HTML formatted email. A text message * can also be set for HTML unaware email clients, such as text-based * email clients. * * &lt;p&gt;This class also inherits from {@link MultiPartEmail}, so it is easy to * add attachments to the email. * * &lt;p&gt;To send an email in HTML, one should create a &lt;code&gt;HtmlEmail&lt;/code&gt;, then * use the {@link #setFrom(String)}, {@link #addTo(String)} etc. methods. * The HTML content can be set with the {@link #setHtmlMsg(String)} method. The * alternative text content can be set with {@link #setTextMsg(String)}. * * &lt;p&gt;Either the text or HTML can be omitted, in which case the &quot;main&quot; * part of the multipart becomes whichever is supplied rather than a * &lt;code&gt;multipart/alternative&lt;/code&gt;. * * &lt;h3&gt;Embedding Images and Media&lt;/h3&gt; * * &lt;p&gt;It is also possible to embed URLs, files, or arbitrary * &lt;code&gt;DataSource&lt;/code&gt;s directly into the body of the mail: * &lt;pre&gt;&lt;code&gt; * HtmlEmail he = new HtmlEmail(); * File img = new File(&quot;my/image.gif&quot;); * PNGDataSource png = new PNGDataSource(decodedPNGOutputStream); // a custom class * StringBuffer msg = new StringBuffer(); * msg.append(&quot;&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&quot;); * msg.append(&quot;&amp;lt;img src=cid:&quot;).append(he.embed(img)).append(&quot;&amp;gt;&quot;); * msg.append(&quot;&amp;lt;img src=cid:&quot;).append(he.embed(png)).append(&quot;&amp;gt;&quot;); * msg.append(&quot;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;&quot;); * he.setHtmlMsg(msg.toString()); * // code to set the other email fields (not shown) * &lt;/pre&gt;&lt;/code&gt; * * &lt;p&gt;Embedded entities are tracked by their name, which for &lt;code&gt;File&lt;/code&gt;s is * the filename itself and for &lt;code&gt;URL&lt;/code&gt;s is the canonical path. It is * an error to bind the same name to more than one entity, and this class will * attempt to validate that for &lt;code&gt;File&lt;/code&gt;s and &lt;code&gt;URL&lt;/code&gt;s. When * embedding a &lt;code&gt;DataSource&lt;/code&gt;, the code uses the &lt;code&gt;equals()&lt;/code&gt; * method defined on the &lt;code&gt;DataSource&lt;/code&gt;s to make the determination. * * @since 1.0 * @author &lt;a href=&quot;mailto:unknown&quot;&gt;Regis Koenig&lt;/a&gt; * @author &lt;a href=&quot;mailto:sean@informage.net&quot;&gt;Sean Legassick&lt;/a&gt; * @version $Id: HtmlEmail.java 785383 2009-06-16 20:36:22Z sgoeschl $ */" />
-      <item value="/** * Initialize the given bean instance, applying factory callbacks * as well as init methods and bean post processors. * &lt;p&gt;Called from {@link #createBean} for traditionally defined beans, * and from {@link #initializeBean} for existing bean instances. * @param beanName the bean name in the factory (for debugging purposes) * @param bean the new bean instance we may need to initialize * @param mbd the bean definition that the bean was created with * (can also be {@code null}, if given an existing bean instance) * @return the initialized bean instance (potentially wrapped) * @see BeanNameAware * @see BeanClassLoaderAware * @see BeanFactoryAware * @see #applyBeanPostProcessorsBeforeInitialization * @see #invokeInitMethods * @see #applyBeanPostProcessorsAfterInitialization" />
-      <item value="Bean Wrapper Impl" />
-      <item value="into" />
-      <item value="refactoring" />
-      <item value="consider" />
-      <item value="consider refactoring into BeanWrapperImpl?" />
-      <item value="/** * Given a PropertyValue, return a value, resolving any references to other * beans in the factory if necessary. The value could be: * &lt;li&gt;An ordinary object or null, in which case it's left alone * &lt;li&gt;A RuntimeBeanReference, which must be resolved * &lt;li&gt;A ManagedList. This is a special collection that may contain * RuntimeBeanReferences that will need to be resolved. * &lt;li&gt;A ManagedMap. In this case the value may be a reference that * must be resolved. * If the value is a simple object, but the property takes a Collection type, * the value must be placed in a list. */" />
-      <item value="Initialize the bean instance." />
-      <item value="Specified" />
-      <item value="Method Injection" />
-      <item value="// Must generate CGLIB subclass." />
     </histories>
   </component>
 </application>
