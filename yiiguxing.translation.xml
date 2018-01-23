@@ -3,6 +3,14 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="load Bean Definitions" />
+      <item value="Tell the subclass to refresh the internal bean factory." />
+      <item value="parse Custom Element" />
+      <item value="parse Default Element" />
+      <item value="Parse the elements at the root level in the document: * &quot;import&quot;, &quot;alias&quot;, &quot;bean&quot;. * @param root the DOM root element of the document" />
+      <item value="Create a new XmlBeanDefinitionReader for the given BeanFactory." />
+      <item value="Initialize any placeholder property sources in the context environment" />
+      <item value="Prepare this context for refreshing." />
       <item value="warning no match for this type name: com.anewb.test.spring.aop.Dao" />
       <item value="** * Constant defining a value for no default - as a replacement for * {@code null} which we cannot use in annotation attributes. * &lt;p&gt;This is an artificial arrangement of 16 unicode characters, * with its sole purpose being to never match user-declared values. * @see RequestParam#defaultValue() * @see RequestHeader#defaultValue() * @see CookieValue#defaultValue() */" />
       <item value="Register bean as disposable." />
@@ -45,14 +53,6 @@
       <item value="// Allows post-processing of the bean factory in context subclasses." />
       <item value="post Process" />
       <item value="post" />
-      <item value="Allows post-processing of the bean factory in context subclasses." />
-      <item value="Prepare the bean factory for use in this context." />
-      <item value="Tell the subclass to refresh the internal bean factory." />
-      <item value="Prepare this context for refreshing." />
-      <item value="Store context in local instance variable, to guarantee that // it is available on ServletContext shutdown." />
-      <item value="Store context in local instance variable, to guarantee that" />
-      <item value="invoke" />
-      <item value="Aware" />
     </histories>
   </component>
 </application>
