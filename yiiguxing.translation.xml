@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Create proxy if we have advice." />
+      <item value="Wrap the given bean if necessary, i.e. if it is eligible for being proxied." />
       <item value="/** * {@link org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator} * subclass that exposes AspectJ's invocation context and understands AspectJ's rules * for advice precedence when multiple pieces of advice come from the same aspect. *" />
       <item value="Bean Component" />
       <item value="pop" />
@@ -51,8 +53,6 @@
       <item value="resolved" />
       <item value="Cglib Subclassing Instantiation Strategy" />
       <item value="Return the instantiation strategy to use for creating bean instances." />
-      <item value="get Security Manager" />
-      <item value="instantiate Using Factory Method" />
     </histories>
   </component>
 </application>
