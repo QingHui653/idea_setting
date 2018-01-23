@@ -3,6 +3,16 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="register the pointcut" />
+      <item value="create instance factory definition" />
+      <item value="create the method factory bean" />
+      <item value="advice Found Already" />
+      <item value="We have to parse &quot;advice&quot; and all the advice kinds in one loop, to get the // ordering semantics right." />
+      <item value="advice" />
+      <item value="We have to parse &quot;advice&quot; and all the advice kinds in one loop, to get the" />
+      <item value="Stack" />
+      <item value="State" />
+      <item value="/** * Simple {@link Stack}-based structure for tracking the logical position during * a parsing process. {@link Entry entries} are added to the stack at * each point during the parse phase in a reader-specific manner. * * &lt;p&gt;Calling {@link #toString()} will render a tree-style view of the current logical * position in the parse phase. This representation is intended for use in * error messages. * * @author Rob Harrop * @since 2.0 */" />
       <item value="use Class Proxying If Necessary" />
       <item value="/** * Configures the auto proxy creator needed to support the {@link BeanDefinition BeanDefinitions} * created by the '{@code &lt;aop:config/&gt;}' tag. Will force class proxying if the * '{@code proxy-target-class}' attribute is set to '{@code true}'. * @see AopNamespaceUtils */" />
       <item value="composite Def" />
@@ -43,16 +53,6 @@
       <item value="&quot;autowire constructor&quot; (with constructor arguments by type) behavior. Also applied if explicit constructor argument values are specified, matching all remaining arguments with beans from the bean factory. This corresponds to constructor injection: In this mode, a Spring bean factory is able to host components that expect constructor-based dependency resolution." />
       <item value="autowire Constructor" />
       <item value="Need to determine the constructor..." />
-      <item value="Instantiate the bean." />
-      <item value="Bean Post Processors" />
-      <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
-      <item value="Prepare method overrides." />
-      <item value="Root Bean Definition" />
-      <item value="Central method of this class: creates a bean instance, * populates the bean instance, applies post-processors, etc." />
-      <item value="// Make sure bean class is actually resolved at this point, and // clone the bean definition in case of a dynamically resolved Class // which cannot be stored in the shared merged bean definition." />
-      <item value="Eagerly check singleton cache for manually registered singletons." />
-      <item value="Check if bean definition exists in this factory." />
-      <item value="// Fail if we're already creating this bean instance: // We're assumably within a circular reference." />
     </histories>
   </component>
 </application>
