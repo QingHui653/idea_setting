@@ -3,7 +3,12 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="/** * {@link org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator} * subclass that exposes AspectJ's invocation context and understands AspectJ's rules * for advice precedence when multiple pieces of advice come from the same aspect. *" />
+      <item value="Bean Component" />
+      <item value="pop" />
+      <item value="register the final advisor" />
       <item value="register the pointcut" />
+      <item value="configure the advisor" />
       <item value="create instance factory definition" />
       <item value="create the method factory bean" />
       <item value="advice Found Already" />
@@ -48,11 +53,6 @@
       <item value="Return the instantiation strategy to use for creating bean instances." />
       <item value="get Security Manager" />
       <item value="instantiate Using Factory Method" />
-      <item value="resolve" />
-      <item value="// Make sure bean class is actually resolved at this point." />
-      <item value="&quot;autowire constructor&quot; (with constructor arguments by type) behavior. Also applied if explicit constructor argument values are specified, matching all remaining arguments with beans from the bean factory. This corresponds to constructor injection: In this mode, a Spring bean factory is able to host components that expect constructor-based dependency resolution." />
-      <item value="autowire Constructor" />
-      <item value="Need to determine the constructor..." />
     </histories>
   </component>
 </application>
