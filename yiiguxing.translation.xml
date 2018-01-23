@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Unit" />
+      <item value="Volume" />
       <item value="Create proxy if we have advice." />
       <item value="Wrap the given bean if necessary, i.e. if it is eligible for being proxied." />
       <item value="/** * {@link org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator} * subclass that exposes AspectJ's invocation context and understands AspectJ's rules * for advice precedence when multiple pieces of advice come from the same aspect. *" />
@@ -51,8 +53,6 @@
       <item value="Method Injection not supported in SimpleInstantiationStrategy" />
       <item value="// Don't override the class with CGLIB if no overrides." />
       <item value="resolved" />
-      <item value="Cglib Subclassing Instantiation Strategy" />
-      <item value="Return the instantiation strategy to use for creating bean instances." />
     </histories>
   </component>
 </application>
