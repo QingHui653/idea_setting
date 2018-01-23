@@ -3,6 +3,17 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="use Class Proxying If Necessary" />
+      <item value="/** * Configures the auto proxy creator needed to support the {@link BeanDefinition BeanDefinitions} * created by the '{@code &lt;aop:config/&gt;}' tag. Will force class proxying if the * '{@code proxy-target-class}' attribute is set to '{@code true}'. * @see AopNamespaceUtils */" />
+      <item value="composite Def" />
+      <item value="parser Context" />
+      <item value="nested Components" />
+      <item value="{@link ComponentDefinition} instances, aggregating them into a named group * of components." />
+      <item value="{@link ComponentDefinition} implementation that holds one or more nested" />
+      <item value="Composite Component Definition" />
+      <item value="/** * Register the {@link BeanDefinitionParser BeanDefinitionParsers} for the * '{@code config}', '{@code spring-configured}', '{@code aspectj-autoproxy}' * and '{@code scoped-proxy}' tags. */" />
+      <item value="Only in 2.0 XSD: moved to context namespace as of 2.1" />
+      <item value="In 2.0 XSD as well as in 2.1 XSD." />
       <item value="&lt;![CDATA[ A section (compartmentalization) of AOP-specific configuration (including aspects, pointcuts, etc)." />
       <item value="Loads the bean definitions via an XmlBeanDefinitionReader." />
       <item value="Initialize any placeholder property sources in the context environment" />
@@ -42,17 +53,6 @@
       <item value="Eagerly check singleton cache for manually registered singletons." />
       <item value="Check if bean definition exists in this factory." />
       <item value="// Fail if we're already creating this bean instance: // We're assumably within a circular reference." />
-      <item value="assert Bean Factory Active ();" />
-      <item value="nitialize LoadTimeWeaverAware beans early to allow for registering their transformers early." />
-      <item value="// Initialize conversion service for this context." />
-      <item value="Check for listener beans and register them." />
-      <item value="Initialize other special beans in specific context subclasses." />
-      <item value="Initialize event multicaster for this context." />
-      <item value="Initialize message source for this context." />
-      <item value="Register bean processors that intercept bean creation." />
-      <item value="Register" />
-      <item value="Invoke factory processors registered as beans in the context." />
-      <item value="// Allows post-processing of the bean factory in context subclasses." />
     </histories>
   </component>
 </application>
