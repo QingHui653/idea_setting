@@ -3,11 +3,11 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Create proxy if we have advice." />
       <item value="advisor" />
       <item value="0" />
       <item value="Unit" />
       <item value="Volume" />
-      <item value="Create proxy if we have advice." />
       <item value="Wrap the given bean if necessary, i.e. if it is eligible for being proxied." />
       <item value="/** * {@link org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator} * subclass that exposes AspectJ's invocation context and understands AspectJ's rules * for advice precedence when multiple pieces of advice come from the same aspect. *" />
       <item value="Bean Component" />
