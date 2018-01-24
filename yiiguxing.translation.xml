@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="0" />
       <item value="Unit" />
       <item value="Volume" />
       <item value="Create proxy if we have advice." />
@@ -52,7 +53,6 @@
       <item value="Create a new instance of a dynamically generated subclass implementing the * required lookups." />
       <item value="Method Injection not supported in SimpleInstantiationStrategy" />
       <item value="// Don't override the class with CGLIB if no overrides." />
-      <item value="resolved" />
     </histories>
   </component>
 </application>
