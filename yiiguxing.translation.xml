@@ -3,6 +3,15 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="has Introductions" />
+      <item value="find Advisors That Can Apply" />
+      <item value="found Aspect J Advice" />
+      <item value="Eligible" />
+      <item value="find Eligible Advisors" />
+      <item value="candidate Advisors" />
+      <item value="candidate" />
+      <item value="Find all candidate Advisors to use in auto-proxying." />
+      <item value="get Advices And Advisors For Bean" />
       <item value="Create proxy if we have advice." />
       <item value="advisor" />
       <item value="0" />
@@ -44,15 +53,6 @@
       <item value="parse Default Element" />
       <item value="Parse the elements at the root level in the document: * &quot;import&quot;, &quot;alias&quot;, &quot;bean&quot;. * @param root the DOM root element of the document" />
       <item value="Create a new XmlBeanDefinitionReader for the given BeanFactory." />
-      <item value="Prepare this context for refreshing." />
-      <item value="warning no match for this type name: com.anewb.test.spring.aop.Dao" />
-      <item value="** * Constant defining a value for no default - as a replacement for * {@code null} which we cannot use in annotation attributes. * &lt;p&gt;This is an artificial arrangement of 16 unicode characters, * with its sole purpose being to never match user-declared values. * @see RequestParam#defaultValue() * @see RequestHeader#defaultValue() * @see CookieValue#defaultValue() */" />
-      <item value="Register bean as disposable." />
-      <item value="The PostConstruct annotation is used on a method that needs to be executed after dependency injection is done to perform any initialization. This method MUST be invoked before the class is put into service. This annotation MUST be supported on all classes that support dependency injection. The method annotated with PostConstruct MUST be invoked even if the class does not request any resources to be injected. Only one method can be annotated with this annotation. The method on which the PostConstruct annotation is applied MUST fulfill all of the following criteria: The method MUST NOT have any parameters except in the case of interceptors in which case it takes an InvocationContext object as defined by the Interceptors specification. The method defined on an interceptor class MUST HAVE one of the following signatures: void &lt;METHOD&gt;(InvocationContext) Object &lt;METHOD&gt;(InvocationContext) throws Exception Note: A PostConstruct interceptor method must not throw application exceptions, but it may be declared to throw checked exceptions including the java.lang.Exception if the same interceptor method interposes on business or timeout methods in addition to lifecycle events. If a PostConstruct interceptor method returns a value, it is ignored by the container. The method defined on a non-interceptor class MUST HAVE the following signature: void &lt;METHOD&gt;() The method on which PostConstruct is applied MAY be public, protected, package private or private. The method MUST NOT be static except for the application client. The method MAY be final. If the method throws an unchecked exception the class MUST NOT be put into service except in the case of EJBs where the EJB can handle exceptions and even recover from them." />
-      <item value="initialize Bean" />
-      <item value="is Synthetic" />
-      <item value="Create a new instance of a dynamically generated subclass implementing the * required lookups." />
-      <item value="Method Injection not supported in SimpleInstantiationStrategy" />
     </histories>
   </component>
 </application>
