@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="partner" />
       <item value="PATTERN NAME" />
       <item value="Abstract Bean Definition Parser" />
       <item value="a tiny implementation of Promises/A+." />
@@ -52,7 +53,6 @@
       <item value="advice Found Already" />
       <item value="We have to parse &quot;advice&quot; and all the advice kinds in one loop, to get the // ordering semantics right." />
       <item value="advice" />
-      <item value="We have to parse &quot;advice&quot; and all the advice kinds in one loop, to get the" />
     </histories>
   </component>
 </application>
