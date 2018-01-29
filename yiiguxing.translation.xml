@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="on Release" />
+      <item value="on Scrolling" />
+      <item value="scroll It" />
+      <item value="on Pulling" />
       <item value="partner" />
       <item value="PATTERN NAME" />
       <item value="Abstract Bean Definition Parser" />
@@ -49,10 +53,6 @@
       <item value="register the pointcut" />
       <item value="configure the advisor" />
       <item value="create instance factory definition" />
-      <item value="create the method factory bean" />
-      <item value="advice Found Already" />
-      <item value="We have to parse &quot;advice&quot; and all the advice kinds in one loop, to get the // ordering semantics right." />
-      <item value="advice" />
     </histories>
   </component>
 </application>
