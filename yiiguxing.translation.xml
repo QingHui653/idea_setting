@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="escape" />
       <item value="Bulletin Board" />
       <item value="No qualifying bean of type [com.ivyb2b.oms.stock.service.IInoutListService] is defined: expected single matching bean but found 2: inoutListServiceImpl,InoutListService" />
       <item value="source" />
@@ -52,7 +53,6 @@
       <item value="/** * {@link org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator} * subclass that exposes AspectJ's invocation context and understands AspectJ's rules * for advice precedence when multiple pieces of advice come from the same aspect. *" />
       <item value="Bean Component" />
       <item value="pop" />
-      <item value="register the final advisor" />
     </histories>
   </component>
 </application>
