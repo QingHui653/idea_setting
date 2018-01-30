@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Bulletin Board" />
       <item value="No qualifying bean of type [com.ivyb2b.oms.stock.service.IInoutListService] is defined: expected single matching bean but found 2: inoutListServiceImpl,InoutListService" />
       <item value="source" />
       <item value="on Release" />
@@ -52,7 +53,6 @@
       <item value="Bean Component" />
       <item value="pop" />
       <item value="register the final advisor" />
-      <item value="register the pointcut" />
     </histories>
   </component>
 </application>
