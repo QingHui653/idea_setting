@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="more than 1 default extension name on extension" />
+      <item value="DUBBO INTERNAL DIRECTORY" />
       <item value="is Invalid Local Host" />
       <item value="anyhost" />
       <item value="is Primitive" />
@@ -51,8 +53,6 @@
       <item value="find Advisors That Can Apply" />
       <item value="found Aspect J Advice" />
       <item value="Eligible" />
-      <item value="find Eligible Advisors" />
-      <item value="candidate Advisors" />
     </histories>
   </component>
 </application>
