@@ -3,6 +3,11 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="is Primitive" />
+      <item value="legacy Properties" />
+      <item value="check Stub And Mock" />
+      <item value="deprecated" />
+      <item value="服务是否已经 deprecated" />
       <item value="Expected method. item.processTime?string evaluated instead to freemarker.template.SimpleScalar" />
       <item value="to" />
       <item value="instead" />
@@ -48,11 +53,6 @@
       <item value="candidate Advisors" />
       <item value="candidate" />
       <item value="Find all candidate Advisors to use in auto-proxying." />
-      <item value="get Advices And Advisors For Bean" />
-      <item value="Create proxy if we have advice." />
-      <item value="advisor" />
-      <item value="0" />
-      <item value="Unit" />
     </histories>
   </component>
 </application>
