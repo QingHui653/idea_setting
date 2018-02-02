@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="optimize Serialization" />
+      <item value="injvm" />
       <item value="more than 1 default extension name on extension" />
       <item value="DUBBO INTERNAL DIRECTORY" />
       <item value="is Invalid Local Host" />
@@ -51,8 +53,6 @@
       <item value="Expose the given target class for the specified bean, if possible." />
       <item value="has Introductions" />
       <item value="find Advisors That Can Apply" />
-      <item value="found Aspect J Advice" />
-      <item value="Eligible" />
     </histories>
   </component>
 </application>
