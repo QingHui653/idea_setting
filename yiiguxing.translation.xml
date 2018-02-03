@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="this must only be called AFTER common constructor" />
+      <item value="important: this must only be called AFTER common constructor" />
       <item value="KSZZCK" />
       <item value="DEFAULT" />
       <item value="Expected one result (or null) to be returned by selectOne(), but found: &quot;" />
@@ -51,8 +53,6 @@
       <item value="Protocol" />
       <item value="the resulting byte size of encoding is" />
       <item value="TODO modified by lishen" />
-      <item value="Invoke the given target via reflection, as part of an AOP method invocation." />
-      <item value="Reflection" />
     </histories>
   </component>
 </application>
