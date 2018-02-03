@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Intentionally ignore. Prefer previous error." />
+      <item value="Build a SqlSessionFactory instance. The default implementation uses the standard MyBatis XMLConfigBuilder API to build a SqlSessionFactory instance based on an Reader." />
+      <item value="The default implementation uses the standard MyBatis {@code XMLConfigBuilder} API to build a * {@code SqlSessionFactory} instance based on an Reader." />
       <item value="modified by lishen" />
       <item value="optimizer" />
       <item value="TODO change to a better name" />
@@ -50,9 +53,6 @@
       <item value="OPTTYPE DELETE" />
       <item value="optimize Serialization" />
       <item value="injvm" />
-      <item value="more than 1 default extension name on extension" />
-      <item value="DUBBO INTERNAL DIRECTORY" />
-      <item value="is Invalid Local Host" />
     </histories>
   </component>
 </application>
