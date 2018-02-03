@@ -3,6 +3,24 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="export an stub service for dispaching event" />
+      <item value="dispaching" />
+      <item value="event" />
+      <item value="stub" />
+      <item value="Key" />
+      <item value="service" />
+      <item value="service Key" />
+      <item value="export service." />
+      <item value="Protocol" />
+      <item value="the resulting byte size of encoding is" />
+      <item value="TODO modified by lishen" />
+      <item value="Invoke the given target via reflection, as part of an AOP method invocation." />
+      <item value="Reflection" />
+      <item value="Joinpoint" />
+      <item value="invoke" />
+      <item value="OPTTYPE" />
+      <item value="DELETE" />
+      <item value="OPTTYPE DELETE" />
       <item value="optimize Serialization" />
       <item value="injvm" />
       <item value="more than 1 default extension name on extension" />
@@ -35,24 +53,6 @@
       <item value="Property 'dataSource' is required&quot;" />
       <item value="Abstract base class that implements Spring's standard transaction workflow, serving as basis for concrete platform transaction managers like org.springframework.transaction.jta.JtaTransactionManager. This base class provides the following workflow handling: determines if there is an existing transaction; applies the appropriate propagation behavior; suspends and resumes transactions if necessary; checks the rollback-only flag on commit; applies the appropriate modification on rollback (actual rollback or setting rollback-only); triggers registered synchronization callbacks (if transaction synchronization is active). Subclasses have to implement specific template methods for specific states of a transaction, e.g.: begin, suspend, resume, commit, rollback. The most important of them are abstract and must be provided by a concrete implementation; for the rest, defaults are provided, so overriding is optional. Transaction synchronization is a generic mechanism for registering callbacks that get invoked at transaction completion time. This is mainly used internally by the data access support classes for JDBC, Hibernate, JPA, etc when running within a JTA transaction: They register resources that are opened within the transaction for closing at transaction completion time, allowing e.g. for reuse of the same Hibernate Session within the transaction. The same mechanism can also be leveraged for custom synchronization needs in an application. The state of this class is serializable, to allow for serializing the transaction strategy along with proxies that carry a transaction interceptor. It is up to subclasses if they wish to make their state to be serializable too. They should implement the java.io.Serializable marker interface in that case, and potentially a private readObject() method (according to Java serialization rules) if they need to restore any transient state." />
       <item value="Exception thrown when an operation is attempted that * relies on an existing transaction (such as setting * rollback status) and there is no existing transaction. * This represents an illegal usage of the transaction API. *" />
-      <item value="We may need additional runtime (argument) check." />
-      <item value="We start with an index of -1 and increment early." />
-      <item value="if (dm.methodMatcher.matches(this.method, this.targetClass, this.arguments)) { return dm.interceptor.invoke(this); }" />
-      <item value="We need to create a method invocation..." />
-      <item value="Proceed to the joinpoint through the interceptor chain." />
-      <item value="Get the interception chain for this method." />
-      <item value="Restore old proxy." />
-      <item value="Must have come from TargetSource." />
-      <item value="May be null. Get as late as possible to minimize the time we &quot;own&quot; the target, // in case it comes from a pool." />
-      <item value="find Defined Equals And Hash Code Methods" />
-      <item value="is Optimize" />
-      <item value="/** * Set whether this config should be frozen. * &lt;p&gt;When a config is frozen, no advice changes can be made. This is * useful for optimization, and useful when we don't want callers to * be able to manipulate configuration after casting to Advised. */" />
-      <item value="** * Subclasses may choose to implement this: for example, * to change the interfaces exposed. * &lt;p&gt;The default implementation is empty. * @param proxyFactory ProxyFactory that is already configured with * TargetSource and interfaces and will be used to create the proxy * immediately after this method returns */" />
-      <item value="/** * Subclasses may choose to implement this: for example, * to change the interfaces exposed. * &lt;p&gt;The default implementation is empty. * @param proxyFactory ProxyFactory that is already configured with * TargetSource and interfaces and will be used to create the proxy * immediately after this method returns */" />
-      <item value="should Proxy Target Class" />
-      <item value="Expose the given target class for the specified bean, if possible." />
-      <item value="has Introductions" />
-      <item value="find Advisors That Can Apply" />
     </histories>
   </component>
 </application>
