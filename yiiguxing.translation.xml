@@ -3,6 +3,12 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="DEFAULT" />
+      <item value="Expected one result (or null) to be returned by selectOne(), but found: &quot;" />
+      <item value="andles MyBatis SqlSession life cycle. It can register and get SqlSessions from * Spring {@code TransactionSynchronizationManager}. Also works if no transaction is active." />
+      <item value="Set optional properties to be passed into the SqlSession configuration, as alternative to a * {@code &amp;lt;properties&amp;gt;} tag in the configuration xml file. This will be used to * resolve placeholders in the config file." />
+      <item value="If true, a final check is done on Configuration to assure that all mapped * statements are fully loaded and there is no one still pending to resolve * includes. Defaults to false." />
+      <item value="object Factory" />
       <item value="Intentionally ignore. Prefer previous error." />
       <item value="Build a SqlSessionFactory instance. The default implementation uses the standard MyBatis XMLConfigBuilder API to build a SqlSessionFactory instance based on an Reader." />
       <item value="The default implementation uses the standard MyBatis {@code XMLConfigBuilder} API to build a * {@code SqlSessionFactory} instance based on an Reader." />
@@ -47,12 +53,6 @@
       <item value="Invoke the given target via reflection, as part of an AOP method invocation." />
       <item value="Reflection" />
       <item value="Joinpoint" />
-      <item value="invoke" />
-      <item value="OPTTYPE" />
-      <item value="DELETE" />
-      <item value="OPTTYPE DELETE" />
-      <item value="optimize Serialization" />
-      <item value="injvm" />
     </histories>
   </component>
 </application>
