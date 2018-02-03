@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="KSZZCK" />
       <item value="DEFAULT" />
       <item value="Expected one result (or null) to be returned by selectOne(), but found: &quot;" />
       <item value="andles MyBatis SqlSession life cycle. It can register and get SqlSessions from * Spring {@code TransactionSynchronizationManager}. Also works if no transaction is active." />
@@ -52,7 +53,6 @@
       <item value="TODO modified by lishen" />
       <item value="Invoke the given target via reflection, as part of an AOP method invocation." />
       <item value="Reflection" />
-      <item value="Joinpoint" />
     </histories>
   </component>
 </application>
