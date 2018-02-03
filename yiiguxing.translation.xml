@@ -3,6 +3,23 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Verify that merged regions do not intersect multi-cell array formulas and * no merged regions intersect another merged region in this sheet." />
+      <item value="get Column Width In Pixels" />
+      <item value="Get the hidden state for a given column." />
+      <item value="Adds a merged region of cells on a sheet." />
+      <item value="High level HSSFRow object representing a row in the sheet" />
+      <item value="row number" />
+      <item value="Create a new row within the sheet and return the high level representation" />
+      <item value="/** * Returns the column outline level. Increased as you * put it into more groups (outlines), reduced as * you take it out of them. */" />
+      <item value="Returns the column outline level. Increased as you" />
+      <item value="get Column Outline Level" />
+      <item value="shift Rows" />
+      <item value="get Top Row" />
+      <item value="Shifts rows between startRow and endRow n number of rows. * If you use a negative number, it will shift rows up. * Code ensures that rows don't wrap around" />
+      <item value="the number of rows to shift" />
+      <item value="Additionally shifts merged regions that are completely defined in these * rows (ie. merged 2 cells on a row to be shifted). All merged regions that are * completely overlaid by shifting will be deleted." />
+      <item value="** * Shifts rows between startRow and endRow n number of rows. * If you use a negative number, it will shift rows up. * Code ensures that rows don't wrap around. * * Calls shiftRows(startRow, endRow, n, false, false); * * &lt;p&gt; * Additionally shifts merged regions that are completely defined in these * rows (ie. merged 2 cells on a row to be shifted). * @param startRow the row to start shifting * @param endRow the row to end shifting * @param n the number of rows to shift */" />
+      <item value="set Row Break" />
       <item value="176" />
       <item value="issue" />
       <item value="issue #176" />
@@ -36,23 +53,6 @@
       <item value="Build a SqlSessionFactory instance. The default implementation uses the standard MyBatis XMLConfigBuilder API to build a SqlSessionFactory instance based on an Reader." />
       <item value="The default implementation uses the standard MyBatis {@code XMLConfigBuilder} API to build a * {@code SqlSessionFactory} instance based on an Reader." />
       <item value="modified by lishen" />
-      <item value="optimizer" />
-      <item value="TODO change to a better name" />
-      <item value="DEFAULT THREAD NAME" />
-      <item value="DEFAULT REMOTING SERIALIZATION" />
-      <item value="DEFAULT HTTP SERIALIZATION" />
-      <item value="DEFAULT HTTP SERVER" />
-      <item value="DEFAULT REMOTING CODEC" />
-      <item value="DEFAULT REMOTING CLIENT" />
-      <item value="DEFAULT REMOTING SERVER" />
-      <item value="DEFAULT TRANSPORTER" />
-      <item value="failover" />
-      <item value="can not be interface!" />
-      <item value="Input type" />
-      <item value="get Default Extension Name" />
-      <item value="code" />
-      <item value="*/" />
-      <item value="// load classes" />
     </histories>
   </component>
 </application>
