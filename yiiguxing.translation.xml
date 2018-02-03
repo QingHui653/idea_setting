@@ -3,6 +3,20 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="176" />
+      <item value="issue" />
+      <item value="issue #176" />
+      <item value="cache Key" />
+      <item value="clear Local Cache" />
+      <item value="Executor" />
+      <item value="Clinton" />
+      <item value="Begin" />
+      <item value="Error" />
+      <item value="Error Context" />
+      <item value="V" />
+      <item value="K" />
+      <item value="mappers" />
+      <item value="Error parsing SQL Mapper Configuration. Cause" />
       <item value="SQL Mapper Configuration" />
       <item value="Converts a public DTD into a local one" />
       <item value="/* * Converts a public DTD into a local one * * @param publicId Unused but required by EntityResolver interface * @param systemId The DTD that is being requested * @return The InputSource for the DTD * @throws org.xml.sax.SAXException If anything goes wrong */" />
@@ -39,20 +53,6 @@
       <item value="code" />
       <item value="*/" />
       <item value="// load classes" />
-      <item value="synchronized" />
-      <item value="hronized" />
-      <item value="sync" />
-      <item value="Factory" />
-      <item value="Extension" />
-      <item value="Spi" />
-      <item value="Spi Extension Factory" />
-      <item value="请注意： * 如果和Socket的地址对比， * 或用地址作为Map的Key查找， * 请使用IP而不是Host， * 否则配置域名会有问题" />
-      <item value="Injvm" />
-      <item value="export an stub service for dispaching event" />
-      <item value="dispaching" />
-      <item value="event" />
-      <item value="stub" />
-      <item value="Key" />
     </histories>
   </component>
 </application>
