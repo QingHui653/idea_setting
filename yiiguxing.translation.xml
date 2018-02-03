@@ -3,6 +3,12 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="can not be interface!" />
+      <item value="Input type" />
+      <item value="get Default Extension Name" />
+      <item value="code" />
+      <item value="*/" />
+      <item value="// load classes" />
       <item value="synchronized" />
       <item value="hronized" />
       <item value="sync" />
@@ -47,12 +53,6 @@
       <item value="evaluated" />
       <item value="?string evaluated instead to freemarker.template.SimpleScalar" />
       <item value="escape" />
-      <item value="Bulletin Board" />
-      <item value="No qualifying bean of type [com.ivyb2b.oms.stock.service.IInoutListService] is defined: expected single matching bean but found 2: inoutListServiceImpl,InoutListService" />
-      <item value="source" />
-      <item value="on Release" />
-      <item value="on Scrolling" />
-      <item value="scroll It" />
     </histories>
   </component>
 </application>
