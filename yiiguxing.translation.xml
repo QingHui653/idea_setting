@@ -3,6 +3,18 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="modified by lishen" />
+      <item value="optimizer" />
+      <item value="TODO change to a better name" />
+      <item value="DEFAULT THREAD NAME" />
+      <item value="DEFAULT REMOTING SERIALIZATION" />
+      <item value="DEFAULT HTTP SERIALIZATION" />
+      <item value="DEFAULT HTTP SERVER" />
+      <item value="DEFAULT REMOTING CODEC" />
+      <item value="DEFAULT REMOTING CLIENT" />
+      <item value="DEFAULT REMOTING SERVER" />
+      <item value="DEFAULT TRANSPORTER" />
+      <item value="failover" />
       <item value="can not be interface!" />
       <item value="Input type" />
       <item value="get Default Extension Name" />
@@ -41,18 +53,6 @@
       <item value="more than 1 default extension name on extension" />
       <item value="DUBBO INTERNAL DIRECTORY" />
       <item value="is Invalid Local Host" />
-      <item value="anyhost" />
-      <item value="is Primitive" />
-      <item value="legacy Properties" />
-      <item value="check Stub And Mock" />
-      <item value="deprecated" />
-      <item value="服务是否已经 deprecated" />
-      <item value="Expected method. item.processTime?string evaluated instead to freemarker.template.SimpleScalar" />
-      <item value="to" />
-      <item value="instead" />
-      <item value="evaluated" />
-      <item value="?string evaluated instead to freemarker.template.SimpleScalar" />
-      <item value="escape" />
     </histories>
   </component>
 </application>
