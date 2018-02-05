@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="版本的 excel" />
       <item value="Verify that merged regions do not intersect multi-cell array formulas and * no merged regions intersect another merged region in this sheet." />
       <item value="get Column Width In Pixels" />
       <item value="Get the hidden state for a given column." />
@@ -52,7 +53,6 @@
       <item value="Intentionally ignore. Prefer previous error." />
       <item value="Build a SqlSessionFactory instance. The default implementation uses the standard MyBatis XMLConfigBuilder API to build a SqlSessionFactory instance based on an Reader." />
       <item value="The default implementation uses the standard MyBatis {@code XMLConfigBuilder} API to build a * {@code SqlSessionFactory} instance based on an Reader." />
-      <item value="modified by lishen" />
     </histories>
   </component>
 </application>
