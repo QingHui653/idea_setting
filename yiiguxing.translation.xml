@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Returns a string representation of the first argument in the radix specified by the second argument. If the radix is smaller than Character.MIN_RADIX or larger than Character.MAX_RADIX, then the radix 10 is used instead. If the first argument is negative, the first element of the result is the ASCII minus character '-' ('\u002D'). If the first argument is not negative, no sign character appears in the result. The remaining characters of the result represent the magnitude of the first argument. If the magnitude is zero, it is represented by a single zero character '0' ('\u0030'); otherwise, the first character of the representation of the magnitude will not be the zero character. The following ASCII characters are used as digits: 0123456789abcdefghijklmnopqrstuvwxyz These are '\u0030' through '\u0039' and '\u0061' through '\u007A'. If radix is N, then the first N of these characters are used as radix-N digits in the order shown. Thus, the digits for hexadecimal (radix 16) are 0123456789abcdef. If uppercase letters are desired, the String.toUpperCase() method may be called on the result: Integer.toString(n, 16).toUpperCase()" />
+      <item value="All possible chars for representing a number as a String" />
+      <item value="The {@code Class} instance representing the primitive type" />
+      <item value="Primitive Class" />
       <item value="If you think this is an error, contact support@zeroturnaround.com." />
       <item value="Failed to acquire a seat from License Server!" />
       <item value="Trial License expired." />
@@ -49,10 +53,6 @@
       <item value="/* * Copyright 2009-2012 the original author or authors. * * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); * you may not use this file except in compliance with the License. * You may obtain a copy of the License at * * http://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License. */" />
       <item value="this must only be called AFTER common constructor" />
       <item value="important: this must only be called AFTER common constructor" />
-      <item value="KSZZCK" />
-      <item value="DEFAULT" />
-      <item value="Expected one result (or null) to be returned by selectOne(), but found: &quot;" />
-      <item value="andles MyBatis SqlSession life cycle. It can register and get SqlSessions from * Spring {@code TransactionSynchronizationManager}. Also works if no transaction is active." />
     </histories>
   </component>
 </application>
