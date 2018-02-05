@@ -3,6 +3,24 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="avoid getfield opcode" />
+      <item value="/** * Concatenates the specified string to the end of this string. * &lt;p&gt; * If the length of the argument string is &lt;code&gt;0&lt;/code&gt;, then this * &lt;code&gt;String&lt;/code&gt; object is returned. Otherwise, a new * &lt;code&gt;String&lt;/code&gt; object is created, representing a character * sequence that is the concatenation of the character sequence * represented by this &lt;code&gt;String&lt;/code&gt; object and the character * sequence represented by the argument string.&lt;p&gt; * Examples: * &lt;blockquote&gt;&lt;pre&gt; * &quot;cares&quot;.concat(&quot;s&quot;) returns &quot;caress&quot; * &quot;to&quot;.concat(&quot;get&quot;).concat(&quot;her&quot;) returns &quot;together&quot; * &lt;/pre&gt;&lt;/blockquote&gt; * * @param str the &lt;code&gt;String&lt;/code&gt; that is concatenated to the end * of this &lt;code&gt;String&lt;/code&gt;. * @return a string that represents the concatenation of this object's * characters followed by the string argument's characters." />
+      <item value="sub Sequence" />
+      <item value="Returns the index within this string of the first occurrence of the * specified substring." />
+      <item value="Handles (rare) calls of lastIndexOf with a supplementary character." />
+      <item value="Returns the index within this string of the last occurrence of the specified character. For values of ch in the range from 0 to 0xFFFF (inclusive), the index (in Unicode code units) returned is the largest value k such that: this.charAt(k) == ch is true. For other values of ch, it is the largest value k such that: this.codePointAt(k) == ch is true. In either case, if no such character occurs in this string, then -1 is returned. The String is searched backwards starting at the last character." />
+      <item value="Handles (rare) calls of indexOf with a supplementary character." />
+      <item value="Tests if two string regions are equal. A substring of this String object is compared to a substring of the argument other. The result is true if these substrings represent identical character sequences. The substring of this String object to be compared begins at index toffset and has length len. The substring of other to be compared begins at index ooffset and has length len. The result is false if and only if at least one of the following is true: toffset is negative. ooffset is negative. toffset+len is greater than the length of this String object. ooffset+len is greater than the length of the other argument. There is some nonnegative integer k less than len such that: this.charAt(toffset+k) != other.charAt(ooffset+k)" />
+      <item value="No overflow because of numeric promotion" />
+      <item value="equals Ignore Case" />
+      <item value="Argument is a StringBuffer, StringBuilder" />
+      <item value="content Equals" />
+      <item value="content" />
+      <item value="handle most cases here (ch is a BMP code point or a // negative value (invalid code point))" />
+      <item value="Note: toffset might be near -1&gt;&gt;&gt;1." />
+      <item value="pa" />
+      <item value="Returns the character (Unicode code point) at the specified index. The index refers to char values (Unicode code units) and ranges from 0 to length() - 1. If the char value specified at the given index is in the high-surrogate range, the following index is less than the length of this String, and the char value at the following index is in the low-surrogate range, then the supplementary code point corresponding to this surrogate pair is returned. Otherwise, the char value at the given index is returned." />
+      <item value="/* Common private utility method used to bounds check the byte array * and requested offset &amp; length values used by the String(byte[],..) * constructors. */" />
       <item value="rotate Right" />
       <item value="Returns the value obtained by reversing the order of the bits in the * two's complement binary representation of the specified {@code int} * value." />
       <item value="Returns the signum function of the specified {@code int} value. (The * return value is -1 if the specified value is negative; 0 if the * specified value is zero; and 1 if the specified value is positive.)" />
@@ -35,24 +53,6 @@
       <item value="digits" />
       <item value="Places characters representing the integer i into the * character array buf. The characters are placed into * the buffer backwards starting with the least significant * digit at the specified index (exclusive), and working * backwards from there." />
       <item value="positive" />
-      <item value="Requires" />
-      <item value="// I use the &quot;invariant division by multiplication&quot; trick to // accelerate Integer.toString. In particular we want to // avoid division by 10. // // The &quot;trick&quot; has roughly the same performance characteristics // as the &quot;classic&quot; Integer.toString code on a non-JIT VM. // The trick avoids .rem and .div calls but has a longer code // path and is thus dominated by dispatch overhead. In the // JIT case the dispatch overhead doesn't exist and the // &quot;trick&quot; is considerably faster than the classic code. // // TODO-FIXME: convert (x * 52429) into the equiv shift-add // sequence. // // RE: Division by Invariant Integers using Multiplication // T Gralund, P Montgomery // ACM PLDI 1994 //" />
-      <item value="Digit" />
-      <item value="Digit Tens" />
-      <item value="Convert the integer to an unsigned number." />
-      <item value="Binary" />
-      <item value="Octal" />
-      <item value="Returns a string representation of the integer argument as an unsigned integer in base 16. The unsigned integer value is the argument plus 232 if the argument is negative; otherwise, it is equal to the argument. This value is converted to a string of ASCII digits in hexadecimal (base 16) with no extra leading 0s. If the unsigned magnitude is zero, it is represented by a single zero character '0' ('\u0030'); otherwise, the first character of the representation of the unsigned magnitude will not be the zero character. The following characters are used as hexadecimal digits: 0123456789abcdef These are the characters '\u0030' through '\u0039' and '\u0061' through '\u0066'. If uppercase letters are desired, the String.toUpperCase() method may be called on the result: Integer.toHexString(n).toUpperCase()" />
-      <item value="Hex" />
-      <item value="Returns a string representation of the integer argument as an * unsigned integer in base&amp;nbsp;16. * * &lt;p&gt;The unsigned integer value is the argument plus 2&lt;sup&gt;32&lt;/sup&gt; * if the argument is negative; otherwise, it is equal to the * argument. This value is converted to a string of ASCII digits * in hexadecimal (base&amp;nbsp;16) with no extra leading * {@code 0}s. If the unsigned magnitude is zero, it is * represented by a single zero character {@code '0'} * (&lt;code&gt;'&amp;#92;u0030'&lt;/code&gt;); otherwise, the first character of * the representation of the unsigned magnitude will not be the * zero character. The following characters are used as * hexadecimal digits:" />
-      <item value="Returns a string representation of the first argument in the radix specified by the second argument. If the radix is smaller than Character.MIN_RADIX or larger than Character.MAX_RADIX, then the radix 10 is used instead. If the first argument is negative, the first element of the result is the ASCII minus character '-' ('\u002D'). If the first argument is not negative, no sign character appears in the result. The remaining characters of the result represent the magnitude of the first argument. If the magnitude is zero, it is represented by a single zero character '0' ('\u0030'); otherwise, the first character of the representation of the magnitude will not be the zero character. The following ASCII characters are used as digits: 0123456789abcdefghijklmnopqrstuvwxyz These are '\u0030' through '\u0039' and '\u0061' through '\u007A'. If radix is N, then the first N of these characters are used as radix-N digits in the order shown. Thus, the digits for hexadecimal (radix 16) are 0123456789abcdef. If uppercase letters are desired, the String.toUpperCase() method may be called on the result: Integer.toString(n, 16).toUpperCase()" />
-      <item value="All possible chars for representing a number as a String" />
-      <item value="The {@code Class} instance representing the primitive type" />
-      <item value="Primitive Class" />
-      <item value="If you think this is an error, contact support@zeroturnaround.com." />
-      <item value="Failed to acquire a seat from License Server!" />
-      <item value="Trial License expired." />
-      <item value="at least 0 redeploys/restarts saving you about 0 hours." />
     </histories>
   </component>
 </application>
