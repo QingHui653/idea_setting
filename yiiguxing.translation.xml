@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="If you think this is an error, contact support@zeroturnaround.com." />
+      <item value="Failed to acquire a seat from License Server!" />
+      <item value="Trial License expired." />
+      <item value="at least 0 redeploys/restarts saving you about 0 hours." />
+      <item value="Over the last 2 days JRebel prevented" />
+      <item value="JRebel Agent 7.1.5 (201801171200)" />
       <item value="版本的 excel" />
       <item value="Verify that merged regions do not intersect multi-cell array formulas and * no merged regions intersect another merged region in this sheet." />
       <item value="get Column Width In Pixels" />
@@ -47,12 +53,6 @@
       <item value="DEFAULT" />
       <item value="Expected one result (or null) to be returned by selectOne(), but found: &quot;" />
       <item value="andles MyBatis SqlSession life cycle. It can register and get SqlSessions from * Spring {@code TransactionSynchronizationManager}. Also works if no transaction is active." />
-      <item value="Set optional properties to be passed into the SqlSession configuration, as alternative to a * {@code &amp;lt;properties&amp;gt;} tag in the configuration xml file. This will be used to * resolve placeholders in the config file." />
-      <item value="If true, a final check is done on Configuration to assure that all mapped * statements are fully loaded and there is no one still pending to resolve * includes. Defaults to false." />
-      <item value="object Factory" />
-      <item value="Intentionally ignore. Prefer previous error." />
-      <item value="Build a SqlSessionFactory instance. The default implementation uses the standard MyBatis XMLConfigBuilder API to build a SqlSessionFactory instance based on an Reader." />
-      <item value="The default implementation uses the standard MyBatis {@code XMLConfigBuilder} API to build a * {@code SqlSessionFactory} instance based on an Reader." />
     </histories>
   </component>
 </application>
