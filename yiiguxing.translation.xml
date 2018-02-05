@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="rotate" />
       <item value="highest One Bit" />
       <item value="** * Compares two {@code int} values numerically. * The value returned is identical to what would be returned by: * &lt;pre&gt; * Integer.valueOf(x).compareTo(Integer.valueOf(y)) * &lt;/pre&gt; * * @param x the first {@code int} to compare * @param y the second {@code int} to compare * @return the value {@code 0} if {@code x == y}; * a value less than {@code 0} if {@code x &lt; y}; and * a value greater than {@code 0} if {@code x &gt; y} * @since 1.7 */" />
       <item value="Handle radix specifier, if present" />
@@ -52,7 +53,6 @@
       <item value="Get the hidden state for a given column." />
       <item value="Adds a merged region of cells on a sheet." />
       <item value="High level HSSFRow object representing a row in the sheet" />
-      <item value="row number" />
     </histories>
   </component>
 </application>
