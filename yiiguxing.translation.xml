@@ -3,6 +3,14 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="rotate Right" />
+      <item value="Returns the value obtained by reversing the order of the bits in the * two's complement binary representation of the specified {@code int} * value." />
+      <item value="Returns the signum function of the specified {@code int} value. (The * return value is -1 if the specified value is negative; 0 if the * specified value is zero; and 1 if the specified value is positive.)" />
+      <item value="HD, Section 2-7" />
+      <item value="signum" />
+      <item value="interoperability" />
+      <item value="Returns the value obtained by reversing the order of the bytes in the * two's complement representation of the specified {@code int} value." />
+      <item value="reverse Bytes" />
       <item value="rotate" />
       <item value="highest One Bit" />
       <item value="** * Compares two {@code int} values numerically. * The value returned is identical to what would be returned by: * &lt;pre&gt; * Integer.valueOf(x).compareTo(Integer.valueOf(y)) * &lt;/pre&gt; * * @param x the first {@code int} to compare * @param y the second {@code int} to compare * @return the value {@code 0} if {@code x == y}; * a value less than {@code 0} if {@code x &lt; y}; and * a value greater than {@code 0} if {@code x &gt; y} * @since 1.7 */" />
@@ -45,14 +53,6 @@
       <item value="Failed to acquire a seat from License Server!" />
       <item value="Trial License expired." />
       <item value="at least 0 redeploys/restarts saving you about 0 hours." />
-      <item value="Over the last 2 days JRebel prevented" />
-      <item value="JRebel Agent 7.1.5 (201801171200)" />
-      <item value="版本的 excel" />
-      <item value="Verify that merged regions do not intersect multi-cell array formulas and * no merged regions intersect another merged region in this sheet." />
-      <item value="get Column Width In Pixels" />
-      <item value="Get the hidden state for a given column." />
-      <item value="Adds a merged region of cells on a sheet." />
-      <item value="High level HSSFRow object representing a row in the sheet" />
     </histories>
   </component>
 </application>
