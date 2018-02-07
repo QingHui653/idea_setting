@@ -3,6 +3,13 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="highest One Bit" />
+      <item value="Handle sign, if present" />
+      <item value="Maximum array size is Integer.MAX_VALUE" />
+      <item value="high value may be configured by property" />
+      <item value="size Table" />
+      <item value="Digit Ones" />
+      <item value="Digit Tens" />
       <item value="Returns a string representation of the first argument as an unsigned integer value in the radix specified by the second argument. If the radix is smaller than Character.MIN_RADIX or larger than Character.MAX_RADIX, then the radix 10 is used instead. Note that since the first argument is treated as an unsigned value, no leading sign character is printed. If the magnitude is zero, it is represented by a single zero character '0' ('\u0030'); otherwise, the first character of the representation of the magnitude will not be the zero character. The behavior of radixes and the characters used as digits are the same as toString." />
       <item value="Returns the number of zero bits preceding the highest-order (&quot;leftmost&quot;) one-bit in the two's complement binary representation of the specified int value. Returns 32 if the specified value has no one-bits in its two's complement representation, in other words if it is equal to zero. Note that this method is closely related to the logarithm base 2. For all positive int values x: floor(log2(x)) = 31 - numberOfLeadingZeros(x) ceil(log2(x)) = 32 - numberOfLeadingZeros(x - 1)" />
       <item value="HD, Figure 5-6" />
@@ -46,13 +53,6 @@
       <item value="HD, Section 2-7" />
       <item value="signum" />
       <item value="interoperability" />
-      <item value="Returns the value obtained by reversing the order of the bytes in the * two's complement representation of the specified {@code int} value." />
-      <item value="reverse Bytes" />
-      <item value="rotate" />
-      <item value="highest One Bit" />
-      <item value="** * Compares two {@code int} values numerically. * The value returned is identical to what would be returned by: * &lt;pre&gt; * Integer.valueOf(x).compareTo(Integer.valueOf(y)) * &lt;/pre&gt; * * @param x the first {@code int} to compare * @param y the second {@code int} to compare * @return the value {@code 0} if {@code x == y}; * a value less than {@code 0} if {@code x &lt; y}; and * a value greater than {@code 0} if {@code x &gt; y} * @since 1.7 */" />
-      <item value="Handle radix specifier, if present" />
-      <item value="Decodes a {@code String} into an {@code Integer}. * Accepts decimal, hexadecimal, and octal numbers given * by the following grammar:" />
     </histories>
   </component>
 </application>
