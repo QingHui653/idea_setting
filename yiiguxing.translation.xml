@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Authorization" />
       <item value="avoid getfield opcode" />
       <item value="/** * Concatenates the specified string to the end of this string. * &lt;p&gt; * If the length of the argument string is &lt;code&gt;0&lt;/code&gt;, then this * &lt;code&gt;String&lt;/code&gt; object is returned. Otherwise, a new * &lt;code&gt;String&lt;/code&gt; object is created, representing a character * sequence that is the concatenation of the character sequence * represented by this &lt;code&gt;String&lt;/code&gt; object and the character * sequence represented by the argument string.&lt;p&gt; * Examples: * &lt;blockquote&gt;&lt;pre&gt; * &quot;cares&quot;.concat(&quot;s&quot;) returns &quot;caress&quot; * &quot;to&quot;.concat(&quot;get&quot;).concat(&quot;her&quot;) returns &quot;together&quot; * &lt;/pre&gt;&lt;/blockquote&gt; * * @param str the &lt;code&gt;String&lt;/code&gt; that is concatenated to the end * of this &lt;code&gt;String&lt;/code&gt;. * @return a string that represents the concatenation of this object's * characters followed by the string argument's characters." />
       <item value="sub Sequence" />
@@ -52,7 +53,6 @@
       <item value="(q * 100);" />
       <item value="digits" />
       <item value="Places characters representing the integer i into the * character array buf. The characters are placed into * the buffer backwards starting with the least significant * digit at the specified index (exclusive), and working * backwards from there." />
-      <item value="positive" />
     </histories>
   </component>
 </application>
