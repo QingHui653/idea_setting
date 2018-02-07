@@ -3,6 +3,24 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Returns a string representation of the first argument as an unsigned integer value in the radix specified by the second argument. If the radix is smaller than Character.MIN_RADIX or larger than Character.MAX_RADIX, then the radix 10 is used instead. Note that since the first argument is treated as an unsigned value, no leading sign character is printed. If the magnitude is zero, it is represented by a single zero character '0' ('\u0030'); otherwise, the first character of the representation of the magnitude will not be the zero character. The behavior of radixes and the characters used as digits are the same as toString." />
+      <item value="Returns the number of zero bits preceding the highest-order (&quot;leftmost&quot;) one-bit in the two's complement binary representation of the specified int value. Returns 32 if the specified value has no one-bits in its two's complement representation, in other words if it is equal to zero. Note that this method is closely related to the logarithm base 2. For all positive int values x: floor(log2(x)) = 31 - numberOfLeadingZeros(x) ceil(log2(x)) = 32 - numberOfLeadingZeros(x - 1)" />
+      <item value="HD, Figure 5-6" />
+      <item value="Illegal shift value" />
+      <item value="Unsigned" />
+      <item value="Octal" />
+      <item value="Convert the integer to an unsigned number." />
+      <item value="Hex" />
+      <item value="the radix to use in the string representation" />
+      <item value="an integer to be converted to a string." />
+      <item value="Requires positive x" />
+      <item value="negative" />
+      <item value="Use the faster version" />
+      <item value="Returns a string representation of the first argument in the radix specified by the second argument. If the radix is smaller than Character.MIN_RADIX or larger than Character.MAX_RADIX, then the radix 10 is used instead. If the first argument is negative, the first element of the result is the ASCII minus character '-' ('\u002D'). If the first argument is not negative, no sign character appears in the result. The remaining characters of the result represent the magnitude of the first argument. If the magnitude is zero, it is represented by a single zero character '0' ('\u0030'); otherwise, the first character of the representation of the magnitude will not be the zero character. The following ASCII characters are used as digits: 0123456789abcdefghijklmnopqrstuvwxyz These are '\u0030' through '\u0039' and '\u0061' through '\u007A'. If radix is N, then the first N of these characters are used as radix-N digits in the order shown. Thus, the digits for hexadecimal (radix 16) are 0123456789abcdef. If uppercase letters are desired, the String.toUpperCase() method may be called on the result: Integer.toString(n, 16).toUpperCase()" />
+      <item value="All possible chars for representing a number as a String" />
+      <item value="digits" />
+      <item value="get Primitive Class" />
+      <item value="The Class instance representing the primitive type int." />
       <item value="Authorization" />
       <item value="avoid getfield opcode" />
       <item value="/** * Concatenates the specified string to the end of this string. * &lt;p&gt; * If the length of the argument string is &lt;code&gt;0&lt;/code&gt;, then this * &lt;code&gt;String&lt;/code&gt; object is returned. Otherwise, a new * &lt;code&gt;String&lt;/code&gt; object is created, representing a character * sequence that is the concatenation of the character sequence * represented by this &lt;code&gt;String&lt;/code&gt; object and the character * sequence represented by the argument string.&lt;p&gt; * Examples: * &lt;blockquote&gt;&lt;pre&gt; * &quot;cares&quot;.concat(&quot;s&quot;) returns &quot;caress&quot; * &quot;to&quot;.concat(&quot;get&quot;).concat(&quot;her&quot;) returns &quot;together&quot; * &lt;/pre&gt;&lt;/blockquote&gt; * * @param str the &lt;code&gt;String&lt;/code&gt; that is concatenated to the end * of this &lt;code&gt;String&lt;/code&gt;. * @return a string that represents the concatenation of this object's * characters followed by the string argument's characters." />
@@ -35,24 +53,6 @@
       <item value="** * Compares two {@code int} values numerically. * The value returned is identical to what would be returned by: * &lt;pre&gt; * Integer.valueOf(x).compareTo(Integer.valueOf(y)) * &lt;/pre&gt; * * @param x the first {@code int} to compare * @param y the second {@code int} to compare * @return the value {@code 0} if {@code x == y}; * a value less than {@code 0} if {@code x &lt; y}; and * a value greater than {@code 0} if {@code x &gt; y} * @since 1.7 */" />
       <item value="Handle radix specifier, if present" />
       <item value="Decodes a {@code String} into an {@code Integer}. * Accepts decimal, hexadecimal, and octal numbers given * by the following grammar:" />
-      <item value="Compares this object to the specified object. The result is * {@code true} if and only if the argument is not * {@code null} and is an {@code Integer} object that * contains the same {@code int} value as this object." />
-      <item value="a hash code value for this object, equal to the * primitive {@code int} value represented by this * {@code Integer} object." />
-      <item value="Returns a hash code for this {@code Integer}." />
-      <item value="assert" />
-      <item value="Integer" />
-      <item value="high value may be configured by property" />
-      <item value="does not contain a parsable" />
-      <item value="Parses the string argument as a signed decimal integer. The * characters in the string must all be decimal digits, except * that the first character may be an ASCII minus sign {@code '-'} * (&lt;code&gt;'&amp;#92;u002D'&lt;/code&gt;) to indicate a negative value or an * ASCII plus sign {@code '+'} (&lt;code&gt;'&amp;#92;u002B'&lt;/code&gt;) to * indicate a positive value. The resulting integer value is * returned, exactly as if the argument and the radix 10 were * given as arguments to the {@link #parseInt(java.lang.String, * int)} method." />
-      <item value="Accumulating negatively avoids surprises near MAX_VALUE" />
-      <item value="Possible leading" />
-      <item value="digit" />
-      <item value="multmin" />
-      <item value="negative" />
-      <item value="Parses the string argument as a signed integer in the radix specified by the second argument. The characters in the string must all be digits of the specified radix (as determined by whether Character.digit(char, int) returns a nonnegative value), except that the first character may be an ASCII minus sign '-' ('\u002D') to indicate a negative value or an ASCII plus sign '+' ('\u002B') to indicate a positive value. The resulting integer value is returned. An exception of type NumberFormatException is thrown if any of the following situations occurs: The first argument is null or is a string of length zero. The radix is either smaller than Character.MIN_RADIX or larger than Character.MAX_RADIX. Any character of the string is not a digit of the specified radix, except that the first character may be a minus sign '-' ('\u002D') or plus sign '+' ('\u002B') provided that the string is longer than length 1. The value represented by the string is not a value of type int." />
-      <item value="really" />
-      <item value="(q * 100);" />
-      <item value="digits" />
-      <item value="Places characters representing the integer i into the * character array buf. The characters are placed into * the buffer backwards starting with the least significant * digit at the specified index (exclusive), and working * backwards from there." />
     </histories>
   </component>
 </application>
