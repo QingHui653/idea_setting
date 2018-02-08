@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Declared" />
       <item value="highest One Bit" />
       <item value="Handle sign, if present" />
       <item value="Maximum array size is Integer.MAX_VALUE" />
@@ -52,7 +53,6 @@
       <item value="Returns the signum function of the specified {@code int} value. (The * return value is -1 if the specified value is negative; 0 if the * specified value is zero; and 1 if the specified value is positive.)" />
       <item value="HD, Section 2-7" />
       <item value="signum" />
-      <item value="interoperability" />
     </histories>
   </component>
 </application>
