@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Lombok Requires Annotation Processing Annotation processing seems to be disabled for the project &quot;oms&quot;. For the plugin to function correctly, please enable it under" />
       <item value="Declared" />
       <item value="highest One Bit" />
       <item value="Handle sign, if present" />
@@ -52,7 +53,6 @@
       <item value="Returns the value obtained by reversing the order of the bits in the * two's complement binary representation of the specified {@code int} * value." />
       <item value="Returns the signum function of the specified {@code int} value. (The * return value is -1 if the specified value is negative; 0 if the * specified value is zero; and 1 if the specified value is positive.)" />
       <item value="HD, Section 2-7" />
-      <item value="signum" />
     </histories>
   </component>
 </application>
