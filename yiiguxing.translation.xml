@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="An error report file with more information is saved as:" />
+      <item value="Native memory allocation (mmap) failed to map 2060255232 bytes for committing reserved memory." />
+      <item value="There is insufficient memory for the Java Runtime Environment to continue." />
       <item value="There is insufficient memory for the Java Runtime Environment to continue. # Native memory allocation (mmap) failed to map 986513408 bytes for committing reserved memory. # An error report file with more information is saved as: # /opt/elasticsearch/hs_err_pid74.log" />
       <item value="Starting Elasticsearch Server OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00000000c5330000, 986513408, 0) failed; error='Cannot allocate memory' (errno=12)" />
       <item value="Lombok Requires Annotation Processing Annotation processing seems to be disabled for the project &quot;oms&quot;. For the plugin to function correctly, please enable it under" />
@@ -50,9 +53,6 @@
       <item value="Note: toffset might be near -1&gt;&gt;&gt;1." />
       <item value="pa" />
       <item value="Returns the character (Unicode code point) at the specified index. The index refers to char values (Unicode code units) and ranges from 0 to length() - 1. If the char value specified at the given index is in the high-surrogate range, the following index is less than the length of this String, and the char value at the following index is in the low-surrogate range, then the supplementary code point corresponding to this surrogate pair is returned. Otherwise, the char value at the given index is returned." />
-      <item value="/* Common private utility method used to bounds check the byte array * and requested offset &amp; length values used by the String(byte[],..) * constructors. */" />
-      <item value="rotate Right" />
-      <item value="Returns the value obtained by reversing the order of the bits in the * two's complement binary representation of the specified {@code int} * value." />
     </histories>
   </component>
 </application>
