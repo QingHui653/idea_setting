@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="bound addresses" />
       <item value="An error report file with more information is saved as:" />
       <item value="Native memory allocation (mmap) failed to map 2060255232 bytes for committing reserved memory." />
       <item value="There is insufficient memory for the Java Runtime Environment to continue." />
@@ -52,7 +53,6 @@
       <item value="handle most cases here (ch is a BMP code point or a // negative value (invalid code point))" />
       <item value="Note: toffset might be near -1&gt;&gt;&gt;1." />
       <item value="pa" />
-      <item value="Returns the character (Unicode code point) at the specified index. The index refers to char values (Unicode code units) and ranges from 0 to length() - 1. If the char value specified at the given index is in the high-surrogate range, the following index is less than the length of this String, and the char value at the following index is in the low-surrogate range, then the supplementary code point corresponding to this surrogate pair is returned. Otherwise, the char value at the given index is returned." />
     </histories>
   </component>
 </application>
