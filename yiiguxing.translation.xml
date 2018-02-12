@@ -3,6 +3,22 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Handles (rare) calls of lastIndexOf with a supplementary character." />
+      <item value="character" />
+      <item value="supplementary" />
+      <item value="Handles (rare) calls of indexOf with a supplementary character." />
+      <item value="region Matches" />
+      <item value="Note: offset or count might be near -1&gt;&gt;&gt;1." />
+      <item value="Returns the value obtained by reversing the order of the bits in the two's complement binary representation of the specified int value." />
+      <item value="reverse" />
+      <item value="0 x 3 f" />
+      <item value="Figure" />
+      <item value="number Of Leading Zeros" />
+      <item value="lowest One Bit" />
+      <item value="highest One Bit" />
+      <item value="Bit twiddling" />
+      <item value="divide Unsigned" />
+      <item value="Decodes a String into an Integer. Accepts decimal, hexadecimal, and octal numbers given by the following grammar: DecodableString: Signopt DecimalNumeral Signopt 0x HexDigits Signopt 0X HexDigits Signopt # HexDigits Signopt 0 OctalDigits Sign: - + DecimalNumeral, HexDigits, and OctalDigits are as defined in section 3.10.1 of The Java™ Language Specification, except that underscores are not accepted between digits. The sequence of characters following an optional sign and/or radix specifier (&quot;0x&quot;, &quot;0X&quot;, &quot;#&quot;, or leading zero) is parsed as by the Integer.parseInt method with the indicated radix (10, 16, or 8). This sequence of characters must represent a positive value or a NumberFormatException will be thrown. The result is negated if first character of the specified String is the minus sign. No whitespace characters are permitted in the String." />
       <item value="The cache is initialized on first usage. The size of the cache * may be controlled by the {@code -XX:AutoBoxCacheMax=&lt;size&gt;} option. * During VM initialization, java.lang.Integer.IntegerCache.high property * may be set and saved in the private system properties in the * sun.misc.VM class." />
       <item value="Cache to support the object identity semantics of autoboxing for values between * -128 and 127 (inclusive) as required by JLS." />
       <item value="Generate two digits per iteration" />
@@ -30,7 +46,6 @@
       <item value="Starting Elasticsearch Server OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00000000c5330000, 986513408, 0) failed; error='Cannot allocate memory' (errno=12)" />
       <item value="Lombok Requires Annotation Processing Annotation processing seems to be disabled for the project &quot;oms&quot;. For the plugin to function correctly, please enable it under" />
       <item value="Declared" />
-      <item value="highest One Bit" />
       <item value="Handle sign, if present" />
       <item value="Maximum array size is Integer.MAX_VALUE" />
       <item value="high value may be configured by property" />
@@ -38,21 +53,6 @@
       <item value="Returns a string representation of the first argument as an unsigned integer value in the radix specified by the second argument. If the radix is smaller than Character.MIN_RADIX or larger than Character.MAX_RADIX, then the radix 10 is used instead. Note that since the first argument is treated as an unsigned value, no leading sign character is printed. If the magnitude is zero, it is represented by a single zero character '0' ('\u0030'); otherwise, the first character of the representation of the magnitude will not be the zero character. The behavior of radixes and the characters used as digits are the same as toString." />
       <item value="Returns the number of zero bits preceding the highest-order (&quot;leftmost&quot;) one-bit in the two's complement binary representation of the specified int value. Returns 32 if the specified value has no one-bits in its two's complement representation, in other words if it is equal to zero. Note that this method is closely related to the logarithm base 2. For all positive int values x: floor(log2(x)) = 31 - numberOfLeadingZeros(x) ceil(log2(x)) = 32 - numberOfLeadingZeros(x - 1)" />
       <item value="HD, Figure 5-6" />
-      <item value="Illegal shift value" />
-      <item value="the radix to use in the string representation" />
-      <item value="an integer to be converted to a string." />
-      <item value="Requires positive x" />
-      <item value="negative" />
-      <item value="Use the faster version" />
-      <item value="Returns a string representation of the first argument in the radix specified by the second argument. If the radix is smaller than Character.MIN_RADIX or larger than Character.MAX_RADIX, then the radix 10 is used instead. If the first argument is negative, the first element of the result is the ASCII minus character '-' ('\u002D'). If the first argument is not negative, no sign character appears in the result. The remaining characters of the result represent the magnitude of the first argument. If the magnitude is zero, it is represented by a single zero character '0' ('\u0030'); otherwise, the first character of the representation of the magnitude will not be the zero character. The following ASCII characters are used as digits: 0123456789abcdefghijklmnopqrstuvwxyz These are '\u0030' through '\u0039' and '\u0061' through '\u007A'. If radix is N, then the first N of these characters are used as radix-N digits in the order shown. Thus, the digits for hexadecimal (radix 16) are 0123456789abcdef. If uppercase letters are desired, the String.toUpperCase() method may be called on the result: Integer.toString(n, 16).toUpperCase()" />
-      <item value="All possible chars for representing a number as a String" />
-      <item value="digits" />
-      <item value="get Primitive Class" />
-      <item value="The Class instance representing the primitive type int." />
-      <item value="Authorization" />
-      <item value="avoid getfield opcode" />
-      <item value="/** * Concatenates the specified string to the end of this string. * &lt;p&gt; * If the length of the argument string is &lt;code&gt;0&lt;/code&gt;, then this * &lt;code&gt;String&lt;/code&gt; object is returned. Otherwise, a new * &lt;code&gt;String&lt;/code&gt; object is created, representing a character * sequence that is the concatenation of the character sequence * represented by this &lt;code&gt;String&lt;/code&gt; object and the character * sequence represented by the argument string.&lt;p&gt; * Examples: * &lt;blockquote&gt;&lt;pre&gt; * &quot;cares&quot;.concat(&quot;s&quot;) returns &quot;caress&quot; * &quot;to&quot;.concat(&quot;get&quot;).concat(&quot;her&quot;) returns &quot;together&quot; * &lt;/pre&gt;&lt;/blockquote&gt; * * @param str the &lt;code&gt;String&lt;/code&gt; that is concatenated to the end * of this &lt;code&gt;String&lt;/code&gt;. * @return a string that represents the concatenation of this object's * characters followed by the string argument's characters." />
-      <item value="sub Sequence" />
     </histories>
   </component>
 </application>
