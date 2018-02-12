@@ -3,6 +3,25 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="The cache is initialized on first usage. The size of the cache * may be controlled by the {@code -XX:AutoBoxCacheMax=&lt;size&gt;} option. * During VM initialization, java.lang.Integer.IntegerCache.high property * may be set and saved in the private system properties in the * sun.misc.VM class." />
+      <item value="Cache to support the object identity semantics of autoboxing for values between * -128 and 127 (inclusive) as required by JLS." />
+      <item value="Generate two digits per iteration" />
+      <item value="get Chars" />
+      <item value="I use the &quot;invariant division by multiplication&quot; trick to // accelerate Integer.toString. In particular we want to // avoid division by 10." />
+      <item value="use the &quot;invariant division by multiplication&quot; trick to // accelerate Integer.toString. In particular we want to // avoid division by 10." />
+      <item value="// I use the &quot;invariant division by multiplication&quot; trick to // accelerate Integer.toString. In particular we want to // avoid division by 10. // // The &quot;trick&quot; has roughly the same performance characteristics // as the &quot;classic&quot; Integer.toString code on a non-JIT VM. // The trick avoids .rem and .div calls but has a longer code // path and is thus dominated by dispatch overhead. In the // JIT case the dispatch overhead doesn't exist and the // &quot;trick&quot; is considerably faster than the classic code. // // TODO-FIXME: convert (x * 52429) into the equiv shift-add // sequence. // // RE: Division by Invariant Integers using Multiplication // T Gralund, P Montgomery // ACM PLDI 1994 //" />
+      <item value="Digit Ones" />
+      <item value="Digit Tens" />
+      <item value="mag" />
+      <item value="Convert the integer to an unsigned number." />
+      <item value="Binary" />
+      <item value="Hex" />
+      <item value="Octal" />
+      <item value="Hex S" />
+      <item value="Unsigned" />
+      <item value="nsigned" />
+      <item value="Pos" />
+      <item value="char Pos" />
       <item value="bound addresses" />
       <item value="An error report file with more information is saved as:" />
       <item value="Native memory allocation (mmap) failed to map 2060255232 bytes for committing reserved memory." />
@@ -16,16 +35,10 @@
       <item value="Maximum array size is Integer.MAX_VALUE" />
       <item value="high value may be configured by property" />
       <item value="size Table" />
-      <item value="Digit Ones" />
-      <item value="Digit Tens" />
       <item value="Returns a string representation of the first argument as an unsigned integer value in the radix specified by the second argument. If the radix is smaller than Character.MIN_RADIX or larger than Character.MAX_RADIX, then the radix 10 is used instead. Note that since the first argument is treated as an unsigned value, no leading sign character is printed. If the magnitude is zero, it is represented by a single zero character '0' ('\u0030'); otherwise, the first character of the representation of the magnitude will not be the zero character. The behavior of radixes and the characters used as digits are the same as toString." />
       <item value="Returns the number of zero bits preceding the highest-order (&quot;leftmost&quot;) one-bit in the two's complement binary representation of the specified int value. Returns 32 if the specified value has no one-bits in its two's complement representation, in other words if it is equal to zero. Note that this method is closely related to the logarithm base 2. For all positive int values x: floor(log2(x)) = 31 - numberOfLeadingZeros(x) ceil(log2(x)) = 32 - numberOfLeadingZeros(x - 1)" />
       <item value="HD, Figure 5-6" />
       <item value="Illegal shift value" />
-      <item value="Unsigned" />
-      <item value="Octal" />
-      <item value="Convert the integer to an unsigned number." />
-      <item value="Hex" />
       <item value="the radix to use in the string representation" />
       <item value="an integer to be converted to a string." />
       <item value="Requires positive x" />
@@ -40,19 +53,6 @@
       <item value="avoid getfield opcode" />
       <item value="/** * Concatenates the specified string to the end of this string. * &lt;p&gt; * If the length of the argument string is &lt;code&gt;0&lt;/code&gt;, then this * &lt;code&gt;String&lt;/code&gt; object is returned. Otherwise, a new * &lt;code&gt;String&lt;/code&gt; object is created, representing a character * sequence that is the concatenation of the character sequence * represented by this &lt;code&gt;String&lt;/code&gt; object and the character * sequence represented by the argument string.&lt;p&gt; * Examples: * &lt;blockquote&gt;&lt;pre&gt; * &quot;cares&quot;.concat(&quot;s&quot;) returns &quot;caress&quot; * &quot;to&quot;.concat(&quot;get&quot;).concat(&quot;her&quot;) returns &quot;together&quot; * &lt;/pre&gt;&lt;/blockquote&gt; * * @param str the &lt;code&gt;String&lt;/code&gt; that is concatenated to the end * of this &lt;code&gt;String&lt;/code&gt;. * @return a string that represents the concatenation of this object's * characters followed by the string argument's characters." />
       <item value="sub Sequence" />
-      <item value="Returns the index within this string of the first occurrence of the * specified substring." />
-      <item value="Handles (rare) calls of lastIndexOf with a supplementary character." />
-      <item value="Returns the index within this string of the last occurrence of the specified character. For values of ch in the range from 0 to 0xFFFF (inclusive), the index (in Unicode code units) returned is the largest value k such that: this.charAt(k) == ch is true. For other values of ch, it is the largest value k such that: this.codePointAt(k) == ch is true. In either case, if no such character occurs in this string, then -1 is returned. The String is searched backwards starting at the last character." />
-      <item value="Handles (rare) calls of indexOf with a supplementary character." />
-      <item value="Tests if two string regions are equal. A substring of this String object is compared to a substring of the argument other. The result is true if these substrings represent identical character sequences. The substring of this String object to be compared begins at index toffset and has length len. The substring of other to be compared begins at index ooffset and has length len. The result is false if and only if at least one of the following is true: toffset is negative. ooffset is negative. toffset+len is greater than the length of this String object. ooffset+len is greater than the length of the other argument. There is some nonnegative integer k less than len such that: this.charAt(toffset+k) != other.charAt(ooffset+k)" />
-      <item value="No overflow because of numeric promotion" />
-      <item value="equals Ignore Case" />
-      <item value="Argument is a StringBuffer, StringBuilder" />
-      <item value="content Equals" />
-      <item value="content" />
-      <item value="handle most cases here (ch is a BMP code point or a // negative value (invalid code point))" />
-      <item value="Note: toffset might be near -1&gt;&gt;&gt;1." />
-      <item value="pa" />
     </histories>
   </component>
 </application>
