@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="character" />
       <item value="Deque" />
       <item value="Array Deque" />
       <item value="Sequenti" />
@@ -23,7 +24,6 @@
       <item value="Now check if there are any characters that need to be changed." />
       <item value="/* fastpath if the regex is a (1)one-char String and this character is not one of the RegEx's meta characters &quot;.$|()[{^?*+\\&quot;, or (2)two-char String and the first char is the backslash and the second is not the ascii digit or ascii letter. */" />
       <item value="Handles (rare) calls of lastIndexOf with a supplementary character." />
-      <item value="character" />
       <item value="supplementary" />
       <item value="Handles (rare) calls of indexOf with a supplementary character." />
       <item value="region Matches" />
