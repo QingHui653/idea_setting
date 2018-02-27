@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Couldn't determine package version information." />
+      <item value="You are running with Spring Security Core null" />
+      <item value="determine" />
       <item value="protocol" />
       <item value="Since" />
       <item value="Modified" />
@@ -50,9 +53,6 @@
       <item value="// I use the &quot;invariant division by multiplication&quot; trick to // accelerate Integer.toString. In particular we want to // avoid division by 10. // // The &quot;trick&quot; has roughly the same performance characteristics // as the &quot;classic&quot; Integer.toString code on a non-JIT VM. // The trick avoids .rem and .div calls but has a longer code // path and is thus dominated by dispatch overhead. In the // JIT case the dispatch overhead doesn't exist and the // &quot;trick&quot; is considerably faster than the classic code. // // TODO-FIXME: convert (x * 52429) into the equiv shift-add // sequence. // // RE: Division by Invariant Integers using Multiplication // T Gralund, P Montgomery // ACM PLDI 1994 //" />
       <item value="Digit Ones" />
       <item value="Digit Tens" />
-      <item value="mag" />
-      <item value="Convert the integer to an unsigned number." />
-      <item value="Binary" />
     </histories>
   </component>
 </application>
