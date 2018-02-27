@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="protocol" />
+      <item value="Since" />
+      <item value="Modified" />
       <item value="character" />
       <item value="Deque" />
       <item value="Array Deque" />
@@ -50,9 +53,6 @@
       <item value="mag" />
       <item value="Convert the integer to an unsigned number." />
       <item value="Binary" />
-      <item value="Hex" />
-      <item value="Octal" />
-      <item value="Hex S" />
     </histories>
   </component>
 </application>
