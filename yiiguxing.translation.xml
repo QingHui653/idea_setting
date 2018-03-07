@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="inout Type" />
       <item value="elapsed time patterns: [h],[m] and [s]" />
       <item value="for format which start with &quot;[DBNum1]&quot; or &quot;[DBNum2]&quot; or &quot;[DBNum3]&quot; could be a Chinese date" />
       <item value="Chinese" />
@@ -52,7 +53,6 @@
       <item value="Bit twiddling" />
       <item value="divide Unsigned" />
       <item value="Decodes a String into an Integer. Accepts decimal, hexadecimal, and octal numbers given by the following grammar: DecodableString: Signopt DecimalNumeral Signopt 0x HexDigits Signopt 0X HexDigits Signopt # HexDigits Signopt 0 OctalDigits Sign: - + DecimalNumeral, HexDigits, and OctalDigits are as defined in section 3.10.1 of The Java™ Language Specification, except that underscores are not accepted between digits. The sequence of characters following an optional sign and/or radix specifier (&quot;0x&quot;, &quot;0X&quot;, &quot;#&quot;, or leading zero) is parsed as by the Integer.parseInt method with the indicated radix (10, 16, or 8). This sequence of characters must represent a positive value or a NumberFormatException will be thrown. The result is negated if first character of the specified String is the minus sign. No whitespace characters are permitted in the String." />
-      <item value="The cache is initialized on first usage. The size of the cache * may be controlled by the {@code -XX:AutoBoxCacheMax=&lt;size&gt;} option. * During VM initialization, java.lang.Integer.IntegerCache.high property * may be set and saved in the private system properties in the * sun.misc.VM class." />
     </histories>
   </component>
 </application>
