@@ -5,5 +5,10 @@
         <option name="apiUrl" value="http://119.23.231.239:23755" />
       </configuration>
     </remote-server>
+    <remote-server name="tx" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://193.112.44.172:23755" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
