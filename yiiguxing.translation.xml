@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="equired String parameter 'catId' is not present" />
       <item value="Unsupported Operation Exception" />
       <item value="inout Type" />
       <item value="elapsed time patterns: [h],[m] and [s]" />
@@ -52,7 +53,6 @@
       <item value="lowest One Bit" />
       <item value="highest One Bit" />
       <item value="Bit twiddling" />
-      <item value="divide Unsigned" />
     </histories>
   </component>
 </application>
