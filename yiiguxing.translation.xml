@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="FactoryBean threw exception on object creation;" />
+      <item value="Forbid consumer 192.168.99.1 access service com.ivyb2b.oms.system.service.IPendingRequestService from registry 192.168.1.188:2181" />
+      <item value="Please check registry access list" />
       <item value="The issue of empty Memory View in Debug session of application running with JRE 9 was fixed: JRE-641." />
       <item value="Unlimited cryptographic policy is enabled by default: JRE-638." />
       <item value="The JDK has been updated to 1.8.0_152-release-1024-b15, with the following fixes integrated:" />
@@ -50,9 +53,6 @@
       <item value="symmetric" />
       <item value="reflexive" />
       <item value="register Natives" />
-      <item value="An instance of ThreadDeath is thrown in the victim thread when the (deprecated) Thread.stop() method is invoked. An application should catch instances of this class only if it must clean up after being terminated asynchronously. If ThreadDeath is caught by a method, it is important that it be rethrown so that the thread actually dies." />
-      <item value="The character properties are currently encoded into 32 bits in the following manner:" />
-      <item value="overflow-conscious code" />
     </histories>
   </component>
 </application>
