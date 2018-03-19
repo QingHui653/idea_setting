@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Return code is: 401, ReasonPhrase: Unauthorized." />
       <item value="is not a user-defined directive" />
       <item value="FactoryBean threw exception on object creation;" />
       <item value="Forbid consumer 192.168.99.1 access service com.ivyb2b.oms.system.service.IPendingRequestService from registry 192.168.1.188:2181" />
@@ -52,7 +53,6 @@
       <item value="consistent" />
       <item value="transitive" />
       <item value="symmetric" />
-      <item value="reflexive" />
     </histories>
   </component>
 </application>
