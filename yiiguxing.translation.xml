@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="category" />
       <item value="viy" />
       <item value="Bruce" />
       <item value="出库" />
@@ -52,7 +53,6 @@
       <item value="Modified" />
       <item value="character" />
       <item value="Deque" />
-      <item value="Array Deque" />
     </histories>
   </component>
 </application>
