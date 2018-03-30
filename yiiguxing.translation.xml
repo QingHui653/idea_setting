@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="need Permission" />
+      <item value="is Re Solr Index" />
+      <item value="DEFAULT PAGE SIZE" />
+      <item value="EXPORT PAGE SIZE" />
       <item value="Simple Scalar" />
       <item value="category" />
       <item value="viy" />
@@ -49,10 +53,6 @@
       <item value="Couldn't determine package version information." />
       <item value="You are running with Spring Security Core null" />
       <item value="determine" />
-      <item value="protocol" />
-      <item value="Since" />
-      <item value="Modified" />
-      <item value="character" />
     </histories>
   </component>
 </application>
