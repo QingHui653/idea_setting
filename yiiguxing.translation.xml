@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Weak" />
+      <item value="Weak Hash Map" />
       <item value="inout Type" />
       <item value="need Permission" />
       <item value="is Re Solr Index" />
@@ -51,8 +53,6 @@
       <item value="Removal" />
       <item value="Aware" />
       <item value="Couldn't determine package version information." />
-      <item value="You are running with Spring Security Core null" />
-      <item value="determine" />
     </histories>
   </component>
 </application>
