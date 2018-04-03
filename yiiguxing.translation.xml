@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Unsafe" />
+      <item value="compare And Swap Int" />
+      <item value="setup to use Unsafe.compareAndSwapInt for updates" />
       <item value="acquire" />
       <item value="fair - true if this semaphore will guarantee first-in first-out granting of permits under contention, else false" />
       <item value="if this semaphore will guarantee * first-in first-out granting of permits under contention, * else {@code false}" />
@@ -50,9 +53,6 @@
       <item value="The updated built-in SSH client is now compatible with the new GitHub cryptographic standards." />
       <item value="pager" />
       <item value="the name of the autowire candidate, or {@code null} if none found" />
-      <item value="Determine the autowire candidate in the given set of beans." />
-      <item value="candidateBeans - a Map of candidate names and candidate instances that match the required type, as returned by findAutowireCandidates descriptor - the target dependency to match against" />
-      <item value="check Merged Bean Definition" />
     </histories>
   </component>
 </application>
