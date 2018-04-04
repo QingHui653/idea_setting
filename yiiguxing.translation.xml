@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="10800" />
       <item value="Unsafe" />
       <item value="compare And Swap Int" />
       <item value="setup to use Unsafe.compareAndSwapInt for updates" />
@@ -52,7 +53,6 @@
       <item value="The Eclipse compiler bundled with IntelliJ IDEA now supports Java 9 sources: IDEA-184951." />
       <item value="The updated built-in SSH client is now compatible with the new GitHub cryptographic standards." />
       <item value="pager" />
-      <item value="the name of the autowire candidate, or {@code null} if none found" />
     </histories>
   </component>
 </application>
