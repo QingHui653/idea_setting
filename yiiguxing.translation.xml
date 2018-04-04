@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Must generate CGLIB subclass." />
+      <item value="Don't override the class with CGLIB if no overrides." />
+      <item value="instantiate" />
       <item value="Trigger post-initialization callback for all applicable beans..." />
       <item value="Eagerly check singleton cache for manually registered singletons." />
       <item value="Trigger initialization of all non-lazy singleton beans..." />
@@ -50,9 +53,6 @@
       <item value="Factory hook that allows for custom modification of new bean instances, * e.g. checking for marker interfaces or wrapping them with proxies." />
       <item value="Factory hook that allows for custom modification of new bean instances, e.g. checking for marker interfaces or wrapping them with proxies. ApplicationContexts can autodetect BeanPostProcessor beans in their bean definitions and apply them to any beans subsequently created. Plain bean factories allow for programmatic registration of post-processors, applying to all beans created through this factory." />
       <item value="Aware" />
-      <item value="10800" />
-      <item value="Unsafe" />
-      <item value="compare And Swap Int" />
     </histories>
   </component>
 </application>
