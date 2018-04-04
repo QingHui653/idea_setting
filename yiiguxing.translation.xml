@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Workspace is restored to how it was in the ‘feature/StockCustomizeList' branch" />
       <item value="Implementing this interface makes sense for example when an object * requires access to a set of collaborating beans. Note that configuration * via bean references is preferable to implementing this interface just * for bean lookup purposes." />
       <item value="Interface to be implemented by any object that wishes to be notified of the ApplicationContext that it runs in. Implementing this interface makes sense for example when an object requires access to a set of collaborating beans. Note that configuration via bean references is preferable to implementing this interface just for bean lookup purposes. This interface can also be implemented if an object needs access to file resources, i.e. wants to call getResource, wants to publish an application event, or requires access to the MessageSource. However, it is preferable to implement the more specific ResourceLoaderAware, ApplicationEventPublisherAware or MessageSourceAware interface in such a specific scenario. Note that file resource dependencies can also be exposed as bean properties of type org.springframework.core.io.Resource, populated via Strings with automatic type conversion by the bean factory. This removes the need for implementing any callback interface just for the purpose of accessing a specific file resource. org.springframework.context.support.ApplicationObjectSupport is a convenience base class for application objects, implementing this interface. For a list of all bean lifecycle methods, see the BeanFactory javadocs." />
       <item value="Apply this BeanPostProcessor to the given new bean instance after any bean initialization callbacks (like InitializingBean's afterPropertiesSet or a custom init-method). The bean will already be populated with property values. The returned bean instance may be a wrapper around the original. In case of a FactoryBean, this callback will be invoked for both the FactoryBean instance and the objects created by the FactoryBean (as of Spring 2.0). The post-processor can decide whether to apply to either the FactoryBean or created objects or both through corresponding bean instanceof FactoryBean checks. This callback will also be invoked after a short-circuiting triggered by a InstantiationAwareBeanPostProcessor.postProcessBeforeInstantiation method, in contrast to all other BeanPostProcessor callbacks." />
@@ -52,7 +53,6 @@
       <item value="Mapped Statements collection" />
       <item value="company Id" />
       <item value="Return code is: 401, ReasonPhrase: Unauthorized." />
-      <item value="is not a user-defined directive" />
     </histories>
   </component>
 </application>
