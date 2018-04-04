@@ -3,6 +3,15 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Implementing this interface makes sense for example when an object * requires access to a set of collaborating beans. Note that configuration * via bean references is preferable to implementing this interface just * for bean lookup purposes." />
+      <item value="Interface to be implemented by any object that wishes to be notified of the ApplicationContext that it runs in. Implementing this interface makes sense for example when an object requires access to a set of collaborating beans. Note that configuration via bean references is preferable to implementing this interface just for bean lookup purposes. This interface can also be implemented if an object needs access to file resources, i.e. wants to call getResource, wants to publish an application event, or requires access to the MessageSource. However, it is preferable to implement the more specific ResourceLoaderAware, ApplicationEventPublisherAware or MessageSourceAware interface in such a specific scenario. Note that file resource dependencies can also be exposed as bean properties of type org.springframework.core.io.Resource, populated via Strings with automatic type conversion by the bean factory. This removes the need for implementing any callback interface just for the purpose of accessing a specific file resource. org.springframework.context.support.ApplicationObjectSupport is a convenience base class for application objects, implementing this interface. For a list of all bean lifecycle methods, see the BeanFactory javadocs." />
+      <item value="Apply this BeanPostProcessor to the given new bean instance after any bean initialization callbacks (like InitializingBean's afterPropertiesSet or a custom init-method). The bean will already be populated with property values. The returned bean instance may be a wrapper around the original. In case of a FactoryBean, this callback will be invoked for both the FactoryBean instance and the objects created by the FactoryBean (as of Spring 2.0). The post-processor can decide whether to apply to either the FactoryBean or created objects or both through corresponding bean instanceof FactoryBean checks. This callback will also be invoked after a short-circuiting triggered by a InstantiationAwareBeanPostProcessor.postProcessBeforeInstantiation method, in contrast to all other BeanPostProcessor callbacks." />
+      <item value="Apply this BeanPostProcessor to the given new bean instance &lt;i&gt;after&lt;/i&gt; any bean * initialization callbacks (like InitializingBean's {@code afterPropertiesSet} * or a custom init-method). The bean will already be populated with property values. * The returned bean instance may be a wrapper around the original. * &lt;p&gt;In case of a FactoryBean, this callback will be invoked for both the FactoryBean * instance and the objects created by the FactoryBean (as of Spring 2.0). The * post-processor can decide whether to apply to either the FactoryBean or created * objects or both through corresponding {@code bean instanceof FactoryBean} checks. * &lt;p&gt;This callback will also be invoked after a short-circuiting triggered by a * {@link InstantiationAwareBeanPostProcessor#postProcessBeforeInstantiation} method, * in contrast to all other BeanPostProcessor callbacks." />
+      <item value="Apply this BeanPostProcessor to the given new bean instance before any bean initialization callbacks (like InitializingBean's afterPropertiesSet or a custom init-method). The bean will already be populated with property values. The returned bean instance may be a wrapper around the original." />
+      <item value="Apply this BeanPostProcessor to the given new bean instance &lt;i&gt;before&lt;/i&gt; any bean * initialization callbacks (like InitializingBean's {@code afterPropertiesSet} * or a custom init-method). The bean will already be populated with property values. * The returned bean instance may be a wrapper around the original." />
+      <item value="&lt;p&gt;ApplicationContexts can autodetect BeanPostProcessor beans in their * bean definitions and apply them to any beans subsequently created. * Plain bean factories allow for programmatic registration of post-processors, * applying to all beans created through this factory." />
+      <item value="Factory hook that allows for custom modification of new bean instances, * e.g. checking for marker interfaces or wrapping them with proxies." />
+      <item value="Factory hook that allows for custom modification of new bean instances, e.g. checking for marker interfaces or wrapping them with proxies. ApplicationContexts can autodetect BeanPostProcessor beans in their bean definitions and apply them to any beans subsequently created. Plain bean factories allow for programmatic registration of post-processors, applying to all beans created through this factory." />
       <item value="Aware" />
       <item value="10800" />
       <item value="Unsafe" />
@@ -44,15 +53,6 @@
       <item value="company Id" />
       <item value="Return code is: 401, ReasonPhrase: Unauthorized." />
       <item value="is not a user-defined directive" />
-      <item value="FactoryBean threw exception on object creation;" />
-      <item value="Forbid consumer 192.168.99.1 access service com.ivyb2b.oms.system.service.IPendingRequestService from registry 192.168.1.188:2181" />
-      <item value="Please check registry access list" />
-      <item value="The issue of empty Memory View in Debug session of application running with JRE 9 was fixed: JRE-641." />
-      <item value="Unlimited cryptographic policy is enabled by default: JRE-638." />
-      <item value="The JDK has been updated to 1.8.0_152-release-1024-b15, with the following fixes integrated:" />
-      <item value="The Change Signature dialog now uses the system-wide color sсheme for the parameters list: IDEA-134545." />
-      <item value="The Eclipse compiler bundled with IntelliJ IDEA now supports Java 9 sources: IDEA-184951." />
-      <item value="The updated built-in SSH client is now compatible with the new GitHub cryptographic standards." />
     </histories>
   </component>
 </application>
