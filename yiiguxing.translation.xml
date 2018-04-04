@@ -3,6 +3,39 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Trigger post-initialization callback for all applicable beans..." />
+      <item value="Eagerly check singleton cache for manually registered singletons." />
+      <item value="Trigger initialization of all non-lazy singleton beans..." />
+      <item value="Eager" />
+      <item value="is Eager Init" />
+      <item value="remaining" />
+      <item value="Instantiate" />
+      <item value="temporary" />
+      <item value="Allow for caching all bean definition metadata, not expecting further changes." />
+      <item value="/ Allow for caching all bean definition metadata, not expecting further changes." />
+      <item value="Stop using the temporary ClassLoader for type matching." />
+      <item value="Initialize LoadTimeWeaverAware beans early to allow for registering their transformers early." />
+      <item value="Instantiate all remaining (non-lazy-init) singletons." />
+      <item value="to perform a thread-safe type conversion using this system." />
+      <item value="A service interface for type conversion. This is the entry point into the convert system." />
+      <item value="Initialize conversion service for this context." />
+      <item value="Check for listener beans and register them." />
+      <item value="register Listeners" />
+      <item value="subclasses" />
+      <item value="For subclasses: do nothing by default." />
+      <item value="finish Bean Factory Initialization" />
+      <item value="Default implementation of the org.springframework.beans.factory.ListableBeanFactory and BeanDefinitionRegistry interfaces: a full-fledged bean factory based on bean definition objects. Typical usage is registering all bean definitions first (possibly read from a bean definition file), before accessing beans. Bean definition lookup is therefore an inexpensive operation in a local bean definition table, operating on pre-built bean definition metadata objects. Can be used as a standalone bean factory, or as a superclass for custom bean factories. Note that readers for specific bean definition formats are typically implemented separately rather than as bean factory subclasses: see for example PropertiesBeanDefinitionReader and org.springframework.beans.factory.xml.XmlBeanDefinitionReader. For an alternative implementation of the org.springframework.beans.factory.ListableBeanFactory interface, have a look at StaticListableBeanFactory, which manages existing bean instances rather than creating new ones based on bean definitions." />
+      <item value="set Serialization Id" />
+      <item value="Default Listable Bean Factory" />
+      <item value="Tell the subclass to refresh the internal bean factory." />
+      <item value="Validate that all properties marked as required are resolvable" />
+      <item value="&gt;Replace any stub property sources with actual instances." />
+      <item value="Initialize any placeholder property sources in the context environment" />
+      <item value="see ConfigurablePropertyResolver#setRequiredProperties" />
+      <item value="Initialize message source for this context." />
+      <item value="Synchronization monitor for the &quot;refresh&quot; and &quot;destroy&quot;" />
+      <item value="fix bug" />
+      <item value="Prepare this context for refreshing." />
       <item value="Standalone XML application context, taking the context definition files from the class path, interpreting plain paths as class path resource names that include the package path (e.g. &quot;mypackage/myresource.txt&quot;). Useful for test harnesses as well as for application contexts embedded within JARs. The config location defaults can be overridden via getConfigLocations, Config locations can either denote concrete files like &quot;/myfiles/context.xml&quot; or Ant-style patterns like &quot;/myfiles/*-context.xml&quot; (see the org.springframework.util.AntPathMatcher javadoc for pattern details). Note: In case of multiple config locations, later bean definitions will override ones defined in earlier loaded files. This can be leveraged to deliberately override certain bean definitions via an extra XML file." />
       <item value="Instantiate the root WebApplicationContext for this loader, either the default context class or a custom context class if specified. This implementation expects custom contexts to implement the ConfigurableWebApplicationContext interface. Can be overridden in subclasses. In addition, customizeContext gets called prior to refreshing the context, allowing subclasses to perform custom modifications to the context." />
       <item value="Create a new ContextLoaderListener that will create a web application context based on the &quot;contextClass&quot; and &quot;contextConfigLocation&quot; servlet context-params. See ContextLoader superclass documentation for details on default values for each. This constructor is typically used when declaring ContextLoaderListener as a &lt;listener&gt; within web.xml, where a no-arg constructor is required. The created application context will be registered into the ServletContext under the attribute name WebApplicationContext.ROOT_WEB_APPLICATION_CONTEXT_ATTRIBUTE and the Spring application context will be closed when the contextDestroyed lifecycle method is invoked on this listener." />
@@ -20,39 +53,6 @@
       <item value="10800" />
       <item value="Unsafe" />
       <item value="compare And Swap Int" />
-      <item value="setup to use Unsafe.compareAndSwapInt for updates" />
-      <item value="acquire" />
-      <item value="fair - true if this semaphore will guarantee first-in first-out granting of permits under contention, else false" />
-      <item value="if this semaphore will guarantee * first-in first-out granting of permits under contention, * else {@code false}" />
-      <item value="fair" />
-      <item value="in which case releases * must occur before any acquires will be granted" />
-      <item value="This value may be negative" />
-      <item value="the initial number of permits available." />
-      <item value="permits" />
-      <item value="the initial number of permits available. * This value may be negative, in which case releases * must occur before any acquires will be granted." />
-      <item value="A counting semaphore. Conceptually, a semaphore maintains a set of permits. Each acquire blocks if necessary until a permit is available, and then takes it. Each release adds a permit, potentially releasing a blocking acquirer. However, no actual permit objects are used; the Semaphore just keeps a count of the number available and acts accordingly. Semaphores are often used to restrict the number of threads than can access some (physical or logical) resource. For example, here is a class that uses a semaphore to control access to a pool of items:" />
-      <item value="Causes the current thread to wait until it is signalled or interrupted. The lock associated with this Condition is atomically released and the current thread becomes disabled for thread scheduling purposes and lies dormant until one of four things happens: Some other thread invokes the signal method for this Condition and the current thread happens to be chosen as the thread to be awakened; or Some other thread invokes the signalAll method for this Condition; or Some other thread interrupts the current thread, and interruption of thread suspension is supported; or A &quot;spurious wakeup&quot; occurs. In all cases, before this method can return the current thread must re-acquire the lock associated with this condition. When the thread returns it is guaranteed to hold this lock. If the current thread: has its interrupted status set on entry to this method; or is interrupted while waiting and interruption of thread suspension is supported, then InterruptedException is thrown and the current thread's interrupted status is cleared. It is not specified, in the first case, whether or not the test for interruption occurs before the lock is released. Implementation Considerations The current thread is assumed to hold the lock associated with this Condition when this method is called. It is up to the implementation to determine if this is the case and if not, how to respond. Typically, an exception will be thrown (such as IllegalMonitorStateException) and the implementation must document that fact. An implementation can favor responding to an interrupt over normal method return in response to a signal. In that case the implementation must ensure that the signal is redirected to another waiting thread, if there is one." />
-      <item value="Semaphore" />
-      <item value="lock Interruptibly" />
-      <item value="Condition" />
-      <item value="Stamped Lock" />
-      <item value="Reentrant Lock" />
-      <item value="Reentrant Read Write Lock" />
-      <item value="public class ReentrantReadWriteLock" />
-      <item value="Creates a thread pool that maintains enough threads to support * the given parallelism level, and may use multiple queues to * reduce contention. The parallelism level corresponds to the * maximum number of threads actively engaged in, or available to * engage in, task processing. The actual number of threads may * grow and shrink dynamically. A work-stealing pool makes no * guarantees about the order in which submitted tasks are * executed." />
-      <item value="new Work Stealing Pool" />
-      <item value="Weak" />
-      <item value="Weak Hash Map" />
-      <item value="inout Type" />
-      <item value="need Permission" />
-      <item value="is Re Solr Index" />
-      <item value="DEFAULT PAGE SIZE" />
-      <item value="EXPORT PAGE SIZE" />
-      <item value="Simple Scalar" />
-      <item value="category" />
-      <item value="viy" />
-      <item value="Bruce" />
-      <item value="出库" />
     </histories>
   </component>
 </application>
