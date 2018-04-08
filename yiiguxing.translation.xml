@@ -3,6 +3,12 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="moved to" />
+      <item value="as well as" />
+      <item value="NamespaceHandler for the aop namespace." />
+      <item value="In 2.0 XSD as well as in 2.1 XSD." />
+      <item value="moved to context namespace as of 2.1" />
+      <item value="Only in 2.0 XSD" />
       <item value="Loads the bean definitions via an XmlBeanDefinitionReader." />
       <item value="then proceed with actually loading the bean definitions." />
       <item value="Allow a subclass to provide custom initialization of the reader," />
@@ -47,12 +53,6 @@
       <item value="Initialize any placeholder property sources in the context environment" />
       <item value="see ConfigurablePropertyResolver#setRequiredProperties" />
       <item value="Initialize message source for this context." />
-      <item value="Synchronization monitor for the &quot;refresh&quot; and &quot;destroy&quot;" />
-      <item value="fix bug" />
-      <item value="Prepare this context for refreshing." />
-      <item value="Standalone XML application context, taking the context definition files from the class path, interpreting plain paths as class path resource names that include the package path (e.g. &quot;mypackage/myresource.txt&quot;). Useful for test harnesses as well as for application contexts embedded within JARs. The config location defaults can be overridden via getConfigLocations, Config locations can either denote concrete files like &quot;/myfiles/context.xml&quot; or Ant-style patterns like &quot;/myfiles/*-context.xml&quot; (see the org.springframework.util.AntPathMatcher javadoc for pattern details). Note: In case of multiple config locations, later bean definitions will override ones defined in earlier loaded files. This can be leveraged to deliberately override certain bean definitions via an extra XML file." />
-      <item value="Instantiate the root WebApplicationContext for this loader, either the default context class or a custom context class if specified. This implementation expects custom contexts to implement the ConfigurableWebApplicationContext interface. Can be overridden in subclasses. In addition, customizeContext gets called prior to refreshing the context, allowing subclasses to perform custom modifications to the context." />
-      <item value="Create a new ContextLoaderListener that will create a web application context based on the &quot;contextClass&quot; and &quot;contextConfigLocation&quot; servlet context-params. See ContextLoader superclass documentation for details on default values for each. This constructor is typically used when declaring ContextLoaderListener as a &lt;listener&gt; within web.xml, where a no-arg constructor is required. The created application context will be registered into the ServletContext under the attribute name WebApplicationContext.ROOT_WEB_APPLICATION_CONTEXT_ATTRIBUTE and the Spring application context will be closed when the contextDestroyed lifecycle method is invoked on this listener." />
     </histories>
   </component>
 </application>
