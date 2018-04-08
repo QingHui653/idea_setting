@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="/** * Modify the application context's internal bean factory after its standard * initialization. All bean definitions will have been loaded, but no beans * will have been instantiated yet. This allows for registering special * BeanPostProcessors etc in certain ApplicationContext implementations. * @param beanFactory the bean factory used by the application context */" />
+      <item value="Allows post-processing of the bean factory in context subclasses." />
       <item value="Must generate CGLIB subclass." />
       <item value="Don't override the class with CGLIB if no overrides." />
       <item value="instantiate" />
@@ -51,8 +53,6 @@
       <item value="Apply this BeanPostProcessor to the given new bean instance &lt;i&gt;before&lt;/i&gt; any bean * initialization callbacks (like InitializingBean's {@code afterPropertiesSet} * or a custom init-method). The bean will already be populated with property values. * The returned bean instance may be a wrapper around the original." />
       <item value="&lt;p&gt;ApplicationContexts can autodetect BeanPostProcessor beans in their * bean definitions and apply them to any beans subsequently created. * Plain bean factories allow for programmatic registration of post-processors, * applying to all beans created through this factory." />
       <item value="Factory hook that allows for custom modification of new bean instances, * e.g. checking for marker interfaces or wrapping them with proxies." />
-      <item value="Factory hook that allows for custom modification of new bean instances, e.g. checking for marker interfaces or wrapping them with proxies. ApplicationContexts can autodetect BeanPostProcessor beans in their bean definitions and apply them to any beans subsequently created. Plain bean factories allow for programmatic registration of post-processors, applying to all beans created through this factory." />
-      <item value="Aware" />
     </histories>
   </component>
 </application>
