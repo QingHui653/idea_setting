@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="statement" />
       <item value="The target does not implement the equals(Object) method itself." />
       <item value="The target does not implement the hashCode() method itself." />
       <item value="Proxy provides static methods for creating dynamic proxy classes and instances, and it is also the superclass of all dynamic proxy classes created by those methods." />
@@ -52,7 +53,6 @@
       <item value="is Eager Init" />
       <item value="remaining" />
       <item value="Instantiate" />
-      <item value="temporary" />
     </histories>
   </component>
 </application>
