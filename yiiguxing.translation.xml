@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="The target does not implement the equals(Object) method itself." />
+      <item value="The target does not implement the hashCode() method itself." />
       <item value="Proxy provides static methods for creating dynamic proxy classes and instances, and it is also the superclass of all dynamic proxy classes created by those methods." />
       <item value="Peter Jones" />
       <item value="create proxy instance with doPrivilege as the proxy class may // implement non-public interfaces that requires a special permission" />
@@ -51,8 +53,6 @@
       <item value="remaining" />
       <item value="Instantiate" />
       <item value="temporary" />
-      <item value="Allow for caching all bean definition metadata, not expecting further changes." />
-      <item value="/ Allow for caching all bean definition metadata, not expecting further changes." />
     </histories>
   </component>
 </application>
