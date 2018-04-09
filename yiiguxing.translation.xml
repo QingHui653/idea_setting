@@ -3,6 +3,20 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Proxy provides static methods for creating dynamic proxy classes and instances, and it is also the superclass of all dynamic proxy classes created by those methods." />
+      <item value="Peter Jones" />
+      <item value="create proxy instance with doPrivilege as the proxy class may // implement non-public interfaces that requires a special permission" />
+      <item value="create proxy instance with doPrivilege as the proxy class may" />
+      <item value="interface limit exceeded" />
+      <item value="interface limit exceeded&quot;" />
+      <item value="Look up or generate the designated proxy class." />
+      <item value="Determine the complete set of interfaces to proxy for the given AOP configuration. * &lt;p&gt;This will always add the {@link Advised} interface unless the AdvisedSupport's * {@link AdvisedSupport#setOpaque &quot;opaque&quot;} flag is on. Always adds the * {@link org.springframework.aop.SpringProxy} marker interface." />
+      <item value="&lt;p&gt;This will always add the {@link Advised} interface unless the AdvisedSupport's" />
+      <item value="Determine the complete set of interfaces to proxy for the given AOP configuration." />
+      <item value="Finds any {@link #equals} or {@link #hashCode} method that may be defined * on the supplied set of interfaces." />
+      <item value="private void findDefinedEqualsAndHashCodeMethods(@NotNull Class&lt;?&gt;[] proxiedInterfaces) Finds any equals or hashCode method that may be defined on the supplied set of interfaces." />
+      <item value="Create a new proxy according to the settings in this factory. Can be called repeatedly. Effect will vary if we've added or removed interfaces. Can add and remove interceptors. Uses the given class loader (if necessary for proxy creation)." />
+      <item value="nferred annotations available:" />
       <item value="register the pointcut" />
       <item value="register the final advisor" />
       <item value="advisor" />
@@ -39,20 +53,6 @@
       <item value="temporary" />
       <item value="Allow for caching all bean definition metadata, not expecting further changes." />
       <item value="/ Allow for caching all bean definition metadata, not expecting further changes." />
-      <item value="Stop using the temporary ClassLoader for type matching." />
-      <item value="Initialize LoadTimeWeaverAware beans early to allow for registering their transformers early." />
-      <item value="Instantiate all remaining (non-lazy-init) singletons." />
-      <item value="to perform a thread-safe type conversion using this system." />
-      <item value="A service interface for type conversion. This is the entry point into the convert system." />
-      <item value="Initialize conversion service for this context." />
-      <item value="Check for listener beans and register them." />
-      <item value="register Listeners" />
-      <item value="subclasses" />
-      <item value="For subclasses: do nothing by default." />
-      <item value="finish Bean Factory Initialization" />
-      <item value="Default implementation of the org.springframework.beans.factory.ListableBeanFactory and BeanDefinitionRegistry interfaces: a full-fledged bean factory based on bean definition objects. Typical usage is registering all bean definitions first (possibly read from a bean definition file), before accessing beans. Bean definition lookup is therefore an inexpensive operation in a local bean definition table, operating on pre-built bean definition metadata objects. Can be used as a standalone bean factory, or as a superclass for custom bean factories. Note that readers for specific bean definition formats are typically implemented separately rather than as bean factory subclasses: see for example PropertiesBeanDefinitionReader and org.springframework.beans.factory.xml.XmlBeanDefinitionReader. For an alternative implementation of the org.springframework.beans.factory.ListableBeanFactory interface, have a look at StaticListableBeanFactory, which manages existing bean instances rather than creating new ones based on bean definitions." />
-      <item value="set Serialization Id" />
-      <item value="Default Listable Bean Factory" />
     </histories>
   </component>
 </application>
