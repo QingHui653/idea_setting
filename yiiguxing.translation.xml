@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="request" />
       <item value="statement" />
       <item value="The target does not implement the equals(Object) method itself." />
       <item value="The target does not implement the hashCode() method itself." />
@@ -52,7 +53,6 @@
       <item value="Eager" />
       <item value="is Eager Init" />
       <item value="remaining" />
-      <item value="Instantiate" />
     </histories>
   </component>
 </application>
