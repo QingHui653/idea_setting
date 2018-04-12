@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="No modifications are allowed to a locked ParameterMap" />
       <item value="spec Name" />
       <item value="specification" />
       <item value="request" />
@@ -52,7 +53,6 @@
       <item value="Trigger post-initialization callback for all applicable beans..." />
       <item value="Eagerly check singleton cache for manually registered singletons." />
       <item value="Trigger initialization of all non-lazy singleton beans..." />
-      <item value="Eager" />
     </histories>
   </component>
 </application>
