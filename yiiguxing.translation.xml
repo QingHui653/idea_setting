@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="figure" />
       <item value="customer Sales Queryform" />
       <item value="No modifications are allowed to a locked ParameterMap" />
       <item value="spec Name" />
@@ -52,7 +53,6 @@
       <item value="Don't override the class with CGLIB if no overrides." />
       <item value="instantiate" />
       <item value="Trigger post-initialization callback for all applicable beans..." />
-      <item value="Eagerly check singleton cache for manually registered singletons." />
     </histories>
   </component>
 </application>
