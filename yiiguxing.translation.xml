@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="spec Name" />
+      <item value="specification" />
       <item value="request" />
       <item value="statement" />
       <item value="The target does not implement the equals(Object) method itself." />
@@ -51,8 +53,6 @@
       <item value="Eagerly check singleton cache for manually registered singletons." />
       <item value="Trigger initialization of all non-lazy singleton beans..." />
       <item value="Eager" />
-      <item value="is Eager Init" />
-      <item value="remaining" />
     </histories>
   </component>
 </application>
