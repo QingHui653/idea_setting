@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="UploadDockerfile" type="Dockerfile" />
       <mapping ext="html" type="FTL" />
-      <removed_mapping ext="html" type="HTML" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="context" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
+      <mapping pattern="UploadDockerfile" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
