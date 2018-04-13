@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="dirty" />
       <item value="Successfully authenticated as principal qh on upload" />
       <item value="end connection" />
       <item value="Unauthorized: not authorized on admin to execute command { listDatabases: 1 }" />
@@ -52,7 +53,6 @@
       <item value="Initialize other special beans in specific context subclasses." />
       <item value="/** * Modify the application context's internal bean factory after its standard * initialization. All bean definitions will have been loaded, but no beans * will have been instantiated yet. This allows for registering special * BeanPostProcessors etc in certain ApplicationContext implementations. * @param beanFactory the bean factory used by the application context */" />
       <item value="Allows post-processing of the bean factory in context subclasses." />
-      <item value="Must generate CGLIB subclass." />
     </histories>
   </component>
 </application>
