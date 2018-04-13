@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="do Update" />
       <item value="dirty" />
       <item value="Successfully authenticated as principal qh on upload" />
       <item value="end connection" />
@@ -52,7 +53,6 @@
       <item value="/** * Template method which can be overridden to add context-specific refresh work. * Called on initialization of special beans, before instantiation of singletons. * &lt;p&gt;This implementation is empty. * @throws BeansException in case of errors * @see #refresh() */" />
       <item value="Initialize other special beans in specific context subclasses." />
       <item value="/** * Modify the application context's internal bean factory after its standard * initialization. All bean definitions will have been loaded, but no beans * will have been instantiated yet. This allows for registering special * BeanPostProcessors etc in certain ApplicationContext implementations. * @param beanFactory the bean factory used by the application context */" />
-      <item value="Allows post-processing of the bean factory in context subclasses." />
     </histories>
   </component>
 </application>
