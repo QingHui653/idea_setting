@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="prepare Statement" />
+      <item value="Executor Exception" />
+      <item value="statement" />
+      <item value="instantiate" />
       <item value="has Statement For" />
       <item value="last" />
       <item value="size" />
@@ -21,7 +25,6 @@
       <item value="spec Name" />
       <item value="specification" />
       <item value="request" />
-      <item value="statement" />
       <item value="The target does not implement the equals(Object) method itself." />
       <item value="The target does not implement the hashCode() method itself." />
       <item value="Proxy provides static methods for creating dynamic proxy classes and instances, and it is also the superclass of all dynamic proxy classes created by those methods." />
@@ -50,9 +53,6 @@
       <item value="In 2.0 XSD as well as in 2.1 XSD." />
       <item value="moved to context namespace as of 2.1" />
       <item value="Only in 2.0 XSD" />
-      <item value="Loads the bean definitions via an XmlBeanDefinitionReader." />
-      <item value="then proceed with actually loading the bean definitions." />
-      <item value="Allow a subclass to provide custom initialization of the reader," />
     </histories>
   </component>
 </application>
