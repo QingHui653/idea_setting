@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Deprecated" />
       <item value="prepare Statement" />
       <item value="Executor Exception" />
       <item value="statement" />
@@ -52,7 +53,6 @@
       <item value="NamespaceHandler for the aop namespace." />
       <item value="In 2.0 XSD as well as in 2.1 XSD." />
       <item value="moved to context namespace as of 2.1" />
-      <item value="Only in 2.0 XSD" />
     </histories>
   </component>
 </application>
