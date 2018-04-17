@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Standard" />
       <item value="Query must be not synchronized to prevent deadlocks" />
       <item value="Deprecated" />
       <item value="prepare Statement" />
@@ -52,7 +53,6 @@
       <item value="moved to" />
       <item value="as well as" />
       <item value="NamespaceHandler for the aop namespace." />
-      <item value="In 2.0 XSD as well as in 2.1 XSD." />
     </histories>
   </component>
 </application>
