@@ -3,6 +3,11 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="* Connect a {@link Channel} to the remote peer." />
+      <item value="&lt;p&gt;The {@link #bind()} methods are useful in combination with connectionless transports such as datagram (UDP). * For regular TCP connections, please use the provided {@link #connect()} methods.&lt;/p&gt;" />
+      <item value="A {@link Bootstrap} that makes it easy to bootstrap a {@link Channel} to use * for clients." />
+      <item value="A Bootstrap that makes it easy to bootstrap a Channel to use for clients." />
+      <item value="A Bootstrap that makes it easy to bootstrap a Channel to use for clients. The bind() methods are useful in combination with connectionless transports such as datagram (UDP). For regular TCP connections, please use the provided connect() methods." />
       <item value="false" />
       <item value="Platform" />
       <item value="available" />
@@ -48,11 +53,6 @@
       <item value="Finds any {@link #equals} or {@link #hashCode} method that may be defined * on the supplied set of interfaces." />
       <item value="private void findDefinedEqualsAndHashCodeMethods(@NotNull Class&lt;?&gt;[] proxiedInterfaces) Finds any equals or hashCode method that may be defined on the supplied set of interfaces." />
       <item value="Create a new proxy according to the settings in this factory. Can be called repeatedly. Effect will vary if we've added or removed interfaces. Can add and remove interceptors. Uses the given class loader (if necessary for proxy creation)." />
-      <item value="nferred annotations available:" />
-      <item value="register the pointcut" />
-      <item value="register the final advisor" />
-      <item value="advisor" />
-      <item value="configure the advisor" />
     </histories>
   </component>
 </application>
