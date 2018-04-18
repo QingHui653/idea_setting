@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="false" />
+      <item value="Platform" />
+      <item value="available" />
       <item value="Loop" />
       <item value="Event" />
       <item value="Standard" />
@@ -50,9 +53,6 @@
       <item value="register the final advisor" />
       <item value="advisor" />
       <item value="configure the advisor" />
-      <item value="// create instance factory definition" />
-      <item value="create the method factory bean" />
-      <item value="moved to" />
     </histories>
   </component>
 </application>
