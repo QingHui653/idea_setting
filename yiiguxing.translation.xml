@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Direct" />
+      <item value="Direct Memory" />
+      <item value="因 Channel Factory 的关闭有 Direct Memory 泄露" />
       <item value="* Connect a {@link Channel} to the remote peer." />
       <item value="&lt;p&gt;The {@link #bind()} methods are useful in combination with connectionless transports such as datagram (UDP). * For regular TCP connections, please use the provided {@link #connect()} methods.&lt;/p&gt;" />
       <item value="A {@link Bootstrap} that makes it easy to bootstrap a {@link Channel} to use * for clients." />
@@ -50,9 +53,6 @@
       <item value="Determine the complete set of interfaces to proxy for the given AOP configuration. * &lt;p&gt;This will always add the {@link Advised} interface unless the AdvisedSupport's * {@link AdvisedSupport#setOpaque &quot;opaque&quot;} flag is on. Always adds the * {@link org.springframework.aop.SpringProxy} marker interface." />
       <item value="&lt;p&gt;This will always add the {@link Advised} interface unless the AdvisedSupport's" />
       <item value="Determine the complete set of interfaces to proxy for the given AOP configuration." />
-      <item value="Finds any {@link #equals} or {@link #hashCode} method that may be defined * on the supplied set of interfaces." />
-      <item value="private void findDefinedEqualsAndHashCodeMethods(@NotNull Class&lt;?&gt;[] proxiedInterfaces) Finds any equals or hashCode method that may be defined on the supplied set of interfaces." />
-      <item value="Create a new proxy according to the settings in this factory. Can be called repeatedly. Effect will vary if we've added or removed interfaces. Can add and remove interceptors. Uses the given class loader (if necessary for proxy creation)." />
     </histories>
   </component>
 </application>
