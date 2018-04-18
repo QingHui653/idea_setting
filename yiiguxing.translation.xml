@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Delay" />
+      <item value="Absent" />
+      <item value="put If Absent" />
       <item value="Direct" />
       <item value="Direct Memory" />
       <item value="因 Channel Factory 的关闭有 Direct Memory 泄露" />
@@ -50,9 +53,6 @@
       <item value="interface limit exceeded" />
       <item value="interface limit exceeded&quot;" />
       <item value="Look up or generate the designated proxy class." />
-      <item value="Determine the complete set of interfaces to proxy for the given AOP configuration. * &lt;p&gt;This will always add the {@link Advised} interface unless the AdvisedSupport's * {@link AdvisedSupport#setOpaque &quot;opaque&quot;} flag is on. Always adds the * {@link org.springframework.aop.SpringProxy} marker interface." />
-      <item value="&lt;p&gt;This will always add the {@link Advised} interface unless the AdvisedSupport's" />
-      <item value="Determine the complete set of interfaces to proxy for the given AOP configuration." />
     </histories>
   </component>
 </application>
