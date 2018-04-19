@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="rotate" />
       <item value="Delay" />
       <item value="Absent" />
       <item value="put If Absent" />
@@ -52,7 +53,6 @@
       <item value="create proxy instance with doPrivilege as the proxy class may" />
       <item value="interface limit exceeded" />
       <item value="interface limit exceeded&quot;" />
-      <item value="Look up or generate the designated proxy class." />
     </histories>
   </component>
 </application>
