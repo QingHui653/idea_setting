@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="column Prefix" />
+      <item value="Prefix" />
       <item value="user" />
       <item value="delay" />
       <item value="Daemon" />
@@ -51,8 +53,6 @@
       <item value="request" />
       <item value="The target does not implement the equals(Object) method itself." />
       <item value="The target does not implement the hashCode() method itself." />
-      <item value="Proxy provides static methods for creating dynamic proxy classes and instances, and it is also the superclass of all dynamic proxy classes created by those methods." />
-      <item value="Peter Jones" />
     </histories>
   </component>
 </application>
