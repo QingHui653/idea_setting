@@ -3,6 +3,11 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="modified by lishen" />
+      <item value="is Callbackservice" />
+      <item value="is Stub Support Event" />
+      <item value="export service." />
+      <item value="export an stub service for dispaching event" />
       <item value="is Default" />
       <item value="capitalize" />
       <item value="column Prefix" />
@@ -48,11 +53,6 @@
       <item value="end connection" />
       <item value="Unauthorized: not authorized on admin to execute command { listDatabases: 1 }" />
       <item value="figure" />
-      <item value="customer Sales Queryform" />
-      <item value="No modifications are allowed to a locked ParameterMap" />
-      <item value="spec Name" />
-      <item value="specification" />
-      <item value="request" />
     </histories>
   </component>
 </application>
