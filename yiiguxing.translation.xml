@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="is Default" />
       <item value="capitalize" />
       <item value="column Prefix" />
       <item value="Prefix" />
@@ -52,7 +53,6 @@
       <item value="spec Name" />
       <item value="specification" />
       <item value="request" />
-      <item value="The target does not implement the equals(Object) method itself." />
     </histories>
   </component>
 </application>
