@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="overwritten without archiving the previous version of the log." />
+      <item value="Note, changing log4j.appender.FILE.append=false will result in logs being" />
+      <item value="Note, changing log4j.appender.FILE.append=false will result in logs being # overwritten without archiving the previous version of the log." />
       <item value="DailyMaxRollingFileAppender extends FileAppender so that the underlying file is rolled over at a user chosen frequency. The rolling schedule is specified by the DatePattern. This pattern should follow the SimpleDateFormat conventions. In particular, you must escape literal text within a pair of single quotes. A formatted version of the date pattern is used as the suffix for the rolled file name. For example, if the File option is set to /foo/bar.log and the DatePattern set to '.'yyyy-MM-dd, on 2001-02-16 at midnight, the logging file /foo/bar.log will be copied to /foo/bar.log.2001-02-16 and logging for 2001-02-17 will continue in /foo/bar.log until it rolls over the next day. Is is possible to specify monthly, weekly, half-daily, daily, hourly, or minutely rollover schedules." />
       <item value="DailyMaxRollingFileAppender extends {@link FileAppender} so that the * underlying file is rolled over at a user chosen frequency." />
       <item value="Serial" />
@@ -50,9 +53,6 @@
       <item value="size" />
       <item value="statement List" />
       <item value="current Statement" />
-      <item value="current Sql" />
-      <item value="Jdbc 3 Key Generator" />
-      <item value="do Update" />
     </histories>
   </component>
 </application>
