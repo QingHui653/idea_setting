@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Once this method is called, calling the size(int, int) method, or the scale(double, double) method, or the keepAspectRatio(boolean) method will result in an IllegalStateException." />
+      <item value="/** * Sets the size of the thumbnail. * &lt;p&gt; * For example, to create thumbnails which should fit within a * bounding rectangle of 640 x 480, the following code can be used: * &lt;pre&gt;&lt;code&gt; Thumbnails.of(image) .size(640, 480) .toFile(thumbnail); * &lt;/code&gt;&lt;/pre&gt; * &lt;p&gt; * In the above code, the thumbnail will preserve the aspect ratio * of the original image. If the thumbnail should be forced to the * specified size, the {@link #forceSize(int, int)} method can * be used instead of this method. * &lt;p&gt; * Once this method is called, calling the {@link #scale(double)} method * will result in an {@link IllegalStateException}. * &lt;p&gt; * Calling this method multiple times will result in an * {@link IllegalStateException} to be thrown." />
+      <item value="The width of the thumbnail." />
       <item value="Substitute the template entries with the generated sheet data files" />
       <item value="Simple Scalar" />
       <item value="multi" />
@@ -50,9 +53,6 @@
       <item value="Event" />
       <item value="Standard" />
       <item value="Query must be not synchronized to prevent deadlocks" />
-      <item value="Deprecated" />
-      <item value="prepare Statement" />
-      <item value="Executor Exception" />
     </histories>
   </component>
 </application>
