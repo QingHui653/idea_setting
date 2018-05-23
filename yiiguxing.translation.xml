@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="The $MODULE_DIR$ macro is now deprecated" />
+      <item value="Spring Boot 2.0: new binding rules for configuration keys" />
       <item value="又认证不了" />
       <item value="buessiness Generate Id" />
       <item value="generate Id" />
@@ -51,8 +53,6 @@
       <item value="A Bootstrap that makes it easy to bootstrap a Channel to use for clients. The bind() methods are useful in combination with connectionless transports such as datagram (UDP). For regular TCP connections, please use the provided connect() methods." />
       <item value="false" />
       <item value="Platform" />
-      <item value="available" />
-      <item value="Loop" />
     </histories>
   </component>
 </application>
