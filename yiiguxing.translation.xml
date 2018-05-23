@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="又认证不了" />
       <item value="buessiness Generate Id" />
       <item value="generate Id" />
       <item value="Once this method is called, calling the size(int, int) method, or the scale(double, double) method, or the keepAspectRatio(boolean) method will result in an IllegalStateException." />
@@ -52,7 +53,6 @@
       <item value="Platform" />
       <item value="available" />
       <item value="Loop" />
-      <item value="Event" />
     </histories>
   </component>
 </application>
