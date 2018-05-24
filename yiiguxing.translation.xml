@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="concurrent Consumers" />
+      <item value="max Concurrent Consumers" />
       <item value="convert Rabbit Access Exception" />
       <item value="Failed to check/redeclare auto-delete queue(s)." />
       <item value="The $MODULE_DIR$ macro is now deprecated" />
@@ -51,8 +53,6 @@
       <item value="* Connect a {@link Channel} to the remote peer." />
       <item value="&lt;p&gt;The {@link #bind()} methods are useful in combination with connectionless transports such as datagram (UDP). * For regular TCP connections, please use the provided {@link #connect()} methods.&lt;/p&gt;" />
       <item value="A {@link Bootstrap} that makes it easy to bootstrap a {@link Channel} to use * for clients." />
-      <item value="A Bootstrap that makes it easy to bootstrap a Channel to use for clients." />
-      <item value="A Bootstrap that makes it easy to bootstrap a Channel to use for clients. The bind() methods are useful in combination with connectionless transports such as datagram (UDP). For regular TCP connections, please use the provided connect() methods." />
     </histories>
   </component>
 </application>
