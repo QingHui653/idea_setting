@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="packet Weight" />
+      <item value="measure unit" />
       <item value="concurrent Consumers" />
       <item value="max Concurrent Consumers" />
       <item value="convert Rabbit Access Exception" />
@@ -51,8 +53,6 @@
       <item value="Direct Memory" />
       <item value="因 Channel Factory 的关闭有 Direct Memory 泄露" />
       <item value="* Connect a {@link Channel} to the remote peer." />
-      <item value="&lt;p&gt;The {@link #bind()} methods are useful in combination with connectionless transports such as datagram (UDP). * For regular TCP connections, please use the provided {@link #connect()} methods.&lt;/p&gt;" />
-      <item value="A {@link Bootstrap} that makes it easy to bootstrap a {@link Channel} to use * for clients." />
     </histories>
   </component>
 </application>
