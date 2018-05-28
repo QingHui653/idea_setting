@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="was not registered for synchronization because synchronization is not active" />
       <item value="Unsupported Encoding Exception" />
       <item value="packet Weight" />
       <item value="measure unit" />
@@ -52,7 +53,6 @@
       <item value="put If Absent" />
       <item value="Direct" />
       <item value="Direct Memory" />
-      <item value="因 Channel Factory 的关闭有 Direct Memory 泄露" />
     </histories>
   </component>
 </application>
