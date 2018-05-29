@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="the prefetch count" />
       <item value="How often to publish idle container events." />
       <item value="the consumerTagStrategy to set" />
       <item value="the missingQueuesFatal to set." />
@@ -11,7 +12,6 @@
       <item value="the advice chain to set." />
       <item value="true to reject by default." />
       <item value="set Receive Timeout" />
-      <item value="the prefetch count" />
       <item value="The number of consecutive timeouts to trigger stopping a consumer." />
       <item value="The number of consecutive receives to trigger a new consumer." />
       <item value="The minimum interval between consumer stops." />
