@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="carrier" />
       <item value="Set the bound key to hold the string {@code value} if the bound key is absent." />
       <item value="SETNX" />
       <item value="the prefetch count" />
@@ -52,7 +53,6 @@
       <item value="DEFAULT CAPACITY" />
       <item value="overwritten without archiving the previous version of the log." />
       <item value="Note, changing log4j.appender.FILE.append=false will result in logs being" />
-      <item value="Note, changing log4j.appender.FILE.append=false will result in logs being # overwritten without archiving the previous version of the log." />
     </histories>
   </component>
 </application>
