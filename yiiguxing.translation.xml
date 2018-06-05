@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="set Width Percentage" />
       <item value="Query and change fields in existing documents either by method * calls or by FDF merging." />
       <item value="Gets the field box positions in the document. The return is an array of &lt;CODE&gt;float&lt;/CODE&gt; * multiple of 5. For each of this groups the values are: [page, llx, lly, urx, * ury]. The coordinates have the page rotation in consideration." />
       <item value="Sets the field value." />
@@ -52,7 +53,6 @@
       <item value="又认证不了" />
       <item value="buessiness Generate Id" />
       <item value="generate Id" />
-      <item value="Once this method is called, calling the size(int, int) method, or the scale(double, double) method, or the keepAspectRatio(boolean) method will result in an IllegalStateException." />
     </histories>
   </component>
 </application>
