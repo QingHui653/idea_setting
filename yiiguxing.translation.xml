@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="url" />
+      <item value="the byte array with the document" />
       <item value="Logistics" />
       <item value="dercarriage" />
       <item value="undercarriage" />
@@ -51,8 +53,6 @@
       <item value="Substitute the template entries with the generated sheet data files" />
       <item value="Simple Scalar" />
       <item value="multi" />
-      <item value="override Events" />
-      <item value="script Access" />
     </histories>
   </component>
 </application>
