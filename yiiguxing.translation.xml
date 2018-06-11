@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="\ u 51 FA \ u 5 E 93\ u 4 FE 1\ u 606 F" />
       <item value="set Width Percentage" />
       <item value="Query and change fields in existing documents either by method * calls or by FDF merging." />
       <item value="Gets the field box positions in the document. The return is an array of &lt;CODE&gt;float&lt;/CODE&gt; * multiple of 5. For each of this groups the values are: [page, llx, lly, urx, * ury]. The coordinates have the page rotation in consideration." />
@@ -52,7 +53,6 @@
       <item value="Spring Boot 2.0: new binding rules for configuration keys" />
       <item value="又认证不了" />
       <item value="buessiness Generate Id" />
-      <item value="generate Id" />
     </histories>
   </component>
 </application>
