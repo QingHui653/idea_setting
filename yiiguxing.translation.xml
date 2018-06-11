@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Adjusts the column width to fit the contents. This process can be relatively slow on large sheets, so this should normally only be called once per column, at the end of your processing. You can specify whether the content of merged cells should be considered or ignored. Default is to ignore merged cells." />
+      <item value="Returns cell comment for the specified row and column" />
       <item value="\ u 51 FA \ u 5 E 93\ u 4 FE 1\ u 606 F" />
       <item value="set Width Percentage" />
       <item value="Query and change fields in existing documents either by method * calls or by FDF merging." />
@@ -51,8 +53,6 @@
       <item value="Failed to check/redeclare auto-delete queue(s)." />
       <item value="The $MODULE_DIR$ macro is now deprecated" />
       <item value="Spring Boot 2.0: new binding rules for configuration keys" />
-      <item value="又认证不了" />
-      <item value="buessiness Generate Id" />
     </histories>
   </component>
 </application>
