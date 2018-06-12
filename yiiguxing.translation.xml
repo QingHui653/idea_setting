@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Interceptor that allows for changing the current locale on every request, * via a configurable request parameter (default parameter name: &quot;locale&quot;)." />
+      <item value="default Time Zone" />
+      <item value="default Locale" />
+      <item value="LocaleResolver implementation that uses a cookie sent back to the user in case of a custom setting, with a fallback to the specified default locale or the request's accept-header locale. This is particularly useful for stateless applications without user sessions. The cookie may optionally contain an associated time zone value as well; alternatively, you may specify a default time zone. Custom controllers can override the user's locale and time zone by calling #setLocale(Context) on the resolver, e.g. responding to a locale change request. As a more convenient alternative, consider using org.springframework.web.servlet.support.RequestContext.changeLoc" />
       <item value="map" />
       <item value="Adjusts the column width to fit the contents. This process can be relatively slow on large sheets, so this should normally only be called once per column, at the end of your processing. You can specify whether the content of merged cells should be considered or ignored. Default is to ignore merged cells." />
       <item value="Returns cell comment for the specified row and column" />
@@ -49,10 +51,6 @@
       <item value="packet Weight" />
       <item value="measure unit" />
       <item value="concurrent Consumers" />
-      <item value="max Concurrent Consumers" />
-      <item value="convert Rabbit Access Exception" />
-      <item value="Failed to check/redeclare auto-delete queue(s)." />
-      <item value="The $MODULE_DIR$ macro is now deprecated" />
     </histories>
   </component>
 </application>
