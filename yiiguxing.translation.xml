@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Make a map and return a function for checking if a key * is in that map." />
+      <item value="Make a map and return a function for checking if a key" />
+      <item value="-" />
+      <item value="Get a PropertiesHolder that contains the actually visible properties * for a Locale, after merging all specified resource bundles. * Either fetches the holder from the cache or freshly loads it. * &lt;p&gt;Only used when caching resource bundle contents forever, i.e. * with cacheSeconds &lt; 0. Therefore, merged properties are always * cached forever." />
       <item value="Interceptor that allows for changing the current locale on every request, * via a configurable request parameter (default parameter name: &quot;locale&quot;)." />
       <item value="default Time Zone" />
       <item value="default Locale" />
@@ -47,10 +51,6 @@
       <item value="Composite CacheManager implementation that iterates over a given collection of delegate CacheManager instances. Allows NoOpCacheManager to be automatically added to the end of the list for handling cache declarations without a backing store. Otherwise, any custom CacheManager may play that role of the last delegate as well, lazily creating cache regions for any requested name. Note: Regular CacheManagers that this composite manager delegates to need to return null from getCache(String) if they are unaware of the specified cache name, allowing for iteration to the next delegate in line. However, most CacheManager implementations fall back to lazy creation of named caches once requested; check out the specific configuration details for a 'static' mode with fixed cache names, if available." />
       <item value="A basic, no operation CacheManager implementation suitable for disabling caching, typically used for backing cache declarations without an actual backing store. Will simply accept any items into the cache not actually storing them." />
       <item value="was not registered for synchronization because synchronization is not active" />
-      <item value="Unsupported Encoding Exception" />
-      <item value="packet Weight" />
-      <item value="measure unit" />
-      <item value="concurrent Consumers" />
     </histories>
   </component>
 </application>
