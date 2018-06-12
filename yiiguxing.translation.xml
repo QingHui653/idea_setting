@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this affects the margin in the printer settings" />
       <item value="Make a map and return a function for checking if a key * is in that map." />
       <item value="Make a map and return a function for checking if a key" />
       <item value="-" />
@@ -50,7 +51,6 @@
       <item value="Simple cache manager working against a given collection of caches. Useful for testing or simple caching declarations." />
       <item value="Composite CacheManager implementation that iterates over a given collection of delegate CacheManager instances. Allows NoOpCacheManager to be automatically added to the end of the list for handling cache declarations without a backing store. Otherwise, any custom CacheManager may play that role of the last delegate as well, lazily creating cache regions for any requested name. Note: Regular CacheManagers that this composite manager delegates to need to return null from getCache(String) if they are unaware of the specified cache name, allowing for iteration to the next delegate in line. However, most CacheManager implementations fall back to lazy creation of named caches once requested; check out the specific configuration details for a 'static' mode with fixed cache names, if available." />
       <item value="A basic, no operation CacheManager implementation suitable for disabling caching, typically used for backing cache declarations without an actual backing store. Will simply accept any items into the cache not actually storing them." />
-      <item value="was not registered for synchronization because synchronization is not active" />
     </histories>
   </component>
 </application>
