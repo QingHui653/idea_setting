@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="btn orange" />
+      <item value="download" />
       <item value="An HTML multipart email. This class is used to send HTML formatted email. A text message can also be set for HTML unaware email clients, such as text-based email clients. This class also inherits from MultiPartEmail, so it is easy to add attachments to the email. To send an email in HTML, one should create a HtmlEmail, then use the setFrom(String), addTo(String) etc. methods. The HTML content can be set with the setHtmlMsg(String) method. The alternative text content can be set with setTextMsg(String). Either the text or HTML can be omitted, in which case the &quot;main&quot; part of the multipart becomes whichever is supplied rather than a multipart/alternative. Embedding Images and Media It is also possible to embed URLs, files, or arbitrary DataSources directly into the body of the mail: HtmlEmail he = new HtmlEmail(); File img = new File(&quot;my/image.gif&quot;); PNGDataSource png = new PNGDataSource(decodedPNGOutputStream); // a custom class StringBuffer msg = new StringBuffer(); msg.append(&quot;&lt;html&gt;&lt;body&gt;&quot;); msg.append(&quot;&lt;img src=cid:&quot;).append(he.embed(img)).append(&quot;&gt;&quot;); msg.append(&quot;&lt;img src=cid:&quot;).append(he.embed(png)).append(&quot;&gt;&quot;); msg.append(&quot;&lt;/body&gt;&lt;/html&gt;&quot;); he.setHtmlMsg(msg.toString()); // code to set the other email fields (not shown) Embedded entities are tracked by their name, which for Files is the filename itself and for URLs is the canonical path. It is an error to bind the same name to more than one entity, and this class will attempt to validate that for Files and URLs. When embedding a DataSource, the code uses the equals() method defined on the DataSources to make the determination." />
       <item value="Small wrapper class on top of HtmlEmail which encapsulates the required logic to retrieve images that are contained in &quot;&lt;img src=../&gt;&quot; elements in the HTML code. This is done by replacing all img-src-elements with &quot;cid:&quot;-entries and embedding images in the email. For local files the class tries to either load them via an absolute path or - if available - use a relative path starting from a base directory. For files that are not found locally, the implementation tries to download the element and link it in. The image loading is done by an instance of DataSourceResolver which has to be provided by the caller." />
       <item value="A program element annotated &amp;#64;Deprecated is one that programmers * are discouraged from using, typically because it is dangerous, * or because a better alternative exists. Compilers warn when a * deprecated program element is used or overridden in non-deprecated code." />
@@ -49,8 +51,6 @@
       <item value="the maximum number of consumers." />
       <item value="the minimum number of consumers to create." />
       <item value="the message converter to use" />
-      <item value="evict" />
-      <item value="FactoryBean for easy configuration of a ConcurrentMapCache when used within a Spring container. Can be configured through bean properties; uses the assigned Spring bean name as the default cache name. Useful for testing or simple caching scenarios, typically in combination with org.springframework.cache.support.SimpleCacheManager or dynamically through ConcurrentMapCacheManager." />
     </histories>
   </component>
 </application>
