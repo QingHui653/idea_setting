@@ -1,6 +1,35 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Shift value for indexing within segments." />
+      <item value="Mask value for indexing into segments. The upper bits of a key's hash code are used to choose the segment." />
+      <item value="Mask value for indexing into segments. The upper bits of a * key's hash code are used to choose the segment." />
+      <item value="Mask value" />
+      <item value="s 0" />
+      <item value="Shift" />
+      <item value="holds values which can't be initialized until after VM is booted." />
+      <item value="ensure" />
+      <item value="Segment" />
+      <item value="Returns the segment for the given index, creating it and * recording in segment table (via CAS) if not already present." />
+      <item value="Returns the segment for the given index, creating it and * recording in segment table (via CAS) if not already present. *" />
+      <item value="Spread bits to regularize both segment and index locations, // using variant of single-word Wang/Jenkins hash." />
+      <item value="key with which the specified value is to be associated" />
+      <item value="Maps the specified key to the specified value in this table. Neither the key nor the value can be null. The value can be retrieved by calling the get method with a key that is equal to the original key." />
+      <item value="ensure Segment" />
+      <item value="create segments and segments" />
+      <item value="segment" />
+      <item value="Find power-of-two sizes best matching arguments" />
+      <item value="ALTERNATIVE HASHING" />
+      <item value="Holder" />
+      <item value="RETRIES BEFORE LOCK" />
+      <item value="The maximum number of segments to allow; used to bound * constructor arguments. Must be power of two less than 1 &lt;&lt; 24." />
+      <item value="SEGMENTS" />
+      <item value="MAX SEGMENTS" />
+      <item value="MIN SEGMENT TABLE CAPACITY" />
+      <item value="MAXIMUM CAPACITY" />
+      <item value="The default concurrency level for this table, used when not * otherwise specified in a constructor." />
+      <item value="DEFAULT CONCURRENCY LEVEL" />
+      <item value="DEFAULT INITIAL CAPACITY" />
       <item value="String Builder" />
       <item value="btn orange" />
       <item value="download" />
@@ -22,35 +51,6 @@
       <item value="\ u 51 FA \ u 5 E 93\ u 4 FE 1\ u 606 F" />
       <item value="set Width Percentage" />
       <item value="Query and change fields in existing documents either by method * calls or by FDF merging." />
-      <item value="Gets the field box positions in the document. The return is an array of &lt;CODE&gt;float&lt;/CODE&gt; * multiple of 5. For each of this groups the values are: [page, llx, lly, urx, * ury]. The coordinates have the page rotation in consideration." />
-      <item value="Sets the field value." />
-      <item value="*" />
-      <item value="Sets a field property. Valid property names are:" />
-      <item value="url" />
-      <item value="the byte array with the document" />
-      <item value="Logistics" />
-      <item value="dercarriage" />
-      <item value="undercarriage" />
-      <item value="designation" />
-      <item value="carrier" />
-      <item value="Set the bound key to hold the string {@code value} if the bound key is absent." />
-      <item value="SETNX" />
-      <item value="the prefetch count" />
-      <item value="How often to publish idle container events." />
-      <item value="the consumerTagStrategy to set" />
-      <item value="the missingQueuesFatal to set." />
-      <item value="The BackOff to recover." />
-      <item value="The recovery interval." />
-      <item value="the advice chain to set." />
-      <item value="true to reject by default." />
-      <item value="set Receive Timeout" />
-      <item value="The number of consecutive timeouts to trigger stopping a consumer." />
-      <item value="The number of consecutive receives to trigger a new consumer." />
-      <item value="The minimum interval between consumer stops." />
-      <item value="The minimum interval between new consumer starts." />
-      <item value="the transaction size." />
-      <item value="the maximum number of consumers." />
-      <item value="the minimum number of consumers to create." />
     </histories>
   </component>
 </application>
