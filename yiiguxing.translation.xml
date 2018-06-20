@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The next size value at which to resize" />
       <item value="Returns the segment for the given index, creating it and * recording in segment table (via CAS) if not already present." />
       <item value="ensure Segment" />
       <item value="ensure" />
@@ -50,7 +51,6 @@
       <item value="Segment" />
       <item value="Shift value for indexing within segments." />
       <item value="Mask value for indexing into segments. The upper bits of a key's hash code are used to choose the segment." />
-      <item value="Mask value for indexing into segments. The upper bits of a * key's hash code are used to choose the segment." />
     </histories>
   </component>
 </application>
