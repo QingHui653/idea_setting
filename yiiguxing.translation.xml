@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mod Count" />
+      <item value="bucket Index" />
+      <item value="bucket" />
+      <item value="Access" />
+      <item value="record" />
+      <item value="his method is invoked whenever the value in an entry is * overwritten by an invocation of put(k,v) for a key k that's already * in the HashMap." />
+      <item value="to Size" />
+      <item value="Find a power of 2 &gt;= toSize" />
+      <item value="capacity" />
+      <item value="threshold" />
       <item value="The next size value at which to resize" />
       <item value="Returns the segment for the given index, creating it and * recording in segment table (via CAS) if not already present." />
       <item value="ensure Segment" />
@@ -41,16 +51,6 @@
       <item value="transient" />
       <item value="row" />
       <item value="cols" />
-      <item value="colspan" />
-      <item value="assert Integer.bitCount(length) == 1 : &quot;length must be a non-zero power of 2&quot;;" />
-      <item value="Initialize the hashing mask value. We defer initialization until we * really need it." />
-      <item value="init Hash Seed As Needed" />
-      <item value="threshold" />
-      <item value="inflate" />
-      <item value="inflate Table" />
-      <item value="Segment" />
-      <item value="Shift value for indexing within segments." />
-      <item value="Mask value for indexing into segments. The upper bits of a key's hash code are used to choose the segment." />
     </histories>
   </component>
 </application>
