@@ -1,7 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Black 2" />
+      <item value="body[6]=swapSellerOrderstatus2(purchaseOrdersDTO.getSellerOrderstatus()); //订单状态" />
+      <item value="swap Seller Orderstatus 2" />
+      <item value="body" />
+      <item value="swap Delivevr 2" />
+      <item value="seg" />
       <item value="mod Count" />
+      <item value="null" />
+      <item value="segment At" />
+      <item value="/** * Creates a new, empty map with the specified initial capacity, * and with default load factor (0.75) and concurrencyLevel (16). * * @param initialCapacity the initial capacity. The implementation * performs internal sizing to accommodate this many elements. * @throws IllegalArgumentException if the initial capacity of * elements is negative. */" />
+      <item value="/** * Creates a new, empty map with a default initial capacity (16), * load factor (0.75) and concurrencyLevel (16). */" />
+      <item value="Creates a new, empty map with a default initial capacity (16), * load factor (0.75) and concurrencyLevel (16)." />
+      <item value="Number of unsynchronized retries in size and containsValue * methods before resorting to locking. This is used to avoid * unbounded retries if tables undergo continuous modification * which would make it impossible to obtain an accurate result." />
+      <item value="RETRIES BEFORE LOCK" />
+      <item value="The maximum number of segments to allow; used to bound * constructor arguments. Must be power of two less than 1 &lt;&lt; 24." />
+      <item value="1 &lt;&lt; 16" />
+      <item value="MIN SEGMENT TABLE CAPACITY" />
+      <item value="used when not * otherwise specified in a constructor." />
+      <item value="The default concurrency level for this table" />
+      <item value="DEFAULT CONCURRENCY LEVEL" />
       <item value="bucket Index" />
       <item value="bucket" />
       <item value="Access" />
@@ -32,25 +51,13 @@
       <item value="Reentrant Lock" />
       <item value="create segments and segments[0]" />
       <item value="Mask" />
-      <item value="segment" />
-      <item value="size" />
-      <item value="shift" />
-      <item value="sshift" />
-      <item value="power - of - two" />
-      <item value="Find power-of-two sizes best matching arguments" />
-      <item value="he load factor threshold, used to control resizing. * Resizing may be performed when the average number of elements per * bin exceeds this threshold." />
-      <item value="the initial capacity. The implementation performs internal sizing to accommodate this many elements." />
-      <item value="Creates a new, empty map with the specified initial capacity, load factor and concurrency level." />
-      <item value="CONCURRENCY" />
-      <item value="DEFAULT CONCURRENCY LEVEL" />
-      <item value="This function ensures that hashCodes that differ only by // constant multiples at each bit position have a bounded // number of collisions (approximately 8 at default load factor)." />
-      <item value="Returns an int value with at most a single one-bit, in the position of the highest-order (&quot;leftmost&quot;) one-bit in the specified int value. Returns zero if the specified value has no one-bits in its two's complement binary representation, that is, if it is equal to zero." />
-      <item value="highest One Bit" />
-      <item value="round Up" />
-      <item value="round Up To Power Of 2" />
-      <item value="transient" />
-      <item value="row" />
-      <item value="cols" />
     </histories>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
   </component>
 </application>
