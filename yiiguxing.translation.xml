@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="re-traverse if entry changed" />
+      <item value="MAX SCAN RETRIES" />
+      <item value="a new node if key not found, else null" />
+      <item value="Scans for a node containing given key while trying to acquire lock, creating and returning one if not found. Upon return, guarantees that lock is held. UNlike in most methods, calls to method equals are not screened: Since traversal speed doesn't matter, we might as well help warm up the associated code and accesses as well." />
+      <item value="Scans" />
+      <item value="to recheck first below" />
+      <item value="negative while locating node" />
+      <item value="Gets the table entry for the given segment and hash" />
+      <item value="use segment 0 as prototype" />
+      <item value="ensure Segment" />
+      <item value="recheck" />
+      <item value="nonvolatile" />
+      <item value="Returns the segment for the given index, creating it and recording in segment table (via CAS) if not already present." />
+      <item value="Creates a new, empty map with the specified initial capacity, load factor and concurrency level." />
+      <item value="create segments and segments[0]" />
+      <item value="segment Shift" />
+      <item value="Shift" />
       <item value="is Black 2" />
       <item value="body[6]=swapSellerOrderstatus2(purchaseOrdersDTO.getSellerOrderstatus()); //订单状态" />
       <item value="swap Seller Orderstatus 2" />
@@ -32,25 +49,8 @@
       <item value="threshold" />
       <item value="The next size value at which to resize" />
       <item value="Returns the segment for the given index, creating it and * recording in segment table (via CAS) if not already present." />
-      <item value="ensure Segment" />
       <item value="ensure" />
-      <item value="to recheck first below" />
       <item value="Single node on list" />
-      <item value="RETRIES" />
-      <item value="SCAN" />
-      <item value="MAX SCAN RETRIES" />
-      <item value="This class defines only mutative methods requiring locking. * Except as noted, the methods of this class perform the * per-segment versions of ConcurrentHashMap methods. (Other * methods are integrated directly into ConcurrentHashMap * methods.) These mutative methods use a form of controlled * spinning on contention via methods scanAndLock and * scanAndLockForPut. These intersperse tryLocks with * traversals to locate nodes. The main benefit is to absorb * cache misses (which are very common for hash tables) while * obtaining locks so that traversal is faster once * acquired. We do not actually use the found nodes since they * must be re-acquired under lock anyway to ensure sequential * consistency of updates (and in any case may be undetectably * stale), but they will normally be much faster to re-locate. * Also, scanAndLockForPut speculatively creates a fresh node * to use in put if no node is found." />
-      <item value="Segments maintain a table of entry lists that are always * kept in a consistent state, so can be read (via volatile * reads of segments and tables) without locking. This * requires replicating nodes when necessary during table * resizing, so the old lists can be traversed by readers * still using old version of table." />
-      <item value="separate construction" />
-      <item value="opportunistically" />
-      <item value="This * subclasses from ReentrantLock opportunistically, just to * simplify some locking and avoid separate construction" />
-      <item value="subclasses" />
-      <item value="specialized" />
-      <item value="Segments" />
-      <item value="Segments are specialized versions of hash tables. This * subclasses from ReentrantLock opportunistically, just to * simplify some locking and avoid separate construction." />
-      <item value="Reentrant Lock" />
-      <item value="create segments and segments[0]" />
-      <item value="Mask" />
     </histories>
   </component>
   <component name="Settings">
