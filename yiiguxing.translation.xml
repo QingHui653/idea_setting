@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="threshold" />
+      <item value="Callbacks to allow LinkedHashMap post-actions" />
+      <item value="Val" />
+      <item value="after Node Insertion" />
+      <item value="treeify Bin" />
+      <item value="preserve order" />
+      <item value="Thr" />
+      <item value="Tab" />
+      <item value="evict" />
+      <item value="Absent" />
+      <item value="only If Absent" />
+      <item value="the previous value associated with key, or null if there was no mapping for key. (A null return can also indicate that the map previously associated null with key.)" />
+      <item value="if false, the table is in creation mode." />
+      <item value="if true, don't change existing value" />
+      <item value="The smallest table capacity for which bins may be treeified. * (Otherwise the table is resized if too many nodes in a bin.) * Should be at least 4 * TREEIFY_THRESHOLD to avoid conflicts * between resizing and treeification thresholds." />
+      <item value="The bin count threshold for untreeifying a (split) bin during a * resize operation. Should be less than TREEIFY_THRESHOLD, and at * most 6 to mesh with shrinkage detection under removal." />
+      <item value="The bin count threshold for using a tree rather than list for a * bin. Bins are converted to trees when adding an element to a * bin with at least this many nodes. The value must be greater * than 2 and should be at least 8 to mesh with assumptions in * tree removal about conversion back to plain bins upon * shrinkage." />
+      <item value="THRESHOLD" />
+      <item value="The bin count threshold for using a tree rather than list for a bin. Bins are converted to trees when adding an element to a bin with at least this many nodes. The value must be greater than 2 and should be at least 8 to mesh with assumptions in tree removal about conversion back to plain bins upon shrinkage." />
+      <item value="TREEIFY" />
+      <item value="TREEIFY THRESHOLD" />
       <item value="Reclassify nodes in each list to new table. Because we * are using power-of-two expansion, the elements from * each bin must either stay at same index, or move with a * power of two offset. We eliminate unnecessary node * creation by catching cases where old nodes can be * reused because their next fields won't change. * Statistically, at the default threshold, only about * one-sixth of them need cloning when a table * doubles. The nodes they replace will be garbage * collectable as soon as they are no longer referenced by * any reader thread that may be in the midst of * concurrently traversing table. Entry accesses use plain * array indexing because they are followed by volatile * table write." />
       <item value="Clone remaining nodes" />
       <item value="Single node on list" />
@@ -30,27 +51,6 @@
       <item value="is Black 2" />
       <item value="body[6]=swapSellerOrderstatus2(purchaseOrdersDTO.getSellerOrderstatus()); //订单状态" />
       <item value="swap Seller Orderstatus 2" />
-      <item value="body" />
-      <item value="swap Delivevr 2" />
-      <item value="seg" />
-      <item value="mod Count" />
-      <item value="null" />
-      <item value="segment At" />
-      <item value="/** * Creates a new, empty map with the specified initial capacity, * and with default load factor (0.75) and concurrencyLevel (16). * * @param initialCapacity the initial capacity. The implementation * performs internal sizing to accommodate this many elements. * @throws IllegalArgumentException if the initial capacity of * elements is negative. */" />
-      <item value="/** * Creates a new, empty map with a default initial capacity (16), * load factor (0.75) and concurrencyLevel (16). */" />
-      <item value="Creates a new, empty map with a default initial capacity (16), * load factor (0.75) and concurrencyLevel (16)." />
-      <item value="Number of unsynchronized retries in size and containsValue * methods before resorting to locking. This is used to avoid * unbounded retries if tables undergo continuous modification * which would make it impossible to obtain an accurate result." />
-      <item value="RETRIES BEFORE LOCK" />
-      <item value="The maximum number of segments to allow; used to bound * constructor arguments. Must be power of two less than 1 &lt;&lt; 24." />
-      <item value="1 &lt;&lt; 16" />
-      <item value="MIN SEGMENT TABLE CAPACITY" />
-      <item value="used when not * otherwise specified in a constructor." />
-      <item value="The default concurrency level for this table" />
-      <item value="DEFAULT CONCURRENCY LEVEL" />
-      <item value="bucket Index" />
-      <item value="bucket" />
-      <item value="Access" />
-      <item value="record" />
     </histories>
   </component>
   <component name="Settings">
