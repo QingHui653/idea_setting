@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This function ensures that hashCodes that differ only by // constant multiples at each bit position have a bounded // number of collisions (approximately 8 at default load factor)." />
+      <item value="/** * Computes key.hashCode() and spreads (XORs) higher bits of hash * to lower. Because the table uses power-of-two masking, sets of * hashes that vary only in bits above the current mask will * always collide. (Among known examples are sets of Float keys * holding consecutive whole numbers in small tables.) So we * apply a transform that spreads the impact of higher bits * downward. There is a tradeoff between speed, utility, and * quality of bit-spreading. Because many common sets of hashes * are already reasonably distributed (so don't benefit from * spreading), and because we use trees to handle large sets of * collisions in bins, we just XOR some shifted bits in the * cheapest possible way to reduce systematic lossage, as well as * to incorporate impact of the highest bits that would otherwise * never be used in index calculations because of table bounds. */" />
+      <item value="assert Integer.bitCount(length) == 1 : &quot;length must be a non-zero power of 2&quot;;" />
+      <item value="Returns index for hash code h." />
       <item value="modeldto" />
       <item value="size" />
       <item value="threshold" />
@@ -47,10 +51,6 @@
       <item value="nonvolatile" />
       <item value="Returns the segment for the given index, creating it and recording in segment table (via CAS) if not already present." />
       <item value="Creates a new, empty map with the specified initial capacity, load factor and concurrency level." />
-      <item value="create segments and segments[0]" />
-      <item value="segment Shift" />
-      <item value="Shift" />
-      <item value="is Black 2" />
     </histories>
   </component>
   <component name="Settings">
