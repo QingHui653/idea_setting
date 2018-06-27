@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="approval" />
       <item value="association" />
       <item value="collection" />
       <item value="set Delivered Money" />
@@ -50,7 +51,6 @@
       <item value="Gets the table entry for the given segment and hash" />
       <item value="use segment 0 as prototype" />
       <item value="ensure Segment" />
-      <item value="recheck" />
     </histories>
   </component>
   <component name="Settings">
