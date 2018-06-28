@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abnormal" />
+      <item value="abnormal Out" />
       <item value="IAreaService is not visible from class loader" />
       <item value="Loan Code (" />
       <item value="approval" />
@@ -49,8 +51,6 @@
       <item value="a new node if key not found, else null" />
       <item value="Scans" />
       <item value="to recheck first below" />
-      <item value="negative while locating node" />
-      <item value="Gets the table entry for the given segment and hash" />
     </histories>
   </component>
   <component name="Settings">
