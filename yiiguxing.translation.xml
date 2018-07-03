@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deprecated" />
       <item value="abnormal" />
       <item value="abnormal Out" />
       <item value="IAreaService is not visible from class loader" />
@@ -50,7 +51,6 @@
       <item value="MAX SCAN RETRIES" />
       <item value="a new node if key not found, else null" />
       <item value="Scans" />
-      <item value="to recheck first below" />
     </histories>
   </component>
   <component name="Settings">
