@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recharge" />
+      <item value="recharge Serial Number" />
+      <item value="enter Receipt Order Info" />
+      <item value="enter" />
+      <item value="ente" />
       <item value="Deprecated" />
       <item value="abnormal" />
       <item value="abnormal Out" />
@@ -46,11 +51,6 @@
       <item value="given node to new table" />
       <item value="also adding the * given node to new table" />
       <item value="Doubles size of table and repacks entries, also adding the * given node to new table" />
-      <item value="Scans for a node containing given key while trying to acquire lock, creating and returning one if not found. Upon return, guarantees that lock is held. UNlike in most methods, calls to method equals are not screened: Since traversal speed doesn't matter, we might as well help warm up the associated code and accesses as well." />
-      <item value="re-traverse if entry changed" />
-      <item value="MAX SCAN RETRIES" />
-      <item value="a new node if key not found, else null" />
-      <item value="Scans" />
     </histories>
   </component>
   <component name="Settings">
