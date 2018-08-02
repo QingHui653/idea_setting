@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="3 wiV Wg 7 Ad T" />
+      <item value="Whether to build an aggregated report at the root, or build individual reports." />
       <item value="Set this to &amp;apos;true&amp;apos; to skip analysis" />
       <item value="The name of the goal for which to show help. If unspecified, all goals will be displayed" />
       <item value="If &amp;lt;code&amp;gt;true&amp;lt;/code&amp;gt;, display all settable properties for each goal." />
@@ -49,8 +51,6 @@
       <item value="Tab" />
       <item value="evict" />
       <item value="Absent" />
-      <item value="only If Absent" />
-      <item value="the previous value associated with key, or null if there was no mapping for key. (A null return can also indicate that the map previously associated null with key.)" />
     </histories>
   </component>
   <component name="Settings">
