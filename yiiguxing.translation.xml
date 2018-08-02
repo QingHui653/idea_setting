@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set this to &amp;apos;true&amp;apos; to skip analysis" />
+      <item value="The name of the goal for which to show help. If unspecified, all goals will be displayed" />
+      <item value="If &amp;lt;code&amp;gt;true&amp;lt;/code&amp;gt;, display all settable properties for each goal." />
       <item value="Graphite" />
       <item value="Metric" />
       <item value="method" />
@@ -48,9 +51,6 @@
       <item value="Absent" />
       <item value="only If Absent" />
       <item value="the previous value associated with key, or null if there was no mapping for key. (A null return can also indicate that the map previously associated null with key.)" />
-      <item value="if false, the table is in creation mode." />
-      <item value="if true, don't change existing value" />
-      <item value="The smallest table capacity for which bins may be treeified. * (Otherwise the table is resized if too many nodes in a bin.) * Should be at least 4 * TREEIFY_THRESHOLD to avoid conflicts * between resizing and treeification thresholds." />
     </histories>
   </component>
   <component name="Settings">
