@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An implementation of {@link WebMvcConfigurer} with empty methods allowing * subclasses to override only the methods they're interested in." />
+      <item value="@deprecated as of 5.0 {@link WebMvcConfigurer} has default methods (made * possible by a Java 8 baseline) and can be implemented directly without the * need for this adapter" />
+      <item value="An implementation of WebMvcConfigurer with empty methods allowing subclasses to override only the methods they're interested in." />
       <item value="3 wiV Wg 7 Ad T" />
       <item value="Whether to build an aggregated report at the root, or build individual reports." />
       <item value="Set this to &amp;apos;true&amp;apos; to skip analysis" />
@@ -48,9 +51,6 @@
       <item value="treeify Bin" />
       <item value="preserve order" />
       <item value="Thr" />
-      <item value="Tab" />
-      <item value="evict" />
-      <item value="Absent" />
     </histories>
   </component>
   <component name="Settings">
