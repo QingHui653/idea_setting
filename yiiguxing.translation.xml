@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generation" />
       <item value="An implementation of {@link WebMvcConfigurer} with empty methods allowing * subclasses to override only the methods they're interested in." />
       <item value="@deprecated as of 5.0 {@link WebMvcConfigurer} has default methods (made * possible by a Java 8 baseline) and can be implemented directly without the * need for this adapter" />
       <item value="An implementation of WebMvcConfigurer with empty methods allowing subclasses to override only the methods they're interested in." />
@@ -50,7 +51,6 @@
       <item value="after Node Insertion" />
       <item value="treeify Bin" />
       <item value="preserve order" />
-      <item value="Thr" />
     </histories>
   </component>
   <component name="Settings">
