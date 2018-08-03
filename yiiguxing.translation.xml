@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="All of React Native (JS, Obj-C sources, Android binaries) is installed from npm" />
+      <item value="// NOTE: Do not place your application dependencies here; they belong // in the individual module build.gradle files" />
+      <item value="Do not place your application dependencies here; they belong" />
+      <item value="Could not get resource 'https://jcenter.bintray.com/com/android/tools/build/gradle/2.3.3/gradle-2.3.3.pom'." />
+      <item value="Remote host closed connection during handshake" />
       <item value="generation" />
       <item value="An implementation of {@link WebMvcConfigurer} with empty methods allowing * subclasses to override only the methods they're interested in." />
       <item value="@deprecated as of 5.0 {@link WebMvcConfigurer} has default methods (made * possible by a Java 8 baseline) and can be implemented directly without the * need for this adapter" />
@@ -46,11 +51,6 @@
       <item value="modeldto" />
       <item value="size" />
       <item value="threshold" />
-      <item value="Callbacks to allow LinkedHashMap post-actions" />
-      <item value="Val" />
-      <item value="after Node Insertion" />
-      <item value="treeify Bin" />
-      <item value="preserve order" />
     </histories>
   </component>
   <component name="Settings">
