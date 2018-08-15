@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maximum exponent a finite float variable may have. It is equal to the value returned by Math.getExponent(Float.MAX_VALUE)." />
+      <item value="MAX EXPONENT" />
+      <item value="A constant holding the smallest positive normal value of type float, 2-126. It is equal to the hexadecimal floating-point literal 0x1.0p-126f and also equal to Float.intBitsToFloat(0x00800000)." />
+      <item value="MIN NORMAL" />
+      <item value="NEGATIVE INFINITY" />
+      <item value="POSITIVE INFINITY" />
+      <item value="must cache" />
       <item value="Determines whether the specified code point is a valid Unicode code point value ." />
       <item value="is Valid Code Point" />
       <item value="SURROGATES AREA" />
@@ -44,13 +51,6 @@
       <item value="Integer Cache" />
       <item value="Possible leading &quot;+&quot; or &quot;-&quot;" />
       <item value="negative" />
-      <item value="Package private constructor which shares value array for speed. * this constructor is always expected to be called with share==true. * a separate constructor is needed because we already have a public * String(char[]) constructor that makes a copy of the given char[]." />
-      <item value="Places characters representing the integer i into the * character array buf. The characters are placed into * the buffer backwards starting with the least significant * digit at the specified index (exclusive), and working * backwards from there." />
-      <item value="2147483648" />
-      <item value="All possible chars for representing a number as a String" />
-      <item value="instance representing the primitive type" />
-      <item value="is Not Allow Draft" />
-      <item value="CALLABLE" />
     </histories>
   </component>
   <component name="Settings">
