@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EOF Exception" />
+      <item value="Utility methods for packing/unpacking primitive values in/out of byte arrays using big-endian byte ordering." />
+      <item value="Bit Sieve" />
+      <item value="Immutable arbitrary-precision integers. All operations behave as if BigIntegers were represented in two's-complement notation (like Java's primitive integer types). BigInteger provides analogues to all of Java's primitive integer operators, and all relevant methods from java.lang.Math. Additionally, BigInteger provides operations for modular arithmetic, GCD calculation, primality testing, prime generation, bit manipulation, and a few other miscellaneous operations. Semantics of arithmetic operations exactly mimic those of Java's integer arithmetic operators, as defined in The Java Language Specification. For example, division by zero throws an ArithmeticException, and division of a negative by a positive yields a negative (or zero) remainder. All of the details in the Spec concerning overflow are ignored, as BigIntegers are made as large as necessary to accommodate the results of an operation. Semantics of shift operations extend those of Java's shift operators to allow for negative shift distances. A right-shift with a negative shift distance results in a left shift, and vice-versa. The unsigned right shift operator (&gt;&gt;&gt;) is omitted, as this operation makes little sense in combination with the &quot;infinite word size&quot; abstraction provided by this class. Semantics of bitwise logical operations exactly mimic those of Java's bitwise integer operators. The binary operators (and, or, xor) implicitly perform sign extension on the shorter of the two operands prior to performing the operation. Comparison operations perform signed integer comparisons, analogous to those performed by Java's relational and equality operators. Modular arithmetic operations are provided to compute residues, perform exponentiation, and compute multiplicative inverses. These methods always return a non-negative result, between 0 and (modulus - 1), inclusive. Bit operations operate on a single bit of the two's-complement representation of their operand. If necessary, the operand is sign- extended so that it contains the designated bit. None of the single-bit operations can produce a BigInteger with a different sign from the BigInteger being operated on, as they affect only a single bit, and the &quot;infinite word size&quot; abstraction provided by this class ensures that there are infinitely many &quot;virtual sign bits&quot; preceding each BigInteger. For the sake of brevity and clarity, pseudo-code is used throughout the descriptions of BigInteger methods. The pseudo-code expression (i + j) is shorthand for &quot;a BigInteger whose value is that of the BigInteger i plus that of the BigInteger j.&quot; The pseudo-code expression (i == j) is shorthand for &quot;true if and only if the BigInteger i represents the same value as the BigInteger j.&quot; Other pseudo-code expressions are interpreted similarly. All methods and constructors in this class throw NullPointerException when passed a null object reference for any input parameter." />
+      <item value="Bean Context Child" />
+      <item value="Bean Context" />
+      <item value="Phantom reference objects, which are enqueued after the collector determines that their referents may otherwise be reclaimed. Phantom references are most often used for scheduling pre-mortem cleanup actions in a more flexible way than is possible with the Java finalization mechanism. If the garbage collector determines at a certain point in time that the referent of a phantom reference is phantom reachable, then at that time or at some later time it will enqueue the reference. In order to ensure that a reclaimable object remains so, the referent of a phantom reference may not be retrieved: The get method of a phantom reference always returns null. Unlike soft and weak references, phantom references are not automatically cleared by the garbage collector as they are enqueued. An object that is reachable via phantom references will remain so until all such references are cleared or themselves become unreachable." />
+      <item value="Phantom Reference" />
+      <item value="Final references, used to implement finalization" />
+      <item value="Invoked by VM" />
+      <item value="/* Package-private; must be in same package as the Reference class */" />
+      <item value="Malformed Parameterized Type Exception" />
+      <item value="Invocation Target Exception" />
+      <item value="Accessible Object" />
       <item value="ensure Capacity" />
       <item value="content Equals" />
       <item value="hibyte" />
@@ -37,20 +51,6 @@
       <item value="The minimum value of a Unicode low-surrogate code unit in the UTF-16 encoding, constant '\uDC00'. A low-surrogate is also known as a trailing-surrogate." />
       <item value="MIN LOW SURROGATE" />
       <item value="General category &quot;Cn&quot; in the Unicode specification." />
-      <item value="General category &quot;Ll&quot; in the Unicode specification." />
-      <item value="LOWERCASE LETTER" />
-      <item value="General category &quot;Lu&quot; in the Unicode specification." />
-      <item value="UPPERCASE LETTER" />
-      <item value="ASSIGNED" />
-      <item value="UNASSIGNED" />
-      <item value="MAX RADIX" />
-      <item value="The constant value of this field is the smallest value of type" />
-      <item value="'\ u 0000'" />
-      <item value="Bin Sort" />
-      <item value="Dichotomy" />
-      <item value="Dichotomy Sort" />
-      <item value="pivot" />
-      <item value="partition" />
     </histories>
   </component>
   <component name="Settings">
