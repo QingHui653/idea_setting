@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="value Of" />
+      <item value="to String" />
+      <item value="for Digit" />
+      <item value="digit" />
+      <item value="Character" />
+      <item value="the integer {@code 1231} if this object represents * {@code true}; returns the integer {@code 1237} if this * object represents {@code false}." />
+      <item value="Returns a hash code for this Boolean object." />
+      <item value="Returns a Byte instance representing the specified byte value. If a new Byte instance is not required, this method should generally be used in preference to the constructor Byte(byte), as this method is likely to yield significantly better space and time performance since all byte values are cached." />
+      <item value="Maximum array size is Integer.MAX_VALUE" />
+      <item value="Returns the number of zero bits preceding the highest-order (&quot;leftmost&quot;) one-bit in the two's complement binary representation of the specified int value. Returns 32 if the specified value has no one-bits in its two's complement representation, in other words if it is equal to zero. Note that this method is closely related to the logarithm base 2. For all positive int values x:" />
+      <item value="Returns an int value with at most a single one-bit, in the position of the lowest-order (&quot;rightmost&quot;) one-bit in the specified int value. Returns zero if the specified value has no one-bits in its two's complement binary representation, that is, if it is equal to zero." />
+      <item value="highest One Bit" />
+      <item value="Determines the integer value of the system property with the specified name. The first argument is treated as the name of a system property. System properties are accessible through the System.getProperty(String) method. The string value of this property is then interpreted as an integer value and an Integer object representing this value is returned. Details of possible numeric formats can be found with the definition of getProperty. If there is no property with the specified name, if the specified name is empty or null, or if the property does not have the correct numeric format, then null is returned. In other words, this method returns an Integer object equal to the value of: getInteger(nm, null)" />
+      <item value="a hash code value for this object, equal to the * primitive {@code int} value represented by this * {@code Integer} object." />
+      <item value="integer Cache High Prop Value" />
+      <item value="Integer Cache" />
+      <item value="Possible leading &quot;+&quot; or &quot;-&quot;" />
+      <item value="negative" />
+      <item value="Package private constructor which shares value array for speed. * this constructor is always expected to be called with share==true. * a separate constructor is needed because we already have a public * String(char[]) constructor that makes a copy of the given char[]." />
+      <item value="Places characters representing the integer i into the * character array buf. The characters are placed into * the buffer backwards starting with the least significant * digit at the specified index (exclusive), and working * backwards from there." />
+      <item value="2147483648" />
+      <item value="All possible chars for representing a number as a String" />
+      <item value="instance representing the primitive type" />
       <item value="is Not Allow Draft" />
       <item value="CALLABLE" />
       <item value="PREPARED" />
@@ -28,29 +51,6 @@
       <item value="Invalid character found in method name. HTTP method names must be tokens" />
       <item value="FROM" />
       <item value="warehouse Sku" />
-      <item value="spu Name" />
-      <item value="@param region to merge * @return index of this region * @throws IllegalArgumentException if region contains fewer than 2 cells * @throws IllegalStateException if region intersects with a multi-cell array formula * @throws IllegalStateException if region intersects with an existing region on this sheet" />
-      <item value="Adds a merged region of cells on a sheet." />
-      <item value="declares multiple JSON fields named id" />
-      <item value="signfor Outbound" />
-      <item value="INSPECTION FILE" />
-      <item value="recharge" />
-      <item value="recharge Serial Number" />
-      <item value="enter Receipt Order Info" />
-      <item value="enter" />
-      <item value="ente" />
-      <item value="Deprecated" />
-      <item value="abnormal" />
-      <item value="abnormal Out" />
-      <item value="IAreaService is not visible from class loader" />
-      <item value="Loan Code (" />
-      <item value="approval" />
-      <item value="association" />
-      <item value="collection" />
-      <item value="set Delivered Money" />
-      <item value="This function ensures that hashCodes that differ only by // constant multiples at each bit position have a bounded // number of collisions (approximately 8 at default load factor)." />
-      <item value="/** * Computes key.hashCode() and spreads (XORs) higher bits of hash * to lower. Because the table uses power-of-two masking, sets of * hashes that vary only in bits above the current mask will * always collide. (Among known examples are sets of Float keys * holding consecutive whole numbers in small tables.) So we * apply a transform that spreads the impact of higher bits * downward. There is a tradeoff between speed, utility, and * quality of bit-spreading. Because many common sets of hashes * are already reasonably distributed (so don't benefit from * spreading), and because we use trees to handle large sets of * collisions in bins, we just XOR some shifted bits in the * cheapest possible way to reduce systematic lossage, as well as * to incorporate impact of the highest bits that would otherwise * never be used in index calculations because of table bounds. */" />
-      <item value="assert Integer.bitCount(length) == 1 : &quot;length must be a non-zero power of 2&quot;;" />
     </histories>
   </component>
   <component name="Settings">
