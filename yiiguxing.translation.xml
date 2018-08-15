@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bin Sort" />
+      <item value="Dichotomy" />
+      <item value="Dichotomy Sort" />
       <item value="pivot" />
       <item value="partition" />
       <item value="value Of" />
@@ -48,9 +51,6 @@
       <item value="Metric" />
       <item value="method" />
       <item value="Annotation that marks a method as a candidate for &lt;i&gt;asynchronous&lt;/i&gt; execution. * Can also be used at the type level, in which case all of the type's methods are * considered as asynchronous." />
-      <item value="Annotation that marks a method as a candidate for asynchronous execution. Can also be used at the type level, in which case all of the type's methods are considered as asynchronous. In terms of target method signatures, any parameter types are supported. However, the return type is constrained to either void or java.util.concurrent.Future. In the latter case, the Future handle returned from the proxy will be an actual asynchronous Future that can be used to track the result of the asynchronous method execution. However, since the target method needs to implement the same signature, it will have to return a temporary Future handle that just passes the return value through: e.g. Spring's AsyncResult or EJB 3.1's" />
-      <item value="sku code" />
-      <item value="Invalid character found in method name. HTTP method names must be tokens" />
     </histories>
   </component>
   <component name="Settings">
