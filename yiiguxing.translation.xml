@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ensure Capacity" />
+      <item value="content Equals" />
+      <item value="hibyte" />
+      <item value="ascii" />
+      <item value="The {@code double} value that is closer than any other to * &lt;i&gt;e&lt;/i&gt;, the base of the natural logarithms." />
+      <item value="A class loader is an object that is responsible for loading classes. The class ClassLoader is an abstract class. Given the binary name of a class, a class loader should attempt to locate or generate data that constitutes a definition for the class. A typical strategy is to transform the name into a file name and then read a &quot;class file&quot; of that name from a file system. Every Class object contains a reference to the ClassLoader that defined it. Class objects for array classes are not created by class loaders, but are created automatically as required by the Java runtime. The class loader for an array class, as returned by Class.getClassLoader() is the same as the class loader for its element type; if the element type is a primitive type, then the array class has no class loader. Applications implement subclasses of ClassLoader in order to extend the manner in which the Java virtual machine dynamically loads classes. Class loaders may typically be used by security managers to indicate security domains. The ClassLoader class uses a delegation model to search for classes and resources. Each instance of ClassLoader has an associated parent class loader. When requested to find a class or resource, a ClassLoader instance will delegate the search for the class or resource to its parent class loader before attempting to find the class or resource itself. The virtual machine's built-in class loader, called the &quot;bootstrap class loader&quot;, does not itself have a parent but may serve as the parent of a ClassLoader instance. Class loaders that support concurrent loading of classes are known as parallel capable class loaders and are required to register themselves at their class initialization time by invoking the ClassLoader.registerAsParallelCapable method. Note that the ClassLoader class is registered as parallel capable by default. However, its subclasses still need to register themselves if they are parallel capable. In environments in which the delegation model is not strictly hierarchical, class loaders need to be parallel capable, otherwise class loading can lead to deadlocks because the loader lock is held for the duration of the class loading process (see loadClass methods). Normally, the Java virtual machine loads classes from the local file system in a platform-dependent manner. For example, on UNIX systems, the virtual machine loads classes from the directory defined by the CLASSPATH environment variable. However, some classes may not originate from a file; they may originate from other sources, such as the network, or they could be constructed by an application. The method defineClass converts an array of bytes into an instance of class Class. Instances of this newly defined class can be created using Class.newInstance. The methods and constructors of objects created by a class loader may reference other classes. To determine the class(es) referred to, the Java virtual machine invokes the loadClass method of the class loader that originally created the class. For example, an application could create a network class loader to download class files from a server. Sample code might look like: ClassLoader loader = new NetworkClassLoader(host, port); Object main = loader.loadClass(&quot;Main&quot;, true).newInstance(); . . . The network class loader subclass must define the methods findClass and loadClassData to load a class from the network. Once it has downloaded the bytes that make up the class, it should use the method defineClass to create a class instance. A sample implementation is: class NetworkClassLoader extends ClassLoader { String host; int port; public Class findClass(String name) { byte[] b = loadClassData(name); return defineClass(name, b, 0, b.length); } private byte[] loadClassData(String name) { // load the class data from the connection . . . } }" />
+      <item value="Class Loader" />
+      <item value="Thrown when the Java Virtual Machine detects a cir" />
+      <item value="Class Circularity Error" />
+      <item value="Char Sequence" />
+      <item value="Copyright (c) 2006, Oracle and/or its affiliates. All rights reserved. * ORACLE PROPRIETARY/CONFIDENTIAL. Use is subject to license terms." />
+      <item value="Bootstrap" />
+      <item value="Bootstrap Method Error" />
+      <item value="Array Store Exception" />
+      <item value="Arith" />
+      <item value="metic" />
+      <item value="Arithmetic Exception" />
+      <item value="Class to track and run user level shutdown hooks registered through" />
       <item value="Maximum exponent a finite float variable may have. It is equal to the value returned by Math.getExponent(Float.MAX_VALUE)." />
       <item value="MAX EXPONENT" />
       <item value="A constant holding the smallest positive normal value of type float, 2-126. It is equal to the hexadecimal floating-point literal 0x1.0p-126f and also equal to Float.intBitsToFloat(0x00800000)." />
@@ -33,24 +51,6 @@
       <item value="Dichotomy Sort" />
       <item value="pivot" />
       <item value="partition" />
-      <item value="value Of" />
-      <item value="to String" />
-      <item value="for Digit" />
-      <item value="digit" />
-      <item value="Character" />
-      <item value="the integer {@code 1231} if this object represents * {@code true}; returns the integer {@code 1237} if this * object represents {@code false}." />
-      <item value="Returns a hash code for this Boolean object." />
-      <item value="Returns a Byte instance representing the specified byte value. If a new Byte instance is not required, this method should generally be used in preference to the constructor Byte(byte), as this method is likely to yield significantly better space and time performance since all byte values are cached." />
-      <item value="Maximum array size is Integer.MAX_VALUE" />
-      <item value="Returns the number of zero bits preceding the highest-order (&quot;leftmost&quot;) one-bit in the two's complement binary representation of the specified int value. Returns 32 if the specified value has no one-bits in its two's complement representation, in other words if it is equal to zero. Note that this method is closely related to the logarithm base 2. For all positive int values x:" />
-      <item value="Returns an int value with at most a single one-bit, in the position of the lowest-order (&quot;rightmost&quot;) one-bit in the specified int value. Returns zero if the specified value has no one-bits in its two's complement binary representation, that is, if it is equal to zero." />
-      <item value="highest One Bit" />
-      <item value="Determines the integer value of the system property with the specified name. The first argument is treated as the name of a system property. System properties are accessible through the System.getProperty(String) method. The string value of this property is then interpreted as an integer value and an Integer object representing this value is returned. Details of possible numeric formats can be found with the definition of getProperty. If there is no property with the specified name, if the specified name is empty or null, or if the property does not have the correct numeric format, then null is returned. In other words, this method returns an Integer object equal to the value of: getInteger(nm, null)" />
-      <item value="a hash code value for this object, equal to the * primitive {@code int} value represented by this * {@code Integer} object." />
-      <item value="integer Cache High Prop Value" />
-      <item value="Integer Cache" />
-      <item value="Possible leading &quot;+&quot; or &quot;-&quot;" />
-      <item value="negative" />
     </histories>
   </component>
   <component name="Settings">
