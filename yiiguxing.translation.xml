@@ -1,7 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Like addEntry except that this version is used when creating entries as part of Map construction or &quot;pseudo-construction&quot; (cloning, deserialization). This version needn't worry about resizing the table. Subclass overrides this to alter the behavior of HashMap(Map), clone, and readObject." />
+      <item value="bucket Index" />
       <item value="This function ensures that hashCodes that differ only by // constant multiples at each bit position have a bounded // number of collisions (approximately 8 at default load factor)." />
+      <item value="assert Integer.bitCount(length) == 1 : &quot;length must be a non-zero power of 2&quot;;" />
       <item value="Initialize the hashing mask value. We defer initialization until we * really need it." />
       <item value="init Hash Seed As Needed" />
       <item value="round Up To Power Of 2" />
@@ -48,9 +51,6 @@
       <item value="Identity" />
       <item value="Dual" />
       <item value="Pivot" />
-      <item value="Concurrent Modification Exception" />
-      <item value="Calendar" />
-      <item value="Abstract Sequential List" />
     </histories>
   </component>
   <component name="Settings">
