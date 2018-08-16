@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This function ensures that hashCodes that differ only by // constant multiples at each bit position have a bounded // number of collisions (approximately 8 at default load factor)." />
+      <item value="Initialize the hashing mask value. We defer initialization until we * really need it." />
+      <item value="init Hash Seed As Needed" />
+      <item value="round Up To Power Of 2" />
+      <item value="Inflates" />
+      <item value="inflate Table" />
+      <item value="threshold" />
+      <item value="Constructs a new &lt;tt&gt;HashMap&lt;/tt&gt; with the same mappings as the * specified &lt;tt&gt;Map&lt;/tt&gt;. The &lt;tt&gt;HashMap&lt;/tt&gt; is created with * default load factor (0.75) and an initial capacity sufficient to * hold the mappings in the specified &lt;tt&gt;Map&lt;/tt&gt;." />
+      <item value="transfer" />
+      <item value="Initialization hook for subclasses. This method is called * in all constructors and pseudo-constructors (clone, readObject) * after HashMap has been initialized but before any entries have * been inserted. (In the absence of this method, readObject would * require explicit knowledge of subclasses.)" />
+      <item value="A randomizing value associated with this instance that is applied to * hash code of keys to make hash collisions harder to find. If 0 then * alternative hashing is disabled." />
+      <item value="hash Seed" />
+      <item value="holds values which can't be initialized until after VM is booted." />
+      <item value="An empty table instance to share when the table is not inflated." />
+      <item value="The maximum capacity, used if a higher value is implicitly specified * by either of the constructors with arguments. * MUST be a power of two &lt;= 1&lt;&lt;30." />
+      <item value="MAXIMUM CAPACITY" />
+      <item value="The default initial capacity - MUST be a power of two." />
+      <item value="This class provides a skeletal implementation of the Map interface, to minimize the effort required to implement this interface. To implement an unmodifiable map, the programmer needs only to extend this class and provide an implementation for the entrySet method, which returns a set-view of the map's mappings. Typically, the returned set will, in turn, be implemented atop AbstractSet. This set should not support the add or remove methods, and its iterator should not support the remove method. To implement a modifiable map, the programmer must additionally override this class's put method (which otherwise throws an UnsupportedOperationException), and the iterator returned by entrySet().iterator() must additionally implement its remove method. The programmer should generally provide a void (no argument) and map constructor, as per the recommendation in the Map interface specification. The documentation for each non-abstract method in this class describes its implementation in detail. Each of these methods may be overridden if the map being implemented admits a more efficient implementation. This class is a member of the Java Collections Framework." />
+      <item value="Abstract Map" />
       <item value="Navigable Map" />
       <item value="distinguishes this * constructor from other int, float constructor." />
       <item value="distinguishes this" />
@@ -32,25 +51,6 @@
       <item value="Concurrent Modification Exception" />
       <item value="Calendar" />
       <item value="Abstract Sequential List" />
-      <item value="This implementation always throws an" />
-      <item value="Retrieves, but does not remove, the first element of this list, or returns null if this list is empty." />
-      <item value="Returns the (non-null) Node at the specified element index." />
-      <item value="Unlinks non-null node x." />
-      <item value="Inserts element e before non-null Node succ." />
-      <item value="A linear collection that supports element insertion and removal at both ends. The name deque is short for &quot;double ended queue&quot; and is usually pronounced &quot;deck&quot;. Most Deque implementations place no fixed limits on the number of elements they may contain, but this interface supports capacity-restricted deques as well as those with no fixed size limit. This interface defines methods to access the elements at both ends of the deque. Methods are provided to insert, remove, and examine the element. Each of these methods exists in two forms: one throws an exception if the operation fails, the other returns a special value (either null or false, depending on the operation). The latter form of the insert operation is designed specifically for use with capacity-restricted Deque implementations; in most implementations, insert operations cannot fail. The twelve methods described above are summarized in the following table:" />
-      <item value="Deque" />
-      <item value="clear to let GC do its work" />
-      <item value="min Capacity" />
-      <item value="DEFAULT CAPACITY" />
-      <item value="huge Capacity" />
-      <item value="ELEMENTDATA" />
-      <item value="EMPTY" />
-      <item value="EMPTY ELEMENTDATA" />
-      <item value="EOF Exception" />
-      <item value="Utility methods for packing/unpacking primitive values in/out of byte arrays using big-endian byte ordering." />
-      <item value="Bit Sieve" />
-      <item value="Immutable arbitrary-precision integers. All operations behave as if BigIntegers were represented in two's-complement notation (like Java's primitive integer types). BigInteger provides analogues to all of Java's primitive integer operators, and all relevant methods from java.lang.Math. Additionally, BigInteger provides operations for modular arithmetic, GCD calculation, primality testing, prime generation, bit manipulation, and a few other miscellaneous operations. Semantics of arithmetic operations exactly mimic those of Java's integer arithmetic operators, as defined in The Java Language Specification. For example, division by zero throws an ArithmeticException, and division of a negative by a positive yields a negative (or zero) remainder. All of the details in the Spec concerning overflow are ignored, as BigIntegers are made as large as necessary to accommodate the results of an operation. Semantics of shift operations extend those of Java's shift operators to allow for negative shift distances. A right-shift with a negative shift distance results in a left shift, and vice-versa. The unsigned right shift operator (&gt;&gt;&gt;) is omitted, as this operation makes little sense in combination with the &quot;infinite word size&quot; abstraction provided by this class. Semantics of bitwise logical operations exactly mimic those of Java's bitwise integer operators. The binary operators (and, or, xor) implicitly perform sign extension on the shorter of the two operands prior to performing the operation. Comparison operations perform signed integer comparisons, analogous to those performed by Java's relational and equality operators. Modular arithmetic operations are provided to compute residues, perform exponentiation, and compute multiplicative inverses. These methods always return a non-negative result, between 0 and (modulus - 1), inclusive. Bit operations operate on a single bit of the two's-complement representation of their operand. If necessary, the operand is sign- extended so that it contains the designated bit. None of the single-bit operations can produce a BigInteger with a different sign from the BigInteger being operated on, as they affect only a single bit, and the &quot;infinite word size&quot; abstraction provided by this class ensures that there are infinitely many &quot;virtual sign bits&quot; preceding each BigInteger. For the sake of brevity and clarity, pseudo-code is used throughout the descriptions of BigInteger methods. The pseudo-code expression (i + j) is shorthand for &quot;a BigInteger whose value is that of the BigInteger i plus that of the BigInteger j.&quot; The pseudo-code expression (i == j) is shorthand for &quot;true if and only if the BigInteger i represents the same value as the BigInteger j.&quot; Other pseudo-code expressions are interpreted similarly. All methods and constructors in this class throw NullPointerException when passed a null object reference for any input parameter." />
-      <item value="Bean Context Child" />
     </histories>
   </component>
   <component name="Settings">
