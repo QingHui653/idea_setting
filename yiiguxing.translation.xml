@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clear to let GC do its work" />
+      <item value="min Capacity" />
+      <item value="DEFAULT CAPACITY" />
+      <item value="huge Capacity" />
       <item value="ELEMENTDATA" />
       <item value="EMPTY" />
       <item value="EMPTY ELEMENTDATA" />
@@ -47,10 +51,6 @@
       <item value="is Valid Code Point" />
       <item value="SURROGATES AREA" />
       <item value="Unicode Block" />
-      <item value="Instances of this class represent particular subsets of the Unicode * character set. The only family of subsets defined in the * {@code Character} class is {@link Character.UnicodeBlock}. * Other portions of the Java API may define other subsets for their * own purposes." />
-      <item value="The number of bits used to represent a char value in unsigned binary form, constant 16." />
-      <item value="Instances of this class represent particular subsets of the Unicode character set. The only family of subsets defined in the Character class is Character.UnicodeBlock. Other portions of the Java API may define other subsets for their own purposes." />
-      <item value="Subset" />
     </histories>
   </component>
   <component name="Settings">
