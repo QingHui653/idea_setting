@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The iteration ordering method for this linked hash map: true for access-order, false for insertion-order." />
+      <item value="The iteration ordering method for this linked hash map:" />
+      <item value="access Order" />
       <item value="deal Amount Dif" />
       <item value="Like addEntry except that this version is used when creating entries as part of Map construction or &quot;pseudo-construction&quot; (cloning, deserialization). This version needn't worry about resizing the table. Subclass overrides this to alter the behavior of HashMap(Map), clone, and readObject." />
       <item value="bucket Index" />
@@ -48,9 +51,6 @@
       <item value="Masayoshi Okutsu" />
       <item value="Imperial" />
       <item value="Japanese Imperial Calendar" />
-      <item value="Meiji 1868-01-01 midnight local time" />
-      <item value="Identity" />
-      <item value="Dual" />
     </histories>
   </component>
   <component name="Settings">
