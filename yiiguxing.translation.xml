@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ELEMENTDATA" />
+      <item value="EMPTY" />
+      <item value="EMPTY ELEMENTDATA" />
       <item value="EOF Exception" />
       <item value="Utility methods for packing/unpacking primitive values in/out of byte arrays using big-endian byte ordering." />
       <item value="Bit Sieve" />
@@ -48,9 +51,6 @@
       <item value="The number of bits used to represent a char value in unsigned binary form, constant 16." />
       <item value="Instances of this class represent particular subsets of the Unicode character set. The only family of subsets defined in the Character class is Character.UnicodeBlock. Other portions of the Java API may define other subsets for their own purposes." />
       <item value="Subset" />
-      <item value="The minimum value of a Unicode low-surrogate code unit in the UTF-16 encoding, constant '\uDC00'. A low-surrogate is also known as a trailing-surrogate." />
-      <item value="MIN LOW SURROGATE" />
-      <item value="General category &quot;Cn&quot; in the Unicode specification." />
     </histories>
   </component>
   <component name="Settings">
