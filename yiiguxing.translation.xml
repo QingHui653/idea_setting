@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="insert Generation Sku" />
       <item value="Main barrier code, covering the various policies." />
       <item value="barrier" />
       <item value="current generation" />
@@ -50,7 +51,6 @@
       <item value="Mask" />
       <item value="segment Mask" />
       <item value="ordered write of segments[0]" />
-      <item value="sshift" />
     </histories>
   </component>
   <component name="Settings">
