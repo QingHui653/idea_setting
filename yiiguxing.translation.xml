@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connection refused: no further information" />
       <item value="There are 1 datanode(s) running and 1 node(s) are excluded in this operation." />
       <item value="File /1.txt could only be replicated to 0 nodes instead of minReplication (=1)." />
       <item value="replicated" />
-      <item value="Connection refused: no further information" />
       <item value="delete Node" />
       <item value="insert Generation Sku" />
       <item value="Main barrier code, covering the various policies." />
