@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connection refused: no further information" />
       <item value="delete Node" />
       <item value="insert Generation Sku" />
       <item value="Main barrier code, covering the various policies." />
@@ -50,7 +51,6 @@
       <item value="Shift value for indexing within segments." />
       <item value="ask value for indexing into segments. The upper bits of a * key's hash code are used to choose the segment." />
       <item value="Mask" />
-      <item value="segment Mask" />
     </histories>
   </component>
   <component name="Settings">
