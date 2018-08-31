@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <histories>
       <item value="Connection refused: no further information" />
+      <item value="Failed to connect to server: 192.168.1.103/192.168.1.103:9000: try once and fail." />
+      <item value="try once and fail." />
+      <item value="order Price" />
       <item value="There are 1 datanode(s) running and 1 node(s) are excluded in this operation." />
       <item value="File /1.txt could only be replicated to 0 nodes instead of minReplication (=1)." />
       <item value="replicated" />
@@ -48,9 +51,6 @@
       <item value="Stamped Lock" />
       <item value="Stack" />
       <item value="sto sn sku" />
-      <item value="SERIAL NUMBER" />
-      <item value="ensure" />
-      <item value="The segments, each of which is a specialized hash table." />
     </histories>
   </component>
   <component name="Settings">
