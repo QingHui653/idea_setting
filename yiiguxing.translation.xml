@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unknown Host Exception" />
+      <item value="Protocol message tag had invalid wire type" />
       <item value="Is HBase available? Throw an exception if not." />
       <item value="Connection refused: no further information" />
       <item value="Failed to connect to server: 192.168.1.103/192.168.1.103:9000: try once and fail." />
@@ -49,8 +51,6 @@
       <item value="the number of rows that are kept in memory until flushed out, see above." />
       <item value="row Access Window Size" />
       <item value="Stamped" />
-      <item value="Stamped Lock" />
-      <item value="Stack" />
     </histories>
   </component>
   <component name="Settings">
