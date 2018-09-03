@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cyclic Barrier" />
       <item value="further" />
       <item value="Unknown Host Exception" />
       <item value="Protocol message tag had invalid wire type" />
@@ -50,7 +51,6 @@
       <item value="213" />
       <item value="Attempting to write a row[2] in the range [0,6] that is already written to disk." />
       <item value="the number of rows that are kept in memory until flushed out, see above." />
-      <item value="row Access Window Size" />
     </histories>
   </component>
   <component name="Settings">
