@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create Block Output Stream" />
       <item value="/&quot;, is treated as a resource method" />
       <item value="no further information" />
       <item value="See addColumn(byte[], byte[], byte[]). This version expects that the underlying arrays won't change. It's intended for usage internal HBase to and for advanced client applications." />
@@ -50,7 +51,6 @@
       <item value="A capability-based lock with three modes for controlling read/write access. The state of a StampedLock consists of a version and mode. Lock acquisition methods return a stamp that represents and controls access with respect to a lock state; &quot;try&quot; versions of these methods may instead return the special value zero to represent failure to acquire access. Lock release and conversion methods require stamps as arguments, and fail if they do not match the state of the lock. The three modes are:" />
       <item value="Updates with the given value." />
       <item value="accumulate" />
-      <item value="A package-local class holding common representation and mechanics for classes supporting dynamic striping on 64bit values. The class extends Number so that concrete subclasses must publicly do so." />
     </histories>
   </component>
   <component name="Settings">
