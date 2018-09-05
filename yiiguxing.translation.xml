@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Remove; match on key only if value null, else match both." />
+      <item value="Specialized implementations of map methods" />
+      <item value="alternative" />
+      <item value="An alternative ConcurrentMap implementation which is similar to java.util.concurrent.ConcurrentHashMap." />
       <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component." />
       <item value="if any (or empty String otherwise)" />
       <item value="the suggested component name" />
@@ -47,10 +51,6 @@
       <item value="set while holding write lock" />
       <item value="// lost initialization race; just spin" />
       <item value="Creates a new, empty map with the default initial table size (16)." />
-      <item value="Table element access" />
-      <item value="Returns x's Class if it is of the form &quot;class C implements * Comparable&lt;C&gt;&quot;, else null." />
-      <item value="Static utilities" />
-      <item value="more: less than 1 in ten million" />
     </histories>
   </component>
   <component name="Settings">
