@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Files syntax highlight Coloring ignored files in the Project View Gitignore templates filtering and selecting in rules generator by name and content Show ignored files by specified ignore file (right click on .gitignore file) Hide ignored files in Project View Create file in currently selected directory Generate Gitignore rules basing on GitHub's templates collection Add selected file/directory to ignore rules from popup menu Suggesting .gitignore file creation for new project Entries inspection (duplicated, covered, unused, relative, incorrect syntax, relative entries) with fix actions Comments and brackets support Navigation to entries in Project view Renaming entries from ignore file Close opened ignored files action Custom user templates with import/export features Create custom templates from existing rules Favorite templates" />
+      <item value="Returns {@code true} if this queue contains the specified element. * More formally, returns {@code true} if and only if this queue contains * at least one element {@code e} such that {@code o.equals(e)}." />
+      <item value="the number of elements in this queue" />
+      <item value="Beware that, unlike in most collections, this method is * &lt;em&gt;NOT&lt;/em&gt; a constant-time operation. Because of the * asynchronous nature of these queues, determining the current * number of elements requires an O(n) traversal. * Additionally, if elements are added or removed during execution * of this method, the returned result may be inaccurate. Thus, * this method is typically not very useful in concurrent * applications." />
+      <item value="Returns the number of elements in this queue. If this queue * contains more than {@code Integer.MAX_VALUE} elements, returns * {@code Integer.MAX_VALUE}." />
       <item value="restart From Head" />
       <item value="hop two nodes at a time" />
       <item value="Successful CAS is the linearization point // for e to become an element of this queue, // and for newNode to become &quot;live&quot;." />
@@ -46,11 +51,6 @@
       <item value="Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions, returning * &lt;tt&gt;true&lt;/tt&gt; upon success and &lt;tt&gt;false&lt;/tt&gt; if no space is currently * available. When using a capacity-restricted queue, this method is * generally preferable to {@link #add}, which can fail to insert an * element only by throwing an exception." />
       <item value="Blocking Deque" />
       <item value="Inserts the specified element at the tail of this queue, waiting * up to the specified wait time for space to become available if * the queue is full." />
-      <item value="lock Interruptibly" />
-      <item value="Lock only for visibility, not mutual exclusion" />
-      <item value="// Lock only for visibility, not mutual exclusion" />
-      <item value="Creates an {@code ArrayBlockingQueue} with the given (fixed) * capacity, the specified access policy and initially containing the * elements of the given collection, * added in traversal order of the collection's iterator." />
-      <item value="if {@code true} then queue accesses for threads blocked * on insertion or removal, are processed in FIFO order; * if {@code false} the access order is unspecified." />
     </histories>
   </component>
   <component name="Settings">
