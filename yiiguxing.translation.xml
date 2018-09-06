@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register Transaction Aspect" />
+      <item value="implementation that allows users to easily configure all the infrastructure beans required to enable annotation-driven transaction demarcation. By default, all proxies are created as JDK proxies. This may cause some problems if you are injecting objects as concrete classes rather than interfaces. To overcome this restriction you can set the 'proxy-target-class' attribute to 'true', which will result in class-based proxies being created." />
+      <item value="Annotation Driven Bean Definition Parser" />
+      <item value="proxy" />
+      <item value="aspectj" />
       <item value="Assume annotations source." />
       <item value="// Using attributes source." />
       <item value="allowed at most once inside element &lt;advice&gt;" />
@@ -46,11 +51,6 @@
       <item value="We extend the techniques developed for ConcurrentLinkedQueue and * LinkedTransferQueue (see the internal docs for those classes). * Understanding the ConcurrentLinkedQueue implementation is a * prerequisite for understanding the implementation of this class." />
       <item value="This is an implementation of a concurrent lock-free deque * supporting interior removes but not interior insertions, as * required to support the entire Deque interface." />
       <item value="Iterators are weakly consistent, returning elements reflecting the state of the deque at some point at or since the creation of the iterator. They do not throw ConcurrentModificationException, and may proceed concurrently with other operations. Beware that, unlike in most collections, the size method is NOT a constant-time operation. Because of the asynchronous nature of these deques, determining the current number of elements requires a traversal of the elements, and so may report inaccurate results if this collection is modified during traversal. Additionally, the bulk operations addAll, removeAll, retainAll, containsAll, equals, and toArray are not guaranteed to be performed atomically. For example, an iterator operating concurrently with an addAll operation might view only some of the added elements. This class and its iterator implement all of the optional methods of the Deque and Iterator interfaces. Memory consistency effects: As with other concurrent collections, actions in a thread prior to placing an object into a ConcurrentLinkedDeque happen-before actions subsequent to the access or removal of that element from the ConcurrentLinkedDeque in another thread. This class is a member of the Java Collections Framework." />
-      <item value="An unbounded concurrent deque based on linked nodes. Concurrent insertion, removal, and access operations execute safely across multiple threads. A ConcurrentLinkedDeque is an appropriate choice when many threads will share access to a common collection. Like most other concurrent collection implementations, this class does not permit the use of null elements." />
-      <item value="Completion" />
-      <item value="Completion Service" />
-      <item value="A service that decouples the production of new asynchronous tasks from the consumption of the results of completed tasks. Producers submit tasks for execution. Consumers take completed tasks and process their results in the order they complete. A CompletionService can for example be used to manage asynchronous IO, in which tasks that perform reads are submitted in one part of a program or system, and then acted upon in a different part of the program when the reads complete, possibly in a different order than they were requested. Typically, a CompletionService relies on a separate Executor to actually execute the tasks, in which case the CompletionService only manages an internal completion queue. The ExecutorCompletionService class provides an implementation of this approach. Memory consistency effects: Actions in a thread prior to submitting a task to a CompletionService happen-before actions taken by that task, which in turn happen-before actions following a successful return from the corresponding take()." />
-      <item value="Exception indicating that the result of a value-producing task, * such as a {@link FutureTask}, cannot be retrieved because the task * was cancelled." />
     </histories>
   </component>
   <component name="Settings">
