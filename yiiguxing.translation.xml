@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assume annotations source." />
+      <item value="// Using attributes source." />
+      <item value="allowed at most once inside element &lt;advice&gt;" />
+      <item value="add Property Reference" />
+      <item value="rollback - for" />
+      <item value="timeout" />
+      <item value="propagation" />
+      <item value="isolation" />
       <item value="Files syntax highlight Coloring ignored files in the Project View Gitignore templates filtering and selecting in rules generator by name and content Show ignored files by specified ignore file (right click on .gitignore file) Hide ignored files in Project View Create file in currently selected directory Generate Gitignore rules basing on GitHub's templates collection Add selected file/directory to ignore rules from popup menu Suggesting .gitignore file creation for new project Entries inspection (duplicated, covered, unused, relative, incorrect syntax, relative entries) with fix actions Comments and brackets support Navigation to entries in Project view Renaming entries from ignore file Close opened ignored files action Custom user templates with import/export features Create custom templates from existing rules Favorite templates" />
       <item value="Returns {@code true} if this queue contains the specified element. * More formally, returns {@code true} if and only if this queue contains * at least one element {@code e} such that {@code o.equals(e)}." />
       <item value="the number of elements in this queue" />
@@ -43,14 +51,6 @@
       <item value="Completion Service" />
       <item value="A service that decouples the production of new asynchronous tasks from the consumption of the results of completed tasks. Producers submit tasks for execution. Consumers take completed tasks and process their results in the order they complete. A CompletionService can for example be used to manage asynchronous IO, in which tasks that perform reads are submitted in one part of a program or system, and then acted upon in a different part of the program when the reads complete, possibly in a different order than they were requested. Typically, a CompletionService relies on a separate Executor to actually execute the tasks, in which case the CompletionService only manages an internal completion queue. The ExecutorCompletionService class provides an implementation of this approach. Memory consistency effects: Actions in a thread prior to submitting a task to a CompletionService happen-before actions taken by that task, which in turn happen-before actions following a successful return from the corresponding take()." />
       <item value="Exception indicating that the result of a value-producing task, * such as a {@link FutureTask}, cannot be retrieved because the task * was cancelled." />
-      <item value="if unable to compute a resul" />
-      <item value="computed result" />
-      <item value="Computes a result, or throws an exception if unable to do so." />
-      <item value="Cyclic Barrier" />
-      <item value="Exception thrown when a thread tries to wait upon a barrier that is in a broken state, or which enters the broken state while the thread is waiting." />
-      <item value="Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions, returning * &lt;tt&gt;true&lt;/tt&gt; upon success and &lt;tt&gt;false&lt;/tt&gt; if no space is currently * available. When using a capacity-restricted queue, this method is * generally preferable to {@link #add}, which can fail to insert an * element only by throwing an exception." />
-      <item value="Blocking Deque" />
-      <item value="Inserts the specified element at the tail of this queue, waiting * up to the specified wait time for space to become available if * the queue is full." />
     </histories>
   </component>
   <component name="Settings">
