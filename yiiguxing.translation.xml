@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initialize the HandlerMappings used by this class. * &lt;p&gt;If no HandlerMapping beans are defined in the BeanFactory for this namespace, * we default to BeanNameUrlHandlerMapping." />
+      <item value="Initialize the HandlerMappings used by this class." />
       <item value="Well-known name for the ViewResolver object in the bean factory for this namespace. * Only used when &quot;detectAllViewResolvers&quot; is turned off." />
       <item value="Well-known name for the ThemeResolver object in the bean factory for this namespace." />
       <item value="init Strategies" />
@@ -49,8 +51,6 @@
       <item value="aspectj" />
       <item value="Assume annotations source." />
       <item value="// Using attributes source." />
-      <item value="allowed at most once inside element &lt;advice&gt;" />
-      <item value="add Property Reference" />
     </histories>
   </component>
   <component name="Settings">
