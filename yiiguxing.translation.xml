@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Apply postHandle methods of registered interceptors." />
+      <item value="Actually invoke the handler." />
+      <item value="No synchronization on session demanded at all..." />
+      <item value="Determine handler for the current request" />
+      <item value="Exposes the DispatcherServlet-specific request attributes and delegates to {@link #doDispatch} * for the actual dispatching." />
       <item value="Initialize the HandlerMappings used by this class. * &lt;p&gt;If no HandlerMapping beans are defined in the BeanFactory for this namespace, * we default to BeanNameUrlHandlerMapping." />
       <item value="Initialize the HandlerMappings used by this class." />
       <item value="Well-known name for the ViewResolver object in the bean factory for this namespace. * Only used when &quot;detectAllViewResolvers&quot; is turned off." />
@@ -46,11 +51,6 @@
       <item value="proceed With Invocation" />
       <item value="register Transaction Aspect" />
       <item value="implementation that allows users to easily configure all the infrastructure beans required to enable annotation-driven transaction demarcation. By default, all proxies are created as JDK proxies. This may cause some problems if you are injecting objects as concrete classes rather than interfaces. To overcome this restriction you can set the 'proxy-target-class' attribute to 'true', which will result in class-based proxies being created." />
-      <item value="Annotation Driven Bean Definition Parser" />
-      <item value="proxy" />
-      <item value="aspectj" />
-      <item value="Assume annotations source." />
-      <item value="// Using attributes source." />
     </histories>
   </component>
   <component name="Settings">
