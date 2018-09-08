@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Did the handler return a view to render?" />
       <item value="Apply postHandle methods of registered interceptors." />
       <item value="Actually invoke the handler." />
       <item value="No synchronization on session demanded at all..." />
@@ -50,7 +51,6 @@
       <item value="Invocation Callback" />
       <item value="proceed With Invocation" />
       <item value="register Transaction Aspect" />
-      <item value="implementation that allows users to easily configure all the infrastructure beans required to enable annotation-driven transaction demarcation. By default, all proxies are created as JDK proxies. This may cause some problems if you are injecting objects as concrete classes rather than interfaces. To overcome this restriction you can set the 'proxy-target-class' attribute to 'true', which will result in class-based proxies being created." />
     </histories>
   </component>
   <component name="Settings">
