@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="target invocation exception" />
+      <item value="We don't roll back on this exception." />
       <item value="AOP Alliance MethodInterceptor for declarative transaction management using the common Spring transaction infrastructure (PlatformTransactionManager). Derives from the TransactionAspectSupport class which contains the integration with Spring's underlying transaction API. TransactionInterceptor simply calls the relevant superclass methods such as invokeWithinTransaction in the correct order. TransactionInterceptors are thread-safe." />
       <item value="Serialization support" />
       <item value="Proxy factory bean for simplified declarative transaction handling. This is a convenient alternative to a standard AOP org.springframework.aop.framework.ProxyFactoryBean with a separate TransactionInterceptor definition. HISTORICAL NOTE: This class was originally designed to cover the typical case of declarative transaction demarcation: namely, wrapping a singleton target object with a transactional proxy, proxying all the interfaces that the target implements. However, in Spring versions 2.0 and beyond, the functionality provided here is superseded by the more convenient tx: XML namespace. See the declarative transaction management section of the Spring reference documentation to understand the modern options for managing transactions in Spring applications. For these reasons, users should favor of the tx: XML namespace as well as the @Transactional and @EnableTransactionManagement annotations." />
@@ -49,8 +51,6 @@
       <item value="restart From Head" />
       <item value="hop two nodes at a time" />
       <item value="Successful CAS is the linearization point // for e to become an element of this queue, // and for newNode to become &quot;live&quot;." />
-      <item value="Try to CAS head to p. If successful, repoint old head to itself * as sentinel for succ(), below." />
-      <item value="Have to override just to update the javadoc" />
     </histories>
   </component>
   <component name="Settings">
