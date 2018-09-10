@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error creating bean with name 'SkuInfoService': Bean with name 'SkuInfoService' has been injected into other beans [SpuInfoService] in its raw version as part of a circular reference, but has eventually been wrapped. This means that said other beans do not use the final version of the bean. This is often the result of over-eager type matching - consider using 'getBeanNamesOfType' with the 'allowEagerInit' flag turned off, for example." />
       <item value="Delivery" />
       <item value="Invoked after all handler methods have been detected." />
       <item value="Deprecated as of 4.3, in favor of the HandlerMethod-based MVC infrastructure" />
@@ -50,11 +51,11 @@
       <item value="The name of the AspectJ transaction management @{@code Configuration} class." />
       <item value="The class name of the AspectJ transaction management aspect." />
       <item value="The bean name of the internally managed transaction aspect (used when mode == ASPECTJ)." />
-      <item value="The bean name of the internally managed transaction advisor (used when mode == PROXY)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
