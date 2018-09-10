@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delivery" />
       <item value="Invoked after all handler methods have been detected." />
       <item value="Deprecated as of 4.3, in favor of the HandlerMethod-based MVC infrastructure" />
       <item value="Provides a method for invoking the handler method for a given request after resolving its method argument values through registered HandlerMethodArgumentResolvers. Argument resolution often requires a WebDataBinder for data binding or for type conversion. Use the setDataBinderFactory(WebDataBinderFactory) property to supply a binder factory to pass to argument resolvers." />
@@ -50,8 +51,12 @@
       <item value="The class name of the AspectJ transaction management aspect." />
       <item value="The bean name of the internally managed transaction aspect (used when mode == ASPECTJ)." />
       <item value="The bean name of the internally managed transaction advisor (used when mode == PROXY)." />
-      <item value="Advisor" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
