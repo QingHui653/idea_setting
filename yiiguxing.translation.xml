@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A qualifier value for the specified asynchronous operation(s). May be used to determine the target executor to be used when executing this method, matching the qualifier value (or the bean name) of a specific Executor or TaskExecutor bean definition. When specified on a class level @Async annotation, indicates that the given executor should be used for all methods within the class. Method level use of Async#value always overrides any value set at the class level." />
+      <item value="A qualifier value for the specified asynchronous operation(s).&#10;May be used to determine the target executor to be used when executing this method, matching the qualifier value (or the bean name) of a specific Executor or TaskExecutor bean definition.&#10;When specified on a class level @Async annotation, indicates that the given executor should be used for all methods within the class. Method level use of Async#value always overrides any value set at the class level." />
+      <item value="/** * A qualifier value for the specified asynchronous operation(s). * &lt;p&gt;May be used to determine the target executor to be used when executing this * method, matching the qualifier value (or the bean name) of a specific * {@link java.util.concurrent.Executor Executor} or * {@link org.springframework.core.task.TaskExecutor TaskExecutor} * bean definition. * &lt;p&gt;When specified on a class level {@code @Async} annotation, indicates that the * given executor should be used for all methods within the class. Method level use * of {@code Async#value} always overrides any value set at the class level. * @since 3.1.2 */" />
+      <item value="More than one TaskExecutor bean found within the context, and none is named &quot; + &quot;'taskExecutor'. Mark one of them as primary or name it 'taskExecutor' (possibly &quot; + &quot;as an alias) in order to use it for async processing" />
+      <item value="More than one TaskExecutor bean found within the context, and none is named &quot; + &quot;'taskExecutor'. Mark one of them as primary or name it 'taskExecutor' (possibly &quot; + &quot;as an alias) in order to use it for async processing:" />
       <item value="Error creating bean with name 'SkuInfoService': Bean with name 'SkuInfoService' has been injected into other beans [SpuInfoService] in its raw version as part of a circular reference, but has eventually been wrapped. This means that said other beans do not use the final version of the bean. This is often the result of over-eager type matching - consider using 'getBeanNamesOfType' with the 'allowEagerInit' flag turned off, for example." />
       <item value="Delivery" />
       <item value="Invoked after all handler methods have been detected." />
@@ -46,16 +51,11 @@
       <item value="JTA TRANSACTION MANAGER CLASS NAME" />
       <item value="is Present" />
       <item value="A FactoryBean equivalent to the &lt;tx:jta-transaction-manager/&gt; XML element, autodetecting WebLogic and WebSphere servers and exposing the corresponding JtaTransactionManager subclass." />
-      <item value="A {@link FactoryBean} equivalent to the &amp;lt;tx:jta-transaction-manager/&amp;gt; XML element, * autodetecting WebLogic and WebSphere servers and exposing the corresponding * {@link org.springframework.transaction.jta.JtaTransactionManager} subclass." />
-      <item value="The bean name of the internally managed TransactionalEventListenerFactory." />
-      <item value="The name of the AspectJ transaction management @{@code Configuration} class." />
-      <item value="The class name of the AspectJ transaction management aspect." />
-      <item value="The bean name of the internally managed transaction aspect (used when mode == ASPECTJ)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
