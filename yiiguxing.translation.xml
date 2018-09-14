@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="surefire" />
       <item value="Start fixup at replacement node, if it exists." />
       <item value="Returns the successor of the specified Entry, or null if no such." />
       <item value="Delete node p, and then rebalance the tree." />
@@ -50,12 +51,11 @@
       <item value="Exposes the DispatcherServlet-specific request attributes and delegates to {@link #doDispatch} * for the actual dispatching." />
       <item value="Initialize the HandlerMappings used by this class. * &lt;p&gt;If no HandlerMapping beans are defined in the BeanFactory for this namespace, * we default to BeanNameUrlHandlerMapping." />
       <item value="Initialize the HandlerMappings used by this class." />
-      <item value="Well-known name for the ViewResolver object in the bean factory for this namespace. * Only used when &quot;detectAllViewResolvers&quot; is turned off." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
       </map>
