@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Booked Amount" />
+      <item value="Purchase Num" />
+      <item value="Outbound Num" />
+      <item value="m Inventory" />
+      <item value="canbe Book Num" />
       <item value="surefire" />
       <item value="Start fixup at replacement node, if it exists." />
       <item value="Returns the successor of the specified Entry, or null if no such." />
@@ -46,16 +51,11 @@
       <item value="Did the handler return a view to render?" />
       <item value="Apply postHandle methods of registered interceptors." />
       <item value="Actually invoke the handler." />
-      <item value="No synchronization on session demanded at all..." />
-      <item value="Determine handler for the current request" />
-      <item value="Exposes the DispatcherServlet-specific request attributes and delegates to {@link #doDispatch} * for the actual dispatching." />
-      <item value="Initialize the HandlerMappings used by this class. * &lt;p&gt;If no HandlerMapping beans are defined in the BeanFactory for this namespace, * we default to BeanNameUrlHandlerMapping." />
-      <item value="Initialize the HandlerMappings used by this class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
       </map>
