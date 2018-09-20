@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WARNING: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine" />
       <item value="booked Amount" />
       <item value="outbound Num" />
       <item value="purchase Num" />
@@ -50,12 +51,11 @@
       <item value="Deprecated as of 4.3, in favor of the HandlerMethod-based MVC infrastructure" />
       <item value="Provides a method for invoking the handler method for a given request after resolving its method argument values through registered HandlerMethodArgumentResolvers. Argument resolution often requires a WebDataBinder for data binding or for type conversion. Use the setDataBinderFactory(WebDataBinderFactory) property to supply a binder factory to pass to argument resolvers." />
       <item value="Support class for invoking an annotated handler method. Operates on the introspection results of a HandlerMethodResolver for a specific handler type. Used by org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter and org.springframework.web.portlet.mvc.annotation.AnnotationMethodHandlerAdapter. Deprecated as of 4.3, in favor of the HandlerMethod-based MVC infrastructure" />
-      <item value="Support class for invoking an annotated handler method. Operates on the introspection * results of a {@link HandlerMethodResolver} for a specific handler type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
       </map>
