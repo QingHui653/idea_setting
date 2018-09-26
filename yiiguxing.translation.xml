@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transactions" />
+      <item value="REPETITIONS" />
+      <item value="QTY" />
+      <item value="Simulates some external resource that can only be access by one process at a time" />
       <item value="the given path for the node" />
       <item value="This callback is used to retrieve the name and stat of the node." />
       <item value="Connection Loss" />
@@ -47,15 +51,11 @@
       <item value="Indicates that the named compiler warnings should be suppressed in the annotated element (and in all program elements contained in the annotated element). Note that the set of warnings suppressed in a given element is a superset of the warnings suppressed in all containing elements. For example, if you annotate a class to suppress one warning and annotate a method to suppress another, both warnings will be suppressed in the method.&#10;As a matter of style, programmers should always use this annotation on the most deeply nested element where it is effective. If you want to suppress a warning in a particular method, you should annotate that method rather than its class." />
       <item value="SimpleDateFormat is a concrete class for formatting and parsing dates in a locale-sensitive manner. It allows for formatting (date → text), parsing (text → date), and normalization. SimpleDateFormat allows you to start by choosing any user-defined patterns for date-time formatting. However, you are encouraged to create a date-time formatter with either getTimeInstance, getDateInstance, or getDateTimeInstance in DateFormat. Each of these class methods can return a date/time formatter initialized with a default format pattern. You may modify the format pattern using the applyPattern methods as desired. For more information on using these methods, see DateFormat." />
       <item value="SimpleDateFormat is a concrete class for formatting and parsing dates in a locale-sensitive manner. It allows for formatting (date → text), parsing (text → date), and normalization.&#10;SimpleDateFormat allows you to start by choosing any user-defined patterns for date-time formatting. However, you are encouraged to create a date-time formatter with either getTimeInstance, getDateInstance, or getDateTimeInstance in DateFormat. Each of these class methods can return a date/time formatter initialized with a default format pattern. You may modify the format pattern using the applyPattern methods as desired. For more information on using these methods, see DateFormat." />
-      <item value="Sets the category of the constructed Logger. By default, it will use the type where the annotation is placed." />
-      <item value="A qualifier value for the specified asynchronous operation(s). May be used to determine the target executor to be used when executing this method, matching the qualifier value (or the bean name) of a specific Executor or TaskExecutor bean definition. When specified on a class level @Async annotation, indicates that the given executor should be used for all methods within the class. Method level use of Async#value always overrides any value set at the class level." />
-      <item value="A qualifier value for the specified asynchronous operation(s).&#10;May be used to determine the target executor to be used when executing this method, matching the qualifier value (or the bean name) of a specific Executor or TaskExecutor bean definition.&#10;When specified on a class level @Async annotation, indicates that the given executor should be used for all methods within the class. Method level use of Async#value always overrides any value set at the class level." />
-      <item value="/** * A qualifier value for the specified asynchronous operation(s). * &lt;p&gt;May be used to determine the target executor to be used when executing this * method, matching the qualifier value (or the bean name) of a specific * {@link java.util.concurrent.Executor Executor} or * {@link org.springframework.core.task.TaskExecutor TaskExecutor} * bean definition. * &lt;p&gt;When specified on a class level {@code @Async} annotation, indicates that the * given executor should be used for all methods within the class. Method level use * of {@code Async#value} always overrides any value set at the class level. * @since 3.1.2 */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
       </map>
