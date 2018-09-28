@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Declared Constructor" />
+      <item value="Configures the bean implementing the service. If this child is used you should not use the implementor attribute" />
+      <item value="Falling off the end of the code" />
+      <item value="java/lang/String" />
+      <item value="signature" />
+      <item value="get Return" />
+      <item value="Invocation of init method failed; nested exception is java.lang.VerifyError: (class: newb/c/a_web/webmodule/webservice/cxf/jaxws_asm/SayHelloResponse, method: getReturn signature: ()Ljava/lang/String;) Falling off the end of the code" />
+      <item value="startup failed due to previous errors" />
       <item value="setText signature: (Ljava/lang/String;)V) Illegal instruction found at offset 1" />
       <item value="has Cycle" />
       <item value="digest" />
@@ -43,21 +51,14 @@
       <item value="p has 2 children" />
       <item value="Offload comparator-based version for sake of performance" />
       <item value="invalid or incomplete tag" />
-      <item value="Fix replacement" />
-      <item value="type (and possibly null) check" />
-      <item value="company Id Elem" />
-      <item value="bucunzaide" />
-      <item value="Acquires the lock unless the current thread is interrupted. Acquires the lock if it is not held by another thread and returns immediately, setting the lock hold count to one. If the current thread already holds this lock then the hold count is incremented by one and the method returns immediately. If the lock is held by another thread then the current thread becomes disabled for thread scheduling purposes and lies dormant until one of two things happens: The lock is acquired by the current thread; or Some other thread interrupts the current thread. If the lock is acquired by the current thread then the lock hold count is set to one. If the current thread: has its interrupted status set on entry to this method; or is interrupted while acquiring the lock, then InterruptedException is thrown and the current thread's interrupted status is cleared. In this implementation, as this method is an explicit interruption point, preference is given to responding to the interrupt over normal or reentrant acquisition of the lock." />
-      <item value="Acquires the lock unless the current thread is interrupted.&#10;Acquires the lock if it is not held by another thread and returns immediately, setting the lock hold count to one.&#10;If the current thread already holds this lock then the hold count is incremented by one and the method returns immediately.&#10;If the lock is held by another thread then the current thread becomes disabled for thread scheduling purposes and lies dormant until one of two things happens:&#10;The lock is acquired by the current thread; or&#10;Some other thread interrupts the current thread.&#10;If the lock is acquired by the current thread then the lock hold count is set to one.&#10;If the current thread:&#10;has its interrupted status set on entry to this method; or&#10;is interrupted while acquiring the lock,&#10;then InterruptedException is thrown and the current thread's interrupted status is cleared.&#10;In this implementation, as this method is an explicit interruption point, preference is given to responding to the interrupt over normal or reentrant acquisition of the lock." />
-      <item value="Number of elements in the queue" />
-      <item value="Causes the current thread to wait until it is signalled or interrupted. The lock associated with this Condition is atomically released and the current thread becomes disabled for thread scheduling purposes and lies dormant until one of four things happens: Some other thread invokes the signal method for this Condition and the current thread happens to be chosen as the thread to be awakened; or Some other thread invokes the signalAll method for this Condition; or Some other thread interrupts the current thread, and interruption of thread suspension is supported; or A &quot;spurious wakeup&quot; occurs. In all cases, before this method can return the current thread must re-acquire the lock associated with this condition. When the thread returns it is guaranteed to hold this lock. If the current thread: has its interrupted status set on entry to this method; or is interrupted while waiting and interruption of thread suspension is supported, then InterruptedException is thrown and the current thread's interrupted status is cleared. It is not specified, in the first case, whether or not the test for interruption occurs before the lock is released. Implementation Considerations The current thread is assumed to hold the lock associated with this Condition when this method is called. It is up to the implementation to determine if this is the case and if not, how to respond. Typically, an exception will be thrown (such as IllegalMonitorStateException) and the implementation must document that fact. An implementation can favor responding to an interrupt over normal method return in response to a signal. In that case the implementation must ensure that the signal is redirected to another waiting thread, if there is one." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
+        <entry key="JAVANESE" value="1" />
       </map>
     </option>
   </component>
