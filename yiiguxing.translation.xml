@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Implementations translate another data representations into events claimed from the RingBuffer" />
+      <item value="Implementations translate another data representations into events claimed from the" />
+      <item value="Event Translator One Arg" />
+      <item value="for the sequence" />
+      <item value="Ring based store of reusable entries containing the data representing an event being exchanged between event producer and EventProcessors." />
       <item value="Redis Operations Session Repository" />
       <item value="Unsatisfied dependency expressed through field 'logService" />
       <item value="get Declared Constructor" />
@@ -46,16 +51,11 @@
       <item value="If strictly internal, copy successor's element to p and then make p" />
       <item value="point to successor." />
       <item value="No children. Use self as phantom replacement and unlink." />
-      <item value="return if we are the only node." />
-      <item value="Link replacement to parent" />
-      <item value="successor" />
-      <item value="// If strictly internal, copy successor's element to p and then make p // point to successor." />
-      <item value="p has 2 children" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="74" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="JAVANESE" value="1" />
