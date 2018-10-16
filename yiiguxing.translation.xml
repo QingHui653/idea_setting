@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select Sku Full" />
+      <item value="Override" />
       <item value="select only the first element for each name, and only those with rules specified" />
       <item value="terms" />
       <item value="Signifies that a public API (public class, method or field) is subject to * incompatible changes, or even removal, in a future release. An API bearing * this annotation is exempt from any compatibility guarantees made by its * containing library. Note that the presence of this annotation implies nothing * about the quality or performance of the API in question, only the fact that * it is not &quot;API-frozen.&quot; * * &lt;p&gt;It is generally safe for &lt;i&gt;applications&lt;/i&gt; to depend on beta APIs, at * the cost of some extra work during upgrades. However it is generally * inadvisable for &lt;i&gt;libraries&lt;/i&gt; (which get included on users' CLASSPATHs, * outside the library developers' control) to do so." />
@@ -49,8 +51,6 @@
       <item value="This plugin lets you download and build Docker images, create and start Docker containers, and carry out other related tasks. Documentation" />
       <item value="shift" />
       <item value="WARNING: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine" />
-      <item value="booked Amount" />
-      <item value="outbound Num" />
     </histories>
     <option name="languageScores">
       <map>
