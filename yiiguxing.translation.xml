@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to" />
+      <item value="Create a new transaction, and suspend the current transaction if one exists. Analogous to the EJB transaction attribute of the same name. NOTE: Actual transaction suspension will not work out-of-the-box on all transaction managers. This in particular applies to org.springframework.transaction.jta.JtaTransactionManager, which requires the javax.transaction.TransactionManager to be made available it to it (which is server-specific in standard Java EE)." />
+      <item value="Create a new transaction, and suspend the current transaction if one exists. Analogous to the EJB transaction attribute of the same name.&#10;NOTE: Actual transaction suspension will not work out-of-the-box on all transaction managers. This in particular applies to org.springframework.transaction.jta.JtaTransactionManager, which requires the javax.transaction.TransactionManager to be made available it to it (which is server-specific in standard Java EE)." />
+      <item value="REQUIRES NEW" />
+      <item value="Create a new transaction, and suspend the current transaction if one exists. Analogous to the EJB transaction attribute of the same name." />
       <item value="PROPAGATION NESTED" />
       <item value="Excel thread unsafe" />
       <item value="easyexcel is a excel handle tools written in Java" />
@@ -46,16 +51,11 @@
       <item value="signature" />
       <item value="get Return" />
       <item value="Invocation of init method failed; nested exception is java.lang.VerifyError: (class: newb/c/a_web/webmodule/webservice/cxf/jaxws_asm/SayHelloResponse, method: getReturn signature: ()Ljava/lang/String;) Falling off the end of the code" />
-      <item value="startup failed due to previous errors" />
-      <item value="setText signature: (Ljava/lang/String;)V) Illegal instruction found at offset 1" />
-      <item value="has Cycle" />
-      <item value="digest" />
-      <item value="Retry-able exception received" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
