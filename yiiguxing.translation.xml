@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="model Ids" />
       <item value="dis Show Po Role" />
       <item value="Wrapper" />
       <item value="Used to establish initial head or SHARED marker" />
@@ -50,12 +51,11 @@
       <item value="Implementations translate another data representations into events claimed from the" />
       <item value="Event Translator One Arg" />
       <item value="for the sequence" />
-      <item value="Ring based store of reusable entries containing the data representing an event being exchanged between event producer and EventProcessors." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
