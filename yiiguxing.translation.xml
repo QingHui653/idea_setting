@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A universal match pattern ('/**') is defined before other patterns in the filter chain, causing them to be ignored. Please check the ordering in your &lt;security:http&gt; namespace or FilterChainProxy bean configuration" />
       <item value="loginid" />
       <item value="Resets the form data. Causes all form elements to be reset to their original value." />
       <item value="$" />
@@ -50,12 +51,11 @@
       <item value="when read one row trigger invoke function" />
       <item value="if have something to do after all read" />
       <item value="do After All Analysed" />
-      <item value="Implementations translate another data representations into events claimed from the RingBuffer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
