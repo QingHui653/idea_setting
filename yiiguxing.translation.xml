@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="body Structure" />
+      <item value="gearbox" />
+      <item value="overall Dimensions" />
+      <item value="wheel Base" />
+      <item value="intake Form" />
       <item value="A universal match pattern ('/**') is defined before other patterns in the filter chain, causing them to be ignored. Please check the ordering in your &lt;security:http&gt; namespace or FilterChainProxy bean configuration" />
       <item value="loginid" />
       <item value="Resets the form data. Causes all form elements to be reset to their original value." />
@@ -46,16 +51,11 @@
       <item value="the time from now to delay execution" />
       <item value="the time unit of the delay parameter" />
       <item value="Creates and executes a ScheduledFuture that becomes enabled after the * given delay." />
-      <item value="Creates and executes a one-shot action that becomes enabled * after the given delay." />
-      <item value="standalone Setup" />
-      <item value="when read one row trigger invoke function" />
-      <item value="if have something to do after all read" />
-      <item value="do After All Analysed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
