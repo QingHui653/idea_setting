@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Need AND/OR between two predicate! /a/@href" />
       <item value="body Structure" />
       <item value="gearbox" />
       <item value="overall Dimensions" />
@@ -50,12 +51,11 @@
       <item value="hibernate" />
       <item value="the time from now to delay execution" />
       <item value="the time unit of the delay parameter" />
-      <item value="Creates and executes a ScheduledFuture that becomes enabled after the * given delay." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
