@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Multiple Spring Data modules found, entering strict repository configuration mode!" />
+      <item value="Enabling autowire by type for MapperFactoryBean" />
+      <item value="definition" />
       <item value="213" />
       <item value="0 x 1.0 p-1022" />
       <item value="/** * A constant holding the positive infinity of type * {@code double}. It is equal to the value returned by * {@code Double.longBitsToDouble(0x7ff0000000000000L)}. */" />
@@ -48,14 +51,11 @@
       <item value="isolation" />
       <item value="propagation" />
       <item value="transaction Manager" />
-      <item value="rollback For" />
-      <item value="count And Say" />
-      <item value="unicode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
