@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Positive Integer" />
       <item value="Cursor" />
       <item value="加载类路径" />
       <item value="配置" />
@@ -50,12 +51,11 @@
       <item value="dialog.dialog(param);" />
       <item value="mplementation that delegates resolution of a parameter * to the given default {@link HttpParams} instance if the parameter is not * present in the local one. The state of the local collection can be mutated, * whereas the default collection is treated as read-only." />
       <item value="use configuration classes provided 'org.apache.http.config' * and 'org.apache.http.client.config'" />
-      <item value="The GET method means retrieve whatever information (in the form of an entity) is identified by the Request-URI. If the Request-URI refers to a data-producing process, it is the produced data which shall be returned as the entity in the response and not the source text of the process, unless that text happens to be the output of the process." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
