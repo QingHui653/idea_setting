@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="receipt Warehouse Id" />
       <item value="is Positive Integer" />
       <item value="Cursor" />
       <item value="加载类路径" />
@@ -50,7 +51,6 @@
       <item value="dialog" />
       <item value="dialog.dialog(param);" />
       <item value="mplementation that delegates resolution of a parameter * to the given default {@link HttpParams} instance if the parameter is not * present in the local one. The state of the local collection can be mutated, * whereas the default collection is treated as read-only." />
-      <item value="use configuration classes provided 'org.apache.http.config' * and 'org.apache.http.client.config'" />
     </histories>
     <option name="languageScores">
       <map>
