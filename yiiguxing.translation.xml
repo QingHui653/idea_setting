@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'scope' is defined but never used" />
+      <item value="You may use special comments to disable some warnings" />
       <item value="You are using an offline license." />
       <item value="You are advised to use Spring 4.3.19.RELEASE or later with this version. You are running: 4.3.3.RELEASE" />
       <item value="receipt Warehouse Id" />
@@ -49,13 +51,11 @@
       <item value="PROPAGATION NESTED" />
       <item value="Excel thread unsafe" />
       <item value="easyexcel is a excel handle tools written in Java" />
-      <item value="Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;This is the default setting of a transaction annotation." />
-      <item value="dialog" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
