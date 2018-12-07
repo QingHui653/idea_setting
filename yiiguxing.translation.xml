@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Value that indicates that only properties with non-null * values are to be included." />
       <item value="Invalid property 'data[0][businessType]' of bean class [com.ivyb2b.ops.api.controller.workbench.Page]: Index of out of bounds in property path 'data[0][businessType]';" />
       <item value="Invalid property 'data' of bean class [com.ivyb2b.common.bean.Pager]: Bean property 'data' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?" />
       <item value="'scope' is defined but never used" />
@@ -50,12 +51,11 @@
       <item value="Create a new transaction, and suspend the current transaction if one exists. Analogous to the EJB transaction attribute of the same name.&#10;NOTE: Actual transaction suspension will not work out-of-the-box on all transaction managers. This in particular applies to org.springframework.transaction.jta.JtaTransactionManager, which requires the javax.transaction.TransactionManager to be made available it to it (which is server-specific in standard Java EE)." />
       <item value="REQUIRES NEW" />
       <item value="Create a new transaction, and suspend the current transaction if one exists. Analogous to the EJB transaction attribute of the same name." />
-      <item value="PROPAGATION NESTED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
