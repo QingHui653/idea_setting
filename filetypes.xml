@@ -4,7 +4,6 @@
       <mapping ext="html" type="FTL" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="file" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
