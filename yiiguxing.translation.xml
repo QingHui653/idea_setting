@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Notice Loans" />
       <item value="常数时间" />
       <item value="常数时间内" />
       <item value="Sorts the specified array into ascending numerical order." />
@@ -50,12 +51,11 @@
       <item value="$" />
       <item value="model Ids" />
       <item value="dis Show Po Role" />
-      <item value="Wrapper" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
