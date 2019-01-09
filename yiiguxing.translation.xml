@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No need to lookup: the ModelAndView object contains the actual View object." />
+      <item value="We need to resolve the view name." />
+      <item value="This is the last stage in handling a request. It may involve resolving the view by name." />
+      <item value="Render the given ModelAndView." />
+      <item value="Ensure we have at least one ViewResolver, by registering" />
+      <item value="we'll add a default ViewResolver later." />
+      <item value="Ignore, we'll add a default ViewResolver later." />
       <item value="row Params" />
       <item value="property" />
       <item value="inclusion" />
@@ -44,18 +51,11 @@
       <item value="set the type of vertical alignment for the cell" />
       <item value="Annotation that marks a method as a candidate for asynchronous execution. Can also be used at the type level, in which case all of the type's methods are considered as asynchronous. In terms of target method signatures, any parameter types are supported. However, the return type is constrained to either void or java.util.concurrent.Future. In the latter case, you may declare the more specific org.springframework.util.concurrent.ListenableFuture or java.util.concurrent.CompletableFuture types which allow for richer interaction with the asynchronous task and for immediate composition with further processing steps. A Future handle returned from the proxy will be an actual asynchronous Future that can be used to track the result of the asynchronous method execution. However, since the target method needs to implement the same signature, it will have to return a temporary Future handle that just passes a value through: e.g. Spring's AsyncResult, EJB 3.1's javax.ejb.AsyncResult, or java.util.concurrent.CompletableFuture.completedFuture(Object)." />
       <item value="Annotation that marks a method as a candidate for asynchronous execution. Can also be used at the type level, in which case all of the type's methods are considered as asynchronous.&#10;In terms of target method signatures, any parameter types are supported. However, the return type is constrained to either void or java.util.concurrent.Future. In the latter case, you may declare the more specific org.springframework.util.concurrent.ListenableFuture or java.util.concurrent.CompletableFuture types which allow for richer interaction with the asynchronous task and for immediate composition with further processing steps.&#10;A Future handle returned from the proxy will be an actual asynchronous Future that can be used to track the result of the asynchronous method execution. However, since the target method needs to implement the same signature, it will have to return a temporary Future handle that just passes a value through: e.g. Spring's AsyncResult, EJB 3.1's javax.ejb.AsyncResult, or java.util.concurrent.CompletableFuture.completedFuture(Object)." />
-      <item value="template" />
-      <item value="Need AND/OR between two predicate! /a/@href" />
-      <item value="body Structure" />
-      <item value="gearbox" />
-      <item value="overall Dimensions" />
-      <item value="wheel Base" />
-      <item value="intake Form" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
