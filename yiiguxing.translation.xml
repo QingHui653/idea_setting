@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=". The driver has not received any packets from the server." />
+      <item value="Could not get a databaseId from dataSource" />
+      <item value="org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Communications link failure" />
+      <item value="SQL Nested Exception" />
+      <item value="Mixed spaces and tabs (no-mixed-spaces-and-tabs)" />
+      <item value="Mixed spaces and tabs" />
       <item value="Expose all standard FreeMarker hash models." />
       <item value="Expose model to JSP tags (as request attributes)." />
       <item value="Process the model map by merging it with the FreeMarker template. * Output is directed to the servlet response. * &lt;p&gt;This method can be overridden if custom behavior is needed." />
@@ -45,17 +51,11 @@
       <item value="receipt Warehouse Id" />
       <item value="is Positive Integer" />
       <item value="Cursor" />
-      <item value="加载类路径" />
-      <item value="配置" />
-      <item value="spi配置文件 配置在 加载类路径下/META-INF/services/接口全称" />
-      <item value="Multiple Spring Data modules found, entering strict repository configuration mode!" />
-      <item value="Enabling autowire by type for MapperFactoryBean" />
-      <item value="definition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
