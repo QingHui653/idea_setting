@@ -1,9 +1,9 @@
 <application>
   <component name="DockerRegistry">
-    <DockerRegistry email="" password="">
-      <option name="address" value="registry.ivyb2b.cn" />
-      <option name="name" value="Docker Registry" />
-      <option name="username" value="" />
+    <DockerRegistry email="qh@ivy.com">
+      <option name="address" value="http://registry.ivyb2b.cn/" />
+      <option name="name" value="ivy" />
+      <option name="username" value="1" />
     </DockerRegistry>
   </component>
 </application>
