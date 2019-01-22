@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a {@code BigDecimal} whose value is {@code (-this)}, * and whose scale is {@code this.scale()}." />
       <item value="extra Code" />
       <item value="simple Import" />
       <item value="Booking" />
@@ -50,12 +51,11 @@
       <item value="security Uri" />
       <item value="methods Condition" />
       <item value="Invalid AES key length: 8 bytes" />
-      <item value="Value that indicates that only properties with non-null * values are to be included." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
