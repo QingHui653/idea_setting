@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exchange Rate" />
+      <item value="transaction Currency" />
       <item value="is Dc" />
       <item value="generation" />
       <item value="pre Payments Feedback" />
@@ -49,13 +51,11 @@
       <item value="常数时间内" />
       <item value="Sorts the specified array into ascending numerical order." />
       <item value="a the array to be sorted" />
-      <item value="parallel Sort" />
-      <item value="Contents of collection 'nums' are queried, but never updated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
