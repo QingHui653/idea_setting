@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inspection Executor Phone" />
+      <item value="inspection Executor" />
+      <item value="inspect Actual Time" />
+      <item value="inspection" />
+      <item value="inspection Code" />
       <item value="exchange Rate" />
       <item value="transaction Currency" />
       <item value="is Dc" />
@@ -46,16 +51,11 @@
       <item value="default-property-inclusion" />
       <item value="STATE STATUS" />
       <item value="Specified class is an interface" />
-      <item value="update Notice Loans" />
-      <item value="常数时间" />
-      <item value="常数时间内" />
-      <item value="Sorts the specified array into ascending numerical order." />
-      <item value="a the array to be sorted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="206" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
