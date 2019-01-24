@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generation" />
       <item value="pre Payments Feedback" />
       <item value="release Plan Time" />
       <item value="releasemodal" />
@@ -50,12 +51,11 @@
       <item value="parallel Sort" />
       <item value="Contents of collection 'nums' are queried, but never updated" />
       <item value="原始" />
-      <item value="打乱" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
