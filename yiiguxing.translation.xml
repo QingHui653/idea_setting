@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="platform" />
       <item value="effectivedate" />
       <item value="warehouse Code" />
       <item value="to Storer Key" />
@@ -50,12 +51,11 @@
       <item value="Handle the result of handler selection and handler invocation, which is either a ModelAndView or an Exception to be resolved to a ModelAndView." />
       <item value="No need to lookup: the ModelAndView object contains the actual View object." />
       <item value="We need to resolve the view name." />
-      <item value="This is the last stage in handling a request. It may involve resolving the view by name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
