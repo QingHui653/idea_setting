@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HTTP code equal to 200 indicates that Nacos is in right states. HTTP code equal to 500 indicates that" />
+      <item value="Nacos is in broken states." />
+      <item value="Whether the Nacos is in broken states or not, and cannot recover except by being restarted" />
       <item value="platform" />
       <item value="effectivedate" />
       <item value="warehouse Code" />
@@ -48,14 +51,11 @@
       <item value="Prepares the view given the specified model, merging it with static * attributes and a RequestContext attribute, if necessary. * Delegates to renderMergedOutputModel for the actual rendering." />
       <item value="Render the given ModelAndView. This is the last stage in handling a request. It may involve resolving the view by name." />
       <item value="Render the given ModelAndView.&#10;This is the last stage in handling a request. It may involve resolving the view by name." />
-      <item value="Handle the result of handler selection and handler invocation, which is either a ModelAndView or an Exception to be resolved to a ModelAndView." />
-      <item value="No need to lookup: the ModelAndView object contains the actual View object." />
-      <item value="We need to resolve the view name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
