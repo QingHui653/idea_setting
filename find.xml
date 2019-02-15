@@ -13,7 +13,7 @@
     <mask>*.pom</mask>
     <mask>*.vue</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
