@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="local Rgroup" />
+      <item value="only support single node" />
+      <item value="rgroup" />
+      <item value="vgroup" />
+      <item value="no available server to connect" />
       <item value="unimplemented" />
       <item value="interface" />
       <item value="Duplicate" />
@@ -46,16 +51,11 @@
       <item value="inspection Code" />
       <item value="exchange Rate" />
       <item value="transaction Currency" />
-      <item value="is Dc" />
-      <item value="generation" />
-      <item value="pre Payments Feedback" />
-      <item value="release Plan Time" />
-      <item value="releasemodal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
