@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Emulate segment calculation from previous version of this class" />
+      <item value="/** * Minimum number of rebinnings per transfer step. Ranges are * subdivided to allow multiple resizer threads. This value * serves as a lower bound to avoid resizers encountering * excessive memory contention. The value should be at least * DEFAULT_CAPACITY. */" />
+      <item value="STRIDE" />
+      <item value="STRIDE " />
+      <item value="LOAD FACTOR" />
+      <item value="TREEIFY" />
+      <item value="THRESHOLD " />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="RESIZE STAMP BITS" />
+      <item value="no lock when adding to empty bin" />
+      <item value="o lock when adding to empty bin" />
+      <item value="synchronized" />
+      <item value="Returns a power of two size for the given target capacity." />
       <item value="Invite" />
       <item value="vertical" />
       <item value="local Rgroup" />
@@ -38,24 +51,11 @@
       <item value="platform" />
       <item value="effectivedate" />
       <item value="warehouse Code" />
-      <item value="to Storer Key" />
-      <item value="from Storer Key" />
-      <item value="transfer Order Code" />
-      <item value="CLOSING COST" />
-      <item value="TAX INVENTORY COST" />
-      <item value="CLOSING" />
-      <item value="IF(IFNULL(conf.TAX_INVENTORY_COST,0) = 0,totalcost.CLOSING_COST,totalcost.CLOSING_COST / (1 + totalcost.SKU_TAX_RATE))," />
-      <item value="delivery" />
-      <item value="inspection Executor Phone" />
-      <item value="inspection Executor" />
-      <item value="inspect Actual Time" />
-      <item value="inspection" />
-      <item value="inspection Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="266" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
