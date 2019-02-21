@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Functional Interface" />
+      <item value="if the computation was cancelled" />
+      <item value="The result type returned by this Future's {@code get} method" />
       <item value="Emulate segment calculation from previous version of this class" />
       <item value="/** * Minimum number of rebinnings per transfer step. Ranges are * subdivided to allow multiple resizer threads. This value * serves as a lower bound to avoid resizers encountering * excessive memory contention. The value should be at least * DEFAULT_CAPACITY. */" />
       <item value="STRIDE" />
@@ -48,14 +51,11 @@
       <item value="HTTP code equal to 200 indicates that Nacos is in right states. HTTP code equal to 500 indicates that" />
       <item value="Nacos is in broken states." />
       <item value="Whether the Nacos is in broken states or not, and cannot recover except by being restarted" />
-      <item value="platform" />
-      <item value="effectivedate" />
-      <item value="warehouse Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="265" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
