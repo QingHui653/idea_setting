@@ -5,6 +5,7 @@
       <mapping ext="html" type="FTL" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping ext="tet" type="PLAIN_TEXT" />
       <removed_mapping ext="html" approved="true" type="HTML" />
     </extensionMap>
   </component>
