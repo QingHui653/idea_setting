@@ -13,9 +13,9 @@
     <mask>a</mask>
     <mask>*.pom</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
