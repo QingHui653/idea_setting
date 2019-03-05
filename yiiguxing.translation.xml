@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="can not register RM" />
       <item value="timeout Mills" />
       <item value="lockfile Version" />
       <item value="Functional Interface" />
@@ -50,12 +51,11 @@
       <item value="TTL" />
       <item value="Illegal State Exception" />
       <item value="No qualifying bean of type [brave.Tracing] is defined" />
-      <item value="HTTP code equal to 200 indicates that Nacos is in right states. HTTP code equal to 500 indicates that" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
