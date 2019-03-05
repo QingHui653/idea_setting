@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@Service undefined interfaceClass or interfaceName," />
       <item value="can not register RM" />
       <item value="timeout Mills" />
       <item value="lockfile Version" />
@@ -50,12 +51,11 @@
       <item value="Simple Flow data" />
       <item value="TTL" />
       <item value="Illegal State Exception" />
-      <item value="No qualifying bean of type [brave.Tracing] is defined" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="272" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
