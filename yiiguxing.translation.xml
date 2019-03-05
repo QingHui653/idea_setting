@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="timeout Mills" />
       <item value="lockfile Version" />
       <item value="Functional Interface" />
       <item value="if the computation was cancelled" />
@@ -50,7 +51,6 @@
       <item value="Illegal State Exception" />
       <item value="No qualifying bean of type [brave.Tracing] is defined" />
       <item value="HTTP code equal to 200 indicates that Nacos is in right states. HTTP code equal to 500 indicates that" />
-      <item value="Nacos is in broken states." />
     </histories>
     <option name="languageScores">
       <map>
