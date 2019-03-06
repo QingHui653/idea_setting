@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adaptive" />
+      <item value="Get extension." />
+      <item value="Disable Inject" />
+      <item value="/** * Decide which target extension to be injected. The name of the target extension is decided by the parameter passed * in the URL, and the parameter names are given by this method. * &lt;p&gt; * If the specified parameters are not found from {@link URL}, then the default extension will be used for * dependency injection (specified in its interface's {@link SPI}). * &lt;p&gt; * For examples, given &lt;code&gt;String[] {&quot;key1&quot;, &quot;key2&quot;}&lt;/code&gt;: * &lt;ol&gt; * &lt;li&gt;find parameter 'key1' in URL, use its value as the extension's name&lt;/li&gt; * &lt;li&gt;try 'key2' for extension's name if 'key1' is not found (or its value is empty) in URL&lt;/li&gt; * &lt;li&gt;use default extension if 'key2' doesn't appear either&lt;/li&gt; * &lt;li&gt;otherwise, throw {@link IllegalStateException}&lt;/li&gt; * &lt;/ol&gt; * If default extension's name is not give on interface's {@link SPI}, then a name is generated from interface's * class name with the rule: divide classname from capital char into several parts, and separate the parts with * dot '.', for example: for {@code com.alibaba.dubbo.xxx.YyyInvokerWrapper}, its default name is * &lt;code&gt;String[] {&quot;yyy.invoker.wrapper&quot;}&lt;/code&gt;. This name will be used to search for parameter from URL. * * @return parameter key names in URL */" />
       <item value="EXTENSION INSTANCES" />
       <item value="Find the extension with the given name. If the specified name is not found, then {@link IllegalStateException}" />
       <item value="@Service undefined interfaceClass or interfaceName," />
@@ -47,15 +51,11 @@
       <item value="Claim Manager" />
       <item value="sfc Loan Code" />
       <item value="rotate" />
-      <item value="interval" />
-      <item value="slot Count" />
-      <item value="set Daemon" />
-      <item value="Simple Flow data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
