@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXTENSION INSTANCES" />
       <item value="Find the extension with the given name. If the specified name is not found, then {@link IllegalStateException}" />
       <item value="@Service undefined interfaceClass or interfaceName," />
       <item value="can not register RM" />
@@ -50,12 +51,11 @@
       <item value="slot Count" />
       <item value="set Daemon" />
       <item value="Simple Flow data" />
-      <item value="TTL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
