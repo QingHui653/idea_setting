@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="material Method" />
       <item value="p 2 p" />
       <item value="fanout" />
       <item value="headers" />
@@ -50,12 +51,11 @@
       <item value="construction Team" />
       <item value="frame Contract" />
       <item value="order Contract" />
-      <item value="actual Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
