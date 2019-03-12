@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Try to instantiate a custom web application context, allowing parameterization * of the class name." />
+      <item value="instantiate Custom Web Application Context" />
+      <item value="PREFIX" />
+      <item value="SUFFIX" />
+      <item value="DEFAULT NAMESPACE SUFFIX" />
+      <item value="Dispatcher" />
+      <item value="Dispatcher Servlet" />
+      <item value="Subclasses must implement this method to perform any initialization they require. * The implementation may be empty. This method will be invoked after any bean properties * have been set and WebApplicationContext and BeanFactory have been loaded." />
+      <item value="if the context object can't be found" />
+      <item value="Create the WebApplicationContext for this web app." />
+      <item value="Overridden method of HttpServletBean, invoked after any bean properties * have been set. Creates this servlet's WebApplicationContext." />
+      <item value="Overridden method of HttpServletBean, invoked after any bean properties" />
+      <item value="Set bean properties" />
+      <item value="Subclasses must implement this method to do the work of request handling. * The contract is the same as that for the doGet() or doPost() method of HttpServlet. * This class intercepts calls to ensure that event publication takes place." />
       <item value="material Method" />
       <item value="p 2 p" />
       <item value="fanout" />
@@ -37,25 +51,11 @@
       <item value="Returns a power of two size for the given target capacity." />
       <item value="Invite" />
       <item value="vertical" />
-      <item value="local Rgroup" />
-      <item value="only support single node" />
-      <item value="rgroup" />
-      <item value="vgroup" />
-      <item value="no available server to connect" />
-      <item value="unimplemented" />
-      <item value="interface" />
-      <item value="Duplicate" />
-      <item value="you should use only one unique ApplicationConfig for one application." />
-      <item value="判断 是否 拥有 放货单" />
-      <item value="positive" />
-      <item value="construction Team" />
-      <item value="frame Contract" />
-      <item value="order Contract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
