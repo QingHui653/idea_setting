@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean Factory的钩子允许客户对" />
       <item value="Waits if necessary for at most the given time for the computation * to complete, and then retrieves its result, if available." />
       <item value="Completion may be due to normal termination, an exception, or * cancellation -- in all of these cases, this method will return * &lt;tt&gt;true&lt;/tt&gt;." />
       <item value="We keep HandlerMappings in sorted order" />
@@ -50,11 +51,10 @@
       <item value="RESIZE STAMP BITS" />
       <item value="no lock when adding to empty bin" />
       <item value="o lock when adding to empty bin" />
-      <item value="synchronized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="306" />
+        <entry key="CHINESE" value="307" />
         <entry key="ENGLISH" value="307" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
