@@ -30,6 +30,10 @@
           <option name="url" value="http://git.ivyb2b.com/project/ops.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ivyb2b.cn/ehub/payment.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\gitLab\qinghui" />
