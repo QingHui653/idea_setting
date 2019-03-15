@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Export" />
       <item value="Makes available the permit for the given thread, if it * was not already available. If the thread was blocked on * {@code park} then it will unblock. Otherwise, its next call * to {@code park} is guaranteed not to block. This operation * is not guaranteed to have any effect at all if the given * thread has not been started." />
       <item value="Even though volatile, hotspot doesn't need a write barrier here." />
       <item value="&lt;p&gt;This class associates, with each thread that uses it, a permit * (in the sense of the {@link java.util.concurrent.Semaphore * Semaphore} class). A call to {@code park} will return immediately * if the permit is available, consuming it in the process; otherwise * it &lt;em&gt;may&lt;/em&gt; block. A call to {@code unpark} makes the permit * available, if it was not already available. (Unlike with Semaphores * though, permits do not accumulate. There is at most one.)" />
@@ -50,12 +51,11 @@
       <item value="&lt;p&gt;A lock is a tool for controlling access to a shared resource by * multiple threads. Commonly, a lock provides exclusive access to a * shared resource: only one thread at a time can acquire the lock and * all access to the shared resource requires that the lock be * acquired first. However, some locks may allow concurrent access to * a shared resource, such as the read lock of a {@link ReadWriteLock}." />
       <item value="@code Lock} implementations provide more extensive locking * operations than can be obtained using {@code synchronized} methods * and statements. They allow more flexible structuring, may have * quite different properties, and may support multiple associated * {@link Condition} objects." />
       <item value="Abstract Queued Synchronizer" />
-      <item value="No Such Method Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="CHINESE" value="366" />
+        <entry key="ENGLISH" value="367" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
