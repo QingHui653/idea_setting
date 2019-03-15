@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="laiyd" />
       <item value="To Match Scale" />
       <item value="Strip" />
       <item value="Immutable, arbitrary-precision signed decimal numbers. A * {@code BigDecimal} consists of an arbitrary precision integer * &lt;i&gt;unscaled value&lt;/i&gt; and a 32-bit integer &lt;i&gt;scale&lt;/i&gt;. If zero * or positive, the scale is the number of digits to the right of the * decimal point. If negative, the unscaled value of the number is * multiplied by ten to the power of the negation of the scale. The * value of the number represented by the {@code BigDecimal} is * therefore &lt;tt&gt;(unscaledValue &amp;times; 10&lt;sup&gt;-scale&lt;/sup&gt;)&lt;/tt&gt;." />
@@ -50,17 +51,17 @@
       <item value="acquire" />
       <item value="synchronized" />
       <item value="functionality" />
-      <item value="additional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
+        <entry key="CHINESE" value="375" />
         <entry key="ENGLISH" value="375" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="WELSH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="JAVANESE" value="1" />
       </map>
