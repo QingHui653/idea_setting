@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Abstract Queued Synchronizer" />
       <item value="No Such Method Exception" />
       <item value=" java.lang.Instantiation Exception" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of javax.persistence.spi.PersistenceUnitInfo" />
@@ -50,12 +51,11 @@
       <item value="The result type returned by this Future's {@code get} method" />
       <item value="Emulate segment calculation from previous version of this class" />
       <item value="/** * Minimum number of rebinnings per transfer step. Ranges are * subdivided to allow multiple resizer threads. This value * serves as a lower bound to avoid resizers encountering * excessive memory contention. The value should be at least * DEFAULT_CAPACITY. */" />
-      <item value="STRIDE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="316" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
