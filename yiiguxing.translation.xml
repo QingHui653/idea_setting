@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Reply" />
+      <item value="btn Show" />
+      <item value="table Params" />
+      <item value="order" />
+      <item value="refund" />
+      <item value="reconciliation Refund" />
       <item value="laiyd" />
       <item value="To Match Scale" />
       <item value="Strip" />
@@ -45,22 +51,17 @@
       <item value="&lt;p&gt;A {@code Lock} class can also provide behavior and semantics * that is quite different from that of the implicit monitor lock, * such as guaranteed ordering, non-reentrant usage, or deadlock * detection. If an implementation provides such specialized semantics * then the implementation must document those semantics." />
       <item value="implicit monitor lock" />
       <item value="provide" />
-      <item value="semantics" />
-      <item value="behavior" />
-      <item value="&lt;p&gt;{@code Lock} implementations provide additional functionality * over the use of {@code synchronized} methods and statements by * providing a non-blocking attempt to acquire a lock ({@link * #tryLock()}), an attempt to acquire the lock that can be * interrupted ({@link #lockInterruptibly}, and an attempt to acquire * the lock that can timeout ({@link #tryLock(long, TimeUnit)})." />
-      <item value="acquire" />
-      <item value="synchronized" />
-      <item value="functionality" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="SWEDISH" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="JAVANESE" value="1" />
