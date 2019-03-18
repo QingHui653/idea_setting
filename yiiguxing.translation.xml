@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="count Name" />
+      <item value="name" />
+      <item value="native Query" />
+      <item value="wsy" />
       <item value="search" />
       <item value="get Total Pages" />
       <item value="page" />
@@ -47,15 +51,11 @@
       <item value="&lt;p&gt;If the lock is not available then the current thread becomes * disabled for thread scheduling purposes and lies dormant until the * lock has been acquired." />
       <item value="&lt;p&gt;As interruption generally implies cancellation, and checks for * interruption are often infrequent, an implementation can favor responding * to an interrupt over normal method return. This is true even if it can be * shown that the interrupt occurred after another action may have unblocked * the thread. An implementation should document this behavior." />
       <item value="&lt;p&gt;The three forms of lock acquisition (interruptible, * non-interruptible, and timed) may differ in their performance * characteristics, ordering guarantees, or other implementation * qualities. Further, the ability to interrupt the &lt;em&gt;ongoing&lt;/em&gt; * acquisition of a lock may not be available in a given {@code Lock} * class. Consequently, an implementation is not required to define * exactly the same guarantees or semantics for all three forms of * lock acquisition, nor is it required to support interruption of an * ongoing lock acquisition. An implementation is required to clearly * document the semantics and guarantees provided by each of the * locking methods. It must also obey the interruption semantics as * defined in this interface, to the extent that interruption of lock * acquisition is supported: which is either totally, or only on * method entry." />
-      <item value="Unsuccessful locking and unlocking operations, and reentrant * locking/unlocking operations, do not require any memory * synchronization effects." />
-      <item value="&lt;p&gt;All {@code Lock} implementations &lt;em&gt;must&lt;/em&gt; enforce the same * memory synchronization semantics as provided by the built-in monitor * lock, as described in * &lt;a href=&quot;https://docs.oracle.com/javase/specs/jls/se7/html/jls-17.html#jls-17.4&quot;&gt; * The Java Language Specification (17.4 Memory Model)&lt;/a&gt;: * &lt;ul&gt; * &lt;li&gt;A successful {@code lock} operation has the same memory * synchronization effects as a successful &lt;em&gt;Lock&lt;/em&gt; action. * &lt;li&gt;A successful {@code unlock} operation has the same * memory synchronization effects as a successful &lt;em&gt;Unlock&lt;/em&gt; action. * &lt;/ul&gt;" />
-      <item value="&lt;h3&gt;Memory Synchronization&lt;/h3&gt;" />
-      <item value="&lt;p&gt;Except where noted, passing a {@code null} value for any * parameter will result in a {@link NullPointerException} being * thrown." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="387" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
