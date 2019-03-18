@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="search" />
       <item value="get Total Pages" />
       <item value="page" />
       <item value="get Total Elements" />
@@ -50,12 +51,11 @@
       <item value="&lt;p&gt;All {@code Lock} implementations &lt;em&gt;must&lt;/em&gt; enforce the same * memory synchronization semantics as provided by the built-in monitor * lock, as described in * &lt;a href=&quot;https://docs.oracle.com/javase/specs/jls/se7/html/jls-17.html#jls-17.4&quot;&gt; * The Java Language Specification (17.4 Memory Model)&lt;/a&gt;: * &lt;ul&gt; * &lt;li&gt;A successful {@code lock} operation has the same memory * synchronization effects as a successful &lt;em&gt;Lock&lt;/em&gt; action. * &lt;li&gt;A successful {@code unlock} operation has the same * memory synchronization effects as a successful &lt;em&gt;Unlock&lt;/em&gt; action. * &lt;/ul&gt;" />
       <item value="&lt;h3&gt;Memory Synchronization&lt;/h3&gt;" />
       <item value="&lt;p&gt;Except where noted, passing a {@code null} value for any * parameter will result in a {@link NullPointerException} being * thrown." />
-      <item value="&lt;p&gt;Note that {@code Lock} instances are just normal objects and can * themselves be used as the target in a {@code synchronized} statement. * Acquiring the * monitor lock of a {@code Lock} instance has no specified relationship * with invoking any of the {@link #lock} methods of that instance. * It is recommended that to avoid confusion you never use {@code Lock} * instances in this way, except within their own implementation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="CHINESE" value="383" />
+        <entry key="ENGLISH" value="384" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
