@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Total Pages" />
+      <item value="page" />
+      <item value="get Total Elements" />
       <item value="is Reply" />
       <item value="btn Show" />
       <item value="table Params" />
@@ -48,14 +51,11 @@
       <item value="&lt;h3&gt;Memory Synchronization&lt;/h3&gt;" />
       <item value="&lt;p&gt;Except where noted, passing a {@code null} value for any * parameter will result in a {@link NullPointerException} being * thrown." />
       <item value="&lt;p&gt;Note that {@code Lock} instances are just normal objects and can * themselves be used as the target in a {@code synchronized} statement. * Acquiring the * monitor lock of a {@code Lock} instance has no specified relationship * with invoking any of the {@link #lock} methods of that instance. * It is recommended that to avoid confusion you never use {@code Lock} * instances in this way, except within their own implementation." />
-      <item value="&lt;p&gt;A {@code Lock} class can also provide behavior and semantics * that is quite different from that of the implicit monitor lock, * such as guaranteed ordering, non-reentrant usage, or deadlock * detection. If an implementation provides such specialized semantics * then the implementation must document those semantics." />
-      <item value="implicit monitor lock" />
-      <item value="provide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="383" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
