@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Paging And Sorting Repository" />
+      <item value="Query By Example Executor" />
       <item value="count Name" />
       <item value="name" />
       <item value="native Query" />
@@ -49,13 +51,11 @@
       <item value="detect" />
       <item value="Implementation Considerations" />
       <item value="&lt;p&gt;If the lock is not available then the current thread becomes * disabled for thread scheduling purposes and lies dormant until the * lock has been acquired." />
-      <item value="&lt;p&gt;As interruption generally implies cancellation, and checks for * interruption are often infrequent, an implementation can favor responding * to an interrupt over normal method return. This is true even if it can be * shown that the interrupt occurred after another action may have unblocked * the thread. An implementation should document this behavior." />
-      <item value="&lt;p&gt;The three forms of lock acquisition (interruptible, * non-interruptible, and timed) may differ in their performance * characteristics, ordering guarantees, or other implementation * qualities. Further, the ability to interrupt the &lt;em&gt;ongoing&lt;/em&gt; * acquisition of a lock may not be available in a given {@code Lock} * class. Consequently, an implementation is not required to define * exactly the same guarantees or semantics for all three forms of * lock acquisition, nor is it required to support interruption of an * ongoing lock acquisition. An implementation is required to clearly * document the semantics and guarantees provided by each of the * locking methods. It must also obey the interruption semantics as * defined in this interface, to the extent that interruption of lock * acquisition is supported: which is either totally, or only on * method entry." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="387" />
+        <entry key="CHINESE" value="388" />
+        <entry key="ENGLISH" value="389" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
