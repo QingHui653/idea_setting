@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Default: No static constructor, instead the normal constructor is public." />
+      <item value="&lt;pre&gt; * public @Data(staticConstructor = &quot;of&quot;) class Point { final int x, y; } * &lt;/pre&gt; *" />
+      <item value="If you specify a static constructor name, then the generated constructor will be private, and * instead a static factory method is created that other classes can use to create instances. * We suggest the name: &quot;of&quot;, like so:" />
+      <item value="static Constructor" />
+      <item value="Unable to locate appropriate constructor" />
       <item value="Annotation to declare finder queries directly on repository methods." />
       <item value="No converter found capable of converting from type" />
       <item value="No property string found for type PayUniformOrder!" />
@@ -46,16 +51,11 @@
       <item value="&lt;p&gt;Before waiting on the condition the lock must be held by the * current thread. * A call to {@link Condition#await()} will atomically release the lock * before waiting and re-acquire the lock before the wait returns." />
       <item value="Returns a new {@link Condition} instance that is bound to this * {@code Lock} instance." />
       <item value="interrupted" />
-      <item value="Acquires the lock unless the current thread is * {@linkplain Thread#interrupt interrupted}." />
-      <item value="Acquires the lock unless the current thread is" />
-      <item value="&lt;p&gt;A {@code Lock} implementation may be able to detect erroneous use * of the lock, such as an invocation that would cause deadlock, and * may throw an (unchecked) exception in such circumstances. The * circumstances and the exception type must be documented by that * {@code Lock} implementation." />
-      <item value="A {@code Lock} implementation may be able to detect erroneous use * of the lock, such as an invocation that would cause deadlock, and * may throw an (unchecked) exception in such circumstances. The * circumstances and the exception type must be documented by that * {@code Lock} implementation." />
-      <item value="erroneous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
-        <entry key="ENGLISH" value="392" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
