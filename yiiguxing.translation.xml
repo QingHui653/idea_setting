@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mch id" />
       <item value="Default: No static constructor, instead the normal constructor is public." />
       <item value="&lt;pre&gt; * public @Data(staticConstructor = &quot;of&quot;) class Point { final int x, y; } * &lt;/pre&gt; *" />
       <item value="If you specify a static constructor name, then the generated constructor will be private, and * instead a static factory method is created that other classes can use to create instances. * We suggest the name: &quot;of&quot;, like so:" />
@@ -50,12 +51,12 @@
       <item value="Returns the lock used for reading." />
       <item value="&lt;p&gt;Before waiting on the condition the lock must be held by the * current thread. * A call to {@link Condition#await()} will atomically release the lock * before waiting and re-acquire the lock before the wait returns." />
       <item value="Returns a new {@link Condition} instance that is bound to this * {@code Lock} instance." />
-      <item value="interrupted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="396" />
+        <entry key="CHINESE" value="397" />
         <entry key="ENGLISH" value="397" />
+        <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
