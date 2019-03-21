@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Abstract Sequential List" />
       <item value="keyword Order Number" />
       <item value="[3]+&quot;/&quot;+a[4]+&quot;/&quot;+a[5]); var B = D.getFullYear()=" />
       <item value="reconciliation" />
@@ -50,12 +51,11 @@
       <item value="An implementation of {@link ReadWriteLock} supporting similar * semantics to {@link ReentrantLock}. * &lt;p&gt;This class has the following properties:" />
       <item value="Synchronization implementation for ReentrantReadWriteLock. * Subclassed into fair and nonfair versions." />
       <item value="nonfair" />
-      <item value="Returns the lock used for writing." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="CHINESE" value="400" />
+        <entry key="ENGLISH" value="401" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
