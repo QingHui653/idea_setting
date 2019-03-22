@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Random Access" />
+      <item value="Random Access Sub List" />
+      <item value="Removes the first occurrence of the specified element from this list, * if it is present. If this list does not contain the element, it is * unchanged. More formally, removes the element with the lowest index * {@code i} such that" />
+      <item value="num Moved" />
+      <item value="clear to let GC do its work" />
+      <item value="minCapacity is usually close to size, so this is a win" />
+      <item value="element Data" />
+      <item value="new Capacity" />
+      <item value="MAX ARRAY SIZE" />
+      <item value="any size if real element table" />
+      <item value="Capacity" />
+      <item value="ensure" />
+      <item value="Increases the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance, if * necessary, to ensure that it can hold at least the number of elements * specified by the minimum capacity argument. *" />
+      <item value="Trims the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance to be the * list's current size. An application can use this operation to minimize * the storage of an &lt;tt&gt;ArrayList&lt;/tt&gt; instance." />
+      <item value="trim To Size" />
       <item value="old Capacity" />
       <item value="oldCapacity + (oldCapacity &gt;&gt; 1);" />
       <item value="Increases the capacity to ensure that it can hold at least the * number of elements specified by the minimum capacity argument." />
@@ -36,26 +51,11 @@
       <item value="Query By Example Executor" />
       <item value="count Name" />
       <item value="name" />
-      <item value="native Query" />
-      <item value="wsy" />
-      <item value="search" />
-      <item value="get Total Pages" />
-      <item value="page" />
-      <item value="get Total Elements" />
-      <item value="is Reply" />
-      <item value="btn Show" />
-      <item value="table Params" />
-      <item value="order" />
-      <item value="refund" />
-      <item value="reconciliation Refund" />
-      <item value="laiyd" />
-      <item value="To Match Scale" />
-      <item value="Strip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="420" />
-        <entry key="ENGLISH" value="421" />
+        <entry key="CHINESE" value="436" />
+        <entry key="ENGLISH" value="437" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
