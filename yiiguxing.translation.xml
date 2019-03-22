@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expand Around Center" />
       <item value="stock.warehouse.vali Warehouse Type Null Tip" />
       <item value="wms Type" />
       <item value="par partner skulib" />
@@ -50,12 +51,11 @@
       <item value="gnore interrupts while waiting" />
       <item value="&lt;dt&gt;&lt;b&gt;&lt;i&gt;Fair mode&lt;/i&gt;&lt;/b&gt; * &lt;dd&gt;When constructed as fair, threads contend for entry using an * approximately arrival-order policy. When the currently held lock * is released, either the longest-waiting single writer thread will * be assigned the write lock, or if there is a group of reader threads * waiting longer than all waiting writer threads, that group will be * assigned the read lock." />
       <item value="&lt;dt&gt;&lt;b&gt;&lt;i&gt;Non-fair mode (default)&lt;/i&gt;&lt;/b&gt; * &lt;dd&gt;When constructed as non-fair (the default), the order of entry * to the read and write lock is unspecified, subject to reentrancy * constraints. A nonfair lock that is continuously contended may * indefinitely postpone one or more reader or writer threads, but * will normally have higher throughput than a fair lock." />
-      <item value="&lt;p&gt;This class does not impose a reader or writer preference * ordering for lock access. However, it does support an optional * &lt;em&gt;fairness&lt;/em&gt; policy." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="404" />
+        <entry key="ENGLISH" value="405" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
