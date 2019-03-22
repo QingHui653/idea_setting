@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="old Capacity" />
+      <item value="oldCapacity + (oldCapacity &gt;&gt; 1);" />
+      <item value="Increases the capacity to ensure that it can hold at least the * number of elements specified by the minimum capacity argument." />
+      <item value="minCapacity is usually close to size, so this is a win:" />
+      <item value="min Capacity" />
+      <item value="DEFAULTCAPACITY EMPTY ELEMENTDATA" />
+      <item value="DEFAULT CAPACITY" />
+      <item value="Constructs an empty list with the specified initial capacity." />
+      <item value="The array buffer into which the elements of the ArrayList are stored. * The capacity of the ArrayList is the length of this array buffer. Any * empty ArrayList with elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA * will be expanded to DEFAULT_CAPACITY when the first element is added." />
+      <item value="Shared empty array instance used for default sized empty instances. We * distinguish this from EMPTY_ELEMENTDATA to know how much to inflate when * first element is added." />
+      <item value="EMPTY ELEMENTDATA" />
+      <item value="If no such object exists, the list should be &quot;wrapped&quot; using the * {@link Collections#synchronizedList Collections.synchronizedList} * method. This is best done at creation time, to prevent accidental * unsynchronized access to the list:&lt;pre&gt;" />
+      <item value="If no such object exists, the list should be &quot;wrapped&quot; using the" />
       <item value="len" />
       <item value="expand Around Center" />
       <item value="stock.warehouse.vali Warehouse Type Null Tip" />
@@ -38,24 +51,11 @@
       <item value="laiyd" />
       <item value="To Match Scale" />
       <item value="Strip" />
-      <item value="Immutable, arbitrary-precision signed decimal numbers. A * {@code BigDecimal} consists of an arbitrary precision integer * &lt;i&gt;unscaled value&lt;/i&gt; and a 32-bit integer &lt;i&gt;scale&lt;/i&gt;. If zero * or positive, the scale is the number of digits to the right of the * decimal point. If negative, the unscaled value of the number is * multiplied by ten to the power of the negation of the scale. The * value of the number represented by the {@code BigDecimal} is * therefore &lt;tt&gt;(unscaledValue &amp;times; 10&lt;sup&gt;-scale&lt;/sup&gt;)&lt;/tt&gt;." />
-      <item value="&lt;p&gt;The {@code BigDecimal} class provides operations for * arithmetic, scale manipulation, rounding, comparison, hashing, and * format conversion. The {@link #toString} method provides a * canonical representation of a {@code BigDecimal}. *" />
-      <item value="Immutable, arbitrary-precision signed decimal numbers. A * {@code BigDecimal} consists of an arbitrary precision integer * &lt;i&gt;unscaled value&lt;/i&gt; and a 32-bit integer &lt;i&gt;scale&lt;/i&gt;. If zero * or positive, the scale is the number of digits to the right of the * decimal point. If negative, the unscaled value of the number is * multiplied by ten to the power of the negation of the scale. The * value of the number represented by the {@code BigDecimal} is * therefore &lt;tt&gt;(unscaledValue &amp;times; 10&lt;sup&gt;-scale&lt;/sup&gt;)&lt;/tt&gt;. * * &lt;p&gt;The {@code BigDecimal} class provides operations for * arithmetic, scale manipulation, rounding, comparison, hashing, and * format conversion. The {@link #toString} method provides a * canonical representation of a {@code BigDecimal}." />
-      <item value="A class used to represent multiprecision integers that makes efficient * use of allocated space by allowing a number to occupy only part of * an array so that the arrays do not have to be reallocated as often. * When performing an operation with many iterations the array used to * hold a number is only reallocated when necessary and does not have to * be the same size as the number it represents. A mutable number allows * calculations to occur on the same number without having to create * a new number for every step of the calculation as occurs with * BigIntegers." />
-      <item value="Immutable objects which encapsulate the context settings which * describe certain rules for numerical operators, such as those * implemented by the {@link BigDecimal} class." />
-      <item value="A simple bit sieve used for finding prime number candidates. Allows setting * and clearing of bits in a storage array. The size of the sieve is assumed to * be constant to reduce overhead. All the bits of a new bitSieve are zero, and * bits are removed from it by setting them." />
-      <item value="is Export" />
-      <item value="Makes available the permit for the given thread, if it * was not already available. If the thread was blocked on * {@code park} then it will unblock. Otherwise, its next call * to {@code park} is guaranteed not to block. This operation * is not guaranteed to have any effect at all if the given * thread has not been started." />
-      <item value="Even though volatile, hotspot doesn't need a write barrier here." />
-      <item value="&lt;p&gt;This class associates, with each thread that uses it, a permit * (in the sense of the {@link java.util.concurrent.Semaphore * Semaphore} class). A call to {@code park} will return immediately * if the permit is available, consuming it in the process; otherwise * it &lt;em&gt;may&lt;/em&gt; block. A call to {@code unpark} makes the permit * available, if it was not already available. (Unlike with Semaphores * though, permits do not accumulate. There is at most one.)" />
-      <item value="Basic thread blocking primitives for creating locks and other * synchronization classes." />
-      <item value="gnore interrupts while waiting" />
-      <item value="&lt;dt&gt;&lt;b&gt;&lt;i&gt;Fair mode&lt;/i&gt;&lt;/b&gt; * &lt;dd&gt;When constructed as fair, threads contend for entry using an * approximately arrival-order policy. When the currently held lock * is released, either the longest-waiting single writer thread will * be assigned the write lock, or if there is a group of reader threads * waiting longer than all waiting writer threads, that group will be * assigned the read lock." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="405" />
+        <entry key="CHINESE" value="420" />
+        <entry key="ENGLISH" value="421" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
