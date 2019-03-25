@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The iteration ordering method for this linked hash map:" />
+      <item value="&lt;tt&gt;true&lt;/tt&gt; * for access-order, &lt;tt&gt;false&lt;/tt&gt; for insertion-order." />
+      <item value="for access-order, &lt;tt&gt;false&lt;/tt&gt; for insertion-order." />
+      <item value="The iteration ordering method for this linked hash map: &lt;tt&gt;true&lt;/tt&gt;" />
+      <item value="The head of the doubly linked list." />
+      <item value="Hash table and linked list implementation of the Map interface, with predictable iteration order. This implementation differs from HashMap in that it maintains a doubly-linked list running through all of its entries. This linked list defines the iteration ordering, which is normally the order in which keys were inserted into the map (insertion-order). Note that insertion order is not affected if a key is re-inserted into the map. (A key k is reinserted into a map m if m.put(k, v) is invoked when m.containsKey(k) would return true immediately prior to the invocation.)" />
+      <item value="Comparator" />
+      <item value="Tree Map" />
+      <item value="comparator the comparator that will be used to order this map." />
+      <item value="insertion-order" />
+      <item value="access-order" />
+      <item value="Constructs an empty &lt;tt&gt;LinkedHashMap&lt;/tt&gt; instance with the * specified initial capacity, load factor and ordering mode." />
+      <item value="the ordering mode" />
+      <item value="the ordering mode - &lt;tt&gt;true&lt;/tt&gt; for" />
       <item value="Dummy value to associate with an Object in the backing Map" />
       <item value="ignored (distinguishes this * constructor from other int, float constructor.)" />
       <item value="dummy" />
@@ -37,25 +51,11 @@
       <item value="TREEIFY THRESHOLD" />
       <item value="The maximum capacity, used if a higher value is implicitly specified * by either of the constructors with arguments. * MUST be a power of two &lt;= 1&lt;&lt;30." />
       <item value="Because TreeNodes are about twice the size of regular nodes, we * use them only when bins contain enough nodes to warrant use * (see TREEIFY_THRESHOLD). And when they become too small (due to * removal or resizing) they are converted back to plain bins. In * usages with well-distributed user hashCodes, tree bins are * rarely used. Ideally, under random hashCodes, the frequency of * nodes in bins follows a Poisson distribution * (http://en.wikipedia.org/wiki/Poisson_distribution) with a * parameter of about 0.5 on average for the default resizing * threshold of 0.75, although with a large variance because of * resizing granularity. Ignoring variance, the expected * occurrences of list size k are (exp(-0.5) * pow(0.5, k) / * factorial(k)). The first values are:" />
-      <item value="0: 0.60653066 * 1: 0.30326533 * 2: 0.07581633 * 3: 0.01263606 * 4: 0.00157952 * 5: 0.00015795 * 6: 0.00001316 * 7: 0.00000094 * 8: 0.00000006" />
-      <item value="Random Access" />
-      <item value="Random Access Sub List" />
-      <item value="Removes the first occurrence of the specified element from this list, * if it is present. If this list does not contain the element, it is * unchanged. More formally, removes the element with the lowest index * {@code i} such that" />
-      <item value="num Moved" />
-      <item value="clear to let GC do its work" />
-      <item value="minCapacity is usually close to size, so this is a win" />
-      <item value="element Data" />
-      <item value="new Capacity" />
-      <item value="MAX ARRAY SIZE" />
-      <item value="any size if real element table" />
-      <item value="Capacity" />
-      <item value="ensure" />
-      <item value="Increases the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance, if * necessary, to ensure that it can hold at least the number of elements * specified by the minimum capacity argument. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="476" />
-        <entry key="ENGLISH" value="477" />
+        <entry key="CHINESE" value="491" />
+        <entry key="ENGLISH" value="492" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
