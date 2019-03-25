@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transfers all entries to new table array. This method is called * by superclass resize. It is overridden for performance, as it is * faster to iterate using our linked list." />
+      <item value="Rehash the table if the threshold is exceeded" />
+      <item value="overflow-conscious code" />
+      <item value="old Capacity" />
+      <item value="hashSeed will be zero if alternative hashing is disabled." />
+      <item value="0 x 7 FFFFFFF" />
+      <item value="Constructs a new, empty hashtable with a default initial capacity (11)" />
+      <item value="11" />
       <item value="an {@code int} value with a single one-bit, in the position * of the highest-order one-bit in the specified value, or zero if * the specified value is itself equal to zero." />
       <item value="highest One Bit" />
       <item value="MAXIMUM CAPACITY" />
@@ -38,24 +46,16 @@
       <item value="Increases the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance, if * necessary, to ensure that it can hold at least the number of elements * specified by the minimum capacity argument. *" />
       <item value="Trims the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance to be the * list's current size. An application can use this operation to minimize * the storage of an &lt;tt&gt;ArrayList&lt;/tt&gt; instance." />
       <item value="trim To Size" />
-      <item value="old Capacity" />
       <item value="oldCapacity + (oldCapacity &gt;&gt; 1);" />
       <item value="Increases the capacity to ensure that it can hold at least the * number of elements specified by the minimum capacity argument." />
       <item value="minCapacity is usually close to size, so this is a win:" />
       <item value="min Capacity" />
       <item value="DEFAULTCAPACITY EMPTY ELEMENTDATA" />
-      <item value="DEFAULT CAPACITY" />
-      <item value="Constructs an empty list with the specified initial capacity." />
-      <item value="The array buffer into which the elements of the ArrayList are stored. * The capacity of the ArrayList is the length of this array buffer. Any * empty ArrayList with elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA * will be expanded to DEFAULT_CAPACITY when the first element is added." />
-      <item value="Shared empty array instance used for default sized empty instances. We * distinguish this from EMPTY_ELEMENTDATA to know how much to inflate when * first element is added." />
-      <item value="EMPTY ELEMENTDATA" />
-      <item value="If no such object exists, the list should be &quot;wrapped&quot; using the * {@link Collections#synchronizedList Collections.synchronizedList} * method. This is best done at creation time, to prevent accidental * unsynchronized access to the list:&lt;pre&gt;" />
-      <item value="If no such object exists, the list should be &quot;wrapped&quot; using the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="461" />
-        <entry key="ENGLISH" value="462" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="469" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
