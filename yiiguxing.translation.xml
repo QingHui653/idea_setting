@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="overrides of HashMap hook methods" />
       <item value="Transfers all entries to new table array. This method is called * by superclass resize. It is overridden for performance, as it is * faster to iterate using our linked list." />
       <item value="Rehash the table if the threshold is exceeded" />
       <item value="overflow-conscious code" />
@@ -50,12 +51,11 @@
       <item value="Increases the capacity to ensure that it can hold at least the * number of elements specified by the minimum capacity argument." />
       <item value="minCapacity is usually close to size, so this is a win:" />
       <item value="min Capacity" />
-      <item value="DEFAULTCAPACITY EMPTY ELEMENTDATA" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="CHINESE" value="469" />
+        <entry key="ENGLISH" value="470" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
