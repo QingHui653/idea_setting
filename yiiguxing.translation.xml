@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dummy value to associate with an Object in the backing Map" />
+      <item value="ignored (distinguishes this * constructor from other int, float constructor.)" />
+      <item value="dummy" />
+      <item value="initial Capacity" />
       <item value="Compares two keys using the correct comparison method for this TreeMap." />
       <item value="funding Company Id" />
       <item value="overrides of HashMap hook methods" />
@@ -47,15 +51,11 @@
       <item value="Capacity" />
       <item value="ensure" />
       <item value="Increases the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance, if * necessary, to ensure that it can hold at least the number of elements * specified by the minimum capacity argument. *" />
-      <item value="Trims the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance to be the * list's current size. An application can use this operation to minimize * the storage of an &lt;tt&gt;ArrayList&lt;/tt&gt; instance." />
-      <item value="trim To Size" />
-      <item value="oldCapacity + (oldCapacity &gt;&gt; 1);" />
-      <item value="Increases the capacity to ensure that it can hold at least the * number of elements specified by the minimum capacity argument." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="471" />
-        <entry key="ENGLISH" value="472" />
+        <entry key="CHINESE" value="476" />
+        <entry key="ENGLISH" value="477" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
