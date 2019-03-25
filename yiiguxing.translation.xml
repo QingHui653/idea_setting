@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="an {@code int} value with a single one-bit, in the position * of the highest-order one-bit in the specified value, or zero if * the specified value is itself equal to zero." />
+      <item value="highest One Bit" />
+      <item value="MAXIMUM CAPACITY" />
+      <item value="Callbacks to allow LinkedHashMap post-actions" />
+      <item value="Initializes or doubles table size. If null, allocates in * accord with initial capacity target held in field threshold. * Otherwise, because we are using power-of-two expansion, the * elements from each bin must either stay at same index, or move * with a power of two offset in the new table." />
+      <item value="if false, the table is in creation mode." />
+      <item value="if true, don't change existing value" />
+      <item value="only If Absent" />
+      <item value="false" />
+      <item value="all other fields defaulted" />
+      <item value="The table, initialized on first use, and resized as * necessary. When allocated, length is always a power of two. * (We also tolerate length zero in some operations to allow * bootstrapping mechanics that are currently not needed.) */" />
+      <item value="Returns a power of two size for the given target capacity." />
+      <item value="table Size For" />
+      <item value="onstructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the default initial capacity * (16) and the default load factor (0.75)." />
+      <item value="DEFAULT INITIAL CAPACITY" />
+      <item value="The bin count threshold for using a tree rather than list for a * bin. Bins are converted to trees when adding an element to a * bin with at least this many nodes. The value must be greater * than 2 and should be at least 8 to mesh with assumptions in * tree removal about conversion back to plain bins upon * shrinkage." />
+      <item value="The bin count threshold for untreeifying a (split) bin during a * resize operation. Should be less than TREEIFY_THRESHOLD, and at * most 6 to mesh with shrinkage detection under removal." />
+      <item value="UNTREEIFY THRESHOLD" />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="The maximum capacity, used if a higher value is implicitly specified * by either of the constructors with arguments. * MUST be a power of two &lt;= 1&lt;&lt;30." />
+      <item value="Because TreeNodes are about twice the size of regular nodes, we * use them only when bins contain enough nodes to warrant use * (see TREEIFY_THRESHOLD). And when they become too small (due to * removal or resizing) they are converted back to plain bins. In * usages with well-distributed user hashCodes, tree bins are * rarely used. Ideally, under random hashCodes, the frequency of * nodes in bins follows a Poisson distribution * (http://en.wikipedia.org/wiki/Poisson_distribution) with a * parameter of about 0.5 on average for the default resizing * threshold of 0.75, although with a large variance because of * resizing granularity. Ignoring variance, the expected * occurrences of list size k are (exp(-0.5) * pow(0.5, k) / * factorial(k)). The first values are:" />
+      <item value="0: 0.60653066 * 1: 0.30326533 * 2: 0.07581633 * 3: 0.01263606 * 4: 0.00157952 * 5: 0.00015795 * 6: 0.00001316 * 7: 0.00000094 * 8: 0.00000006" />
       <item value="Random Access" />
       <item value="Random Access Sub List" />
       <item value="Removes the first occurrence of the specified element from this list, * if it is present. If this list does not contain the element, it is * unchanged. More formally, removes the element with the lowest index * {@code i} such that" />
@@ -29,33 +51,11 @@
       <item value="EMPTY ELEMENTDATA" />
       <item value="If no such object exists, the list should be &quot;wrapped&quot; using the * {@link Collections#synchronizedList Collections.synchronizedList} * method. This is best done at creation time, to prevent accidental * unsynchronized access to the list:&lt;pre&gt;" />
       <item value="If no such object exists, the list should be &quot;wrapped&quot; using the" />
-      <item value="len" />
-      <item value="expand Around Center" />
-      <item value="stock.warehouse.vali Warehouse Type Null Tip" />
-      <item value="wms Type" />
-      <item value="par partner skulib" />
-      <item value="Abstract Sequential List" />
-      <item value="keyword Order Number" />
-      <item value="[3]+&quot;/&quot;+a[4]+&quot;/&quot;+a[5]); var B = D.getFullYear()=" />
-      <item value="reconciliation" />
-      <item value="mch id" />
-      <item value="Default: No static constructor, instead the normal constructor is public." />
-      <item value="&lt;pre&gt; * public @Data(staticConstructor = &quot;of&quot;) class Point { final int x, y; } * &lt;/pre&gt; *" />
-      <item value="If you specify a static constructor name, then the generated constructor will be private, and * instead a static factory method is created that other classes can use to create instances. * We suggest the name: &quot;of&quot;, like so:" />
-      <item value="static Constructor" />
-      <item value="Unable to locate appropriate constructor" />
-      <item value="Annotation to declare finder queries directly on repository methods." />
-      <item value="No converter found capable of converting from type" />
-      <item value="No property string found for type PayUniformOrder!" />
-      <item value="Paging And Sorting Repository" />
-      <item value="Query By Example Executor" />
-      <item value="count Name" />
-      <item value="name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="436" />
-        <entry key="ENGLISH" value="437" />
+        <entry key="CHINESE" value="461" />
+        <entry key="ENGLISH" value="462" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
