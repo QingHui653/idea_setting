@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="holds values which can't be initialized until after VM is booted." />
+      <item value="Number of unsynchronized retries in size and containsValue * methods before resorting to locking. This is used to avoid * unbounded retries if tables undergo continuous modification * which would make it impossible to obtain an accurate result." />
+      <item value="RETRIES" />
+      <item value="RETRIES BEFORE LOCK" />
       <item value="slightly conservative" />
       <item value="The maximum number of segments to allow; used to bound * constructor arguments. Must be power of two less than 1 &lt;&lt; 24." />
       <item value="SCAN" />
-      <item value="RETRIES" />
       <item value="MAX SCAN RETRIES" />
       <item value="MAX SEGMENTS" />
       <item value="concurrency Level" />
@@ -48,14 +51,11 @@
       <item value="Callbacks to allow LinkedHashMap post-actions" />
       <item value="Initializes or doubles table size. If null, allocates in * accord with initial capacity target held in field threshold. * Otherwise, because we are using power-of-two expansion, the * elements from each bin must either stay at same index, or move * with a power of two offset in the new table." />
       <item value="if false, the table is in creation mode." />
-      <item value="if true, don't change existing value" />
-      <item value="only If Absent" />
-      <item value="false" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
-        <entry key="ENGLISH" value="507" />
+        <entry key="CHINESE" value="511" />
+        <entry key="ENGLISH" value="512" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
