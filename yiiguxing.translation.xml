@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="even" />
+      <item value="dummy" />
       <item value="Dummy" />
       <item value="NULL" />
       <item value="odd Even List" />
@@ -36,7 +38,6 @@
       <item value="the ordering mode - &lt;tt&gt;true&lt;/tt&gt; for" />
       <item value="Dummy value to associate with an Object in the backing Map" />
       <item value="ignored (distinguishes this * constructor from other int, float constructor.)" />
-      <item value="dummy" />
       <item value="initial Capacity" />
       <item value="Compares two keys using the correct comparison method for this TreeMap." />
       <item value="funding Company Id" />
@@ -50,12 +51,11 @@
       <item value="Constructs a new, empty hashtable with a default initial capacity (11)" />
       <item value="11" />
       <item value="an {@code int} value with a single one-bit, in the position * of the highest-order one-bit in the specified value, or zero if * the specified value is itself equal to zero." />
-      <item value="highest One Bit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="516" />
-        <entry key="ENGLISH" value="517" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="519" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
