@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="segment Mask" />
+      <item value="segment Shift" />
+      <item value="Find power-of-two sizes best matching arguments" />
+      <item value="nonvolatile; recheck (segments, (j &lt;&lt; SSHIFT) + SBASE)) == null) // in ensureSegment" />
+      <item value="Returns the segment for the given index, creating it and * recording in segment table (via CAS) if not already present." />
+      <item value="ensure Segment" />
+      <item value="Gets the jth element of given segment array (if nonnull) with * volatile element access semantics via Unsafe. (The null check * can trigger harmlessly only during deserialization.) Note: * because each element of segments array is set only once (using * fully ordered writes), some performance-sensitive methods rely * on this method only as a recheck upon null reads." />
+      <item value="segment At" />
+      <item value="available Processors" />
+      <item value="MAX SCAN RETRIES" />
+      <item value="Segments are specialized versions of hash tables. This * subclasses from ReentrantLock opportunistically, just to * simplify some locking and avoid separate construction." />
+      <item value="Spread bits to regularize both segment and index locations, // using variant of single-word Wang/Jenkins hash." />
+      <item value="Sets the ith element of given table, with volatile write * semantics. (See above about use of putOrderedObject.)" />
+      <item value="Gets the ith element of given table (if nonnull) with volatile * read semantics. Note: This is manually integrated into a few * performance-sensitive methods to reduce call overhead." />
+      <item value="threshold" />
+      <item value="Reentrant Lock" />
+      <item value="segments" />
+      <item value="The segments, each of which is a specialized hash table." />
+      <item value="Shift value for indexing within segments." />
+      <item value="Mask value for indexing into segments. The upper bits of a * key's hash code are used to choose the segment." />
+      <item value="positive" />
+      <item value="behaviour is &quot;ON&quot; or &quot;OFF&quot;." />
+      <item value="Use the &quot;threshold&quot; system property even though our threshold" />
       <item value="even" />
       <item value="dummy" />
       <item value="Dummy" />
@@ -14,7 +37,6 @@
       <item value="slightly conservative" />
       <item value="The maximum number of segments to allow; used to bound * constructor arguments. Must be power of two less than 1 &lt;&lt; 24." />
       <item value="SCAN" />
-      <item value="MAX SCAN RETRIES" />
       <item value="MAX SEGMENTS" />
       <item value="concurrency Level" />
       <item value="MIN SEGMENT TABLE CAPACITY" />
@@ -29,33 +51,11 @@
       <item value="The head of the doubly linked list." />
       <item value="Hash table and linked list implementation of the Map interface, with predictable iteration order. This implementation differs from HashMap in that it maintains a doubly-linked list running through all of its entries. This linked list defines the iteration ordering, which is normally the order in which keys were inserted into the map (insertion-order). Note that insertion order is not affected if a key is re-inserted into the map. (A key k is reinserted into a map m if m.put(k, v) is invoked when m.containsKey(k) would return true immediately prior to the invocation.)" />
       <item value="Comparator" />
-      <item value="Tree Map" />
-      <item value="comparator the comparator that will be used to order this map." />
-      <item value="insertion-order" />
-      <item value="access-order" />
-      <item value="Constructs an empty &lt;tt&gt;LinkedHashMap&lt;/tt&gt; instance with the * specified initial capacity, load factor and ordering mode." />
-      <item value="the ordering mode" />
-      <item value="the ordering mode - &lt;tt&gt;true&lt;/tt&gt; for" />
-      <item value="Dummy value to associate with an Object in the backing Map" />
-      <item value="ignored (distinguishes this * constructor from other int, float constructor.)" />
-      <item value="initial Capacity" />
-      <item value="Compares two keys using the correct comparison method for this TreeMap." />
-      <item value="funding Company Id" />
-      <item value="overrides of HashMap hook methods" />
-      <item value="Transfers all entries to new table array. This method is called * by superclass resize. It is overridden for performance, as it is * faster to iterate using our linked list." />
-      <item value="Rehash the table if the threshold is exceeded" />
-      <item value="overflow-conscious code" />
-      <item value="old Capacity" />
-      <item value="hashSeed will be zero if alternative hashing is disabled." />
-      <item value="0 x 7 FFFFFFF" />
-      <item value="Constructs a new, empty hashtable with a default initial capacity (11)" />
-      <item value="11" />
-      <item value="an {@code int} value with a single one-bit, in the position * of the highest-order one-bit in the specified value, or zero if * the specified value is itself equal to zero." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="543" />
+        <entry key="ENGLISH" value="544" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
