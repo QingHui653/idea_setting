@@ -2,7 +2,7 @@
   <component name="RemoteServers">
     <remote-server name="aml" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://freenat.club:14125" />
+        <option name="apiUrl" value="tcp://xingnian.xyz:14125" />
       </configuration>
     </remote-server>
     <remote-server name="103" type="docker">
