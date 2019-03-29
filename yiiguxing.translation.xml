@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Valid BST" />
       <item value="shutdown: going to close listening sockets..." />
       <item value="shutting down with code:62" />
       <item value="Access control is not enabled for the database." />
@@ -50,12 +51,11 @@
       <item value="nonvolatile; recheck (segments, (j &lt;&lt; SSHIFT) + SBASE)) == null) // in ensureSegment" />
       <item value="Returns the segment for the given index, creating it and * recording in segment table (via CAS) if not already present." />
       <item value="ensure Segment" />
-      <item value="Gets the jth element of given segment array (if nonnull) with * volatile element access semantics via Unsafe. (The null check * can trigger harmlessly only during deserialization.) Note: * because each element of segments array is set only once (using * fully ordered writes), some performance-sensitive methods rely * on this method only as a recheck upon null reads." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="588" />
-        <entry key="ENGLISH" value="589" />
+        <entry key="CHINESE" value="589" />
+        <entry key="ENGLISH" value="590" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
