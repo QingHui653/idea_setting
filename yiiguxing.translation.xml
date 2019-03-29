@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Looks at the object at the top of this stack without removing it * from the stack." />
+      <item value="Removes the object at the top of this stack and returns that * object as the value of this function." />
       <item value="Index nodes represent the levels of the skip list. Note that * even though both Nodes and Indexes have forward-pointing * fields, they have different types and are handled in different * ways, that can't nicely be captured by placing field in a * shared abstract class." />
       <item value="Creates and returns a new SimpleImmutableEntry holding current * mapping if this node holds a valid value, else null. * @return new entry or null" />
       <item value="create Snapshot" />
@@ -49,13 +51,11 @@
       <item value="Spread bits to regularize both segment and index locations, // using variant of single-word Wang/Jenkins hash." />
       <item value="Sets the ith element of given table, with volatile write * semantics. (See above about use of putOrderedObject.)" />
       <item value="Gets the ith element of given table (if nonnull) with volatile * read semantics. Note: This is manually integrated into a few * performance-sensitive methods to reduce call overhead." />
-      <item value="threshold" />
-      <item value="Reentrant Lock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="578" />
-        <entry key="ENGLISH" value="579" />
+        <entry key="CHINESE" value="580" />
+        <entry key="ENGLISH" value="581" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
