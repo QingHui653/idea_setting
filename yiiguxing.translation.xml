@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="purchaseOrders.saleMode != 6" />
       <item value="is Valid BST" />
       <item value="shutdown: going to close listening sockets..." />
       <item value="shutting down with code:62" />
@@ -50,12 +51,11 @@
       <item value="Find power-of-two sizes best matching arguments" />
       <item value="nonvolatile; recheck (segments, (j &lt;&lt; SSHIFT) + SBASE)) == null) // in ensureSegment" />
       <item value="Returns the segment for the given index, creating it and * recording in segment table (via CAS) if not already present." />
-      <item value="ensure Segment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="589" />
-        <entry key="ENGLISH" value="590" />
+        <entry key="CHINESE" value="590" />
+        <entry key="ENGLISH" value="591" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
