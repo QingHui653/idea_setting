@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delivery" />
       <item value="release Order DAO" />
       <item value="验货" />
       <item value="pre Payments Feedback" />
@@ -50,12 +51,11 @@
       <item value="A scalable concurrent {@link ConcurrentNavigableMap} implementation. * The map is sorted according to the {@linkplain Comparable natural * ordering} of its keys, or by a {@link Comparator} provided at map * creation time, depending on which constructor is used. * * &lt;p&gt;This class implements a concurrent variant of &lt;a * href=&quot;http://en.wikipedia.org/wiki/Skip_list&quot; target=&quot;_top&quot;&gt;SkipLists&lt;/a&gt; * providing expected average &lt;i&gt;log(n)&lt;/i&gt; time cost for the * &lt;tt&gt;containsKey&lt;/tt&gt;, &lt;tt&gt;get&lt;/tt&gt;, &lt;tt&gt;put&lt;/tt&gt; and * &lt;tt&gt;remove&lt;/tt&gt; operations and their variants. Insertion, removal, * update, and access operations safely execute concurrently by * multiple threads. Iterators are &lt;i&gt;weakly consistent&lt;/i&gt;, returning * elements reflecting the state of the map at some point at or since * the creation of the iterator. They do &lt;em&gt;not&lt;/em&gt; throw {@link * ConcurrentModificationException}, and may proceed concurrently with * other operations. Ascending key ordered views and their iterators * are faster than descending ones." />
       <item value="Doug Lea" />
       <item value="segment Mask" />
-      <item value="segment Shift" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="593" />
-        <entry key="ENGLISH" value="594" />
+        <entry key="CHINESE" value="594" />
+        <entry key="ENGLISH" value="595" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
