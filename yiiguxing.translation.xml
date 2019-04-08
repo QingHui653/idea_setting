@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An {@code AtomicMarkableReference} maintains an object reference * along with a mark bit, that can be updated atomically. * * &lt;p&gt;Implementation note: This implementation maintains markable * references by creating internal objects representing &quot;boxed&quot; * [reference, boolean] pairs." />
+      <item value="A {@code long} array in which elements may be updated atomically. * See the {@link java.util.concurrent.atomic} package specification * for description of the properties of atomic variables." />
+      <item value="A reflection-based utility that enables atomic updates to * designated {@code volatile int} fields of designated classes. * This class is designed for use in atomic data structures in which * several fields of the same node are independently subject to atomic * updates. * * &lt;p&gt;Note that the guarantees of the {@code compareAndSet} * method in this class are weaker than in other atomic classes. * Because this class cannot ensure that all uses of the field * are appropriate for purposes of atomic access, it can * guarantee atomicity only with respect to other invocations of * {@code compareAndSet} and {@code set} on the same updater." />
+      <item value="The type of the object holding the updatable field" />
+      <item value="Atomic Integer Field Updater" />
       <item value="random Level" />
       <item value="Insertion" />
       <item value="Returns a base-level node with key strictly less than given key, * or the base-level header if there is no such node. Also * unlinks indexes to deleted nodes found along the way. Callers * rely on this side-effect of clearing indices to deleted nodes." />
@@ -46,16 +51,11 @@
       <item value="Lazily initialized key set" />
       <item value="Seed for simple random number generator. Not volatile since it * doesn't matter too much if different threads don't see updates." />
       <item value="The comparator used to maintain order in this map, or null * if using natural ordering." />
-      <item value="The topmost head index of the skiplist." />
-      <item value="Special value used to identify base-level header" />
-      <item value="BASE HEADER" />
-      <item value="Generates the initial random seed for the cheaper per-instance * random number generators used in randomLevel." />
-      <item value="Generator " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="611" />
-        <entry key="ENGLISH" value="612" />
+        <entry key="CHINESE" value="616" />
+        <entry key="ENGLISH" value="617" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
