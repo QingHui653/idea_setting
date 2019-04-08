@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="random Level" />
+      <item value="Insertion" />
+      <item value="Returns a base-level node with key strictly less than given key, * or the base-level header if there is no such node. Also * unlinks indexes to deleted nodes found along the way. Callers * rely on this side-effect of clearing indices to deleted nodes." />
+      <item value="reread" />
+      <item value="restart" />
+      <item value="natural ordering" />
+      <item value="{@linkplain Comparable natural ordering} of the keys." />
+      <item value="Constructs a new, empty map, sorted according to the" />
       <item value="get Next Month Start Date" />
       <item value="get Month Start Date" />
       <item value="Returns the index within this string of the first occurrence of the * specified substring. * * &lt;p&gt;The returned index is the smallest value &lt;i&gt;k&lt;/i&gt; for which: * &lt;blockquote&gt;&lt;pre&gt; * this.startsWith(str, &lt;i&gt;k&lt;/i&gt;) * &lt;/pre&gt;&lt;/blockquote&gt; * If no such value of &lt;i&gt;k&lt;/i&gt; exists, then {@code -1} is returned." />
@@ -43,19 +51,11 @@
       <item value="BASE HEADER" />
       <item value="Generates the initial random seed for the cheaper per-instance * random number generators used in randomLevel." />
       <item value="Generator " />
-      <item value="seed Generator" />
-      <item value="This class implements a tree-like two-dimensionally linked skip * list in which the index levels are represented in separate * nodes from the base nodes holding data. There are two reasons * for taking this approach instead of the usual array-based * structure: 1) Array based implementations seem to encounter * more complexity and overhead 2) We can use cheaper algorithms * for the heavily-traversed index lists than can be used for the * base lists. Here's a picture of some of the basics for a * possible list with 2 levels of index:" />
-      <item value="navigable" />
-      <item value="descending" />
-      <item value="tail" />
-      <item value="&lt;p&gt;This interface is a member of the * &lt;a href=&quot;{@docRoot}/../technotes/guides/collections/index.html&quot;&gt; * Java Collections Framework&lt;/a&gt;." />
-      <item value="A {@link ConcurrentMap} supporting {@link NavigableMap} operations, * and recursively so for its navigable sub-maps." />
-      <item value="Navigable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="601" />
-        <entry key="ENGLISH" value="602" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="612" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
