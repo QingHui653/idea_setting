@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SqlSessionFactory must be using a SpringManagedTransactionFactory in order to use Spring transaction synchronization" />
+      <item value="Connection timed out: connect" />
+      <item value="The driver has not received any packets from the server." />
       <item value="Eureka Client Application Client" />
       <item value="Spring Application Builder" />
       <item value="Spring Application" />
@@ -48,14 +51,11 @@
       <item value="Returns true if this node is a marker. This method isn't * actually called in any current code checking for markers * because callers will have already read value field and need * to use that read (not another done here) and so directly * test if value points to node." />
       <item value="is Marker" />
       <item value="compareAndSet head node" />
-      <item value="Initializes or resets state. Needed by constructors, clone, * clear, readObject. and ConcurrentSkipListSet.clone. * (Note that comparator must be separately initialized.)" />
-      <item value="azily initialized descending key set" />
-      <item value="Lazily initialized descending key set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="625" />
-        <entry key="ENGLISH" value="626" />
+        <entry key="CHINESE" value="628" />
+        <entry key="ENGLISH" value="629" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
