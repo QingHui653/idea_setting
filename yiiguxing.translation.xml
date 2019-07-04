@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Obsolete" />
+      <item value="init" />
+      <item value="stock In" />
+      <item value="stock Out" />
+      <item value="allocate" />
+      <item value="batch Upsert Finance Flow" />
+      <item value="zhouliang" />
+      <item value="Creates a {@code CallerRunsPolicy}." />
+      <item value="threadFactory the factory to use when the executor * creates a new thread" />
+      <item value="handler the handler to use when execution is blocked * because the thread bounds and queue capacities are reached" />
+      <item value="Rejected Execution Handler" />
+      <item value="work Queue" />
       <item value="is From 6" />
       <item value="SYS FLAG OF_6" />
       <item value="is Draft" />
@@ -10,7 +22,6 @@
       <item value="stock Order Info Msg" />
       <item value="Ratio" />
       <item value="nit 3 Ratio" />
-      <item value="is Obsolete" />
       <item value=" process" />
       <item value="OrderInfoConsumer consumeThreadMin was change to" />
       <item value="The PostConstruct annotation is used on a method that needs to be executed after dependency injection is done to perform any initialization. This method MUST be invoked before the class is put into service. This annotation MUST be supported on all classes that support dependency injection. The method annotated with PostConstruct MUST be invoked even if the class does not request any resources to be injected. Only one method can be annotated with this annotation. The method on which the PostConstruct annotation is applied MUST fulfill all of the following criteria:&#10;The method MUST NOT have any parameters except in the case of interceptors in which case it takes an InvocationContext object as defined by the Interceptors specification.&#10;The method defined on an interceptor class MUST HAVE one of the following signatures:&#10;void &lt;METHOD&gt;(InvocationContext)&#10;Object &lt;METHOD&gt;(InvocationContext) throws Exception&#10;Note: A PostConstruct interceptor method must not throw application exceptions, but it may be declared to throw checked exceptions including the java.lang.Exception if the same interceptor method interposes on business or timeout methods in addition to lifecycle events. If a PostConstruct interceptor method returns a value, it is ignored by the container.&#10;The method defined on a non-interceptor class MUST HAVE the following signature:&#10;void &lt;METHOD&gt;()&#10;The method on which PostConstruct is applied MAY be public, protected, package private or private.&#10;The method MUST NOT be static except for the application client.&#10;The method MAY be final.&#10;If the method throws an unchecked exception the class MUST NOT be put into service except in the case of EJBs where the EJB can handle exceptions and even recover from them." />
@@ -40,22 +51,11 @@
       <item value="Eureka Client Application Client" />
       <item value="Spring Application Builder" />
       <item value="Spring Application" />
-      <item value="TODO: is it possible or sensible to share a ResourceLoader?" />
-      <item value="Flag to explicitly request a web or non-web environment (auto detected based on * classpath if not set)." />
-      <item value="An {@code AtomicMarkableReference} maintains an object reference * along with a mark bit, that can be updated atomically. * * &lt;p&gt;Implementation note: This implementation maintains markable * references by creating internal objects representing &quot;boxed&quot; * [reference, boolean] pairs." />
-      <item value="A {@code long} array in which elements may be updated atomically. * See the {@link java.util.concurrent.atomic} package specification * for description of the properties of atomic variables." />
-      <item value="A reflection-based utility that enables atomic updates to * designated {@code volatile int} fields of designated classes. * This class is designed for use in atomic data structures in which * several fields of the same node are independently subject to atomic * updates. * * &lt;p&gt;Note that the guarantees of the {@code compareAndSet} * method in this class are weaker than in other atomic classes. * Because this class cannot ensure that all uses of the field * are appropriate for purposes of atomic access, it can * guarantee atomicity only with respect to other invocations of * {@code compareAndSet} and {@code set} on the same updater." />
-      <item value="The type of the object holding the updatable field" />
-      <item value="Atomic Integer Field Updater" />
-      <item value="random Level" />
-      <item value="Insertion" />
-      <item value="Returns a base-level node with key strictly less than given key, * or the base-level header if there is no such node. Also * unlinks indexes to deleted nodes found along the way. Callers * rely on this side-effect of clearing indices to deleted nodes." />
-      <item value="reread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="665" />
-        <entry key="ENGLISH" value="666" />
+        <entry key="CHINESE" value="679" />
+        <entry key="ENGLISH" value="680" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
