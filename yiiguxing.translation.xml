@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consider revisiting the entries above or defining a bean of type 'org.springframework.cloud.consul.discovery.TtlScheduler' in your configuration." />
+      <item value="Parameter 2 of constructor in com.kp.server.lib.core.config.KpConsulServiceRegistry required a bean of type 'org.springframework.cloud.consul.discovery.TtlScheduler' that could not be found." />
+      <item value="APPLICATION FAILED TO START" />
+      <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
+      <item value="This is very likely to create a memory leak. Stack trace of thread:" />
       <item value="No URLs will be polled as dynamic configuration sources." />
       <item value="Located meta server address http://192.168.8.12:18080 for env UNKNOWN from com.ctrip.framework.apollo.internals.DefaultMetaServerProvider" />
       <item value="Could not load config for namespace application from Apollo, please check whether the configs are released in Apollo! Return default value now!" />
@@ -46,16 +51,11 @@
       <item value="Using the XFS filesystem is strongly recommended with the WiredTiger storage engine" />
       <item value="stash" />
       <item value="stack" />
-      <item value="peek" />
-      <item value="Looks at the object at the top of this stack without removing it * from the stack." />
-      <item value="Removes the object at the top of this stack and returns that * object as the value of this function." />
-      <item value="Index nodes represent the levels of the skip list. Note that * even though both Nodes and Indexes have forward-pointing * fields, they have different types and are handled in different * ways, that can't nicely be captured by placing field in a * shared abstract class." />
-      <item value="Creates and returns a new SimpleImmutableEntry holding current * mapping if this node holds a valid value, else null. * @return new entry or null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="635" />
-        <entry key="ENGLISH" value="636" />
+        <entry key="CHINESE" value="641" />
+        <entry key="ENGLISH" value="642" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
