@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The PostConstruct annotation is used on a method that needs to be executed after dependency injection is done to perform any initialization. This method MUST be invoked before the class is put into service. This annotation MUST be supported on all classes that support dependency injection. The method annotated with PostConstruct MUST be invoked even if the class does not request any resources to be injected. Only one method can be annotated with this annotation. The method on which the PostConstruct annotation is applied MUST fulfill all of the following criteria:&#10;The method MUST NOT have any parameters except in the case of interceptors in which case it takes an InvocationContext object as defined by the Interceptors specification.&#10;The method defined on an interceptor class MUST HAVE one of the following signatures:&#10;void &lt;METHOD&gt;(InvocationContext)&#10;Object &lt;METHOD&gt;(InvocationContext) throws Exception&#10;Note: A PostConstruct interceptor method must not throw application exceptions, but it may be declared to throw checked exceptions including the java.lang.Exception if the same interceptor method interposes on business or timeout methods in addition to lifecycle events. If a PostConstruct interceptor method returns a value, it is ignored by the container.&#10;The method defined on a non-interceptor class MUST HAVE the following signature:&#10;void &lt;METHOD&gt;()&#10;The method on which PostConstruct is applied MAY be public, protected, package private or private.&#10;The method MUST NOT be static except for the application client.&#10;The method MAY be final.&#10;If the method throws an unchecked exception the class MUST NOT be put into service except in the case of EJBs where the EJB can handle exceptions and even recover from them." />
+      <item value="Change Sku Stock Info Consumer" />
+      <item value="Balance Finance" />
+      <item value="ljy 2019/5/28" />
+      <item value="ljy" />
+      <item value="preserve" />
+      <item value="is Obsolete" />
+      <item value="is Ex Warehouse" />
       <item value="prohibited by Gerrit: ref update access denied" />
       <item value="(prohibited by Gerrit: ref update access denied)" />
       <item value="Consider revisiting the entries above or defining a bean of type 'org.springframework.cloud.consul.discovery.TtlScheduler' in your configuration." />
@@ -43,25 +51,18 @@
       <item value="command Order" />
       <item value="Delivery" />
       <item value="release Order DAO" />
-      <item value="验货" />
-      <item value="pre Payments Feedback" />
-      <item value="purchaseOrders.saleMode != 6" />
-      <item value="is Valid BST" />
-      <item value="shutdown: going to close listening sockets..." />
-      <item value="shutting down with code:62" />
-      <item value="Access control is not enabled for the database." />
-      <item value="Using the XFS filesystem is strongly recommended with the WiredTiger storage engine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="643" />
-        <entry key="ENGLISH" value="644" />
+        <entry key="CHINESE" value="649" />
+        <entry key="ENGLISH" value="649" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="MALAGASY" value="2" />
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVAK" value="2" />
         <entry key="WELSH" value="1" />
