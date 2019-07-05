@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SET WITH EXPIRE TIME" />
+      <item value="SET IF NOT EXIST" />
       <item value="Batch Upsert Sku Stock Flow" />
       <item value="bulk Upsert Sku Stock Flow" />
       <item value="negate" />
@@ -49,13 +51,11 @@
       <item value="Change Sku Stock Info Consumer" />
       <item value="Balance Finance" />
       <item value="ljy 2019/5/28" />
-      <item value="ljy" />
-      <item value="preserve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="699" />
-        <entry key="ENGLISH" value="700" />
+        <entry key="CHINESE" value="701" />
+        <entry key="ENGLISH" value="702" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
