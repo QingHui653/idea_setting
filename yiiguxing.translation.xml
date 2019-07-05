@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stock Order" />
+      <item value="DEFAULT" />
+      <item value="COMPLETE" />
+      <item value="OBSOLETE" />
       <item value="is Obsolete" />
       <item value="init" />
       <item value="stock In" />
@@ -47,15 +51,11 @@
       <item value="Located meta services from apollo.meta configuration: http://192.168.3.31:9080!" />
       <item value="SqlSessionFactory must be using a SpringManagedTransactionFactory in order to use Spring transaction synchronization" />
       <item value="Connection timed out: connect" />
-      <item value="The driver has not received any packets from the server." />
-      <item value="Eureka Client Application Client" />
-      <item value="Spring Application Builder" />
-      <item value="Spring Application" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="679" />
-        <entry key="ENGLISH" value="680" />
+        <entry key="CHINESE" value="683" />
+        <entry key="ENGLISH" value="684" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
