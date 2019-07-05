@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multiplicand value to be multiplied by this {@code BigDecimal}. *" />
+      <item value="Instructs the JMS provider to log the message to stable storage as part of the * client's send operation." />
+      <item value="Does not require that the message be logged to stable storage. This is the * lowest-overhead delivery mode but can lead to lost of message if the broker * goes down." />
+      <item value="NON PERSISTENT" />
       <item value="Stock Order" />
       <item value="DEFAULT" />
       <item value="COMPLETE" />
@@ -47,15 +51,11 @@
       <item value="Could not load config for namespace application from Apollo, please check whether the configs are released in Apollo! Return default value now!" />
       <item value="[2019-07-04 12:30:52,746] [kp-server-flow] [WARN ]:[main] Could not load config for namespace application from Apollo, please check whether the configs are released in Apollo! Return default value now!" />
       <item value=", please check whether the configs are released in Apollo! Return default value now!" />
-      <item value="[Cause: Could not complete get operation [Cause: connect timed out]]" />
-      <item value="Located meta services from apollo.meta configuration: http://192.168.3.31:9080!" />
-      <item value="SqlSessionFactory must be using a SpringManagedTransactionFactory in order to use Spring transaction synchronization" />
-      <item value="Connection timed out: connect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="683" />
-        <entry key="ENGLISH" value="684" />
+        <entry key="CHINESE" value="687" />
+        <entry key="ENGLISH" value="688" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
