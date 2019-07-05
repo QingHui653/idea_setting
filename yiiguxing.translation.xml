@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="period" />
+      <item value="max Period" />
+      <item value="max Attempts" />
+      <item value="3" />
+      <item value="INSTANCE" />
       <item value=" Mini Program" />
       <item value="multiplicand value to be multiplied by this {@code BigDecimal}. *" />
       <item value="Instructs the JMS provider to log the message to stable storage as part of the * client's send operation." />
@@ -46,16 +51,11 @@
       <item value="Parameter 2 of constructor in com.kp.server.lib.core.config.KpConsulServiceRegistry required a bean of type 'org.springframework.cloud.consul.discovery.TtlScheduler' that could not be found." />
       <item value="APPLICATION FAILED TO START" />
       <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
-      <item value="This is very likely to create a memory leak. Stack trace of thread:" />
-      <item value="No URLs will be polled as dynamic configuration sources." />
-      <item value="Located meta server address http://192.168.8.12:18080 for env UNKNOWN from com.ctrip.framework.apollo.internals.DefaultMetaServerProvider" />
-      <item value="Could not load config for namespace application from Apollo, please check whether the configs are released in Apollo! Return default value now!" />
-      <item value="[2019-07-04 12:30:52,746] [kp-server-flow] [WARN ]:[main] Could not load config for namespace application from Apollo, please check whether the configs are released in Apollo! Return default value now!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="688" />
-        <entry key="ENGLISH" value="688" />
+        <entry key="CHINESE" value="691" />
+        <entry key="ENGLISH" value="692" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
