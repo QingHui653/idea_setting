@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Mini Program" />
       <item value="multiplicand value to be multiplied by this {@code BigDecimal}. *" />
       <item value="Instructs the JMS provider to log the message to stable storage as part of the * client's send operation." />
       <item value="Does not require that the message be logged to stable storage. This is the * lowest-overhead delivery mode but can lead to lost of message if the broker * goes down." />
@@ -50,11 +51,10 @@
       <item value="Located meta server address http://192.168.8.12:18080 for env UNKNOWN from com.ctrip.framework.apollo.internals.DefaultMetaServerProvider" />
       <item value="Could not load config for namespace application from Apollo, please check whether the configs are released in Apollo! Return default value now!" />
       <item value="[2019-07-04 12:30:52,746] [kp-server-flow] [WARN ]:[main] Could not load config for namespace application from Apollo, please check whether the configs are released in Apollo! Return default value now!" />
-      <item value=", please check whether the configs are released in Apollo! Return default value now!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
+        <entry key="CHINESE" value="688" />
         <entry key="ENGLISH" value="688" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
@@ -63,6 +63,7 @@
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAGASY" value="2" />
+        <entry key="MALAY" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVAK" value="2" />
         <entry key="WELSH" value="1" />
