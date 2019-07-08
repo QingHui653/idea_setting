@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pull" />
+      <item value="pull Threshold For Queue" />
+      <item value="set Pull Threshold For Queue" />
+      <item value="Returns a BigDecimal whose value is (-this), and whose scale is this.scale()." />
       <item value="Returns a {@code BigDecimal} whose value is {@code (-this)}, * and whose scale is {@code this.scale()}." />
       <item value="negate" />
       <item value="INFLATED" />
@@ -47,15 +51,11 @@
       <item value="is Draft" />
       <item value="completed" />
       <item value="Stock Order Info Consumer" />
-      <item value="msg Body Str" />
-      <item value="stock Order Info Msg" />
-      <item value="Ratio" />
-      <item value="nit 3 Ratio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="708" />
-        <entry key="ENGLISH" value="709" />
+        <entry key="CHINESE" value="711" />
+        <entry key="ENGLISH" value="712" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
