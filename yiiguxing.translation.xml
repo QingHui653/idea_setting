@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Internal" />
       <item value="query Sale Order Product Count" />
       <item value="SET WITH EXPIRE TIME" />
       <item value="SET IF NOT EXIST" />
@@ -50,7 +51,6 @@
       <item value="OrderInfoConsumer consumeThreadMin was change to" />
       <item value="The PostConstruct annotation is used on a method that needs to be executed after dependency injection is done to perform any initialization. This method MUST be invoked before the class is put into service. This annotation MUST be supported on all classes that support dependency injection. The method annotated with PostConstruct MUST be invoked even if the class does not request any resources to be injected. Only one method can be annotated with this annotation. The method on which the PostConstruct annotation is applied MUST fulfill all of the following criteria:&#10;The method MUST NOT have any parameters except in the case of interceptors in which case it takes an InvocationContext object as defined by the Interceptors specification.&#10;The method defined on an interceptor class MUST HAVE one of the following signatures:&#10;void &lt;METHOD&gt;(InvocationContext)&#10;Object &lt;METHOD&gt;(InvocationContext) throws Exception&#10;Note: A PostConstruct interceptor method must not throw application exceptions, but it may be declared to throw checked exceptions including the java.lang.Exception if the same interceptor method interposes on business or timeout methods in addition to lifecycle events. If a PostConstruct interceptor method returns a value, it is ignored by the container.&#10;The method defined on a non-interceptor class MUST HAVE the following signature:&#10;void &lt;METHOD&gt;()&#10;The method on which PostConstruct is applied MAY be public, protected, package private or private.&#10;The method MUST NOT be static except for the application client.&#10;The method MAY be final.&#10;If the method throws an unchecked exception the class MUST NOT be put into service except in the case of EJBs where the EJB can handle exceptions and even recover from them." />
       <item value="Change Sku Stock Info Consumer" />
-      <item value="Balance Finance" />
     </histories>
     <option name="languageScores">
       <map>
