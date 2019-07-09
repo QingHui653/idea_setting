@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can't find a codec for class com.kp.server.lib.core.entity.flow.SkuStockFlowEntity." />
       <item value="the expression type" />
       <item value="remote: Processing changes: refs: 1" />
       <item value="pull" />
@@ -50,12 +51,11 @@
       <item value="work Queue" />
       <item value="is From 6" />
       <item value="SYS FLAG OF_6" />
-      <item value="is Draft" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="713" />
-        <entry key="ENGLISH" value="714" />
+        <entry key="CHINESE" value="714" />
+        <entry key="ENGLISH" value="715" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
