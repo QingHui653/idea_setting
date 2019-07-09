@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the expression type" />
       <item value="remote: Processing changes: refs: 1" />
       <item value="pull" />
       <item value="pull Threshold For Queue" />
@@ -50,12 +51,11 @@
       <item value="is From 6" />
       <item value="SYS FLAG OF_6" />
       <item value="is Draft" />
-      <item value="completed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="711" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="CHINESE" value="713" />
+        <entry key="ENGLISH" value="714" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
