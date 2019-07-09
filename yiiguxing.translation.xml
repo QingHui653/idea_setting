@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Create a new MongoDatabase instance with a different codec registry." />
       <item value="Can't find a codec for class com.kp.server.lib.core.entity.flow.SkuStockFlowEntity." />
       <item value="the expression type" />
       <item value="remote: Processing changes: refs: 1" />
@@ -50,12 +51,11 @@
       <item value="Rejected Execution Handler" />
       <item value="work Queue" />
       <item value="is From 6" />
-      <item value="SYS FLAG OF_6" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="714" />
-        <entry key="ENGLISH" value="715" />
+        <entry key="CHINESE" value="715" />
+        <entry key="ENGLISH" value="716" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
