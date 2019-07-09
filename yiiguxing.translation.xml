@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ATTR KEY SORT ASC" />
+      <item value="SET KEY WORD CONSTANTS" />
+      <item value="Sentinel Resource Name" />
+      <item value="jinhaoxun" />
       <item value="Create a new MongoDatabase instance with a different codec registry." />
       <item value="Can't find a codec for class com.kp.server.lib.core.entity.flow.SkuStockFlowEntity." />
       <item value="the expression type" />
@@ -47,15 +51,11 @@
       <item value="zhouliang" />
       <item value="Creates a {@code CallerRunsPolicy}." />
       <item value="threadFactory the factory to use when the executor * creates a new thread" />
-      <item value="handler the handler to use when execution is blocked * because the thread bounds and queue capacities are reached" />
-      <item value="Rejected Execution Handler" />
-      <item value="work Queue" />
-      <item value="is From 6" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="715" />
-        <entry key="ENGLISH" value="716" />
+        <entry key="CHINESE" value="718" />
+        <entry key="ENGLISH" value="719" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
