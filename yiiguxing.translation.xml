@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A programmer assertion that the body of the annotated method or constructor does not perform potentially unsafe operations on its varargs parameter. Applying this annotation to a method or constructor suppresses unchecked warnings about a non-reifiable variable arity (vararg) type and suppresses unchecked warnings about parameterized array creation at call sites.&#10;In addition to the usage restrictions imposed by its @Target meta-annotation, compilers are required to implement additional usage restrictions on this annotation type; it is a compile-time error if a method or constructor declaration is annotated with a @SafeVarargs annotation, and either:" />
+      <item value="Safe Varargs" />
       <item value="subtract" />
       <item value="change Stock" />
       <item value="error Limit" />
@@ -49,13 +51,11 @@
       <item value="max Period" />
       <item value="max Attempts" />
       <item value="3" />
-      <item value="INSTANCE" />
-      <item value=" Mini Program" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="732" />
-        <entry key="ENGLISH" value="733" />
+        <entry key="CHINESE" value="734" />
+        <entry key="ENGLISH" value="734" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
