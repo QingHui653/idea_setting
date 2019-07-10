@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="error Limit" />
       <item value="delivery Stock" />
       <item value="stock In" />
       <item value="fix Stock" />
@@ -50,12 +51,11 @@
       <item value=" Mini Program" />
       <item value="multiplicand value to be multiplied by this {@code BigDecimal}. *" />
       <item value="Instructs the JMS provider to log the message to stable storage as part of the * client's send operation." />
-      <item value="Does not require that the message be logged to stable storage. This is the * lowest-overhead delivery mode but can lead to lost of message if the broker * goes down." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="729" />
-        <entry key="ENGLISH" value="730" />
+        <entry key="CHINESE" value="730" />
+        <entry key="ENGLISH" value="731" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
