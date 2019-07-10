@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NF Load Balancer Rule Class Name" />
+      <item value="ignored-patterns" />
+      <item value="Chenyaoming" />
       <item value="256" />
       <item value="if redis.call('get', KEYS[1]) == ARGV[1] then return redis.call('del', KEYS[1]) else return 0 end" />
       <item value="ATTR KEY SORT ASC" />
@@ -48,14 +51,11 @@
       <item value="init" />
       <item value="stock In" />
       <item value="stock Out" />
-      <item value="allocate" />
-      <item value="batch Upsert Finance Flow" />
-      <item value="zhouliang" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="719" />
-        <entry key="ENGLISH" value="720" />
+        <entry key="CHINESE" value="721" />
+        <entry key="ENGLISH" value="722" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
