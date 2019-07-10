@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delivery Stock" />
+      <item value="stock In" />
+      <item value="fix Stock" />
+      <item value="期中变化：所有变化累加" />
       <item value="build Sku Stats" />
       <item value="Retains only the elements in this list that are contained in the * specified collection (optional operation). In other words, removes * from this list all of its elements that are not contained in the * specified collection." />
       <item value="A custom Codec or PojoCodec may need to be explicitly configured and registered to handle this type.]" />
@@ -47,15 +51,11 @@
       <item value="multiplicand value to be multiplied by this {@code BigDecimal}. *" />
       <item value="Instructs the JMS provider to log the message to stable storage as part of the * client's send operation." />
       <item value="Does not require that the message be logged to stable storage. This is the * lowest-overhead delivery mode but can lead to lost of message if the broker * goes down." />
-      <item value="NON PERSISTENT" />
-      <item value="Stock Order" />
-      <item value="DEFAULT" />
-      <item value="COMPLETE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="726" />
-        <entry key="ENGLISH" value="727" />
+        <entry key="CHINESE" value="729" />
+        <entry key="ENGLISH" value="730" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
