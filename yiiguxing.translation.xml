@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subtract" />
       <item value="change Stock" />
       <item value="error Limit" />
       <item value="delivery Stock" />
@@ -50,12 +51,11 @@
       <item value="3" />
       <item value="INSTANCE" />
       <item value=" Mini Program" />
-      <item value="multiplicand value to be multiplied by this {@code BigDecimal}. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="731" />
-        <entry key="ENGLISH" value="732" />
+        <entry key="CHINESE" value="732" />
+        <entry key="ENGLISH" value="733" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
