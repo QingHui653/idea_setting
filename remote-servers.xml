@@ -1,13 +1,13 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="mini" type="docker">
+    <remote-server name="centos 143" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://usla.waiwang.men:44125" />
       </configuration>
     </remote-server>
-    <remote-server name="centos" type="docker">
+    <remote-server name="n1 183" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://usla.waiwang.men:44115" />
+        <option name="apiUrl" value="tcp://usla.waiwang.men:44135" />
       </configuration>
     </remote-server>
   </component>
