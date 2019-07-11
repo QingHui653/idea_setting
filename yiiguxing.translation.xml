@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="electric" />
+      <item value="electric bill" />
+      <item value="stationery" />
+      <item value="template electric bill" />
       <item value="Corporation Print" />
       <item value="init Corporation Print Template" />
       <item value="distinct" />
@@ -47,15 +51,11 @@
       <item value="SET WITH EXPIRE TIME" />
       <item value="SET IF NOT EXIST" />
       <item value="Batch Upsert Sku Stock Flow" />
-      <item value="bulk Upsert Sku Stock Flow" />
-      <item value="multiply" />
-      <item value="Path prefix to be used by all method-level mappings. Can be used with or without" />
-      <item value="No active profile set, falling back to default profiles: default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="738" />
-        <entry key="ENGLISH" value="739" />
+        <entry key="CHINESE" value="742" />
+        <entry key="ENGLISH" value="743" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
