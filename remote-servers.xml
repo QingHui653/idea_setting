@@ -2,12 +2,12 @@
   <component name="RemoteServers">
     <remote-server name="mini" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://frp1.chuantou.org:54125" />
+        <option name="apiUrl" value="tcp://usla.waiwang.men:44125" />
       </configuration>
     </remote-server>
     <remote-server name="centos" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://frp1.chuantou.org:54115" />
+        <option name="apiUrl" value="tcp://usla.waiwang.men:44115" />
       </configuration>
     </remote-server>
   </component>
