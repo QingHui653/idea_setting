@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distinct" />
       <item value="Cloud Store" />
       <item value="get Print Template List By Type" />
       <item value="A programmer assertion that the body of the annotated method or constructor does not perform potentially unsafe operations on its varargs parameter. Applying this annotation to a method or constructor suppresses unchecked warnings about a non-reifiable variable arity (vararg) type and suppresses unchecked warnings about parameterized array creation at call sites.&#10;In addition to the usage restrictions imposed by its @Target meta-annotation, compilers are required to implement additional usage restrictions on this annotation type; it is a compile-time error if a method or constructor declaration is annotated with a @SafeVarargs annotation, and either:" />
@@ -50,12 +51,11 @@
       <item value="No active profile set, falling back to default profiles: default" />
       <item value="Computed heartbeatInterval: PT20S" />
       <item value="period" />
-      <item value="max Period" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="735" />
-        <entry key="ENGLISH" value="736" />
+        <entry key="CHINESE" value="736" />
+        <entry key="ENGLISH" value="737" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
