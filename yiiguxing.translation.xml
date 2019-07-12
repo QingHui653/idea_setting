@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns an immutable list containing only the specified object. * The returned list is serializable. * * @param &lt;T&gt; the class of the objects in the list * @param o the sole object to be stored in the returned list. * @return an immutable list containing only the specified object. * @since 1.3" />
+      <item value="singleton List" />
       <item value="If true, the ServiceRegistry will automatically register the local server." />
       <item value="If true, the ServiceRegistry will automatically register the local server. */" />
       <item value="electric" />
@@ -49,13 +51,11 @@
       <item value="should Deliver Quantity" />
       <item value="product Count" />
       <item value="Internal" />
-      <item value="query Sale Order Product Count" />
-      <item value="SET WITH EXPIRE TIME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="744" />
-        <entry key="ENGLISH" value="745" />
+        <entry key="CHINESE" value="746" />
+        <entry key="ENGLISH" value="747" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
