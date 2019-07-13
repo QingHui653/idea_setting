@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No route info of this topic, ts-topic" />
       <item value="total Changerage" />
       <item value="total Shortage" />
       <item value="total Overage" />
@@ -50,12 +51,11 @@
       <item value="if redis.call('get', KEYS[1]) == ARGV[1] then return redis.call('del', KEYS[1]) else return 0 end" />
       <item value="ATTR KEY SORT ASC" />
       <item value="SET KEY WORD CONSTANTS" />
-      <item value="Sentinel Resource Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="761" />
-        <entry key="ENGLISH" value="762" />
+        <entry key="CHINESE" value="762" />
+        <entry key="ENGLISH" value="763" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
