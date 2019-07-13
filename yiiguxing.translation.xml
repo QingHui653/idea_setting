@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="High-level metadata for a Swagger definition - see" />
+      <item value="igh-level metadata for a Swagger definition - see" />
+      <item value="License metadata available within the info section of a Swagger definition, see" />
+      <item value="https://github.com/OAI/Open API-Specification/blob/master/versions/2.0.md#license Object" />
+      <item value="Describes an operation or typically a HTTP method against a specific path. * &lt;p&gt; * Operations with equivalent paths are grouped in a single Operation Object. * A combination of a HTTP method and a path creates a unique operation." />
+      <item value="the protocols supported by the operations under the resource." />
+      <item value="Sets specific protocols (schemes) for the operations under this resource. * &lt;p&gt; * Comma-separated values of the available protocols. Possible values: http, https, ws, wss." />
+      <item value="the consumes value, or empty string if not set" />
+      <item value="consumes" />
+      <item value="the supported media types supported by the server, or an empty string if not set." />
+      <item value="orresponds to the `produces` field of the operations under this resource. * &lt;p&gt; * Takes in comma-separated values of content types. * For example, &quot;application/json, application/xml&quot; would suggest the operations * generate JSON and XML output. * &lt;p&gt; * For JAX-RS resources, this would automatically take the value of the {@code @Produces} * annotation if such exists. It can also be used to override the {@code @Produces} values * for the Swagger documentation." />
+      <item value="Marks a class as a Swagger resource. * &lt;p&gt; * By default, Swagger-Core will only include and introspect only classes that are annotated * with {@code @Api} and will ignore other resources (JAX-RS endpoints, Servlets and * so on)." />
+      <item value="Not used in 1.5.X, kept for legacy support. *" />
+      <item value="Not used in 1.5.X, kept for legacy support." />
+      <item value="a longer description about this API, no longer used." />
+      <item value="assembly Product Unit Price Barcode" />
+      <item value="Product Unit Entity" />
+      <item value="add Category Item" />
+      <item value="Product Category Entity" />
+      <item value="* A handler for rejected tasks that runs the rejected task * directly in the calling thread of the {@code execute} method, * unless the executor has been shut down, in which case the task * is discarded." />
+      <item value="Inventory Transfers Req" />
       <item value="Draft" />
       <item value="the class where the block handler exists, should not provide more than one classes" />
       <item value="name of the fallback function, empty by default" />
@@ -30,32 +51,11 @@
       <item value="stationery" />
       <item value="template electric bill" />
       <item value="Corporation Print" />
-      <item value="init Corporation Print Template" />
-      <item value="distinct" />
-      <item value="Cloud Store" />
-      <item value="get Print Template List By Type" />
-      <item value="A programmer assertion that the body of the annotated method or constructor does not perform potentially unsafe operations on its varargs parameter. Applying this annotation to a method or constructor suppresses unchecked warnings about a non-reifiable variable arity (vararg) type and suppresses unchecked warnings about parameterized array creation at call sites.&#10;In addition to the usage restrictions imposed by its @Target meta-annotation, compilers are required to implement additional usage restrictions on this annotation type; it is a compile-time error if a method or constructor declaration is annotated with a @SafeVarargs annotation, and either:" />
-      <item value="Safe Varargs" />
-      <item value="subtract" />
-      <item value="change Stock" />
-      <item value="error Limit" />
-      <item value="delivery Stock" />
-      <item value="stock In" />
-      <item value="fix Stock" />
-      <item value="期中变化：所有变化累加" />
-      <item value="build Sku Stats" />
-      <item value="Retains only the elements in this list that are contained in the * specified collection (optional operation). In other words, removes * from this list all of its elements that are not contained in the * specified collection." />
-      <item value="A custom Codec or PojoCodec may need to be explicitly configured and registered to handle this type.]" />
-      <item value="Failed to decode '_id'. readString can only be called when CurrentBSONType is STRING, not when CurrentBSONType is OBJECT_ID." />
-      <item value="category Ids" />
-      <item value="NF Load Balancer Rule Class Name" />
-      <item value="ignored-patterns" />
-      <item value="Chenyaoming" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="767" />
-        <entry key="ENGLISH" value="768" />
+        <entry key="CHINESE" value="789" />
+        <entry key="ENGLISH" value="790" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
