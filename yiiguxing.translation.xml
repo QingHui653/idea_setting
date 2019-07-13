@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Total Income" />
       <item value="No route info of this topic, ts-topic" />
       <item value="total Changerage" />
       <item value="total Shortage" />
@@ -50,7 +51,6 @@
       <item value="256" />
       <item value="if redis.call('get', KEYS[1]) == ARGV[1] then return redis.call('del', KEYS[1]) else return 0 end" />
       <item value="ATTR KEY SORT ASC" />
-      <item value="SET KEY WORD CONSTANTS" />
     </histories>
     <option name="languageScores">
       <map>
