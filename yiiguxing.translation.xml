@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scene" />
+      <item value="Rocket MQ Listener" />
+      <item value="lijianying" />
       <item value="Returns a {@code BigDecimal} which is numerically equal to * this one but with any trailing zeros removed from the * representation. For example, stripping the trailing zeros from * the {@code BigDecimal} value {@code 600.0}, which has * [{@code BigInteger}, {@code scale}] components equals to * [6000, 1], yields {@code 6E2} with [{@code BigInteger}, * {@code scale}] components equals to [6, -2]. If * this BigDecimal is numerically equal to zero, then * {@code BigDecimal.ZERO} is returned." />
       <item value="strip Trailing Zeros" />
       <item value="bulk Upsert Sku Stock Flow" />
@@ -48,9 +51,6 @@
       <item value="Changerage" />
       <item value="Shortage" />
       <item value="Overage" />
-      <item value="Staff Id" />
-      <item value="Customer Id" />
-      <item value="Dvy Order Id" />
     </histories>
     <option name="languageScores">
       <map>
