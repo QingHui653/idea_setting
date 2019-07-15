@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Remoting Connect Exception" />
       <item value="SEPARATOR" />
       <item value="High-level metadata for a Swagger definition - see" />
       <item value="igh-level metadata for a Swagger definition - see" />
@@ -50,12 +51,11 @@
       <item value="electric" />
       <item value="electric bill" />
       <item value="stationery" />
-      <item value="template electric bill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="790" />
-        <entry key="ENGLISH" value="791" />
+        <entry key="CHINESE" value="791" />
+        <entry key="ENGLISH" value="792" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
