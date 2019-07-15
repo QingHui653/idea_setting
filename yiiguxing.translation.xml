@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bulk Upsert Sku Stock Flow" />
       <item value="14:35:37.056 [main] INFO newb.c.a_spring.a_module.mq.rocketmq.RocketMqCumsterTest - OrderInfoConsumer init, nameSrv: frp1.chuantou.org:54116" />
       <item value="CLIENT INNER PRODUCER" />
       <item value="the specified group is blank" />
@@ -50,7 +51,6 @@
       <item value="Dvy Order Id" />
       <item value="Customer Account Id" />
       <item value="set Customer Account Id" />
-      <item value="order No" />
     </histories>
     <option name="languageScores">
       <map>
