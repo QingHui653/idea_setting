@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Update failed in D:\kCode\kp-server-search D:\kCode\kp-server-search: cannot lock ref 'refs/remotes/origin/master': unable to resolve reference 'refs/remotes/origin/master': reference broken" />
+      <item value="Could not read from remote repository." />
       <item value="No Node Available Exception" />
       <item value="Transport" />
       <item value="scene" />
@@ -49,8 +51,6 @@
       <item value="name of the fallback function, empty by default" />
       <item value="dvy Task Id" />
       <item value="dvy Order Id" />
-      <item value="set Total Income" />
-      <item value="No route info of this topic, ts-topic" />
     </histories>
     <option name="languageScores">
       <map>
