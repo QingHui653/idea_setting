@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEFAULT PAGE SIZE" />
       <item value="Constructs a query that will match only specific ids within all types." />
       <item value="A query that matches on all documents." />
       <item value="Constructs a new search source builder with a search query." />
@@ -50,7 +51,6 @@
       <item value="the supported media types supported by the server, or an empty string if not set." />
       <item value="orresponds to the `produces` field of the operations under this resource. * &lt;p&gt; * Takes in comma-separated values of content types. * For example, &quot;application/json, application/xml&quot; would suggest the operations * generate JSON and XML output. * &lt;p&gt; * For JAX-RS resources, this would automatically take the value of the {@code @Produces} * annotation if such exists. It can also be used to override the {@code @Produces} values * for the Swagger documentation." />
       <item value="Marks a class as a Swagger resource. * &lt;p&gt; * By default, Swagger-Core will only include and introspect only classes that are annotated * with {@code @Api} and will ignore other resources (JAX-RS endpoints, Servlets and * so on)." />
-      <item value="Not used in 1.5.X, kept for legacy support. *" />
     </histories>
     <option name="languageScores">
       <map>
