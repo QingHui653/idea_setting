@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Balance" />
+      <item value="Balance Finance Consumer" />
       <item value="scene" />
       <item value="Rocket MQ Listener" />
       <item value="lijianying" />
@@ -49,8 +51,6 @@
       <item value="total Shortage" />
       <item value="total Overage" />
       <item value="Changerage" />
-      <item value="Shortage" />
-      <item value="Overage" />
     </histories>
     <option name="languageScores">
       <map>
