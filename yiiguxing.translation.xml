@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Node Available Exception" />
       <item value="Transport" />
       <item value="scene" />
       <item value="Corporation" />
@@ -50,7 +51,6 @@
       <item value="dvy Order Id" />
       <item value="set Total Income" />
       <item value="No route info of this topic, ts-topic" />
-      <item value="total Changerage" />
     </histories>
     <option name="languageScores">
       <map>
