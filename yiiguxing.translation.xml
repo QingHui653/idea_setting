@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="设置自定义退避策略，该策略最初将等待100毫秒，以指数方式增加并重试最多三次。 * 每当一个或多个批量项请求失败并且EsRejectedExecutionException指示可用于处理请求的计算资源太少时，就会尝试重试。 * 要禁用退避，请传递BackoffPolicy.noBackoff（）。 * (默认重试次数为8次，启动延迟为50ms。总等待时间约为5.1秒)" />
+      <item value="设置自定义退避策略，该策略最初将等待100毫秒，以指数方式增加并重试最多三次。 * 每当一个或多个批量项请求失败并且EsRejectedExecutionException指示可用于处理请求的计算资源太少时，就会尝试重试。 * 要禁用退避，请传递BackoffPolicy.noBackoff（）。" />
+      <item value="每当一个或多个批量项请求失败并且Es Rejected Execution Exception指示可用于处理请求的计算资源太少时，就会尝试重试。" />
+      <item value="BATCH SIZE" />
+      <item value="Callback before the bulk is executed." />
+      <item value="A bulk processor is a thread safe bulk processing class, allowing to easily set when to &quot;flush&quot; a new bulk request * (either based on number of actions, based on the size, or time), and to easily control the number of concurrent bulk * requests allowed to be executed in parallel. * &lt;p&gt; * In order to create a new bulk processor, use the {@link Builder}." />
+      <item value="Bulk Processor" />
       <item value="Update failed in D:\kCode\kp-server-search D:\kCode\kp-server-search: cannot lock ref 'refs/remotes/origin/master': unable to resolve reference 'refs/remotes/origin/master': reference broken" />
       <item value="Could not read from remote repository." />
       <item value="No Node Available Exception" />
@@ -44,13 +51,6 @@
       <item value="Product Unit Entity" />
       <item value="add Category Item" />
       <item value="Product Category Entity" />
-      <item value="* A handler for rejected tasks that runs the rejected task * directly in the calling thread of the {@code execute} method, * unless the executor has been shut down, in which case the task * is discarded." />
-      <item value="Inventory Transfers Req" />
-      <item value="Draft" />
-      <item value="the class where the block handler exists, should not provide more than one classes" />
-      <item value="name of the fallback function, empty by default" />
-      <item value="dvy Task Id" />
-      <item value="dvy Order Id" />
     </histories>
     <option name="languageScores">
       <map>
