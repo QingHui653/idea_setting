@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jinhaoxun" />
       <item value="Balance" />
       <item value="Balance Finance Consumer" />
       <item value="scene" />
@@ -50,7 +51,6 @@
       <item value="total Changerage" />
       <item value="total Shortage" />
       <item value="total Overage" />
-      <item value="Changerage" />
     </histories>
     <option name="languageScores">
       <map>
