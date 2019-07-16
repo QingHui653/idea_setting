@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scene" />
+      <item value="Corporation" />
       <item value="jinhaoxun" />
       <item value="Balance" />
       <item value="Balance Finance Consumer" />
-      <item value="scene" />
       <item value="Rocket MQ Listener" />
       <item value="lijianying" />
       <item value="Returns a {@code BigDecimal} which is numerically equal to * this one but with any trailing zeros removed from the * representation. For example, stripping the trailing zeros from * the {@code BigDecimal} value {@code 600.0}, which has * [{@code BigInteger}, {@code scale}] components equals to * [6000, 1], yields {@code 6E2} with [{@code BigInteger}, * {@code scale}] components equals to [6, -2]. If * this BigDecimal is numerically equal to zero, then * {@code BigDecimal.ZERO} is returned." />
@@ -50,12 +51,11 @@
       <item value="No route info of this topic, ts-topic" />
       <item value="total Changerage" />
       <item value="total Shortage" />
-      <item value="total Overage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="791" />
-        <entry key="ENGLISH" value="792" />
+        <entry key="CHINESE" value="796" />
+        <entry key="ENGLISH" value="797" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
