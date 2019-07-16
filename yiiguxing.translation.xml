@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A query that parses a query string and runs it. There are two modes that this operates. The first, when no field is added (using QueryStringQueryBuilder.field(String), will run the query once and non prefixed fields will use the QueryStringQueryBuilder.defaultField(String) set. The second, when one or more fields are added (using QueryStringQueryBuilder.field(String)), will run the parsed query against the provided fields, and combine them either using DisMax or a plain boolean query (see QueryStringQueryBuilder.useDisMax(boolean))." />
+      <item value="Sets the indices the search will be executed on." />
+      <item value="A Query that matches documents containing a term." />
       <item value="设置自定义退避策略，该策略最初将等待100毫秒，以指数方式增加并重试最多三次。 * 每当一个或多个批量项请求失败并且EsRejectedExecutionException指示可用于处理请求的计算资源太少时，就会尝试重试。 * 要禁用退避，请传递BackoffPolicy.noBackoff（）。 * (默认重试次数为8次，启动延迟为50ms。总等待时间约为5.1秒)" />
       <item value="设置自定义退避策略，该策略最初将等待100毫秒，以指数方式增加并重试最多三次。 * 每当一个或多个批量项请求失败并且EsRejectedExecutionException指示可用于处理请求的计算资源太少时，就会尝试重试。 * 要禁用退避，请传递BackoffPolicy.noBackoff（）。" />
       <item value="每当一个或多个批量项请求失败并且Es Rejected Execution Exception指示可用于处理请求的计算资源太少时，就会尝试重试。" />
@@ -48,13 +51,10 @@
       <item value="Not used in 1.5.X, kept for legacy support." />
       <item value="a longer description about this API, no longer used." />
       <item value="assembly Product Unit Price Barcode" />
-      <item value="Product Unit Entity" />
-      <item value="add Category Item" />
-      <item value="Product Category Entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="799" />
+        <entry key="CHINESE" value="800" />
         <entry key="ENGLISH" value="800" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
