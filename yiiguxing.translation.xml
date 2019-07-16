@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fragment Size" />
+      <item value="but supports multiple fields." />
+      <item value="Multi Match" />
+      <item value="Fuzzy" />
+      <item value="loss" />
+      <item value="loss delivery lock" />
       <item value="DEFAULT PAGE SIZE" />
       <item value="Constructs a query that will match only specific ids within all types." />
       <item value="A query that matches on all documents." />
@@ -45,12 +51,6 @@
       <item value="https://github.com/OAI/Open API-Specification/blob/master/versions/2.0.md#license Object" />
       <item value="Describes an operation or typically a HTTP method against a specific path. * &lt;p&gt; * Operations with equivalent paths are grouped in a single Operation Object. * A combination of a HTTP method and a path creates a unique operation." />
       <item value="the protocols supported by the operations under the resource." />
-      <item value="Sets specific protocols (schemes) for the operations under this resource. * &lt;p&gt; * Comma-separated values of the available protocols. Possible values: http, https, ws, wss." />
-      <item value="the consumes value, or empty string if not set" />
-      <item value="consumes" />
-      <item value="the supported media types supported by the server, or an empty string if not set." />
-      <item value="orresponds to the `produces` field of the operations under this resource. * &lt;p&gt; * Takes in comma-separated values of content types. * For example, &quot;application/json, application/xml&quot; would suggest the operations * generate JSON and XML output. * &lt;p&gt; * For JAX-RS resources, this would automatically take the value of the {@code @Produces} * annotation if such exists. It can also be used to override the {@code @Produces} values * for the Swagger documentation." />
-      <item value="Marks a class as a Swagger resource. * &lt;p&gt; * By default, Swagger-Core will only include and introspect only classes that are annotated * with {@code @Api} and will ignore other resources (JAX-RS endpoints, Servlets and * so on)." />
     </histories>
     <option name="languageScores">
       <map>
