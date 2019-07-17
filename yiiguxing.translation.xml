@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reports while loops which iterate over collections, and can be replaced with the foreach iteration syntax, which is available in Java 5 and newer." />
+      <item value="This inspection only reports if the project or module is configured to use a language level of 5.0 or higher." />
       <item value="Degrade Exception" />
       <item value="Undeclared Throwable Exception" />
       <item value="Resolved" />
@@ -49,12 +51,10 @@
       <item value="Balance" />
       <item value="Balance Finance Consumer" />
       <item value="Rocket MQ Listener" />
-      <item value="lijianying" />
-      <item value="Returns a {@code BigDecimal} which is numerically equal to * this one but with any trailing zeros removed from the * representation. For example, stripping the trailing zeros from * the {@code BigDecimal} value {@code 600.0}, which has * [{@code BigInteger}, {@code scale}] components equals to * [6000, 1], yields {@code 6E2} with [{@code BigInteger}, * {@code scale}] components equals to [6, -2]. If * this BigDecimal is numerically equal to zero, then * {@code BigDecimal.ZERO} is returned." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="818" />
+        <entry key="CHINESE" value="819" />
         <entry key="ENGLISH" value="819" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
