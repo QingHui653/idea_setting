@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Undeclared Throwable Exception" />
+      <item value="Resolved" />
       <item value="name of the block exception function, empty by default" />
       <item value="name of the fallback function, empty by default" />
       <item value="add Sale Order Operation" />
@@ -49,13 +51,11 @@
       <item value="lijianying" />
       <item value="Returns a {@code BigDecimal} which is numerically equal to * this one but with any trailing zeros removed from the * representation. For example, stripping the trailing zeros from * the {@code BigDecimal} value {@code 600.0}, which has * [{@code BigInteger}, {@code scale}] components equals to * [6000, 1], yields {@code 6E2} with [{@code BigInteger}, * {@code scale}] components equals to [6, -2]. If * this BigDecimal is numerically equal to zero, then * {@code BigDecimal.ZERO} is returned." />
       <item value="strip Trailing Zeros" />
-      <item value="bulk Upsert Sku Stock Flow" />
-      <item value="14:35:37.056 [main] INFO newb.c.a_spring.a_module.mq.rocketmq.RocketMqCumsterTest - OrderInfoConsumer init, nameSrv: frp1.chuantou.org:54116" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="812" />
-        <entry key="ENGLISH" value="813" />
+        <entry key="CHINESE" value="816" />
+        <entry key="ENGLISH" value="817" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
