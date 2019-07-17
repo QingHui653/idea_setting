@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Sale Order Operation" />
+      <item value="Sale Order Operation Req" />
+      <item value="so Op Req" />
+      <item value="This inspection only reports when the suggested replacement does not result in significant performance drawback on modern JVMs. In many cases the String concatenation may perform better" />
       <item value="Message Listener Concurrently" />
       <item value="stat" />
       <item value="stat By Product" />
@@ -47,15 +51,11 @@
       <item value="14:35:37.056 [main] INFO newb.c.a_spring.a_module.mq.rocketmq.RocketMqCumsterTest - OrderInfoConsumer init, nameSrv: frp1.chuantou.org:54116" />
       <item value="CLIENT INNER PRODUCER" />
       <item value="the specified group is blank" />
-      <item value="namesrv Addr" />
-      <item value="The producer service state not OK, CREATE_JUST" />
-      <item value="producerGroup can not equal DEFAULT_PRODUCER, please specify another one" />
-      <item value="producerGroup can not equal DEFAULT_PRODUCER, please specify another one." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="807" />
-        <entry key="ENGLISH" value="808" />
+        <entry key="CHINESE" value="809" />
+        <entry key="ENGLISH" value="810" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
