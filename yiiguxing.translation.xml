@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="zcg" />
+      <item value="Concrete implementation should implement this method so that the configuration set via * {@link IClientConfig} (which in turn were set via Archaius properties) will be taken into consideration" />
+      <item value="init With Niws Config" />
+      <item value="No available alive servers after 10 tries from load balancer:" />
+      <item value="yield" />
+      <item value="Feature that determines whether encountering of unknown properties (ones that do not map to a property, and there is no &quot;any setter&quot; or handler that can handle it) should result in a failure (by throwing a JsonMappingException) or not. This setting only takes effect after all other handling methods for unknown properties have been tried, and property remains unhandled.&#10;Feature is enabled by default (meaning that a JsonMappingException will be thrown if an unknown property is encountered)." />
+      <item value="Feature that determines whether encountering of unknown properties (ones that do not map to a property, and there is no &quot;any setter&quot; or handler that can handle it) should result in a failure (by throwing a JsonMappingException) or not. This setting only takes effect after all other handling methods for unknown properties have been tried, and property remains unhandled. Feature is enabled by default (meaning that a JsonMappingException will be thrown if an unknown property is encountered)." />
       <item value="caiqibang" />
       <item value="Log" />
       <item value="remove All Emojis" />
@@ -44,18 +51,11 @@
       <item value="Resolved" />
       <item value="name of the block exception function, empty by default" />
       <item value="name of the fallback function, empty by default" />
-      <item value="add Sale Order Operation" />
-      <item value="Sale Order Operation Req" />
-      <item value="so Op Req" />
-      <item value="This inspection only reports when the suggested replacement does not result in significant performance drawback on modern JVMs. In many cases the String concatenation may perform better" />
-      <item value="Message Listener Concurrently" />
-      <item value="stat" />
-      <item value="stat By Product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="848" />
-        <entry key="ENGLISH" value="847" />
+        <entry key="CHINESE" value="851" />
+        <entry key="ENGLISH" value="852" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
