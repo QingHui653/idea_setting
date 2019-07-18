@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="environment.resolve Placeholders" />
+      <item value="use env local_ip if not empty" />
+      <item value="container Bean Name" />
+      <item value="Bad annotation definition in @RocketMQMessageListener, messageModel BROADCASTING does not support ORDERLY message" />
+      <item value="BROADCASTING" />
+      <item value="Receive asynchronously delivered messages orderly. one queue, one thread" />
+      <item value="Receive asynchronously delivered messages concurrently" />
+      <item value="CONCURRENTLY" />
+      <item value="ORDERLY" />
+      <item value="Atomic Long" />
       <item value="Reports while loops which iterate over collections, and can be replaced with the foreach iteration syntax, which is available in Java 5 and newer." />
       <item value="This inspection only reports if the project or module is configured to use a language level of 5.0 or higher." />
       <item value="Degrade Exception" />
@@ -41,21 +51,11 @@
       <item value="Callback before the bulk is executed." />
       <item value="A bulk processor is a thread safe bulk processing class, allowing to easily set when to &quot;flush&quot; a new bulk request * (either based on number of actions, based on the size, or time), and to easily control the number of concurrent bulk * requests allowed to be executed in parallel. * &lt;p&gt; * In order to create a new bulk processor, use the {@link Builder}." />
       <item value="Bulk Processor" />
-      <item value="Update failed in D:\kCode\kp-server-search D:\kCode\kp-server-search: cannot lock ref 'refs/remotes/origin/master': unable to resolve reference 'refs/remotes/origin/master': reference broken" />
-      <item value="Could not read from remote repository." />
-      <item value="No Node Available Exception" />
-      <item value="Transport" />
-      <item value="scene" />
-      <item value="Corporation" />
-      <item value="jinhaoxun" />
-      <item value="Balance" />
-      <item value="Balance Finance Consumer" />
-      <item value="Rocket MQ Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="819" />
-        <entry key="ENGLISH" value="819" />
+        <entry key="CHINESE" value="828" />
+        <entry key="ENGLISH" value="829" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
