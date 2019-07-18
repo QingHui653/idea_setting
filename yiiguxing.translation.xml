@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="caiqibang" />
       <item value="Log" />
       <item value="remove All Emojis" />
       <item value="// 申请访问需要知道申请访问哪个店铺，corpId必填" />
@@ -50,11 +51,10 @@
       <item value="Message Listener Concurrently" />
       <item value="stat" />
       <item value="stat By Product" />
-      <item value="get During Pay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="846" />
+        <entry key="CHINESE" value="848" />
         <entry key="ENGLISH" value="847" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
