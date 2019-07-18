@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不要使用GSON, 在对象稍大时非常缓慢." />
+      <item value="CityHashUtil google的CityHash，比md5更高效，散列效果也很均衡" />
       <item value="zcg" />
       <item value="Concrete implementation should implement this method so that the configuration set via * {@link IClientConfig} (which in turn were set via Archaius properties) will be taken into consideration" />
       <item value="init With Niws Config" />
@@ -49,13 +51,11 @@
       <item value="Degrade Exception" />
       <item value="Undeclared Throwable Exception" />
       <item value="Resolved" />
-      <item value="name of the block exception function, empty by default" />
-      <item value="name of the fallback function, empty by default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="851" />
-        <entry key="ENGLISH" value="852" />
+        <entry key="CHINESE" value="854" />
+        <entry key="ENGLISH" value="854" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
