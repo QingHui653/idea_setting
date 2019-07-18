@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bulk Upsert Sku Stock Flow" />
       <item value="Application Context Aware" />
       <item value="Initializing Bean" />
       <item value="Disposable Bean" />
@@ -50,12 +51,11 @@
       <item value="A query that matches on all documents." />
       <item value="Constructs a new search source builder with a search query." />
       <item value="A query that parses a query string and runs it. There are two modes that this operates. The first, when no field is added (using QueryStringQueryBuilder.field(String), will run the query once and non prefixed fields will use the QueryStringQueryBuilder.defaultField(String) set. The second, when one or more fields are added (using QueryStringQueryBuilder.field(String)), will run the parsed query against the provided fields, and combine them either using DisMax or a plain boolean query (see QueryStringQueryBuilder.useDisMax(boolean))." />
-      <item value="Sets the indices the search will be executed on." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="834" />
-        <entry key="ENGLISH" value="835" />
+        <entry key="CHINESE" value="835" />
+        <entry key="ENGLISH" value="836" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
