@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Log" />
+      <item value="remove All Emojis" />
+      <item value="// 申请访问需要知道申请访问哪个店铺，corpId必填" />
+      <item value="Mini Program" />
+      <item value="request.get Phone" />
+      <item value="生成6位验证码" />
+      <item value="TMP EXPIRE TIME" />
+      <item value="300000" />
       <item value="@Scheduled(fixedRate=1000) public void work() { // task execution logic }" />
       <item value="This enables detection of @Scheduled annotations on any Spring-managed bean in the container. For example, given a class MyTas" />
       <item value="This enables detection of @Scheduled annotations on any Spring-managed bean in the container. For example, given a class MyTask" />
@@ -43,19 +51,11 @@
       <item value="stat" />
       <item value="stat By Product" />
       <item value="get During Pay" />
-      <item value="期间应收与期间已收" />
-      <item value="Total Income" />
-      <item value="r Total Income" />
-      <item value="Outlay" />
-      <item value="Gwt Compatible" />
-      <item value="fragment Size" />
-      <item value="but supports multiple fields." />
-      <item value="Multi Match" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="842" />
-        <entry key="ENGLISH" value="842" />
+        <entry key="CHINESE" value="846" />
+        <entry key="ENGLISH" value="847" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -63,7 +63,7 @@
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="MALAGASY" value="2" />
-        <entry key="MALAY" value="1" />
+        <entry key="MALAY" value="2" />
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVAK" value="2" />
         <entry key="WELSH" value="11" />
