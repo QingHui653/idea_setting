@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@Scheduled(fixedRate=1000) public void work() { // task execution logic }" />
+      <item value="This enables detection of @Scheduled annotations on any Spring-managed bean in the container. For example, given a class MyTas" />
+      <item value="This enables detection of @Scheduled annotations on any Spring-managed bean in the container. For example, given a class MyTask" />
+      <item value="Enables Spring's scheduled task execution capability, similar to functionality found in Spring's &lt;task:*&gt; XML namespace. To be used on @Configuration classes as follows:" />
+      <item value="Single Sign On Util" />
+      <item value="format Big Decimal String" />
+      <item value="query Delivery Order Product By Page" />
+      <item value="execution" />
       <item value="bulk Upsert Sku Stock Flow" />
       <item value="Application Context Aware" />
       <item value="Initializing Bean" />
@@ -43,19 +51,11 @@
       <item value="fragment Size" />
       <item value="but supports multiple fields." />
       <item value="Multi Match" />
-      <item value="Fuzzy" />
-      <item value="loss" />
-      <item value="loss delivery lock" />
-      <item value="DEFAULT PAGE SIZE" />
-      <item value="Constructs a query that will match only specific ids within all types." />
-      <item value="A query that matches on all documents." />
-      <item value="Constructs a new search source builder with a search query." />
-      <item value="A query that parses a query string and runs it. There are two modes that this operates. The first, when no field is added (using QueryStringQueryBuilder.field(String), will run the query once and non prefixed fields will use the QueryStringQueryBuilder.defaultField(String) set. The second, when one or more fields are added (using QueryStringQueryBuilder.field(String)), will run the parsed query against the provided fields, and combine them either using DisMax or a plain boolean query (see QueryStringQueryBuilder.useDisMax(boolean))." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="835" />
-        <entry key="ENGLISH" value="836" />
+        <entry key="CHINESE" value="842" />
+        <entry key="ENGLISH" value="842" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
