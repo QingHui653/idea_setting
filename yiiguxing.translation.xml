@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Ex Warehouse" />
       <item value="余额财务流水" />
       <item value="We're running in a tool (an IDE plugin for example). We need binding meta data but not a * functioning Injector. Do not inject members of instances. Do not load eager singletons. Do as * little as possible so our tools run nice and snappy. Injectors created in this stage cannot * be used to satisfy injections." />
       <item value="The stage we're running in." />
@@ -50,12 +51,11 @@
       <item value="environment.resolve Placeholders" />
       <item value="use env local_ip if not empty" />
       <item value="container Bean Name" />
-      <item value="Bad annotation definition in @RocketMQMessageListener, messageModel BROADCASTING does not support ORDERLY message" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="862" />
+        <entry key="ENGLISH" value="863" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
