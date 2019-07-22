@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Helper class to create a {@link TypeFilter} that matches if all the delegates * match." />
       <item value="generic" />
       <item value="generic Bean Definition" />
       <item value="register Default Configuration" />
@@ -50,12 +51,11 @@
       <item value="zcg" />
       <item value="Concrete implementation should implement this method so that the configuration set via * {@link IClientConfig} (which in turn were set via Archaius properties) will be taken into consideration" />
       <item value="init With Niws Config" />
-      <item value="No available alive servers after 10 tries from load balancer:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="885" />
-        <entry key="ENGLISH" value="886" />
+        <entry key="CHINESE" value="886" />
+        <entry key="ENGLISH" value="887" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
