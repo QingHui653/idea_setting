@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generic" />
+      <item value="generic Bean Definition" />
+      <item value="register Default Configuration" />
+      <item value="Gang Li" />
+      <item value="and RibbonClientsConfigurationRegistgrar" />
+      <item value="patterned" />
+      <item value="patterned after Spring Integration IntegrationComponentScanRegistrar" />
       <item value="add Constructor Arg Value" />
       <item value="Interface to be implemented by any object that wishes to be notified of the ResourceLoader (typically the ApplicationContext) that it runs in. This is an alternative to a full ApplicationContext dependency via the ApplicationContextAware interface.&#10;Note that Resource dependencies can also be exposed as bean properties of type Resource, populated via Strings with automatic type conversion by the bean factory. This removes the need for implementing any callback interface just for the purpose of accessing a specific file resource.&#10;You typically need a ResourceLoader when your application object has to access a variety of file resources whose names are calculated. A good strategy is to make the object use a DefaultResourceLoader but still implement ResourceLoaderAware to allow for overriding when running in an ApplicationContext. See ReloadableResourceBundleMessageSource for an example.&#10;A passed-in ResourceLoader can also be checked for the ResourcePatternResolver interface and cast accordingly, to be able to resolve resource patterns into arrays of Resource objects. This will always work when running in an ApplicationContext (the context interface extends ResourcePatternResolver). Use a PathMatchingResourcePatternResolver as default. See also the ResourcePatternUtils.getResourcePatternResolver method.&#10;As alternative to a ResourcePatternResolver dependency, consider exposing bean properties of type Resource array, populated via pattern Strings with automatic type conversion by the bean factory." />
       <item value="Interface to be implemented by any bean that wishes to be notified * of the {@link Environment} that it runs in." />
@@ -44,18 +51,11 @@
       <item value="Concrete implementation should implement this method so that the configuration set via * {@link IClientConfig} (which in turn were set via Archaius properties) will be taken into consideration" />
       <item value="init With Niws Config" />
       <item value="No available alive servers after 10 tries from load balancer:" />
-      <item value="yield" />
-      <item value="Feature that determines whether encountering of unknown properties (ones that do not map to a property, and there is no &quot;any setter&quot; or handler that can handle it) should result in a failure (by throwing a JsonMappingException) or not. This setting only takes effect after all other handling methods for unknown properties have been tried, and property remains unhandled.&#10;Feature is enabled by default (meaning that a JsonMappingException will be thrown if an unknown property is encountered)." />
-      <item value="Feature that determines whether encountering of unknown properties (ones that do not map to a property, and there is no &quot;any setter&quot; or handler that can handle it) should result in a failure (by throwing a JsonMappingException) or not. This setting only takes effect after all other handling methods for unknown properties have been tried, and property remains unhandled. Feature is enabled by default (meaning that a JsonMappingException will be thrown if an unknown property is encountered)." />
-      <item value="caiqibang" />
-      <item value="Log" />
-      <item value="remove All Emojis" />
-      <item value="// 申请访问需要知道申请访问哪个店铺，corpId必填" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="880" />
-        <entry key="ENGLISH" value="881" />
+        <entry key="CHINESE" value="885" />
+        <entry key="ENGLISH" value="886" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
