@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="media Size" />
+      <item value="font Size" />
+      <item value="status" />
+      <item value="ver" />
       <item value="preserve" />
       <item value="is Ex Warehouse" />
       <item value="余额财务流水" />
@@ -47,15 +51,11 @@
       <item value="Thread Safety: After initialization, the instance can be regarded as thread-safe." />
       <item value="In most scenarios, this is the mostly recommended class to consume messages. Technically speaking, this push client is virtually a wrapper of the underlying pull service. Specifically, on arrival of messages pulled from brokers, it roughly invokes the registered callback handler to feed the messages. See quickstart/Consumer in the example module for a typical usage.&#10;Thread Safety: After initialization, the instance can be regarded as thread-safe." />
       <item value="See quickstart/Consumer in the example module for a typical usage." />
-      <item value="Control which message can be select." />
-      <item value="Retention" />
-      <item value="environment.resolve Placeholders" />
-      <item value="use env local_ip if not empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="864" />
-        <entry key="ENGLISH" value="865" />
+        <entry key="CHINESE" value="867" />
+        <entry key="ENGLISH" value="868" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -67,6 +67,7 @@
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVAK" value="2" />
         <entry key="WELSH" value="11" />
+        <entry key="SPANISH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="JAVANESE" value="1" />
       </map>
