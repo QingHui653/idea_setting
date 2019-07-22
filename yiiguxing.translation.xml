@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Candidate Component" />
+      <item value="Candidate" />
+      <item value="This argument is required, it must not be null" />
       <item value="Helper class to create a {@link TypeFilter} that matches if all the delegates * match." />
       <item value="generic" />
       <item value="generic Bean Definition" />
@@ -48,14 +51,11 @@
       <item value="Sequence工具" />
       <item value="不要使用GSON, 在对象稍大时非常缓慢." />
       <item value="CityHashUtil google的CityHash，比md5更高效，散列效果也很均衡" />
-      <item value="zcg" />
-      <item value="Concrete implementation should implement this method so that the configuration set via * {@link IClientConfig} (which in turn were set via Archaius properties) will be taken into consideration" />
-      <item value="init With Niws Config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="886" />
-        <entry key="ENGLISH" value="887" />
+        <entry key="CHINESE" value="891" />
+        <entry key="ENGLISH" value="892" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
