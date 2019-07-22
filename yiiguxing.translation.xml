@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="preserve" />
       <item value="is Ex Warehouse" />
       <item value="余额财务流水" />
       <item value="We're running in a tool (an IDE plugin for example). We need binding meta data but not a * functioning Injector. Do not inject members of instances. Do not load eager singletons. Do as * little as possible so our tools run nice and snappy. Injectors created in this stage cannot * be used to satisfy injections." />
@@ -50,12 +51,11 @@
       <item value="Retention" />
       <item value="environment.resolve Placeholders" />
       <item value="use env local_ip if not empty" />
-      <item value="container Bean Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="863" />
+        <entry key="CHINESE" value="864" />
+        <entry key="ENGLISH" value="865" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
