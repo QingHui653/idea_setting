@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scans for interfaces that declare they are feign clients (via @FeignClient). Configures component scanning directives for use with @Configuration classes." />
+      <item value="Auto Configure Before" />
+      <item value="Order is important here, last should be the default, first should be optional" />
+      <item value="Conditional On Missing Class" />
+      <item value="Indicates that a component is only eligible for registration when all specified conditions match. A condition is any state that can be determined programmatically before the bean definition is due to be registered (see Condition for details). The @Conditional annotation may be used in any of the following ways: as a type-level annotation on any class directly or indirectly annotated with @Component, including @Configuration classes as a meta-annotation, for the purpose of composing custom stereotype annotations as a method-level annotation on any @Bean method If a @Configuration class is marked with @Conditional, all of the @Bean methods, @Import annotations, and @ComponentScan annotations associated with that class will be subject to the conditions. NOTE: Inheritance of @Conditional annotations is not supported; any conditions from superclasses or from overridden methods will not be considered. In order to enforce these semantics, @Conditional itself is not declared as @Inherited; furthermore, any custom composed annotation that is meta-annotated with @Conditional must not be declared as @Inherited" />
+      <item value="Indicates that a component is only eligible for registration when all specified conditions match.&#10;A condition is any state that can be determined programmatically before the bean definition is due to be registered (see Condition for details).&#10;The @Conditional annotation may be used in any of the following ways:&#10;as a type-level annotation on any class directly or indirectly annotated with @Component, including @Configuration classes&#10;as a meta-annotation, for the purpose of composing custom stereotype annotations&#10;as a method-level annotation on any @Bean method&#10;If a @Configuration class is marked with @Conditional, all of the @Bean methods, @Import annotations, and @ComponentScan annotations associated with that class will be subject to the conditions.&#10;NOTE: Inheritance of @Conditional annotations is not supported; any conditions from superclasses or from overridden methods will not be considered. In order to enforce these semantics, @Conditional itself is not declared as @Inherited; furthermore, any custom composed annotation that is meta-annotated with @Conditional must not be declared as @Inherited" />
+      <item value="Enable Auto Configuration" />
+      <item value="Autoconfiguration to be activated if Feign is in use and needs to be use Ribbon as a load balancer." />
+      <item value="Annotation for interfaces declaring that a REST client with that interface should be created (e.g. for autowiring into another component). If ribbon is available it will be used to load balance the backend requests, and the load balancer can be configured using a @RibbonClient with the same name (i.e. value) as the feign client." />
+      <item value="Autoconfiguration to be activated if Feign is in use and needs to be use Ribbon as a * load balancer." />
+      <item value="If the accept-encoding header is present it disable transparent compression" />
+      <item value="The OK HTTP client uses &quot;transparent&quot; compression." />
+      <item value="Configures the Feign response compression." />
+      <item value="org.springframework.cloud.openfeign.encoding @Configuration @EnableConfigurationProperties(FeignClientEncodingProperties.class) @ConditionalOnClass(Feign.class) @ConditionalOnBean(Client.class) @ConditionalOnProperty(value = &quot;feign.compression.response.enabled&quot;, matchIfMissing = false) @ConditionalOnMissingBean(type = &quot;okhttp3.OkHttpClient&quot;) @AutoConfigureAfter(FeignAutoConfiguration.class) public class FeignAcceptGzipEncodingAutoConfiguration extends Object" />
+      <item value="org.springframework.cloud.openfeign.encoding @Configuration @EnableConfigurationProperties(FeignClientEncodingProperties.class) @ConditionalOnClass(Feign.class) @ConditionalOnBean(Client.class) @ConditionalOnProperty(value = &quot;feign.compression.response.enabled&quot;, matchIfMissing = false) @ConditionalOnMissingBean(type = &quot;okhttp3.OkHttpClient&quot;) @AutoConfigureAfter(FeignAutoConfiguration.class) public class FeignAcceptGzipEncodingAutoConfiguration&#10;extends Object" />
       <item value="qiudesheng" />
       <item value="media Size" />
       <item value="font Size" />
@@ -36,26 +51,11 @@
       <item value="request.get Phone" />
       <item value="生成6位验证码" />
       <item value="TMP EXPIRE TIME" />
-      <item value="300000" />
-      <item value="@Scheduled(fixedRate=1000) public void work() { // task execution logic }" />
-      <item value="This enables detection of @Scheduled annotations on any Spring-managed bean in the container. For example, given a class MyTas" />
-      <item value="This enables detection of @Scheduled annotations on any Spring-managed bean in the container. For example, given a class MyTask" />
-      <item value="Enables Spring's scheduled task execution capability, similar to functionality found in Spring's &lt;task:*&gt; XML namespace. To be used on @Configuration classes as follows:" />
-      <item value="Single Sign On Util" />
-      <item value="format Big Decimal String" />
-      <item value="query Delivery Order Product By Page" />
-      <item value="execution" />
-      <item value="bulk Upsert Sku Stock Flow" />
-      <item value="Application Context Aware" />
-      <item value="Initializing Bean" />
-      <item value="Disposable Bean" />
-      <item value="Thread Safety: After initialization, the instance can be regarded as thread-safe." />
-      <item value="In most scenarios, this is the mostly recommended class to consume messages. Technically speaking, this push client is virtually a wrapper of the underlying pull service. Specifically, on arrival of messages pulled from brokers, it roughly invokes the registered callback handler to feed the messages. See quickstart/Consumer in the example module for a typical usage.&#10;Thread Safety: After initialization, the instance can be regarded as thread-safe." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="869" />
-        <entry key="ENGLISH" value="868" />
+        <entry key="CHINESE" value="877" />
+        <entry key="ENGLISH" value="877" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
