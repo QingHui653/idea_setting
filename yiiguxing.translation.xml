@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A builder for creating Feign clients without using the {@link FeignClient} annotation. * &lt;p&gt; * This builder builds the Feign client exactly like it would be created by using the * {@link FeignClient} annotation." />
+      <item value="A builder for creating Feign clients without using the {@link FeignClient} annotation. * &lt;p&gt;" />
+      <item value="This builder builds the Feign client exactly like it would be created by using the * {@link FeignClient} annotation." />
+      <item value="A builder for creating Feign clients without using the FeignClient annotation.&#10;This builder builds the Feign client exactly like it would be created by using the FeignClient annotation." />
+      <item value="A factory that creates instances of feign classes. It creates a Spring * ApplicationContext per client name, and extracts the beans that it needs from there." />
+      <item value="Allows an application to customize the Feign {@link FormattingConversionService}." />
+      <item value="WARNING! Nothing in this class should be @Autowired. It causes NPEs because of some lifecycle race condition." />
+      <item value="the bean factory to register with" />
+      <item value="Register the given bean definition with the given bean factory." />
+      <item value="verify annotated class is an interface" />
       <item value="Fallback class for the specified Feign client interface. The fallback class must * implement the interface annotated by this annotation and be a valid spring bean." />
       <item value="FIXME annotation.getAliasedString(&quot;name&quot;, FeignClient.class, null);" />
       <item value="This blows up if an aliased property is overspecified" />
@@ -41,21 +51,11 @@
       <item value="ver" />
       <item value="preserve" />
       <item value="is Ex Warehouse" />
-      <item value="余额财务流水" />
-      <item value="We're running in a tool (an IDE plugin for example). We need binding meta data but not a * functioning Injector. Do not inject members of instances. Do not load eager singletons. Do as * little as possible so our tools run nice and snappy. Injectors created in this stage cannot * be used to satisfy injections." />
-      <item value="The stage we're running in." />
-      <item value="Apply this to implementation classes when you want only one instance * (per {@link Injector}) to be reused for all injections for that binding." />
-      <item value="Bob Lee" />
-      <item value="crazybob@google.com" />
-      <item value="Signifies that a public API (public class, method or field) is subject to incompatible changes, or even removal, in a future release. An API bearing this annotation is exempt from any compatibility guarantees made by its containing library. Note that the presence of this annotation implies nothing about the quality or performance of the API in question, only the fact that it is not &quot;API-frozen.&quot;&#10;It is generally safe for applications to depend on beta APIs, at the cost of some extra work during upgrades. However it is generally inadvisable for libraries (which get included on users' CLASSPATHs, outside the library developers' control) to do so." />
-      <item value="Returns a splitter that uses the given single-character separator. For example," />
-      <item value="Transfer Util" />
-      <item value="Transfer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="894" />
-        <entry key="ENGLISH" value="895" />
+        <entry key="CHINESE" value="903" />
+        <entry key="ENGLISH" value="904" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
