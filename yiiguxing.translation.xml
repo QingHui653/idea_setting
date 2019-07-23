@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ELEMENT LEVEL" />
+      <item value="product Spec Element Id 3" />
+      <item value="product Spec Element Id 2" />
+      <item value="product Spec Element Id 1" />
       <item value="Returns a possibly parallel Stream with this collection as its source. It is allowable for this method to return a sequential stream. This method should be overridden when the spliterator() method cannot return a spliterator that is IMMUTABLE, CONCURRENT, or late-binding. (See spliterator() for details.)" />
       <item value="Returns a possibly parallel Stream with this collection as its source. It is allowable for this method to return a sequential stream.&#10;This method should be overridden when the spliterator() method cannot return a spliterator that is IMMUTABLE, CONCURRENT, or late-binding. (See spliterator() for details.)" />
       <item value="parallel Stream" />
@@ -47,15 +51,11 @@
       <item value="Annotation for interfaces declaring that a REST client with that interface should be created (e.g. for autowiring into another component). If ribbon is available it will be used to load balance the backend requests, and the load balancer can be configured using a @RibbonClient with the same name (i.e. value) as the feign client." />
       <item value="Autoconfiguration to be activated if Feign is in use and needs to be use Ribbon as a * load balancer." />
       <item value="If the accept-encoding header is present it disable transparent compression" />
-      <item value="The OK HTTP client uses &quot;transparent&quot; compression." />
-      <item value="Configures the Feign response compression." />
-      <item value="org.springframework.cloud.openfeign.encoding @Configuration @EnableConfigurationProperties(FeignClientEncodingProperties.class) @ConditionalOnClass(Feign.class) @ConditionalOnBean(Client.class) @ConditionalOnProperty(value = &quot;feign.compression.response.enabled&quot;, matchIfMissing = false) @ConditionalOnMissingBean(type = &quot;okhttp3.OkHttpClient&quot;) @AutoConfigureAfter(FeignAutoConfiguration.class) public class FeignAcceptGzipEncodingAutoConfiguration extends Object" />
-      <item value="org.springframework.cloud.openfeign.encoding @Configuration @EnableConfigurationProperties(FeignClientEncodingProperties.class) @ConditionalOnClass(Feign.class) @ConditionalOnBean(Client.class) @ConditionalOnProperty(value = &quot;feign.compression.response.enabled&quot;, matchIfMissing = false) @ConditionalOnMissingBean(type = &quot;okhttp3.OkHttpClient&quot;) @AutoConfigureAfter(FeignAutoConfiguration.class) public class FeignAcceptGzipEncodingAutoConfiguration&#10;extends Object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="911" />
-        <entry key="ENGLISH" value="911" />
+        <entry key="CHINESE" value="914" />
+        <entry key="ENGLISH" value="915" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
