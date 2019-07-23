@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a stream consisting of the results of replacing each element of this stream with the contents of a mapped stream produced by applying the provided mapping function to each element. Each mapped stream is closed after its contents have been placed into this stream. (If a mapped stream is null an empty stream is used, instead.)" />
       <item value="product No" />
       <item value="ELEMENT LEVEL" />
       <item value="product Spec Element Id 3" />
@@ -50,11 +51,10 @@
       <item value="Enable Auto Configuration" />
       <item value="Autoconfiguration to be activated if Feign is in use and needs to be use Ribbon as a load balancer." />
       <item value="Annotation for interfaces declaring that a REST client with that interface should be created (e.g. for autowiring into another component). If ribbon is available it will be used to load balance the backend requests, and the load balancer can be configured using a @RibbonClient with the same name (i.e. value) as the feign client." />
-      <item value="Autoconfiguration to be activated if Feign is in use and needs to be use Ribbon as a * load balancer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="915" />
+        <entry key="CHINESE" value="916" />
         <entry key="ENGLISH" value="916" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
