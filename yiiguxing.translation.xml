@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="先将ID排序，再分批次查询，一批100条" />
       <item value="Returns a stream consisting of the results of replacing each element of this stream with the contents of a mapped stream produced by applying the provided mapping function to each element. Each mapped stream is closed after its contents have been placed into this stream. (If a mapped stream is null an empty stream is used, instead.)" />
       <item value="product No" />
       <item value="ELEMENT LEVEL" />
@@ -50,7 +51,6 @@
       <item value="Indicates that a component is only eligible for registration when all specified conditions match.&#10;A condition is any state that can be determined programmatically before the bean definition is due to be registered (see Condition for details).&#10;The @Conditional annotation may be used in any of the following ways:&#10;as a type-level annotation on any class directly or indirectly annotated with @Component, including @Configuration classes&#10;as a meta-annotation, for the purpose of composing custom stereotype annotations&#10;as a method-level annotation on any @Bean method&#10;If a @Configuration class is marked with @Conditional, all of the @Bean methods, @Import annotations, and @ComponentScan annotations associated with that class will be subject to the conditions.&#10;NOTE: Inheritance of @Conditional annotations is not supported; any conditions from superclasses or from overridden methods will not be considered. In order to enforce these semantics, @Conditional itself is not declared as @Inherited; furthermore, any custom composed annotation that is meta-annotated with @Conditional must not be declared as @Inherited" />
       <item value="Enable Auto Configuration" />
       <item value="Autoconfiguration to be activated if Feign is in use and needs to be use Ribbon as a load balancer." />
-      <item value="Annotation for interfaces declaring that a REST client with that interface should be created (e.g. for autowiring into another component). If ribbon is available it will be used to load balance the backend requests, and the load balancer can be configured using a @RibbonClient with the same name (i.e. value) as the feign client." />
     </histories>
     <option name="languageScores">
       <map>
