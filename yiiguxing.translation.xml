@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fallback class for the specified Feign client interface. The fallback class must * implement the interface annotated by this annotation and be a valid spring bean." />
+      <item value="FIXME annotation.getAliasedString(&quot;name&quot;, FeignClient.class, null);" />
+      <item value="This blows up if an aliased property is overspecified" />
       <item value="is Candidate Component" />
       <item value="Candidate" />
       <item value="This argument is required, it must not be null" />
@@ -48,14 +51,11 @@
       <item value="Returns a splitter that uses the given single-character separator. For example," />
       <item value="Transfer Util" />
       <item value="Transfer" />
-      <item value="Sequence工具" />
-      <item value="不要使用GSON, 在对象稍大时非常缓慢." />
-      <item value="CityHashUtil google的CityHash，比md5更高效，散列效果也很均衡" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="891" />
-        <entry key="ENGLISH" value="892" />
+        <entry key="CHINESE" value="894" />
+        <entry key="ENGLISH" value="895" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
