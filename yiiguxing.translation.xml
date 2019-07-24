@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Outlay" />
+      <item value="query Customer Outlay" />
       <item value="Returns a stream consisting of the elements of this stream, sorted according to natural order. If the elements of this stream are not Comparable, a java.lang.ClassCastException may be thrown when the terminal operation is executed. For ordered streams, the sort is stable. For unordered streams, no stability guarantees are made. This is a stateful intermediate operation." />
       <item value="Returns a stream consisting of the elements of this stream, sorted according to natural order. If the elements of this stream are not Comparable, a java.lang.ClassCastException may be thrown when the terminal operation is executed.&#10;For ordered streams, the sort is stable. For unordered streams, no stability guarantees are made.&#10;This is a stateful intermediate operation." />
       <item value="先将ID排序，再分批次查询，一批100条" />
@@ -49,13 +51,11 @@
       <item value="Auto Configure Before" />
       <item value="Order is important here, last should be the default, first should be optional" />
       <item value="Conditional On Missing Class" />
-      <item value="Indicates that a component is only eligible for registration when all specified conditions match. A condition is any state that can be determined programmatically before the bean definition is due to be registered (see Condition for details). The @Conditional annotation may be used in any of the following ways: as a type-level annotation on any class directly or indirectly annotated with @Component, including @Configuration classes as a meta-annotation, for the purpose of composing custom stereotype annotations as a method-level annotation on any @Bean method If a @Configuration class is marked with @Conditional, all of the @Bean methods, @Import annotations, and @ComponentScan annotations associated with that class will be subject to the conditions. NOTE: Inheritance of @Conditional annotations is not supported; any conditions from superclasses or from overridden methods will not be considered. In order to enforce these semantics, @Conditional itself is not declared as @Inherited; furthermore, any custom composed annotation that is meta-annotated with @Conditional must not be declared as @Inherited" />
-      <item value="Indicates that a component is only eligible for registration when all specified conditions match.&#10;A condition is any state that can be determined programmatically before the bean definition is due to be registered (see Condition for details).&#10;The @Conditional annotation may be used in any of the following ways:&#10;as a type-level annotation on any class directly or indirectly annotated with @Component, including @Configuration classes&#10;as a meta-annotation, for the purpose of composing custom stereotype annotations&#10;as a method-level annotation on any @Bean method&#10;If a @Configuration class is marked with @Conditional, all of the @Bean methods, @Import annotations, and @ComponentScan annotations associated with that class will be subject to the conditions.&#10;NOTE: Inheritance of @Conditional annotations is not supported; any conditions from superclasses or from overridden methods will not be considered. In order to enforce these semantics, @Conditional itself is not declared as @Inherited; furthermore, any custom composed annotation that is meta-annotated with @Conditional must not be declared as @Inherited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="916" />
-        <entry key="ENGLISH" value="916" />
+        <entry key="CHINESE" value="917" />
+        <entry key="ENGLISH" value="918" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
