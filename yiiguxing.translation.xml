@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="finance flow can not modify" />
+      <item value="To Int Bi Function" />
+      <item value="Constant for the &quot;CJK Compatibility Ideographs&quot; Unicode character * block." />
       <item value="Outlay" />
       <item value="query Customer Outlay" />
       <item value="Returns a stream consisting of the elements of this stream, sorted according to natural order. If the elements of this stream are not Comparable, a java.lang.ClassCastException may be thrown when the terminal operation is executed. For ordered streams, the sort is stable. For unordered streams, no stability guarantees are made. This is a stateful intermediate operation." />
@@ -48,14 +51,11 @@
       <item value="Interface to be implemented by any bean that wishes to be notified * of the {@link Environment} that it runs in." />
       <item value="Import Bean Definition Registrar" />
       <item value="Scans for interfaces that declare they are feign clients (via @FeignClient). Configures component scanning directives for use with @Configuration classes." />
-      <item value="Auto Configure Before" />
-      <item value="Order is important here, last should be the default, first should be optional" />
-      <item value="Conditional On Missing Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="917" />
-        <entry key="ENGLISH" value="918" />
+        <entry key="CHINESE" value="920" />
+        <entry key="ENGLISH" value="921" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
