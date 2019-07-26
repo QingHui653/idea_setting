@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Field injection is not recommended less... (Ctrl+F1) Inspection info: Spring Team recommends: &quot;Always use constructor based dependency injection in your beans. Always use assertions for mandatory dependencies&quot;." />
       <item value="Implicitly sets a tag for the operations, legacy support (read description).&#10;In swagger-core 1.3.X, this was used as the 'path' that is to host the API Declaration of the resource. This is no longer relevant in swagger-core 1.5.X.&#10;If tags() is not used, this value will be used to set the tag for the operations described by this resource. Otherwise, the value will be ignored.&#10;The leading / (if exists) will be removed." />
       <item value="Not used in 1.5.X, kept for legacy support." />
       <item value="saleorder finance" />
@@ -50,7 +51,6 @@
       <item value="register Default Configuration" />
       <item value="Gang Li" />
       <item value="and RibbonClientsConfigurationRegistgrar" />
-      <item value="patterned" />
     </histories>
     <option name="languageScores">
       <map>
