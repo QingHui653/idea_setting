@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stock Finance Flow Item" />
       <item value="remove For Duplicate" />
       <item value="assist Stats Detail" />
       <item value="Field injection is not recommended less... (Ctrl+F1) Inspection info: Spring Team recommends: &quot;Always use constructor based dependency injection in your beans. Always use assertions for mandatory dependencies&quot;." />
@@ -50,12 +51,11 @@
       <item value="Helper class to create a {@link TypeFilter} that matches if all the delegates * match." />
       <item value="generic" />
       <item value="generic Bean Definition" />
-      <item value="register Default Configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="926" />
-        <entry key="ENGLISH" value="927" />
+        <entry key="CHINESE" value="927" />
+        <entry key="ENGLISH" value="928" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
