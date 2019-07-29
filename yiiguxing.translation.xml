@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="init invoker factory" />
+      <item value="admin-client (rpc invoker)" />
+      <item value="Executor Registry" />
+      <item value="xxl-job, executor JobLogFileCleanThread thread destory." />
+      <item value="inner" />
+      <item value="do not support inner class；" />
+      <item value="、obj need private and set/get；" />
+      <item value="sharding total" />
+      <item value="sharding index" />
+      <item value="mark Script" />
+      <item value="destroy handler, invoked when JobThread destroy" />
+      <item value="init handler, invoked when JobThread init" />
+      <item value="fail timeout" />
+      <item value="I Job Handler" />
       <item value="新访客判断标准，准确的判断是此查询结果（因为有可能之前有提交申请访问，不能只看update影响行数来断定）" />
       <item value="The default rejected execution handler" />
       <item value="Abort Policy" />
@@ -37,26 +51,13 @@
       <item value="Implicitly sets a tag for the operations, legacy support (read description).&#10;In swagger-core 1.3.X, this was used as the 'path' that is to host the API Declaration of the resource. This is no longer relevant in swagger-core 1.5.X.&#10;If tags() is not used, this value will be used to set the tag for the operations described by this resource. Otherwise, the value will be ignored.&#10;The leading / (if exists) will be removed." />
       <item value="Not used in 1.5.X, kept for legacy support." />
       <item value="saleorder finance" />
-      <item value="lways use constructor based dependency injection in your beans. Always use assertions for mandatory dependencies&quot;." />
-      <item value="error Limit" />
-      <item value="peek" />
-      <item value="finance flow can not modify" />
-      <item value="To Int Bi Function" />
-      <item value="Constant for the &quot;CJK Compatibility Ideographs&quot; Unicode character * block." />
-      <item value="Outlay" />
-      <item value="query Customer Outlay" />
-      <item value="Returns a stream consisting of the elements of this stream, sorted according to natural order. If the elements of this stream are not Comparable, a java.lang.ClassCastException may be thrown when the terminal operation is executed. For ordered streams, the sort is stable. For unordered streams, no stability guarantees are made. This is a stateful intermediate operation." />
-      <item value="Returns a stream consisting of the elements of this stream, sorted according to natural order. If the elements of this stream are not Comparable, a java.lang.ClassCastException may be thrown when the terminal operation is executed.&#10;For ordered streams, the sort is stable. For unordered streams, no stability guarantees are made.&#10;This is a stateful intermediate operation." />
-      <item value="先将ID排序，再分批次查询，一批100条" />
-      <item value="Returns a stream consisting of the results of replacing each element of this stream with the contents of a mapped stream produced by applying the provided mapping function to each element. Each mapped stream is closed after its contents have been placed into this stream. (If a mapped stream is null an empty stream is used, instead.)" />
-      <item value="product No" />
-      <item value="ELEMENT LEVEL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="956" />
-        <entry key="ENGLISH" value="956" />
+        <entry key="CHINESE" value="968" />
+        <entry key="ENGLISH" value="969" />
         <entry key="ARABIC" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="2" />
