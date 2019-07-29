@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="summary By Pay Type" />
+      <item value="Mock Bean" />
+      <item value="Mockito will try to inject mocks only either by constructor injection, setter injection, or property injection in order and as described below. If any of the following strategy fail, then Mockito won't report failure; i.e. you will have to provide dependencies yourself." />
+      <item value="Mark a field on which injection should be performed. Allows shorthand mock and spy injection. Minimizes repetitive mock and spy injection." />
+      <item value="Mark a field on which injection should be performed.&#10;Allows shorthand mock and spy injection.&#10;Minimizes repetitive mock and spy injection." />
+      <item value="Injectable constructors are annotated with @Inject and accept zero or more dependencies as arguments. @Inject can apply to at most one constructor per class." />
+      <item value="Identifies injectable constructors, methods, and fields. May apply to static as well as instance members. An injectable member may have any access modifier (private, package-private, protected, public). Constructors are injected first, followed by fields, and then methods. Fields and methods in superclasses are injected before those in subclasses. Ordering of injection among fields and among methods in the same class is not specified." />
       <item value="init invoker factory" />
       <item value="admin-client (rpc invoker)" />
       <item value="Executor Registry" />
@@ -44,18 +51,11 @@
       <item value="work Queue" />
       <item value="thread Factory" />
       <item value="finance Flow Items" />
-      <item value="Stock Finance Flow Item" />
-      <item value="remove For Duplicate" />
-      <item value="assist Stats Detail" />
-      <item value="Field injection is not recommended less... (Ctrl+F1) Inspection info: Spring Team recommends: &quot;Always use constructor based dependency injection in your beans. Always use assertions for mandatory dependencies&quot;." />
-      <item value="Implicitly sets a tag for the operations, legacy support (read description).&#10;In swagger-core 1.3.X, this was used as the 'path' that is to host the API Declaration of the resource. This is no longer relevant in swagger-core 1.5.X.&#10;If tags() is not used, this value will be used to set the tag for the operations described by this resource. Otherwise, the value will be ignored.&#10;The leading / (if exists) will be removed." />
-      <item value="Not used in 1.5.X, kept for legacy support." />
-      <item value="saleorder finance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="968" />
-        <entry key="ENGLISH" value="969" />
+        <entry key="CHINESE" value="970" />
+        <entry key="ENGLISH" value="971" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
