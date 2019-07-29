@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return {@code true} if there is a value present, otherwise {@code false}." />
       <item value="Caller Runs Policy" />
       <item value="Rejected Execution Handler" />
       <item value="Blocking Queue" />
@@ -50,12 +51,11 @@
       <item value="WARNING! Nothing in this class should be @Autowired. It causes NPEs because of some lifecycle race condition." />
       <item value="the bean factory to register with" />
       <item value="Register the given bean definition with the given bean factory." />
-      <item value="verify annotated class is an interface" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="936" />
-        <entry key="ENGLISH" value="937" />
+        <entry key="CHINESE" value="937" />
+        <entry key="ENGLISH" value="938" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
