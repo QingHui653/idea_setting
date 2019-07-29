@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Collection" />
+      <item value="query First Three Product Image" />
+      <item value="Cash" />
       <item value="merge Function" />
       <item value="Allows passing an empty value" />
       <item value="allow Empty Value" />
@@ -48,14 +51,11 @@
       <item value="product Spec Element Id 1" />
       <item value="Returns a possibly parallel Stream with this collection as its source. It is allowable for this method to return a sequential stream. This method should be overridden when the spliterator() method cannot return a spliterator that is IMMUTABLE, CONCURRENT, or late-binding. (See spliterator() for details.)" />
       <item value="Returns a possibly parallel Stream with this collection as its source. It is allowable for this method to return a sequential stream.&#10;This method should be overridden when the spliterator() method cannot return a spliterator that is IMMUTABLE, CONCURRENT, or late-binding. (See spliterator() for details.)" />
-      <item value="parallel Stream" />
-      <item value="sequence" />
-      <item value="invoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="948" />
-        <entry key="ENGLISH" value="948" />
+        <entry key="CHINESE" value="951" />
+        <entry key="ENGLISH" value="952" />
         <entry key="ARABIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
