@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Provides the PollerMetadata options for the Messaging annotations for polled endpoints. It is an analogue of the XML &lt;poller/&gt; element, but provides only simple attributes. If the PollerMetadata requires more options (e.g. Transactional and other Advices) or initialDelay, receiveTimeout etc, the PollerMetadata should be configured as a generic bean and its bean name can be specified as the value attribute of this annotation. In that case, the other attributes are not allowed. Non-reference attributes support Property Placeholder resolutions." />
+      <item value="Provides the PollerMetadata options for the Messaging annotations for polled endpoints. It is an analogue of the XML &lt;poller/&gt; element, but provides only simple attributes. If the PollerMetadata requires more options (e.g. Transactional and other Advices) or initialDelay, receiveTimeout etc, the PollerMetadata should be configured as a generic bean and its bean name can be specified as the value attribute of this annotation. In that case, the other attributes are not allowed.&#10;Non-reference attributes support Property Placeholder resolutions." />
+      <item value="the Poller options for a polled endpoint (org.springframework.integration.scheduling.PollerMetadata). This attribute is an array just to allow an empty default (no poller). Only one Poller element is allowed. NOTE: a Poller here has Poller.maxMessagesPerPoll() set to 1 by default." />
+      <item value="Dispatcher has no subscribers" />
       <item value="Cannot prepare queue for listener. Either the queue doesn't exist or the broker will not allow us to use it" />
       <item value="Consumer received fatal exception on startup" />
       <item value="java.io.IOException: null" />
@@ -47,15 +51,11 @@
       <item value="query First Three Product Image" />
       <item value="Cash" />
       <item value="merge Function" />
-      <item value="Allows passing an empty value" />
-      <item value="allow Empty Value" />
-      <item value="Specifies a reference to the corresponding type definition, overrides any other metadata specified" />
-      <item value="Allows a model property to be designated as read only." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="991" />
-        <entry key="ENGLISH" value="992" />
+        <entry key="CHINESE" value="993" />
+        <entry key="ENGLISH" value="993" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
