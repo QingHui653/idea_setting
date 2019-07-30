@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="only support single node" />
       <item value="summary By Pay Type" />
       <item value="Mock Bean" />
       <item value="Mockito will try to inject mocks only either by constructor injection, setter injection, or property injection in order and as described below. If any of the following strategy fail, then Mockito won't report failure; i.e. you will have to provide dependencies yourself." />
@@ -50,12 +51,11 @@
       <item value="the handler to use when execution is blocked * because the thread bounds and queue capacities are reached" />
       <item value="work Queue" />
       <item value="thread Factory" />
-      <item value="finance Flow Items" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="970" />
-        <entry key="ENGLISH" value="971" />
+        <entry key="CHINESE" value="971" />
+        <entry key="ENGLISH" value="972" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
