@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Skipping self join check for &quot;5e8dc40f0a71&quot; since the cluster is too small" />
+      <item value="Rebalanced 1 servers," />
       <item value="UPDATE ACCOUNTID" />
       <item value="UPDATE" />
       <item value="DELETE" />
@@ -49,13 +51,11 @@
       <item value="Logic Service" />
       <item value=" Logic" />
       <item value="Debt" />
-      <item value="Return {@code true} if there is a value present, otherwise {@code false}." />
-      <item value="Caller Runs Policy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="981" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="CHINESE" value="983" />
+        <entry key="ENGLISH" value="984" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
