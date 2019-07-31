@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CLUSTERING" />
+      <item value="BROADCASTING" />
+      <item value="consume Mode" />
+      <item value="hard code config, override default" />
+      <item value="Success consumption" />
+      <item value="Failure consumption,later try to consume" />
       <item value="message Id" />
       <item value="A method annotated with @StreamListener having a return type should also have an outbound target specified" />
       <item value="The destination for a message created from the return value of a method." />
@@ -45,17 +51,11 @@
       <item value="mark Script" />
       <item value="destroy handler, invoked when JobThread destroy" />
       <item value="init handler, invoked when JobThread init" />
-      <item value="fail timeout" />
-      <item value="I Job Handler" />
-      <item value="新访客判断标准，准确的判断是此查询结果（因为有可能之前有提交申请访问，不能只看update影响行数来断定）" />
-      <item value="The default rejected execution handler" />
-      <item value="Abort Policy" />
-      <item value="ORDERNOTEXIST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="998" />
-        <entry key="ENGLISH" value="999" />
+        <entry key="CHINESE" value="1005" />
+        <entry key="ENGLISH" value="1006" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
