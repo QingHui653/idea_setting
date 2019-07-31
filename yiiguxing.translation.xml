@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="辅助" />
+      <item value="错误码" />
+      <item value="模块" />
+      <item value="调拨" />
+      <item value="调拨模块错误码" />
+      <item value="** 调拨模块错误码 41" />
+      <item value="The following properties came from @RocketMQMessageListener." />
+      <item value=" 一个进程最多开启16个线程池" />
+      <item value="contribute" />
+      <item value="contribute Midware" />
+      <item value="contribute Basic" />
+      <item value="G1 Young Generation" />
+      <item value="G1 Old Generation" />
+      <item value="REQUEST LAST COUNT MAP" />
       <item value="CLUSTERING" />
       <item value="BROADCASTING" />
       <item value="consume Mode" />
@@ -37,25 +51,11 @@
       <item value="Mockito will try to inject mocks only either by constructor injection, setter injection, or property injection in order and as described below. If any of the following strategy fail, then Mockito won't report failure; i.e. you will have to provide dependencies yourself." />
       <item value="Mark a field on which injection should be performed. Allows shorthand mock and spy injection. Minimizes repetitive mock and spy injection." />
       <item value="Mark a field on which injection should be performed.&#10;Allows shorthand mock and spy injection.&#10;Minimizes repetitive mock and spy injection." />
-      <item value="Injectable constructors are annotated with @Inject and accept zero or more dependencies as arguments. @Inject can apply to at most one constructor per class." />
-      <item value="Identifies injectable constructors, methods, and fields. May apply to static as well as instance members. An injectable member may have any access modifier (private, package-private, protected, public). Constructors are injected first, followed by fields, and then methods. Fields and methods in superclasses are injected before those in subclasses. Ordering of injection among fields and among methods in the same class is not specified." />
-      <item value="init invoker factory" />
-      <item value="admin-client (rpc invoker)" />
-      <item value="Executor Registry" />
-      <item value="xxl-job, executor JobLogFileCleanThread thread destory." />
-      <item value="inner" />
-      <item value="do not support inner class；" />
-      <item value="、obj need private and set/get；" />
-      <item value="sharding total" />
-      <item value="sharding index" />
-      <item value="mark Script" />
-      <item value="destroy handler, invoked when JobThread destroy" />
-      <item value="init handler, invoked when JobThread init" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1005" />
-        <entry key="ENGLISH" value="1006" />
+        <entry key="CHINESE" value="1019" />
+        <entry key="ENGLISH" value="1019" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
