@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="increment And Get Modulo" />
+      <item value="The modulo to bound the value of the counter." />
+      <item value="Inspired by the implementation of" />
+      <item value="Inspired by the implementation of {@link AtomicInteger#incrementAndGet()}." />
+      <item value="No up servers available from load balancer" />
+      <item value="没有指定group，说明都可以进行处理" />
+      <item value="All known servers, both reachable and unreachable." />
+      <item value="Only the servers that are up and reachable." />
+      <item value="REACHABLE" />
+      <item value="REACHABLE)" />
+      <item value="count" />
+      <item value="server" />
+      <item value="Object Mapper" />
       <item value="辅助" />
       <item value="错误码" />
       <item value="模块" />
@@ -38,24 +51,11 @@
       <item value="channel error; protocol method: #method&lt;channel.close&gt;(reply-code=405, reply-text=RESOURCE_LOCKED - cannot obtain exclusive access to locked queue 'input.anonymous.hO0_-LypSoObV5NXW0xa3w' in vhost '/'. It could be originally declared on another connection or the exclusive property value does not match that of the original declaration., class-id=50, method-id=10)" />
       <item value="Skipping self join check for &quot;5e8dc40f0a71&quot; since the cluster is too small" />
       <item value="Rebalanced 1 servers," />
-      <item value="UPDATE ACCOUNTID" />
-      <item value="UPDATE" />
-      <item value="DELETE" />
-      <item value="ACCOUNTID" />
-      <item value="If you want an embedded database please put a supported one on the classpath. If you have database settings to be loaded from a particular profile you may need to active it (no profiles are currently active)." />
-      <item value="Cannot determine embedded database driver class for database type NONE" />
-      <item value="The dependencies of some of the beans in the application context form a cycle:" />
-      <item value="only support single node" />
-      <item value="summary By Pay Type" />
-      <item value="Mock Bean" />
-      <item value="Mockito will try to inject mocks only either by constructor injection, setter injection, or property injection in order and as described below. If any of the following strategy fail, then Mockito won't report failure; i.e. you will have to provide dependencies yourself." />
-      <item value="Mark a field on which injection should be performed. Allows shorthand mock and spy injection. Minimizes repetitive mock and spy injection." />
-      <item value="Mark a field on which injection should be performed.&#10;Allows shorthand mock and spy injection.&#10;Minimizes repetitive mock and spy injection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1019" />
-        <entry key="ENGLISH" value="1019" />
+        <entry key="CHINESE" value="1031" />
+        <entry key="ENGLISH" value="1032" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
