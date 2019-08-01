@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="total Debt" />
+      <item value="during Paid" />
+      <item value="during Pay" />
       <item value="发货单ID" />
       <item value="销售单id" />
       <item value="updatePromotionCorpNumHandler jobFeignUtil.updatePromotionCorpNumHandler fail, response" />
@@ -48,14 +51,11 @@
       <item value="The destination for a message created from the return value of a method." />
       <item value="Listener threw exception" />
       <item value="Dispatcher has no subscribers" />
-      <item value="Retry Policy Exhausted" />
-      <item value="Provides the PollerMetadata options for the Messaging annotations for polled endpoints. It is an analogue of the XML &lt;poller/&gt; element, but provides only simple attributes. If the PollerMetadata requires more options (e.g. Transactional and other Advices) or initialDelay, receiveTimeout etc, the PollerMetadata should be configured as a generic bean and its bean name can be specified as the value attribute of this annotation. In that case, the other attributes are not allowed. Non-reference attributes support Property Placeholder resolutions." />
-      <item value="Provides the PollerMetadata options for the Messaging annotations for polled endpoints. It is an analogue of the XML &lt;poller/&gt; element, but provides only simple attributes. If the PollerMetadata requires more options (e.g. Transactional and other Advices) or initialDelay, receiveTimeout etc, the PollerMetadata should be configured as a generic bean and its bean name can be specified as the value attribute of this annotation. In that case, the other attributes are not allowed.&#10;Non-reference attributes support Property Placeholder resolutions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1040" />
-        <entry key="ENGLISH" value="1040" />
+        <entry key="CHINESE" value="1042" />
+        <entry key="ENGLISH" value="1043" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
