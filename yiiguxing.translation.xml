@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ignored-patterns: /**/internal/**" />
+      <item value="Internal Only" />
       <item value="cur Debt" />
       <item value="stock Finance Flow Entitys" />
       <item value="DebtSummary extendData = new DebtSummary();" />
@@ -49,13 +51,11 @@
       <item value="consume Mode" />
       <item value="hard code config, override default" />
       <item value="Success consumption" />
-      <item value="Failure consumption,later try to consume" />
-      <item value="message Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1045" />
-        <entry key="ENGLISH" value="1045" />
+        <entry key="CHINESE" value="1048" />
+        <entry key="ENGLISH" value="1049" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
