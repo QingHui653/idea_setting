@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" ancestor" />
+      <item value="ancestor Handler" />
+      <item value="置的子链节点及子链的所有下级节点不能包含当前节点及当前节点的所有上级节点，防止链成环" />
+      <item value="An informative annotation type used to indicate that an interface type declaration is intended to be a functional interface as defined by the Java Language Specification. Conceptually, a functional interface has exactly one abstract method. Since default methods have an implementation, they are not abstract. If an interface declares an abstract method overriding one of the public methods of java.lang.Object, that also does not count toward the interface's abstract method count since any implementation of the interface will have an implementation from java.lang.Object or elsewhere. Note that instances of functional interfaces can be created with lambda expressions, method references, or constructor references. If a type is annotated with this annotation type, compilers are required to generate an error message unless: The type is an interface type and not an annotation type, enum, or class. The annotated type satisfies the requirements of a functional interface. However, the compiler will treat any interface meeting the definition of a functional interface as a functional interface regardless of whether or not a FunctionalInterface annotation is present on the interface declaration." />
+      <item value="An informative annotation type used to indicate that an interface type declaration is intended to be a functional interface as defined by the Java Language Specification. Conceptually, a functional interface has exactly one abstract method. Since default methods have an implementation, they are not abstract. If an interface declares an abstract method overriding one of the public methods of java.lang.Object, that also does not count toward the interface's abstract method count since any implementation of the interface will have an implementation from java.lang.Object or elsewhere.&#10;Note that instances of functional interfaces can be created with lambda expressions, method references, or constructor references.&#10;If a type is annotated with this annotation type, compilers are required to generate an error message unless:&#10;The type is an interface type and not an annotation type, enum, or class.&#10;The annotated type satisfies the requirements of a functional interface.&#10;However, the compiler will treat any interface meeting the definition of a functional interface as a functional interface regardless of whether or not a FunctionalInterface annotation is present on the interface declaration." />
       <item value="ignored-patterns: /**/internal/**" />
       <item value="Internal Only" />
       <item value="cur Debt" />
@@ -46,19 +51,14 @@
       <item value="G1 Young Generation" />
       <item value="G1 Old Generation" />
       <item value="REQUEST LAST COUNT MAP" />
-      <item value="CLUSTERING" />
-      <item value="BROADCASTING" />
-      <item value="consume Mode" />
-      <item value="hard code config, override default" />
-      <item value="Success consumption" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1048" />
-        <entry key="ENGLISH" value="1049" />
+        <entry key="CHINESE" value="1050" />
+        <entry key="ENGLISH" value="1051" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="DANISH" value="1" />
+        <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="2" />
