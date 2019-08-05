@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fix" />
+      <item value="flow" />
       <item value=" ancestor" />
       <item value="ancestor Handler" />
       <item value="置的子链节点及子链的所有下级节点不能包含当前节点及当前节点的所有上级节点，防止链成环" />
@@ -49,13 +51,11 @@
       <item value="contribute Midware" />
       <item value="contribute Basic" />
       <item value="G1 Young Generation" />
-      <item value="G1 Old Generation" />
-      <item value="REQUEST LAST COUNT MAP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1050" />
-        <entry key="ENGLISH" value="1051" />
+        <entry key="CHINESE" value="1053" />
+        <entry key="ENGLISH" value="1054" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
