@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sale Product Entity.get Cost())" />
+      <item value="sale Product Entity" />
       <item value="query Stock Sum Profit" />
       <item value="Invalid Pipeline Operator" />
       <item value="fix" />
@@ -49,13 +51,11 @@
       <item value="** 调拨模块错误码 41" />
       <item value="The following properties came from @RocketMQMessageListener." />
       <item value=" 一个进程最多开启16个线程池" />
-      <item value="contribute" />
-      <item value="contribute Midware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1055" />
-        <entry key="ENGLISH" value="1056" />
+        <entry key="CHINESE" value="1057" />
+        <entry key="ENGLISH" value="1058" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
