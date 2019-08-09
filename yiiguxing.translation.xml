@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Boxing of already boxed 'redisKey'" />
+      <item value="Boxing of already boxed 'requestId'" />
+      <item value="lock expire time" />
+      <item value="sleep Time" />
+      <item value="30000 L" />
+      <item value="LOCK EXPIRE_30" />
+      <item value="INTERVAL" />
+      <item value="RETRYINGCOUNT" />
+      <item value="DEFAULT BLOCKING INTERVAL" />
       <item value="no instance(s) of type variable(s) R exist so that void conforms to R" />
       <item value="Copy the property values of the given source bean into the target bean. * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored. * &lt;p&gt;This is just a convenience method. For more complex transfer needs, * consider using a full BeanWrapper." />
       <item value="get Quantity Unit Ratio" />
@@ -42,25 +51,16 @@
       <item value="没有指定group，说明都可以进行处理" />
       <item value="All known servers, both reachable and unreachable." />
       <item value="Only the servers that are up and reachable." />
-      <item value="REACHABLE" />
-      <item value="REACHABLE)" />
-      <item value="count" />
-      <item value="server" />
-      <item value="Object Mapper" />
-      <item value="辅助" />
-      <item value="错误码" />
-      <item value="模块" />
-      <item value="调拨" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1060" />
-        <entry key="ENGLISH" value="1060" />
+        <entry key="CHINESE" value="1066" />
+        <entry key="ENGLISH" value="1066" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
