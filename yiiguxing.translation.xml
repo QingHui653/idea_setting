@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assert that the target bean class is an instance of the class where the given * method is declared. In some cases the actual controller instance at request- * processing time may be a JDK dynamic proxy (lazy initialization, prototype * beans, and others). {@code @Controller}'s that require proxying should prefer * class-based proxy mechanisms." />
+      <item value="The mapped handler method class" />
       <item value="No instances available for localhost" />
       <item value="DiscoveryClient_810-CLIENT/localhost:810-client:9003 - registration status: 204" />
       <item value="registering" />
@@ -49,13 +51,11 @@
       <item value="发货单ID" />
       <item value="销售单id" />
       <item value="updatePromotionCorpNumHandler jobFeignUtil.updatePromotionCorpNumHandler fail, response" />
-      <item value="Update Promotion Corp Num Handler" />
-      <item value="Corp Num(" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1075" />
-        <entry key="ENGLISH" value="1076" />
+        <entry key="CHINESE" value="1077" />
+        <entry key="ENGLISH" value="1078" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
