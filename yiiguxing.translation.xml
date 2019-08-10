@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Figure out the right behavior, and document it" />
+      <item value="kevinb" />
+      <item value="TODO(kevinb): Figure out the right behavior, and document it" />
       <item value="Boxing of already boxed 'redisKey'" />
       <item value="Boxing of already boxed 'requestId'" />
       <item value="lock expire time" />
@@ -48,15 +51,13 @@
       <item value="Inspired by the implementation of" />
       <item value="Inspired by the implementation of {@link AtomicInteger#incrementAndGet()}." />
       <item value="No up servers available from load balancer" />
-      <item value="没有指定group，说明都可以进行处理" />
-      <item value="All known servers, both reachable and unreachable." />
-      <item value="Only the servers that are up and reachable." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1066" />
-        <entry key="ENGLISH" value="1066" />
+        <entry key="CHINESE" value="1067" />
+        <entry key="ENGLISH" value="1068" />
         <entry key="ARABIC" value="1" />
+        <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
