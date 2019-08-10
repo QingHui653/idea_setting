@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DiscoveryClient_810-CLIENT/localhost:810-client:9003 - registration status: 204" />
+      <item value="registering" />
+      <item value="STARTING" />
+      <item value="Setting initial instance status as: STARTING" />
+      <item value="PANGDO-CLIENT/localhost:pangdo-client:9003 - registration status: 204" />
+      <item value="registration status: 204" />
       <item value="ensure the request is set. TODO: remove in Feign 10" />
       <item value="register Default Configuration" />
       <item value="Figure out the right behavior, and document it" />
@@ -45,17 +51,11 @@
       <item value="Update Promotion Corp Num Handler" />
       <item value="Corp Num(" />
       <item value="Promotion" />
-      <item value="update Promotion Corp Num" />
-      <item value="decrypt Key" />
-      <item value="Json Deserializer" />
-      <item value="increment And Get Modulo" />
-      <item value="The modulo to bound the value of the counter." />
-      <item value="Inspired by the implementation of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1069" />
-        <entry key="ENGLISH" value="1070" />
+        <entry key="CHINESE" value="1074" />
+        <entry key="ENGLISH" value="1075" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -72,6 +72,7 @@
         <entry key="SLOVAK" value="2" />
         <entry key="WELSH" value="11" />
         <entry key="SPANISH" value="1" />
+        <entry key="SUNDANESE" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="JAVANESE" value="1" />
       </map>
