@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not read from remote repository." />
       <item value="Load Balancer Auto Configuration" />
       <item value="Load Balancer Retry Properties" />
       <item value="Retry Template" />
@@ -50,7 +51,6 @@
       <item value="supplier Finance" />
       <item value="total Debt" />
       <item value="during Paid" />
-      <item value="during Pay" />
     </histories>
     <option name="languageScores">
       <map>
