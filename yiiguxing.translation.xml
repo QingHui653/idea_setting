@@ -1,6 +1,43 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A common Spring annotation to declare that annotated elements can be {@code null} under * some circumstance. Leverages JSR 305 meta-annotations to indicate nullability in Java * to common tools with JSR 305 support and used by Kotlin to infer nullability of Spring API. * * &lt;p&gt;Should be used at parameter, return value, and field level. Methods override should * repeat parent {@code @Nullable} annotations unless they behave differently. * * &lt;p&gt;Can be used in association with {@code @NonNullApi} or {@code @NonNullFields} to * override the default non-nullable semantic to nullable." />
+      <item value="Check whether the given {@code String} is empty. * &lt;p&gt;This method accepts any Object as an argument, comparing it to * {@code null} and the empty String. As a consequence, this method * will never return {@code true} for a non-null non-String object. * &lt;p&gt;The Object signature is useful for general attribute handling code * that commonly deals with Strings but generally has to iterate over * Objects since attributes may e.g. be primitive value objects as well." />
+      <item value="Resolve the given String value, for example parsing placeholders. * @param strVal the original String value (never {@code null}) * @return the resolved String value (may be {@code null} when resolved to a null * value), possibly the original String value itself (in case of no placeholders * to resolve or when ignoring unresolvable placeholders) * @throws IllegalArgumentException in case of an unresolvable String value" />
+      <item value="resolve String Value" />
+      <item value="Value separator for system property placeholders:" />
+      <item value="Prefix for system property placeholders" />
+      <item value="Prefix for system property placeholders: &quot;${" />
+      <item value="parameterized types are only assignable to other parameterized types and class types" />
+      <item value="a parameterized type is always assignable to its raw class type" />
+      <item value="just comparing two classes" />
+      <item value="all types are assignable to themselves and to class Object" />
+      <item value="the value type that should be assigned to the target type" />
+      <item value="the target type" />
+      <item value="rhs Type" />
+      <item value="lhs Type" />
+      <item value="is Assignable" />
+      <item value="Extension of {@link java.io.InputStream} that allows for optimized * implementations of message digesting." />
+      <item value="Extension of {@link java.io.InputStream} that allows for optimized" />
+      <item value="Update Message Digest Input Stream" />
+      <item value="get Segment For Hash" />
+      <item value="RESIZE" />
+      <item value="SKIP IF EMPTY" />
+      <item value="RESTRUCTURE AFTER" />
+      <item value="RESTRUCTURE BEFORE" />
+      <item value="Various options supported by a {@code Task}." />
+      <item value="Array of segments indexed using the high order bits from the hash." />
+      <item value="Weak Reference" />
+      <item value="Soft Reference" />
+      <item value="NOTE: The use of references means that there is no guarantee that items placed into the map will be subsequently available. The garbage collector may discard references at any time, so it may appear that an unknown thread is silently removing entries. If not explicitly specified, this implementation will use soft entry references." />
+      <item value="NOTE: The use of references means that there is no guarantee that items placed into the map will be subsequently available. The garbage collector may discard references at any time, so it may appear that an unknown thread is silently removing entries.&#10;If not explicitly specified, this implementation will use soft entry references." />
+      <item value="A ConcurrentHashMap that uses soft or weak references for both keys and values. This class can be used as an alternative to Collections.synchronizedMap(new WeakHashMap&lt;K, Reference&lt;V&gt;&gt;()) in order to support better performance when accessed concurrently. This implementation follows the same design constraints as ConcurrentHashMap with the exception that null values and null keys are supported." />
+      <item value="A ConcurrentHashMap that uses soft or weak references for both keys and values.&#10;This class can be used as an alternative to Collections.synchronizedMap(new WeakHashMap&lt;K, Reference&lt;V&gt;&gt;()) in order to support better performance when accessed concurrently. This implementation follows the same design constraints as ConcurrentHashMap with the exception that null values and null keys are supported." />
+      <item value="load Balanced" />
+      <item value="Load Balanced Retry Factory" />
+      <item value="factory" />
+      <item value="Factory for SpringLoadBalancer instances that caches the entries created." />
+      <item value="Buffer pool(s) dump completed at 190609 10:36:53" />
       <item value="A QueryMapEncoder encodes Objects into maps of query parameter names to values." />
       <item value="Reflective" />
       <item value="Reflective Feign" />
@@ -14,48 +51,11 @@
       <item value="No instances available for localhost" />
       <item value="DiscoveryClient_810-CLIENT/localhost:810-client:9003 - registration status: 204" />
       <item value="registering" />
-      <item value="STARTING" />
-      <item value="Setting initial instance status as: STARTING" />
-      <item value="PANGDO-CLIENT/localhost:pangdo-client:9003 - registration status: 204" />
-      <item value="registration status: 204" />
-      <item value="ensure the request is set. TODO: remove in Feign 10" />
-      <item value="register Default Configuration" />
-      <item value="Figure out the right behavior, and document it" />
-      <item value="kevinb" />
-      <item value="TODO(kevinb): Figure out the right behavior, and document it" />
-      <item value="Boxing of already boxed 'redisKey'" />
-      <item value="Boxing of already boxed 'requestId'" />
-      <item value="lock expire time" />
-      <item value="sleep Time" />
-      <item value="30000 L" />
-      <item value="LOCK EXPIRE_30" />
-      <item value="INTERVAL" />
-      <item value="RETRYINGCOUNT" />
-      <item value="DEFAULT BLOCKING INTERVAL" />
-      <item value="no instance(s) of type variable(s) R exist so that void conforms to R" />
-      <item value="Copy the property values of the given source bean into the target bean. * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored. * &lt;p&gt;This is just a convenience method. For more complex transfer needs, * consider using a full BeanWrapper." />
-      <item value="get Quantity Unit Ratio" />
-      <item value="数量单位index" />
-      <item value="sale Product Entity.get Cost())" />
-      <item value="sale Product Entity" />
-      <item value="query Stock Sum Profit" />
-      <item value="Invalid Pipeline Operator" />
-      <item value="fix" />
-      <item value="flow" />
-      <item value=" ancestor" />
-      <item value="ancestor Handler" />
-      <item value="置的子链节点及子链的所有下级节点不能包含当前节点及当前节点的所有上级节点，防止链成环" />
-      <item value="An informative annotation type used to indicate that an interface type declaration is intended to be a functional interface as defined by the Java Language Specification. Conceptually, a functional interface has exactly one abstract method. Since default methods have an implementation, they are not abstract. If an interface declares an abstract method overriding one of the public methods of java.lang.Object, that also does not count toward the interface's abstract method count since any implementation of the interface will have an implementation from java.lang.Object or elsewhere. Note that instances of functional interfaces can be created with lambda expressions, method references, or constructor references. If a type is annotated with this annotation type, compilers are required to generate an error message unless: The type is an interface type and not an annotation type, enum, or class. The annotated type satisfies the requirements of a functional interface. However, the compiler will treat any interface meeting the definition of a functional interface as a functional interface regardless of whether or not a FunctionalInterface annotation is present on the interface declaration." />
-      <item value="An informative annotation type used to indicate that an interface type declaration is intended to be a functional interface as defined by the Java Language Specification. Conceptually, a functional interface has exactly one abstract method. Since default methods have an implementation, they are not abstract. If an interface declares an abstract method overriding one of the public methods of java.lang.Object, that also does not count toward the interface's abstract method count since any implementation of the interface will have an implementation from java.lang.Object or elsewhere.&#10;Note that instances of functional interfaces can be created with lambda expressions, method references, or constructor references.&#10;If a type is annotated with this annotation type, compilers are required to generate an error message unless:&#10;The type is an interface type and not an annotation type, enum, or class.&#10;The annotated type satisfies the requirements of a functional interface.&#10;However, the compiler will treat any interface meeting the definition of a functional interface as a functional interface regardless of whether or not a FunctionalInterface annotation is present on the interface declaration." />
-      <item value="ignored-patterns: /**/internal/**" />
-      <item value="Internal Only" />
-      <item value="cur Debt" />
-      <item value="stock Finance Flow Entitys" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1085" />
-        <entry key="ENGLISH" value="1086" />
+        <entry key="CHINESE" value="1119" />
+        <entry key="ENGLISH" value="1120" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
