@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corp Id Req" />
       <item value="Discovery" />
       <item value="Sets up a Zuul server endpoint and installs some reverse proxy filters in it, so it can * forward requests to backend servers. The backends can be registered manually through * configuration or via DiscoveryClient." />
       <item value="Set up the application to act as a generic Zuul server without any built-in reverse * proxy features. The routes into the Zuul server can be configured through" />
@@ -50,12 +51,11 @@
       <item value="lhs Type" />
       <item value="is Assignable" />
       <item value="Extension of {@link java.io.InputStream} that allows for optimized * implementations of message digesting." />
-      <item value="Extension of {@link java.io.InputStream} that allows for optimized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1154" />
-        <entry key="ENGLISH" value="1155" />
+        <entry key="CHINESE" value="1155" />
+        <entry key="ENGLISH" value="1156" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
