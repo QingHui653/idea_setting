@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pivotal Software, Inc." />
+      <item value="Sets up a Zuul server endpoint and installs some reverse proxy filters in it, so it can * forward requests to backend servers. The backends can be registered manually through * configuration or via DiscoveryClient." />
+      <item value="Responsible for adding in a marker bean to trigger activation of" />
+      <item value="Enable Circuit Breaker" />
+      <item value="spring.cloud.circuit.breaker.enabled" />
+      <item value="Import a single circuit breaker implementation Configuration" />
+      <item value="Circuit Breaker" />
+      <item value="Annotation to enable a CircuitBreaker implementation." />
+      <item value="only if in servlet 3.0 env" />
       <item value="that parses form data and reencodes it for downstream services" />
       <item value="the original HttpServletRequest" />
       <item value="There is a bug in zuul 1.2.2 where HttpServletRequestWrapper.getRequest returns a wrapped request rather than the raw one." />
@@ -42,20 +51,11 @@
       <item value="get Segment For Hash" />
       <item value="RESIZE" />
       <item value="SKIP IF EMPTY" />
-      <item value="RESTRUCTURE AFTER" />
-      <item value="RESTRUCTURE BEFORE" />
-      <item value="Various options supported by a {@code Task}." />
-      <item value="Array of segments indexed using the high order bits from the hash." />
-      <item value="Weak Reference" />
-      <item value="Soft Reference" />
-      <item value="NOTE: The use of references means that there is no guarantee that items placed into the map will be subsequently available. The garbage collector may discard references at any time, so it may appear that an unknown thread is silently removing entries. If not explicitly specified, this implementation will use soft entry references." />
-      <item value="NOTE: The use of references means that there is no guarantee that items placed into the map will be subsequently available. The garbage collector may discard references at any time, so it may appear that an unknown thread is silently removing entries.&#10;If not explicitly specified, this implementation will use soft entry references." />
-      <item value="A ConcurrentHashMap that uses soft or weak references for both keys and values. This class can be used as an alternative to Collections.synchronizedMap(new WeakHashMap&lt;K, Reference&lt;V&gt;&gt;()) in order to support better performance when accessed concurrently. This implementation follows the same design constraints as ConcurrentHashMap with the exception that null values and null keys are supported." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1137" />
-        <entry key="ENGLISH" value="1138" />
+        <entry key="CHINESE" value="1148" />
+        <entry key="ENGLISH" value="1149" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
