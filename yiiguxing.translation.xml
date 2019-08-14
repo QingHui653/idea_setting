@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Multipart" />
+      <item value="From Multipart" />
+      <item value="extract" />
+      <item value="A time based monitoring factory that does nothing." />
+      <item value="Empty Tracer" />
+      <item value="Tracer" />
+      <item value="A counter based monitoring factory that does nothing." />
+      <item value="Increments the counter of the given name" />
+      <item value="A counter based monitoring factory that uses {@link MeterRegistry} to increment counters." />
+      <item value="Meter Registry" />
+      <item value="A counter based monitoring factory that uses" />
       <item value="corp Id Req" />
       <item value="Discovery" />
       <item value="Sets up a Zuul server endpoint and installs some reverse proxy filters in it, so it can * forward requests to backend servers. The backends can be registered manually through * configuration or via DiscoveryClient." />
@@ -40,22 +51,11 @@
       <item value="resolve String Value" />
       <item value="Value separator for system property placeholders:" />
       <item value="Prefix for system property placeholders" />
-      <item value="Prefix for system property placeholders: &quot;${" />
-      <item value="parameterized types are only assignable to other parameterized types and class types" />
-      <item value="a parameterized type is always assignable to its raw class type" />
-      <item value="just comparing two classes" />
-      <item value="all types are assignable to themselves and to class Object" />
-      <item value="the value type that should be assigned to the target type" />
-      <item value="the target type" />
-      <item value="rhs Type" />
-      <item value="lhs Type" />
-      <item value="is Assignable" />
-      <item value="Extension of {@link java.io.InputStream} that allows for optimized * implementations of message digesting." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1155" />
-        <entry key="ENGLISH" value="1156" />
+        <entry key="CHINESE" value="1166" />
+        <entry key="ENGLISH" value="1167" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
