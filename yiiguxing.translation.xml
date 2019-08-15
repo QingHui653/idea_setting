@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Identifies a method on an {@link Endpoint} as being a read operation." />
+      <item value="Endpoint to display the zuul proxy routes" />
+      <item value="ndpoint to display the zuul proxy routes" />
+      <item value="Endpoint for listing Zuul filters." />
+      <item value="Initializes various Zuul components including" />
+      <item value="Measurement" />
+      <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream. This is an intermediate operation." />
+      <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream.&#10;This is an intermediate operation." />
+      <item value="Returns a stream consisting of the elements of this stream, additionally * performing the provided action on each element as elements are consumed * from the resulting stream. * * &lt;p&gt;This is an &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt;intermediate * operation&lt;/a&gt;. * * &lt;p&gt;For parallel stream pipelines, the action may be called at * whatever time and in whatever thread the element is made available by the * upstream operation. If the action modifies shared state, * it is responsible for providing the required synchronization." />
+      <item value="Consumer" />
+      <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream. This is an intermediate operation. For parallel stream pipelines, the action may be called at whatever time and in whatever thread the element is made available by the upstream operation. If the action modifies shared state, it is responsible for providing the required synchronization." />
+      <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream.&#10;This is an intermediate operation.&#10;For parallel stream pipelines, the action may be called at whatever time and in whatever thread the element is made available by the upstream operation. If the action modifies shared state, it is responsible for providing the required synchronization." />
       <item value="Multipart" />
       <item value="From Multipart" />
       <item value="extract" />
@@ -39,23 +51,11 @@
       <item value="a corresponding File object" />
       <item value="Resolve the given resource location to a {@code java.io.File}, * i.e. to a file in the file system. * &lt;p&gt;Does not check whether the file actually exists; simply returns * the File that the given location would correspond to. * @param resourceLocation the resource location to resolve: either a * &quot;classpath:&quot; pseudo URL, a &quot;file:&quot; URL, or a plain file path" />
       <item value="a file in the file system" />
-      <item value="URL PROTOCOL JAR" />
-      <item value="least Sig Bits" />
-      <item value="most Sig Bits" />
-      <item value="increment And Get" />
-      <item value="A simple {@link IdGenerator} that starts at 1 and increments by 1 with each call." />
-      <item value="Simple Id Generator" />
-      <item value="A common Spring annotation to declare that annotated elements can be {@code null} under * some circumstance. Leverages JSR 305 meta-annotations to indicate nullability in Java * to common tools with JSR 305 support and used by Kotlin to infer nullability of Spring API. * * &lt;p&gt;Should be used at parameter, return value, and field level. Methods override should * repeat parent {@code @Nullable} annotations unless they behave differently. * * &lt;p&gt;Can be used in association with {@code @NonNullApi} or {@code @NonNullFields} to * override the default non-nullable semantic to nullable." />
-      <item value="Check whether the given {@code String} is empty. * &lt;p&gt;This method accepts any Object as an argument, comparing it to * {@code null} and the empty String. As a consequence, this method * will never return {@code true} for a non-null non-String object. * &lt;p&gt;The Object signature is useful for general attribute handling code * that commonly deals with Strings but generally has to iterate over * Objects since attributes may e.g. be primitive value objects as well." />
-      <item value="Resolve the given String value, for example parsing placeholders. * @param strVal the original String value (never {@code null}) * @return the resolved String value (may be {@code null} when resolved to a null * value), possibly the original String value itself (in case of no placeholders * to resolve or when ignoring unresolvable placeholders) * @throws IllegalArgumentException in case of an unresolvable String value" />
-      <item value="resolve String Value" />
-      <item value="Value separator for system property placeholders:" />
-      <item value="Prefix for system property placeholders" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1166" />
-        <entry key="ENGLISH" value="1167" />
+        <entry key="CHINESE" value="1174" />
+        <entry key="ENGLISH" value="1175" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
