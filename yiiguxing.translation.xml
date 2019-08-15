@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Control duplicated message id would be ignore in seconds" />
       <item value="Identifies a method on an {@link Endpoint} as being a read operation." />
       <item value="Endpoint to display the zuul proxy routes" />
       <item value="ndpoint to display the zuul proxy routes" />
@@ -50,12 +51,11 @@
       <item value="if the resource cannot be resolved to" />
       <item value="a corresponding File object" />
       <item value="Resolve the given resource location to a {@code java.io.File}, * i.e. to a file in the file system. * &lt;p&gt;Does not check whether the file actually exists; simply returns * the File that the given location would correspond to. * @param resourceLocation the resource location to resolve: either a * &quot;classpath:&quot; pseudo URL, a &quot;file:&quot; URL, or a plain file path" />
-      <item value="a file in the file system" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1174" />
-        <entry key="ENGLISH" value="1175" />
+        <entry key="CHINESE" value="1175" />
+        <entry key="ENGLISH" value="1176" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
