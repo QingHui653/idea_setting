@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="return singleton HTTPRequestUtils object" />
+      <item value="Returns a copy of the object, or null if the object cannot * be serialized." />
+      <item value="Deep copy of an Object. The Object must be Serializable" />
+      <item value="eep copy of an Object. The Object must be Serializable" />
+      <item value="Deep Copy" />
+      <item value="Origin" />
+      <item value="chunked" />
+      <item value="transfer-encoding" />
+      <item value="X-Zuul-Filter-Executions" />
       <item value="key for use in TODO: determine use" />
       <item value="Control duplicated message id would be ignore in seconds" />
       <item value="Identifies a method on an {@link Endpoint} as being a read operation." />
@@ -42,20 +51,11 @@
       <item value="only if in servlet 3.0 env" />
       <item value="that parses form data and reencodes it for downstream services" />
       <item value="the original HttpServletRequest" />
-      <item value="There is a bug in zuul 1.2.2 where HttpServletRequestWrapper.getRequest returns a wrapped request rather than the raw one." />
-      <item value="A Servlet 3.0 compliant wrapper." />
-      <item value="Detects whether a request is ran through the DispatcherServlet or ZuulServlet. The purpose was to detect this up-front at the very beginning of Zuul filter processing and rely on this information in all filters. RequestContext is used such that the information is accessible to classes which do not have a request reference." />
-      <item value="tility class for working with Strings that have placeholder values in them. A placeholder takes the form * {@code ${name}}. Using {@code PropertyPlaceholderHelper} these placeholders can be substituted for * user-supplied values. &lt;p&gt; Values for substitution can be supplied using a {@link Properties} instance or * using a {@link PlaceholderResolver}." />
-      <item value="Make the given field accessible, explicitly setting it accessible if * necessary. The {@code setAccessible(true)} method is only called * when actually necessary, to avoid unnecessary conflicts with a JVM * SecurityManager (if active)." />
-      <item value="Naming prefix for CGLIB-renamed methods." />
-      <item value="CGLIB RENAMED METHOD PREFIX" />
-      <item value="if the resource cannot be resolved to" />
-      <item value="a corresponding File object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1176" />
-        <entry key="ENGLISH" value="1177" />
+        <entry key="CHINESE" value="1185" />
+        <entry key="ENGLISH" value="1186" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
