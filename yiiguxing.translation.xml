@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="init Slot Host Map" />
       <item value="Implemented by classes which use a load balancer to choose a server to * send a request to." />
       <item value="Represents a client side load balancer" />
       <item value="Annotation to mark a RestTemplate bean to be configured to use a LoadBalancerClient" />
@@ -50,12 +51,11 @@
       <item value="spring.cloud.circuit.breaker.enabled" />
       <item value="Import a single circuit breaker implementation Configuration" />
       <item value="Circuit Breaker" />
-      <item value="Annotation to enable a CircuitBreaker implementation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1189" />
-        <entry key="ENGLISH" value="1190" />
+        <entry key="CHINESE" value="1190" />
+        <entry key="ENGLISH" value="1191" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
