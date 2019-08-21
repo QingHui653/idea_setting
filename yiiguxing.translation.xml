@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Round Robin Rule" />
+      <item value="DEFAULT RULE" />
+      <item value="AbstractLoadBalancer contains features required for most loadbalancing * implementations. * * An anatomy of a typical LoadBalancer consists of 1. A List of Servers (nodes) * that are potentially bucketed based on a specific criteria. 2. A Class that * defines and implements a LoadBalacing Strategy via &lt;code&gt;IRule&lt;/code&gt; 3. A * Class that defines and implements a mechanism to determine the * suitability/availability of the nodes/servers in the List." />
+      <item value="List of servers that this Loadbalancer knows about" />
+      <item value="delegate to {@link #chooseServer(Object)} with parameter null." />
+      <item value="A basic implementation of the load balancer where an arbitrary list of * servers can be set as the server pool. A ping can be set to determine the * liveness of a server. Internally, this class maintains an &quot;all&quot; server list * and an &quot;up&quot; server list and use them depending on what the caller asks for." />
+      <item value="Initial list of servers. * This API also serves to add additional ones at a later time * The same logical server (host:port) could essentially be added multiple times * (helpful in cases where you want to give more &quot;weightage&quot; perhaps ..)" />
+      <item value="Interface that defines the operations for a software loadbalancer. A typical * loadbalancer minimally need a set of servers to loadbalance for, a method to * mark a particular server to be out of rotation and a call that will choose a * server from the existing list of server." />
+      <item value="Only the servers that are up and reachable." />
+      <item value="Choose a server from load balancer." />
       <item value="Implementation of BeanDefinitionRegistry interface" />
       <item value="TODO: better handling of key" />
       <item value="for backwards compatibility" />
@@ -41,21 +51,11 @@
       <item value="Tracer" />
       <item value="A counter based monitoring factory that does nothing." />
       <item value="Increments the counter of the given name" />
-      <item value="A counter based monitoring factory that uses {@link MeterRegistry} to increment counters." />
-      <item value="Meter Registry" />
-      <item value="A counter based monitoring factory that uses" />
-      <item value="corp Id Req" />
-      <item value="Discovery" />
-      <item value="Sets up a Zuul server endpoint and installs some reverse proxy filters in it, so it can * forward requests to backend servers. The backends can be registered manually through * configuration or via DiscoveryClient." />
-      <item value="Set up the application to act as a generic Zuul server without any built-in reverse * proxy features. The routes into the Zuul server can be configured through" />
-      <item value="Access-Control-Allow-Origin" />
-      <item value="Ribbon Application Context Initializer" />
-      <item value="Pivotal Software, Inc." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1199" />
-        <entry key="ENGLISH" value="1200" />
+        <entry key="CHINESE" value="1210" />
+        <entry key="ENGLISH" value="1211" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
