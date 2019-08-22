@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to decode '_id'. readString can only be called when CurrentBSONType is STRING, not when CurrentBSONType is OBJECT_ID." />
+      <item value="A custom Codec or PojoCodec may need to be explicitly configured and registered to handle this type." />
       <item value="Binary Operator" />
       <item value="a merge function, used to resolve collisions between * values associated with the same key, as supplied * to {@link Map#merge(Object, Object, BiFunction)}" />
       <item value="map Merger" />
@@ -49,13 +51,11 @@
       <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream.&#10;This is an intermediate operation." />
       <item value="Returns a stream consisting of the elements of this stream, additionally * performing the provided action on each element as elements are consumed * from the resulting stream. * * &lt;p&gt;This is an &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt;intermediate * operation&lt;/a&gt;. * * &lt;p&gt;For parallel stream pipelines, the action may be called at * whatever time and in whatever thread the element is made available by the * upstream operation. If the action modifies shared state, * it is responsible for providing the required synchronization." />
       <item value="Consumer" />
-      <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream. This is an intermediate operation. For parallel stream pipelines, the action may be called at whatever time and in whatever thread the element is made available by the upstream operation. If the action modifies shared state, it is responsible for providing the required synchronization." />
-      <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream.&#10;This is an intermediate operation.&#10;For parallel stream pipelines, the action may be called at whatever time and in whatever thread the element is made available by the upstream operation. If the action modifies shared state, it is responsible for providing the required synchronization." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1219" />
-        <entry key="ENGLISH" value="1220" />
+        <entry key="CHINESE" value="1221" />
+        <entry key="ENGLISH" value="1222" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
