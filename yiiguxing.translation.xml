@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trace" />
+      <item value="Log a message at the TRACE level according to the specified format * and arguments. * &lt;p/&gt; * &lt;p&gt;This form avoids superfluous object creation when the logger * is disabled for the TRACE level. &lt;/p&gt;" />
       <item value="NOTE: IFF we were doing a real ping // assuming we had a large set of servers (say 15) // the logic below will run them serially // hence taking 15 times the amount of time it takes // to ping each server // A better method would be to put this in an executor // pool // But, at the time of this writing, we dont REALLY // use a Real Ping (its mostly in memory eureka call) // hence we can afford to simplify this design and run // this // serially" />
       <item value="Default answer is DEAD." />
       <item value="LoadBalancer: PingTask executing [{}] servers configured" />
@@ -49,13 +51,11 @@
       <item value="return singleton HTTPRequestUtils object" />
       <item value="Returns a copy of the object, or null if the object cannot * be serialized." />
       <item value="Deep copy of an Object. The Object must be Serializable" />
-      <item value="eep copy of an Object. The Object must be Serializable" />
-      <item value="Deep Copy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1238" />
-        <entry key="ENGLISH" value="1239" />
+        <entry key="CHINESE" value="1241" />
+        <entry key="ENGLISH" value="1242" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
