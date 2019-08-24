@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NOTE: IFF we were doing a real ping // assuming we had a large set of servers (say 15) // the logic below will run them serially // hence taking 15 times the amount of time it takes // to ping each server // A better method would be to put this in an executor // pool // But, at the time of this writing, we dont REALLY // use a Real Ping (its mostly in memory eureka call) // hence we can afford to simplify this design and run // this // serially" />
+      <item value="Default answer is DEAD." />
+      <item value="LoadBalancer: PingTask executing [{}] servers configured" />
+      <item value="Load Balancer" />
+      <item value="Candidates" />
+      <item value="num Candidates" />
+      <item value="I Ping Strategy" />
+      <item value="ping Strategy" />
+      <item value="Executor service for executing asynchronous requests." />
+      <item value="ffordance to change the URI we connect to while &quot;priming&quot; // default of &quot;/&quot; is good for most - but if its heavy operation on // the server side, then a more lightweight URI can be chosen" />
+      <item value="Prime Connection End Stats" />
+      <item value="Prime the connections for a given Client (For those Client that * have a LoadBalancer that knows the set of Servers it will connect to) This is * mainly done to address those deployment environments (Read EC2) which benefit * from a firewall connection/path warmup prior to actual use for live requests. * &lt;p&gt; * This class is not protocol specific. Actual priming operation is delegated to * instance of {@link IPrimeConnection}, which is instantiated using reflection * according to property {@link CommonClientConfigKey#PrimeConnectionsClassName}." />
+      <item value="get All Servers" />
+      <item value="get Reachable Servers" />
+      <item value="Only the servers that are up and reachable." />
       <item value="A Query that matches documents containing a term." />
       <item value="A Query that matches documents matching boolean combinations of other queries." />
       <item value="Failed to decode '_id'. readString can only be called when CurrentBSONType is STRING, not when CurrentBSONType is OBJECT_ID." />
@@ -21,7 +36,6 @@
       <item value="delegate to {@link #chooseServer(Object)} with parameter null." />
       <item value="Initial list of servers. * This API also serves to add additional ones at a later time * The same logical server (host:port) could essentially be added multiple times * (helpful in cases where you want to give more &quot;weightage&quot; perhaps ..)" />
       <item value="Interface that defines the operations for a software loadbalancer. A typical * loadbalancer minimally need a set of servers to loadbalance for, a method to * mark a particular server to be out of rotation and a call that will choose a * server from the existing list of server." />
-      <item value="Only the servers that are up and reachable." />
       <item value="Choose a server from load balancer." />
       <item value="Implementation of BeanDefinitionRegistry interface" />
       <item value="TODO: better handling of key" />
@@ -37,25 +51,11 @@
       <item value="Deep copy of an Object. The Object must be Serializable" />
       <item value="eep copy of an Object. The Object must be Serializable" />
       <item value="Deep Copy" />
-      <item value="Origin" />
-      <item value="chunked" />
-      <item value="transfer-encoding" />
-      <item value="X-Zuul-Filter-Executions" />
-      <item value="key for use in TODO: determine use" />
-      <item value="Control duplicated message id would be ignore in seconds" />
-      <item value="Identifies a method on an {@link Endpoint} as being a read operation." />
-      <item value="Endpoint to display the zuul proxy routes" />
-      <item value="ndpoint to display the zuul proxy routes" />
-      <item value="Endpoint for listing Zuul filters." />
-      <item value="Initializes various Zuul components including" />
-      <item value="Measurement" />
-      <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream. This is an intermediate operation." />
-      <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream.&#10;This is an intermediate operation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1223" />
-        <entry key="ENGLISH" value="1224" />
+        <entry key="CHINESE" value="1238" />
+        <entry key="ENGLISH" value="1239" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -64,7 +64,7 @@
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
         <entry key="CORSICAN" value="1" />
-        <entry key="LATIN" value="1" />
+        <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="4" />
         <entry key="MALAGASY" value="2" />
         <entry key="MALAY" value="2" />
