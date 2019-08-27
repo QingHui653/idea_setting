@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The LoadBalancer will calculate and examine zone stats of all available zones. If the Average Active Requests for any zone has reached a configured threshold, this zone will be dropped from the active server list. In case more than one zone has reached the threshold, the zone with the most active requests per server will be dropped.&#10;Once the the worst zone is dropped, a zone will be chosen among the rest with the probability proportional to its number of instances.&#10;A server will be returned from the chosen zone with a given Rule (A Rule is a load balancing strategy, for example {@link AvailabilityFilteringRule})&#10;For each request, the steps above will be repeated. That is to say, each zone related load balancing decisions are made at real time with the up-to-date statistics aiding the choice." />
+      <item value="The key metric used to measure the zone condition is Average Active Requests,&#10;which is aggregated per rest client per zone. It is the&#10;total outstanding requests in a zone divided by number of available targeted instances (excluding circuit breaker tripped instances).&#10;This metric is very effective when timeout occurs slowly on a bad zone." />
+      <item value="* Load balancer that can avoid a zone as a whole when choosing server." />
+      <item value="Load balancer that can avoid a zone as a whole when choosing server." />
+      <item value="Zone Aware" />
+      <item value="Zone Aware Load Balancer" />
+      <item value="set so that clients can start using these // servers right away instead // of having to wait out the ping cycle." />
+      <item value="set so that clients can start using these" />
+      <item value="modification" />
+      <item value="track" />
+      <item value="to keep track of modification of server lists" />
+      <item value="A LoadBalancer that has the capabilities to obtain the candidate list of * servers using a dynamic source. i.e. The list of servers can potentially be * changed at Runtime. It also contains facilities wherein the list of servers * can be passed through a Filter criteria to filter out servers that do not * meet the desired criteria." />
       <item value="Add a list of servers to the 'allServer' list; does not verify * uniqueness, so you could give a server a greater share by adding it more * than once USED by Test Cases only for legacy reason. DO NOT USE!!" />
       <item value="cross associate with each other" />
       <item value="i.e. Rule,Ping meet your container LB" />
@@ -39,23 +51,11 @@
       <item value="This abstraction provides a wrapped mechanism to manage those runtime * shutdown hooks." />
       <item value="Apparently, adding a runtime shutdown hook will create a global reference * which can cause memory leaks if not cleaned up." />
       <item value="ShutdownEnabledTimer class handles runtime shutdown issues." />
-      <item value="A basic implementation of the load balancer where an arbitrary list of * servers can be set as the server pool. A ping can be set to determine the * liveness of a server. Internally, this class maintains an &quot;all&quot; server list * and an &quot;up&quot; server list and use them depending on what the caller asks for." />
-      <item value="Round Robin Rule" />
-      <item value="DEFAULT RULE" />
-      <item value="AbstractLoadBalancer contains features required for most loadbalancing * implementations. * * An anatomy of a typical LoadBalancer consists of 1. A List of Servers (nodes) * that are potentially bucketed based on a specific criteria. 2. A Class that * defines and implements a LoadBalacing Strategy via &lt;code&gt;IRule&lt;/code&gt; 3. A * Class that defines and implements a mechanism to determine the * suitability/availability of the nodes/servers in the List." />
-      <item value="List of servers that this Loadbalancer knows about" />
-      <item value="delegate to {@link #chooseServer(Object)} with parameter null." />
-      <item value="Initial list of servers. * This API also serves to add additional ones at a later time * The same logical server (host:port) could essentially be added multiple times * (helpful in cases where you want to give more &quot;weightage&quot; perhaps ..)" />
-      <item value="Interface that defines the operations for a software loadbalancer. A typical * loadbalancer minimally need a set of servers to loadbalance for, a method to * mark a particular server to be out of rotation and a call that will choose a * server from the existing list of server." />
-      <item value="Choose a server from load balancer." />
-      <item value="Implementation of BeanDefinitionRegistry interface" />
-      <item value="TODO: better handling of key" />
-      <item value="for backwards compatibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1251" />
-        <entry key="ENGLISH" value="1252" />
+        <entry key="CHINESE" value="1263" />
+        <entry key="ENGLISH" value="1264" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
