@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compliant value" />
+      <item value="the initial delay in milliseconds as a String value, e.g. a placeholder" />
+      <item value="Number of milliseconds to delay before the first execution of a" />
+      <item value="the initial delay in milliseconds" />
+      <item value="initial Delay" />
       <item value="trace" />
       <item value="Log a message at the TRACE level according to the specified format * and arguments. * &lt;p/&gt; * &lt;p&gt;This form avoids superfluous object creation when the logger * is disabled for the TRACE level. &lt;/p&gt;" />
       <item value="NOTE: IFF we were doing a real ping // assuming we had a large set of servers (say 15) // the logic below will run them serially // hence taking 15 times the amount of time it takes // to ping each server // A better method would be to put this in an executor // pool // But, at the time of this writing, we dont REALLY // use a Real Ping (its mostly in memory eureka call) // hence we can afford to simplify this design and run // this // serially" />
@@ -46,16 +51,11 @@
       <item value="Represents a client side load balancer" />
       <item value="期末库存: 截止到结束时间 59:59的库存,期初为期末减变化量,避免在查询一次mongo" />
       <item value="init Slot Host Map" />
-      <item value="Implemented by classes which use a load balancer to choose a server to * send a request to." />
-      <item value="Annotation to mark a RestTemplate bean to be configured to use a LoadBalancerClient" />
-      <item value="return singleton HTTPRequestUtils object" />
-      <item value="Returns a copy of the object, or null if the object cannot * be serialized." />
-      <item value="Deep copy of an Object. The Object must be Serializable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1241" />
-        <entry key="ENGLISH" value="1242" />
+        <entry key="CHINESE" value="1247" />
+        <entry key="ENGLISH" value="1248" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
