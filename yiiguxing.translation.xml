@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a fixed value in an instance" />
+      <item value="0 x 8765 fed 3" />
+      <item value="Constructs an empty &lt;tt&gt;SafelyHashMap&lt;/tt&gt; with the specified initial * capacity and load factor." />
+      <item value="M MASK" />
+      <item value="Anti Collision" />
       <item value="wxa Get Userinfo" />
       <item value="get Signature" />
       <item value="Nickname" />
@@ -46,22 +51,17 @@
       <item value="Only the servers that are up and reachable." />
       <item value="A Query that matches documents containing a term." />
       <item value="A Query that matches documents matching boolean combinations of other queries." />
-      <item value="Failed to decode '_id'. readString can only be called when CurrentBSONType is STRING, not when CurrentBSONType is OBJECT_ID." />
-      <item value="A custom Codec or PojoCodec may need to be explicitly configured and registered to handle this type." />
-      <item value="Binary Operator" />
-      <item value="a merge function, used to resolve collisions between * values associated with the same key, as supplied * to {@link Map#merge(Object, Object, BiFunction)}" />
-      <item value="map Merger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1268" />
-        <entry key="ENGLISH" value="1268" />
+        <entry key="CHINESE" value="1271" />
+        <entry key="ENGLISH" value="1272" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="5" />
+        <entry key="FRENCH" value="6" />
         <entry key="CATALAN" value="2" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="2" />
