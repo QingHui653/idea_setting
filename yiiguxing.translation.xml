@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="调用场景：当检测到货品冲突时，针对单位被删、单位比例变更、sku变更清空，调用此接口，刷新商品信息，然后重新保存" />
       <item value="如果在入库车中未查到指定货品，需要查货品的最新数据（App端需要）" />
       <item value="The presence of this annotation on a type indicates that the type may be used with the * &lt;a href=&quot;http://code.google.com/webtoolkit/&quot;&gt;Google Web Toolkit&lt;/a&gt; (GWT). When applied to a * method, the return type of the method is GWT compatible. It's useful to indicate that an instance * created by factory methods has a GWT serializable type. In the following example," />
       <item value="Gwt Compatible" />
@@ -50,12 +51,11 @@
       <item value="I Ping Strategy" />
       <item value="ping Strategy" />
       <item value="Executor service for executing asynchronous requests." />
-      <item value="ffordance to change the URI we connect to while &quot;priming&quot; // default of &quot;/&quot; is good for most - but if its heavy operation on // the server side, then a more lightweight URI can be chosen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1278" />
-        <entry key="ENGLISH" value="1278" />
+        <entry key="CHINESE" value="1279" />
+        <entry key="ENGLISH" value="1279" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
