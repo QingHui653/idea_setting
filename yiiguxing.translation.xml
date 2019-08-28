@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The presence of this annotation on a type indicates that the type may be used with the * &lt;a href=&quot;http://code.google.com/webtoolkit/&quot;&gt;Google Web Toolkit&lt;/a&gt; (GWT). When applied to a * method, the return type of the method is GWT compatible. It's useful to indicate that an instance * created by factory methods has a GWT serializable type. In the following example," />
+      <item value="Gwt Compatible" />
+      <item value="A" />
       <item value="Able Amount" />
       <item value="Able Amoun" />
       <item value="total Able Amount" />
@@ -48,14 +51,11 @@
       <item value="Executor service for executing asynchronous requests." />
       <item value="ffordance to change the URI we connect to while &quot;priming&quot; // default of &quot;/&quot; is good for most - but if its heavy operation on // the server side, then a more lightweight URI can be chosen" />
       <item value="Prime Connection End Stats" />
-      <item value="Prime the connections for a given Client (For those Client that * have a LoadBalancer that knows the set of Servers it will connect to) This is * mainly done to address those deployment environments (Read EC2) which benefit * from a firewall connection/path warmup prior to actual use for live requests. * &lt;p&gt; * This class is not protocol specific. Actual priming operation is delegated to * instance of {@link IPrimeConnection}, which is instantiated using reflection * according to property {@link CommonClientConfigKey#PrimeConnectionsClassName}." />
-      <item value="get All Servers" />
-      <item value="get Reachable Servers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1274" />
-        <entry key="ENGLISH" value="1275" />
+        <entry key="CHINESE" value="1277" />
+        <entry key="ENGLISH" value="1278" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
