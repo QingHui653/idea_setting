@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="supporting 34 decimal digits of significand and an exponent range of -6143 to +6144." />
       <item value="clamp And Round" />
       <item value="Exponent is out of range for Decimal128 encoding:" />
       <item value="isNegative is necessary to detect -0, which can't be represented with a BigDecimal" />
@@ -50,11 +51,10 @@
       <item value="Zone Aware" />
       <item value="Zone Aware Load Balancer" />
       <item value="set so that clients can start using these // servers right away instead // of having to wait out the ping cycle." />
-      <item value="set so that clients can start using these" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1301" />
+        <entry key="CHINESE" value="1302" />
         <entry key="ENGLISH" value="1302" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
