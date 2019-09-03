@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clamp And Round" />
+      <item value="Exponent is out of range for Decimal128 encoding:" />
+      <item value="isNegative is necessary to detect -0, which can't be represented with a BigDecimal" />
+      <item value="ensure Exact Rounding" />
+      <item value="A binary integer decimal representation of a 128-bit decimal value, supporting 34 decimal digits of significand and an exponent range * of -6143 to +6144." />
+      <item value="only round exactly" />
+      <item value="Again, only round exactly" />
+      <item value="is Negative" />
+      <item value="Na N" />
+      <item value="INFINITY MASK" />
+      <item value="SIGN BIT MASK" />
+      <item value="0 x 7800000000000000 L" />
+      <item value="Conversion to Decimal128 would require inexact rounding of" />
       <item value="Hit" />
       <item value="Search Hit" />
       <item value="Operator" />
@@ -38,30 +51,18 @@
       <item value="Zone Aware Load Balancer" />
       <item value="set so that clients can start using these // servers right away instead // of having to wait out the ping cycle." />
       <item value="set so that clients can start using these" />
-      <item value="modification" />
-      <item value="track" />
-      <item value="to keep track of modification of server lists" />
-      <item value="A LoadBalancer that has the capabilities to obtain the candidate list of * servers using a dynamic source. i.e. The list of servers can potentially be * changed at Runtime. It also contains facilities wherein the list of servers * can be passed through a Filter criteria to filter out servers that do not * meet the desired criteria." />
-      <item value="Add a list of servers to the 'allServer' list; does not verify * uniqueness, so you could give a server a greater share by adding it more * than once USED by Test Cases only for legacy reason. DO NOT USE!!" />
-      <item value="cross associate with each other" />
-      <item value="i.e. Rule,Ping meet your container LB" />
-      <item value="LB, these are your Ping and Rule guys ..." />
-      <item value="compliant value" />
-      <item value="the initial delay in milliseconds as a String value, e.g. a placeholder" />
-      <item value="Number of milliseconds to delay before the first execution of a" />
-      <item value="the initial delay in milliseconds" />
-      <item value="initial Delay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1287" />
-        <entry key="ENGLISH" value="1288" />
+        <entry key="CHINESE" value="1301" />
+        <entry key="ENGLISH" value="1302" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="2" />
         <entry key="FRENCH" value="6" />
+        <entry key="HAUSA" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="2" />
