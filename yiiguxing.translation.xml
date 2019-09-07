@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class serves as a parameter block to the Instrumentation.redefineClasses method. Serves to bind the Class that needs redefining together with the new class file bytes." />
       <item value="This interface is designed to work in collusion with java.beans.Beans.instantiate. The interface is intended to provide mechanism to allow the proper initialization of JavaBeans that are also Applets, during their instantiation by java.beans.Beans.instantiate(). Since: 1.2" />
       <item value="This interface is designed to work in collusion with java.beans.Beans.instantiate. The interface is intended to provide mechanism to allow the proper initialization of JavaBeans that are also Applets, during their instantiation by java.beans.Beans.instantiate().&#10;Since:&#10;1.2" />
       <item value="JavaBeans wishing to be nested within, and obtain a reference to their execution environment, or context, as defined by the BeanContext sub-interface shall implement this interface. Conformant BeanContexts shall as a side effect of adding a BeanContextChild object shall pass a reference to itself via the setBeanContext() method of this interface. Note that a BeanContextChild may refuse a change in state by throwing PropertyVetoedException in response. In order for persistence mechanisms to function properly on BeanContextChild instances across a broad variety of scenarios, implementing classes of this interface are required to define as transient, any or all fields, or instance variables, that may contain, or represent, references to the nesting BeanContext instance or other resources obtained from the BeanContext via any unspecified mechanisms." />
@@ -50,7 +51,6 @@
       <item value="M MASK" />
       <item value="Anti Collision" />
       <item value="wxa Get Userinfo" />
-      <item value="get Signature" />
     </histories>
     <option name="languageScores">
       <map>
