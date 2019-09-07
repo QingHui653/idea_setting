@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Present" />
+      <item value="Functional Interface" />
       <item value="//=========================== 常量 ===================================" />
       <item value="supporting 34 decimal digits of significand and an exponent range of -6143 to +6144." />
       <item value="clamp And Round" />
@@ -49,13 +51,11 @@
       <item value="The key metric used to measure the zone condition is Average Active Requests,&#10;which is aggregated per rest client per zone. It is the&#10;total outstanding requests in a zone divided by number of available targeted instances (excluding circuit breaker tripped instances).&#10;This metric is very effective when timeout occurs slowly on a bad zone." />
       <item value="* Load balancer that can avoid a zone as a whole when choosing server." />
       <item value="Load balancer that can avoid a zone as a whole when choosing server." />
-      <item value="Zone Aware" />
-      <item value="Zone Aware Load Balancer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1302" />
-        <entry key="ENGLISH" value="1302" />
+        <entry key="CHINESE" value="1303" />
+        <entry key="ENGLISH" value="1304" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
