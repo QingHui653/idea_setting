@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JavaBeans wishing to be nested within, and obtain a reference to their execution environment, or context, as defined by the BeanContext sub-interface shall implement this interface. Conformant BeanContexts shall as a side effect of adding a BeanContextChild object shall pass a reference to itself via the setBeanContext() method of this interface. Note that a BeanContextChild may refuse a change in state by throwing PropertyVetoedException in response. In order for persistence mechanisms to function properly on BeanContextChild instances across a broad variety of scenarios, implementing classes of this interface are required to define as transient, any or all fields, or instance variables, that may contain, or represent, references to the nesting BeanContext instance or other resources obtained from the BeanContext via any unspecified mechanisms." />
+      <item value="JavaBeans wishing to be nested within, and obtain a reference to their execution environment, or context, as defined by the BeanContext sub-interface shall implement this interface.&#10;Conformant BeanContexts shall as a side effect of adding a BeanContextChild object shall pass a reference to itself via the setBeanContext() method of this interface.&#10;Note that a BeanContextChild may refuse a change in state by throwing PropertyVetoedException in response.&#10;In order for persistence mechanisms to function properly on BeanContextChild instances across a broad variety of scenarios, implementing classes of this interface are required to define as transient, any or all fields, or instance variables, that may contain, or represent, references to the nesting BeanContext instance or other resources obtained from the BeanContext via any unspecified mechanisms." />
+      <item value="This interface is intended to be implemented by, or delegated from, instances of java.beans.beancontext.BeanContext, in order to propagate to its nested hierarchy of java.beans.beancontext.BeanContextChild instances, the current &quot;designTime&quot; property. The JavaBeans™ specification defines the notion of design time as is a mode in which JavaBeans instances should function during their composition and customization in a interactive design, composition or construction tool, as opposed to runtime when the JavaBean is part of an applet, application, or other live Java executable abstraction." />
+      <item value="This interface is intended to be implemented by, or delegated from, instances of java.beans.beancontext.BeanContext, in order to propagate to its nested hierarchy of java.beans.beancontext.BeanContextChild instances, the current &quot;designTime&quot; property.&#10;The JavaBeans™ specification defines the notion of design time as is a mode in which JavaBeans instances should function during their composition and customization in a interactive design, composition or construction tool, as opposed to runtime when the JavaBean is part of an applet, application, or other live Java executable abstraction." />
+      <item value="The BeanContext acts a logical hierarchical container for JavaBeans." />
       <item value="is Present" />
       <item value="Functional Interface" />
       <item value="//=========================== 常量 ===================================" />
@@ -46,16 +51,11 @@
       <item value="get Signature" />
       <item value="Nickname" />
       <item value="Makes no sense to ping an inmemory disc client" />
-      <item value="force Quick Ping" />
-      <item value="The LoadBalancer will calculate and examine zone stats of all available zones. If the Average Active Requests for any zone has reached a configured threshold, this zone will be dropped from the active server list. In case more than one zone has reached the threshold, the zone with the most active requests per server will be dropped.&#10;Once the the worst zone is dropped, a zone will be chosen among the rest with the probability proportional to its number of instances.&#10;A server will be returned from the chosen zone with a given Rule (A Rule is a load balancing strategy, for example {@link AvailabilityFilteringRule})&#10;For each request, the steps above will be repeated. That is to say, each zone related load balancing decisions are made at real time with the up-to-date statistics aiding the choice." />
-      <item value="The key metric used to measure the zone condition is Average Active Requests,&#10;which is aggregated per rest client per zone. It is the&#10;total outstanding requests in a zone divided by number of available targeted instances (excluding circuit breaker tripped instances).&#10;This metric is very effective when timeout occurs slowly on a bad zone." />
-      <item value="* Load balancer that can avoid a zone as a whole when choosing server." />
-      <item value="Load balancer that can avoid a zone as a whole when choosing server." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1303" />
-        <entry key="ENGLISH" value="1304" />
+        <entry key="CHINESE" value="1305" />
+        <entry key="ENGLISH" value="1305" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
