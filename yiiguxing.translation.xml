@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Criteria 4 Internal" />
       <item value="This class serves as a parameter block to the Instrumentation.redefineClasses method. Serves to bind the Class that needs redefining together with the new class file bytes." />
       <item value="This interface is designed to work in collusion with java.beans.Beans.instantiate. The interface is intended to provide mechanism to allow the proper initialization of JavaBeans that are also Applets, during their instantiation by java.beans.Beans.instantiate(). Since: 1.2" />
       <item value="This interface is designed to work in collusion with java.beans.Beans.instantiate. The interface is intended to provide mechanism to allow the proper initialization of JavaBeans that are also Applets, during their instantiation by java.beans.Beans.instantiate().&#10;Since:&#10;1.2" />
@@ -50,12 +51,11 @@
       <item value="Constructs an empty &lt;tt&gt;SafelyHashMap&lt;/tt&gt; with the specified initial * capacity and load factor." />
       <item value="M MASK" />
       <item value="Anti Collision" />
-      <item value="wxa Get Userinfo" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1305" />
-        <entry key="ENGLISH" value="1305" />
+        <entry key="ENGLISH" value="1306" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
