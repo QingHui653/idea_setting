@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Total Sale Debt" />
+      <item value="during Debt" />
+      <item value="Debt" />
+      <item value="during Paid" />
+      <item value="cur Debt" />
+      <item value="get Total Sale Debt" />
       <item value="is Category Flag" />
       <item value="region" />
       <item value="covert And Complete Product" />
@@ -45,20 +51,14 @@
       <item value="INFINITY MASK" />
       <item value="SIGN BIT MASK" />
       <item value="0 x 7800000000000000 L" />
-      <item value="Conversion to Decimal128 would require inexact rounding of" />
-      <item value="Hit" />
-      <item value="Search Hit" />
-      <item value="Operator" />
-      <item value="and Operator" />
-      <item value="Set to true to ignore cluster name validation of connected nodes. (since 0.19.4)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1323" />
-        <entry key="ENGLISH" value="1324" />
+        <entry key="CHINESE" value="1330" />
+        <entry key="ENGLISH" value="1331" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
-        <entry key="BULGARIAN" value="2" />
+        <entry key="BULGARIAN" value="5" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="2" />
         <entry key="FRENCH" value="6" />
