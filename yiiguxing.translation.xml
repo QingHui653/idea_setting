@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Category Flag" />
+      <item value="region" />
       <item value="covert And Complete Product" />
       <item value="process Conflict Products" />
       <item value="ReferenceQueue&lt;?&gt; queue = r.queue;" />
@@ -49,13 +51,11 @@
       <item value="Operator" />
       <item value="and Operator" />
       <item value="Set to true to ignore cluster name validation of connected nodes. (since 0.19.4)" />
-      <item value="Name of the cluster in which this instance of node client will connect to" />
-      <item value="The comma delimited list of host:port entries to use for elasticsearch cluster" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1321" />
-        <entry key="ENGLISH" value="1322" />
+        <entry key="CHINESE" value="1323" />
+        <entry key="ENGLISH" value="1324" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="2" />
