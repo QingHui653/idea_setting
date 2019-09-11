@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process Conflict Products" />
       <item value="ReferenceQueue&lt;?&gt; queue = r.queue;" />
       <item value="enqueued (and even then removed)" />
       <item value="Check that since getting the lock this reference hasn't already been" />
@@ -50,12 +51,11 @@
       <item value="Name of the cluster in which this instance of node client will connect to" />
       <item value="The comma delimited list of host:port entries to use for elasticsearch cluster" />
       <item value="None of the configured nodes are available" />
-      <item value="176.122.131.54:44130" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1319" />
-        <entry key="ENGLISH" value="1320" />
+        <entry key="CHINESE" value="1320" />
+        <entry key="ENGLISH" value="1321" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="2" />
