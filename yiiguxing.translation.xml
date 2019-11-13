@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{ Pair&lt;V&gt; current = pair; if (newReference != current.reference || newMark != current.mark) this.pair = Pair.of(newReference, newMark); }" />
+      <item value="new Reference" />
+      <item value="new" />
+      <item value="Atomic Markable Reference" />
+      <item value="with the given" />
+      <item value="apply As Long" />
+      <item value="public final long getAndDecrement() { return unsafe.getAndAddLong(this, valueOffset, -1L); }" />
+      <item value="public final long getAndAdd(long delta) { return unsafe.getAndAddLong(this, valueOffset, delta); }" />
+      <item value="get And Add Long" />
+      <item value="get And Increment" />
+      <item value="public final boolean weakCompareAndSet(long expect, long update) { return unsafe.compareAndSwapLong(this, valueOffset, expect, update); }" />
+      <item value="weak Compare And Set" />
+      <item value="Returns whether underlying JVM supports lockless CompareAndSet * for longs. Called only once and cached in VM_SUPPORTS_LONG_CAS." />
+      <item value="Records whether the underlying JVM supports lockless * compareAndSwap for longs. While the Unsafe.compareAndSwapLong * method works in either case, some constructions should be * handled at Java level to avoid locking user-visible locks." />
+      <item value="Must be volatile type" />
+      <item value="Must be integer type" />
       <item value="Atomically adds the given value to the current value of the field of * the given object managed by this updater." />
       <item value="An {@code int} array in which elements may be updated atomically. * See the {@link java.util.concurrent.atomic} package * specification for description of the properties of atomic * variables." />
       <item value="Atomically sets the value to the given updated value * if the current value {@code ==} the expected value. * * &lt;p&gt;&lt;a href=&quot;package-summary.html#weakCompareAndSet&quot;&gt;May fail * spuriously and does not provide ordering guarantees&lt;/a&gt;, so is * only rarely an appropriate alternative to {@code compareAndSet}." />
@@ -35,27 +51,11 @@
       <item value="Package-private; must be in same package as the Reference class" />
       <item value="Decrement i modulo len." />
       <item value="Get the entry associated with key. This method * itself handles only the fast path: a direct hit of existing * key. It otherwise relays to getEntryAfterMiss. This is * designed to maximize performance for direct hits, in part * by making this method readily inlinable." />
-      <item value="Construct a new map including all Inheritable ThreadLocals * from given parent map. Called only by createInheritedMap." />
-      <item value="directly" />
-      <item value="Method childValue is visibly defined in subclass * InheritableThreadLocal, but is internally defined here for the * sake of providing createInheritedMap factory method without * needing to subclass the map class in InheritableThreadLocal. * This technique is preferable to the alternative of embedding * instanceof tests in methods." />
-      <item value="An extension of ThreadLocal that obtains its initial value from" />
-      <item value="Returns the value in the current thread's copy of this thread-local variable. If the variable has no value for the current thread, it is first initialized to the value returned by an invocation of the initialValue method." />
-      <item value="Criteria 4 Internal" />
-      <item value="This class serves as a parameter block to the Instrumentation.redefineClasses method. Serves to bind the Class that needs redefining together with the new class file bytes." />
-      <item value="This interface is designed to work in collusion with java.beans.Beans.instantiate. The interface is intended to provide mechanism to allow the proper initialization of JavaBeans that are also Applets, during their instantiation by java.beans.Beans.instantiate(). Since: 1.2" />
-      <item value="This interface is designed to work in collusion with java.beans.Beans.instantiate. The interface is intended to provide mechanism to allow the proper initialization of JavaBeans that are also Applets, during their instantiation by java.beans.Beans.instantiate().&#10;Since:&#10;1.2" />
-      <item value="JavaBeans wishing to be nested within, and obtain a reference to their execution environment, or context, as defined by the BeanContext sub-interface shall implement this interface. Conformant BeanContexts shall as a side effect of adding a BeanContextChild object shall pass a reference to itself via the setBeanContext() method of this interface. Note that a BeanContextChild may refuse a change in state by throwing PropertyVetoedException in response. In order for persistence mechanisms to function properly on BeanContextChild instances across a broad variety of scenarios, implementing classes of this interface are required to define as transient, any or all fields, or instance variables, that may contain, or represent, references to the nesting BeanContext instance or other resources obtained from the BeanContext via any unspecified mechanisms." />
-      <item value="JavaBeans wishing to be nested within, and obtain a reference to their execution environment, or context, as defined by the BeanContext sub-interface shall implement this interface.&#10;Conformant BeanContexts shall as a side effect of adding a BeanContextChild object shall pass a reference to itself via the setBeanContext() method of this interface.&#10;Note that a BeanContextChild may refuse a change in state by throwing PropertyVetoedException in response.&#10;In order for persistence mechanisms to function properly on BeanContextChild instances across a broad variety of scenarios, implementing classes of this interface are required to define as transient, any or all fields, or instance variables, that may contain, or represent, references to the nesting BeanContext instance or other resources obtained from the BeanContext via any unspecified mechanisms." />
-      <item value="This interface is intended to be implemented by, or delegated from, instances of java.beans.beancontext.BeanContext, in order to propagate to its nested hierarchy of java.beans.beancontext.BeanContextChild instances, the current &quot;designTime&quot; property. The JavaBeans™ specification defines the notion of design time as is a mode in which JavaBeans instances should function during their composition and customization in a interactive design, composition or construction tool, as opposed to runtime when the JavaBean is part of an applet, application, or other live Java executable abstraction." />
-      <item value="This interface is intended to be implemented by, or delegated from, instances of java.beans.beancontext.BeanContext, in order to propagate to its nested hierarchy of java.beans.beancontext.BeanContextChild instances, the current &quot;designTime&quot; property.&#10;The JavaBeans™ specification defines the notion of design time as is a mode in which JavaBeans instances should function during their composition and customization in a interactive design, composition or construction tool, as opposed to runtime when the JavaBean is part of an applet, application, or other live Java executable abstraction." />
-      <item value="The BeanContext acts a logical hierarchical container for JavaBeans." />
-      <item value="is Present" />
-      <item value="Functional Interface" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1345" />
-        <entry key="ENGLISH" value="1346" />
+        <entry key="CHINESE" value="1363" />
+        <entry key="ENGLISH" value="1364" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="5" />
