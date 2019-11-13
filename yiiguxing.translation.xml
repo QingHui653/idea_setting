@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Atomically adds the given value to the current value of the field of * the given object managed by this updater." />
+      <item value="An {@code int} array in which elements may be updated atomically. * See the {@link java.util.concurrent.atomic} package * specification for description of the properties of atomic * variables." />
+      <item value="Atomically sets the value to the given updated value * if the current value {@code ==} the expected value. * * &lt;p&gt;&lt;a href=&quot;package-summary.html#weakCompareAndSet&quot;&gt;May fail * spuriously and does not provide ordering guarantees&lt;/a&gt;, so is * only rarely an appropriate alternative to {@code compareAndSet}." />
+      <item value="Atomically sets to the given value and returns the old value. * * @param newValue the new value * @return the previous value" />
+      <item value="Sets to the given value. * * @param newValue the new value" />
+      <item value="Creates a new AtomicInteger with initial value {@code 0}." />
       <item value="expect" />
       <item value="Creates a new {@code AtomicBoolean} with the given initial value." />
       <item value="valueOffset = unsafe.objectFieldOffset (AtomicBoolean.class.getDeclaredField(&quot;value&quot;));" />
@@ -45,17 +51,11 @@
       <item value="The BeanContext acts a logical hierarchical container for JavaBeans." />
       <item value="is Present" />
       <item value="Functional Interface" />
-      <item value="//=========================== 常量 ===================================" />
-      <item value="supporting 34 decimal digits of significand and an exponent range of -6143 to +6144." />
-      <item value="clamp And Round" />
-      <item value="Exponent is out of range for Decimal128 encoding:" />
-      <item value="isNegative is necessary to detect -0, which can't be represented with a BigDecimal" />
-      <item value="ensure Exact Rounding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1339" />
-        <entry key="ENGLISH" value="1340" />
+        <entry key="CHINESE" value="1345" />
+        <entry key="ENGLISH" value="1346" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="5" />
