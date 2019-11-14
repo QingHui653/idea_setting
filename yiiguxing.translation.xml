@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trans Multi Line 2 One Line Str" />
       <item value="{ Pair&lt;V&gt; current = pair; if (newReference != current.reference || newMark != current.mark) this.pair = Pair.of(newReference, newMark); }" />
       <item value="new Reference" />
       <item value="new" />
@@ -50,12 +51,11 @@
       <item value="Reference queues, to which registered reference objects are appended by the * garbage collector after the appropriate reachability changes are detected." />
       <item value="Package-private; must be in same package as the Reference class" />
       <item value="Decrement i modulo len." />
-      <item value="Get the entry associated with key. This method * itself handles only the fast path: a direct hit of existing * key. It otherwise relays to getEntryAfterMiss. This is * designed to maximize performance for direct hits, in part * by making this method readily inlinable." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1363" />
-        <entry key="ENGLISH" value="1364" />
+        <entry key="CHINESE" value="1364" />
+        <entry key="ENGLISH" value="1365" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="5" />
