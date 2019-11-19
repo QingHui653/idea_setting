@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Message consume retry strategy * -1, no retry,put into DLQ directly * 0, broker control retry frequency * &gt;0, client control retry frequency." />
+      <item value="fair" />
+      <item value="&gt; Task :processResources UP-TO-DATE" />
+      <item value="&gt; Task :classes" />
+      <item value="&gt; Task :findbugsMain" />
       <item value="ROTATION" />
       <item value="_genmachine:(机器码+进程号)." />
       <item value="SOURCE INTERNAL" />
@@ -46,16 +51,11 @@
       <item value="obsolete" />
       <item value="District Id" />
       <item value="Total Sale Debt" />
-      <item value="during Debt" />
-      <item value="Debt" />
-      <item value="during Paid" />
-      <item value="cur Debt" />
-      <item value="get Total Sale Debt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1373" />
-        <entry key="ENGLISH" value="1374" />
+        <entry key="CHINESE" value="1378" />
+        <entry key="ENGLISH" value="1379" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="5" />
