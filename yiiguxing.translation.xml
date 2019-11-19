@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ROTATION" />
+      <item value="_genmachine:(机器码+进程号)." />
+      <item value="SOURCE INTERNAL" />
+      <item value="replace Underline Andfirst To Upper" />
+      <item value="first Character To Upper" />
       <item value="Alias for the basePackages() attribute. Allows for more concise annotation declarations e.g.: @ComponentScan(&quot;org.my.pkg&quot;) instead of @ComponentScan(basePackages=&quot;org.my.pkg&quot;)." />
       <item value="Alias for the {@link #basePackages()} attribute. Allows for more concise annotation * declarations e.g.: {@code @ComponentScan(&quot;org.my.pkg&quot;)} instead of * {@code @ComponentScan(basePackages=&quot;org.my.pkg&quot;)}. * @return the array of 'basePackages'." />
       <item value="Share debugger renderers." />
@@ -46,16 +51,11 @@
       <item value="during Paid" />
       <item value="cur Debt" />
       <item value="get Total Sale Debt" />
-      <item value="is Category Flag" />
-      <item value="region" />
-      <item value="covert And Complete Product" />
-      <item value="process Conflict Products" />
-      <item value="ReferenceQueue&lt;?&gt; queue = r.queue;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1370" />
-        <entry key="ENGLISH" value="1370" />
+        <entry key="CHINESE" value="1373" />
+        <entry key="ENGLISH" value="1374" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="5" />
