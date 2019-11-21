@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PINYIN CODE PADDING" />
       <item value="Creates a filter that performs a logical NOR operation on all the specified filters." />
       <item value="Message consume retry strategy * -1, no retry,put into DLQ directly * 0, broker control retry frequency * &gt;0, client control retry frequency." />
       <item value="fair" />
@@ -50,12 +51,11 @@
       <item value="The minimum array length below which a parallel sorting * algorithm will not further partition the sorting task. Using * smaller sizes typically results in memory contention across * tasks that makes parallel speedups unlikely." />
       <item value="MIN ARRAY SORT GRAN" />
       <item value="obsolete" />
-      <item value="District Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1379" />
-        <entry key="ENGLISH" value="1380" />
+        <entry key="CHINESE" value="1380" />
+        <entry key="ENGLISH" value="1381" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="5" />
