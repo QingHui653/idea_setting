@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="txInfo information about the current transaction" />
+      <item value="Do nothing if we didn't create a transaction." />
+      <item value="Execute after successful completion of call, but not after an exception was handled." />
+      <item value="This will normally result in a target object being invoked." />
+      <item value="This is an around advice: Invoke the next interceptor in the chain." />
       <item value="clusterNode can be null when Constants.ON is false." />
       <item value="return pinyin if c is chinese in uppercase, String.valueOf(c) otherwise." />
       <item value="PINYIN CODE PADDING" />
@@ -46,16 +51,11 @@
       <item value="Atomically sets to the given value and returns the old value. * * @param newValue the new value * @return the previous value" />
       <item value="Sets to the given value. * * @param newValue the new value" />
       <item value="Creates a new AtomicInteger with initial value {@code 0}." />
-      <item value="expect" />
-      <item value="Creates a new {@code AtomicBoolean} with the given initial value." />
-      <item value="valueOffset = unsafe.objectFieldOffset (AtomicBoolean.class.getDeclaredField(&quot;value&quot;));" />
-      <item value="setup to use Unsafe.compareAndSwapInt for updates" />
-      <item value="The minimum array length below which a parallel sorting * algorithm will not further partition the sorting task. Using * smaller sizes typically results in memory contention across * tasks that makes parallel speedups unlikely." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1383" />
-        <entry key="ENGLISH" value="1384" />
+        <entry key="CHINESE" value="1388" />
+        <entry key="ENGLISH" value="1389" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="5" />
