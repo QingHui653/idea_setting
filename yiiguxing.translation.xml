@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * {@link org.mybatis.spring.annotation.MapperScan} ultimately ends up * creating instances of {@link MapperFactoryBean}. If * {@link org.mybatis.spring.annotation.MapperScan} is used then this * auto-configuration is not needed. If it is _not_ used, however, then this * will bring in a bean registrar and automatically register components based * on the same component-scanning path as Spring Boot itself. */" />
       <item value="txInfo information about the current transaction" />
       <item value="Do nothing if we didn't create a transaction." />
       <item value="Execute after successful completion of call, but not after an exception was handled." />
@@ -50,12 +51,11 @@
       <item value="Atomically sets the value to the given updated value * if the current value {@code ==} the expected value. * * &lt;p&gt;&lt;a href=&quot;package-summary.html#weakCompareAndSet&quot;&gt;May fail * spuriously and does not provide ordering guarantees&lt;/a&gt;, so is * only rarely an appropriate alternative to {@code compareAndSet}." />
       <item value="Atomically sets to the given value and returns the old value. * * @param newValue the new value * @return the previous value" />
       <item value="Sets to the given value. * * @param newValue the new value" />
-      <item value="Creates a new AtomicInteger with initial value {@code 0}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1388" />
-        <entry key="ENGLISH" value="1389" />
+        <entry key="CHINESE" value="1390" />
+        <entry key="ENGLISH" value="1391" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="5" />
