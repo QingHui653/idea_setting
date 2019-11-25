@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="https://pay.weixin.qq.com/wiki/doc/api/tools/cash coupon.php?chapter=13_4&amp;index=3" />
+      <item value="https://api.mch.weixin.qq.com/mmpaymkttransfers/sendredpack" />
+      <item value="https://pay.weixin.qq.com/wiki/doc/api/tools/cash coupon.php?chapter=13_5&amp;index=4" />
+      <item value="https://api.mch.weixin.qq.com/mmpaymkttransfers/sendgroupredpack" />
       <item value="query Init Warehouse Flow" />
       <item value="sequence" />
       <item value="implementation" />
@@ -47,15 +51,11 @@
       <item value="weak Compare And Set" />
       <item value="Returns whether underlying JVM supports lockless CompareAndSet * for longs. Called only once and cached in VM_SUPPORTS_LONG_CAS." />
       <item value="Records whether the underlying JVM supports lockless * compareAndSwap for longs. While the Unsafe.compareAndSwapLong * method works in either case, some constructions should be * handled at Java level to avoid locking user-visible locks." />
-      <item value="Must be volatile type" />
-      <item value="Must be integer type" />
-      <item value="Atomically adds the given value to the current value of the field of * the given object managed by this updater." />
-      <item value="An {@code int} array in which elements may be updated atomically. * See the {@link java.util.concurrent.atomic} package * specification for description of the properties of atomic * variables." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1393" />
-        <entry key="ENGLISH" value="1394" />
+        <entry key="CHINESE" value="1397" />
+        <entry key="ENGLISH" value="1397" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="5" />
