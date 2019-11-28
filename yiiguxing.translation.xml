@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assert that the given String is not empty; that is, * it must not be {@code null} and not the empty String. * &lt;pre class=&quot;code&quot;&gt;Assert.hasLength(name, &quot;Name must not be empty&quot;);&lt;/pre&gt;" />
+      <item value="if the text is empty" />
       <item value="Allow for defaults fallback or potentially overridden accessor" />
       <item value="Allow for defaults fallback or potentially overridden accessor..." />
       <item value="Context Loader" />
@@ -49,13 +51,11 @@
       <item value="{ Pair&lt;V&gt; current = pair; if (newReference != current.reference || newMark != current.mark) this.pair = Pair.of(newReference, newMark); }" />
       <item value="new Reference" />
       <item value="new" />
-      <item value="Atomic Markable Reference" />
-      <item value="with the given" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1403" />
-        <entry key="ENGLISH" value="1404" />
+        <entry key="CHINESE" value="1405" />
+        <entry key="ENGLISH" value="1406" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
