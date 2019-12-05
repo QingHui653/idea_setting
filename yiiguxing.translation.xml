@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="云店转正拿客户信息，优先wx profile，没有则落到account找" />
+      <item value="cloud Add Customer" />
       <item value="Bulk index all objects. Will do save or update" />
       <item value="Bulk update all objects. Will do update" />
       <item value="check For Bulk Update Failure" />
@@ -49,13 +51,11 @@
       <item value="first Character To Upper" />
       <item value="Alias for the basePackages() attribute. Allows for more concise annotation declarations e.g.: @ComponentScan(&quot;org.my.pkg&quot;) instead of @ComponentScan(basePackages=&quot;org.my.pkg&quot;)." />
       <item value="Alias for the {@link #basePackages()} attribute. Allows for more concise annotation * declarations e.g.: {@code @ComponentScan(&quot;org.my.pkg&quot;)} instead of * {@code @ComponentScan(basePackages=&quot;org.my.pkg&quot;)}. * @return the array of 'basePackages'." />
-      <item value="Share debugger renderers." />
-      <item value="More detailed info in the '3-way Merge' dialog." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1414" />
-        <entry key="ENGLISH" value="1415" />
+        <entry key="CHINESE" value="1416" />
+        <entry key="ENGLISH" value="1416" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
