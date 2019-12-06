@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The number of bytes in a kilobyte." />
       <item value="select the first available meta server" />
       <item value="check whether /services/config is accessible" />
       <item value="* Select one available meta server from the comma separated meta server addresses, e.g. * http://1.2.3.4:8080,http://2.3.4.5:8080 * * &lt;br /&gt; * * In production environment, we still suggest using one single domain like http://config.xxx.com(backed by software * load balancers like nginx) instead of multiple ip addresses" />
@@ -50,12 +51,11 @@
       <item value="Creates a filter that performs a logical NOR operation on all the specified filters." />
       <item value="Message consume retry strategy * -1, no retry,put into DLQ directly * 0, broker control retry frequency * &gt;0, client control retry frequency." />
       <item value="fair" />
-      <item value="&gt; Task :processResources UP-TO-DATE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1428" />
-        <entry key="ENGLISH" value="1429" />
+        <entry key="CHINESE" value="1429" />
+        <entry key="ENGLISH" value="1430" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
