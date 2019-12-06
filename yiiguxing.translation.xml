@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Spring value processor of field or method which has @Value and xml config placeholders." />
       <item value="unmarshal" />
       <item value="Beans that support customized output of JSON text to a writer shall implement this interface." />
       <item value="DEFAULT PARSER FEATURE" />
@@ -50,12 +51,11 @@
       <item value="Bulk update all objects. Will do update" />
       <item value="check For Bulk Update Failure" />
       <item value="eturns true if the write was acknowledged." />
-      <item value="/** * Gets a value indicating whether the modified count is available. * &lt;p&gt; * The modified count is only available when all servers have been upgraded to 2.6 or above. * &lt;/p&gt; * @return true if the modified count is available */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1471" />
-        <entry key="ENGLISH" value="1472" />
+        <entry key="CHINESE" value="1473" />
+        <entry key="ENGLISH" value="1474" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
