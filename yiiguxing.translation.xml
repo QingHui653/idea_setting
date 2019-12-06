@@ -1,6 +1,38 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Beans that support customized output of JSON text to a writer shall implement this interface." />
+      <item value="DEFAULT PARSER FEATURE" />
+      <item value="DEFAULT GENERATE FEATURE" />
+      <item value="Custom Map Deserializer" />
+      <item value="Non String Key As String" />
+      <item value="1.2.41, backport to 1.1.66.android" />
+      <item value="disable field smart match, improve performance in some scenarios." />
+      <item value="Disable Special Key Detect" />
+      <item value="Ordered Field" />
+      <item value="Support Array To Bean" />
+      <item value="Init String Field As Empty" />
+      <item value="Disable Circular Reference Detect" />
+      <item value="Disable ASM" />
+      <item value="Sort Feid Fast Match" />
+      <item value="Ignore Not Match" />
+      <item value="Use Big Decimal" />
+      <item value="Allow Arbitrary Commas" />
+      <item value="Allow ISO 8601 Date Format" />
+      <item value="Intern Field Names" />
+      <item value="Allow Single Quotes" />
+      <item value="Allow Un Quoted Field Names" />
+      <item value="Allow Comment" />
+      <item value="Auto Close Source" />
+      <item value="DEFAULT TYPE KEY" />
+      <item value="ocale" />
+      <item value="default Time Zone" />
+      <item value="default Locale" />
+      <item value="Locale" />
+      <item value="Time Zone" />
+      <item value="Initialize ProviderManager failed" />
+      <item value="Null Provider Manager" />
+      <item value="Double locking to make sure only one thread initializes ProviderManager." />
       <item value="The number of bytes in a kilobyte." />
       <item value="select the first available meta server" />
       <item value="check whether /services/config is accessible" />
@@ -19,43 +51,11 @@
       <item value="eturns true if the write was acknowledged." />
       <item value="/** * Gets a value indicating whether the modified count is available. * &lt;p&gt; * The modified count is only available when all servers have been upgraded to 2.6 or above. * &lt;/p&gt; * @return true if the modified count is available */" />
       <item value="Gets a value indicating whether the modified count is available." />
-      <item value="customer Tag" />
-      <item value="industry Id" />
-      <item value="Assert that the given String is not empty; that is, * it must not be {@code null} and not the empty String. * &lt;pre class=&quot;code&quot;&gt;Assert.hasLength(name, &quot;Name must not be empty&quot;);&lt;/pre&gt;" />
-      <item value="if the text is empty" />
-      <item value="Allow for defaults fallback or potentially overridden accessor" />
-      <item value="Allow for defaults fallback or potentially overridden accessor..." />
-      <item value="Context Loader" />
-      <item value="Servlet Context Listener" />
-      <item value="cur Debt" />
-      <item value="clear Arrears Balance" />
-      <item value="during Debt" />
-      <item value="during Pay" />
-      <item value="total Sale Debt" />
-      <item value="https://pay.weixin.qq.com/wiki/doc/api/tools/cash coupon.php?chapter=13_4&amp;index=3" />
-      <item value="https://api.mch.weixin.qq.com/mmpaymkttransfers/sendredpack" />
-      <item value="https://pay.weixin.qq.com/wiki/doc/api/tools/cash coupon.php?chapter=13_5&amp;index=4" />
-      <item value="https://api.mch.weixin.qq.com/mmpaymkttransfers/sendgroupredpack" />
-      <item value="query Init Warehouse Flow" />
-      <item value="sequence" />
-      <item value="implementation" />
-      <item value="/** * {@link org.mybatis.spring.annotation.MapperScan} ultimately ends up * creating instances of {@link MapperFactoryBean}. If * {@link org.mybatis.spring.annotation.MapperScan} is used then this * auto-configuration is not needed. If it is _not_ used, however, then this * will bring in a bean registrar and automatically register components based * on the same component-scanning path as Spring Boot itself. */" />
-      <item value="txInfo information about the current transaction" />
-      <item value="Do nothing if we didn't create a transaction." />
-      <item value="Execute after successful completion of call, but not after an exception was handled." />
-      <item value="This will normally result in a target object being invoked." />
-      <item value="This is an around advice: Invoke the next interceptor in the chain." />
-      <item value="clusterNode can be null when Constants.ON is false." />
-      <item value="return pinyin if c is chinese in uppercase, String.valueOf(c) otherwise." />
-      <item value="PINYIN CODE PADDING" />
-      <item value="Creates a filter that performs a logical NOR operation on all the specified filters." />
-      <item value="Message consume retry strategy * -1, no retry,put into DLQ directly * 0, broker control retry frequency * &gt;0, client control retry frequency." />
-      <item value="fair" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1429" />
-        <entry key="ENGLISH" value="1430" />
+        <entry key="CHINESE" value="1469" />
+        <entry key="ENGLISH" value="1470" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
@@ -69,11 +69,13 @@
         <entry key="ROMANIAN" value="4" />
         <entry key="MALAGASY" value="2" />
         <entry key="MALAY" value="2" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="2" />
         <entry key="SOMALI" value="1" />
         <entry key="WELSH" value="11" />
         <entry key="SPANISH" value="1" />
+        <entry key="ITALIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="JAVANESE" value="1" />
