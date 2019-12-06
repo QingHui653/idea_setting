@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select the first available meta server" />
+      <item value="check whether /services/config is accessible" />
+      <item value="* Select one available meta server from the comma separated meta server addresses, e.g. * http://1.2.3.4:8080,http://2.3.4.5:8080 * * &lt;br /&gt; * * In production environment, we still suggest using one single domain like http://config.xxx.com(backed by software * load balancers like nginx) instead of multiple ip addresses" />
+      <item value="Return one meta server address. If multiple meta server addresses are configured, will select one" />
+      <item value="Return meta server address. If multiple meta server addresses are configured, will return the comma separated string." />
+      <item value="String metaServerAddress = getMetaServerAddress(env); // if there is more than one address, need to select one if (metaServerAddress.contains(&quot;,&quot;)) { return selectMetaServerAddress(metaServerAddress); }" />
+      <item value="Return one meta server address. If multiple meta server addresses are configured, will select one." />
+      <item value="// env -&gt; meta server address cache private static final Map&lt;Env, String&gt; metaServerAddressCache = Maps.newConcurrentMap(); private static volatile List&lt;MetaServerProvider&gt; metaServerProviders = null; private static final long REFRESH_INTERVAL_IN_SECOND = 60;// 1 min private static final Logger logger = LoggerFactory.getLogger(MetaDomainConsts.class); // comma separated meta server address -&gt; selected single meta server address cache private static final Map&lt;String, String&gt; selectedMetaServerAddressCache = Maps.newConcurrentMap(); private static final AtomicBoolean periodicRefreshStarted = new AtomicBoolean(false); private static final Object LOCK = new Object();" />
       <item value="if not found prefix 'spring.datasource.druid' jdbc properties ,'spring.datasource' prefix jdbc properties will be used." />
       <item value="云店转正拿客户信息，优先wx profile，没有则落到account找" />
       <item value="cloud Add Customer" />
@@ -43,19 +51,11 @@
       <item value="Message consume retry strategy * -1, no retry,put into DLQ directly * 0, broker control retry frequency * &gt;0, client control retry frequency." />
       <item value="fair" />
       <item value="&gt; Task :processResources UP-TO-DATE" />
-      <item value="&gt; Task :classes" />
-      <item value="&gt; Task :findbugsMain" />
-      <item value="ROTATION" />
-      <item value="_genmachine:(机器码+进程号)." />
-      <item value="SOURCE INTERNAL" />
-      <item value="replace Underline Andfirst To Upper" />
-      <item value="first Character To Upper" />
-      <item value="Alias for the basePackages() attribute. Allows for more concise annotation declarations e.g.: @ComponentScan(&quot;org.my.pkg&quot;) instead of @ComponentScan(basePackages=&quot;org.my.pkg&quot;)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1416" />
-        <entry key="ENGLISH" value="1417" />
+        <entry key="CHINESE" value="1428" />
+        <entry key="ENGLISH" value="1429" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
