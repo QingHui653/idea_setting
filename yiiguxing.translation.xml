@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if not found prefix 'spring.datasource.druid' jdbc properties ,'spring.datasource' prefix jdbc properties will be used." />
       <item value="云店转正拿客户信息，优先wx profile，没有则落到account找" />
       <item value="cloud Add Customer" />
       <item value="Bulk index all objects. Will do save or update" />
@@ -50,12 +51,11 @@
       <item value="replace Underline Andfirst To Upper" />
       <item value="first Character To Upper" />
       <item value="Alias for the basePackages() attribute. Allows for more concise annotation declarations e.g.: @ComponentScan(&quot;org.my.pkg&quot;) instead of @ComponentScan(basePackages=&quot;org.my.pkg&quot;)." />
-      <item value="Alias for the {@link #basePackages()} attribute. Allows for more concise annotation * declarations e.g.: {@code @ComponentScan(&quot;org.my.pkg&quot;)} instead of * {@code @ComponentScan(basePackages=&quot;org.my.pkg&quot;)}. * @return the array of 'basePackages'." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1416" />
-        <entry key="ENGLISH" value="1416" />
+        <entry key="ENGLISH" value="1417" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
