@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Default Lifecycle Processor" />
+      <item value="DefaultLifecycleProcessor defaultProcessor = new DefaultLifecycleProcessor();" />
+      <item value="Configure the bean factory with context callbacks." />
+      <item value="Tell the internal bean factory to use the context's class loader etc." />
       <item value="No context instance was injected at construction time -&gt; see if one // has been registered in the servlet context. If one exists, it is assumed // that the parent context (if any) has already been set and that the // user has performed any initialization such as setting the context id" />
       <item value="Set bean properties from init parameters." />
       <item value="Spring value processor of field or method which has @Value and xml config placeholders." />
@@ -47,15 +51,11 @@
       <item value="Return one meta server address. If multiple meta server addresses are configured, will select one." />
       <item value="// env -&gt; meta server address cache private static final Map&lt;Env, String&gt; metaServerAddressCache = Maps.newConcurrentMap(); private static volatile List&lt;MetaServerProvider&gt; metaServerProviders = null; private static final long REFRESH_INTERVAL_IN_SECOND = 60;// 1 min private static final Logger logger = LoggerFactory.getLogger(MetaDomainConsts.class); // comma separated meta server address -&gt; selected single meta server address cache private static final Map&lt;String, String&gt; selectedMetaServerAddressCache = Maps.newConcurrentMap(); private static final AtomicBoolean periodicRefreshStarted = new AtomicBoolean(false); private static final Object LOCK = new Object();" />
       <item value="if not found prefix 'spring.datasource.druid' jdbc properties ,'spring.datasource' prefix jdbc properties will be used." />
-      <item value="云店转正拿客户信息，优先wx profile，没有则落到account找" />
-      <item value="cloud Add Customer" />
-      <item value="Bulk index all objects. Will do save or update" />
-      <item value="Bulk update all objects. Will do update" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1475" />
-        <entry key="ENGLISH" value="1476" />
+        <entry key="CHINESE" value="1479" />
+        <entry key="ENGLISH" value="1480" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
