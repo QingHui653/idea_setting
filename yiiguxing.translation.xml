@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No context instance was injected at construction time -&gt; see if one // has been registered in the servlet context. If one exists, it is assumed // that the parent context (if any) has already been set and that the // user has performed any initialization such as setting the context id" />
       <item value="Set bean properties from init parameters." />
       <item value="Spring value processor of field or method which has @Value and xml config placeholders." />
       <item value="unmarshal" />
@@ -50,12 +51,11 @@
       <item value="cloud Add Customer" />
       <item value="Bulk index all objects. Will do save or update" />
       <item value="Bulk update all objects. Will do update" />
-      <item value="check For Bulk Update Failure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1474" />
-        <entry key="ENGLISH" value="1475" />
+        <entry key="CHINESE" value="1475" />
+        <entry key="ENGLISH" value="1476" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
