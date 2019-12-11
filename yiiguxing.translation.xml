@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pub Sig Pay Request" />
       <item value="sign Qry" />
       <item value="get Sign Info" />
       <item value="pub Sign Qry" />
@@ -50,12 +51,11 @@
       <item value="* Select one available meta server from the comma separated meta server addresses, e.g. * http://1.2.3.4:8080,http://2.3.4.5:8080 * * &lt;br /&gt; * * In production environment, we still suggest using one single domain like http://config.xxx.com(backed by software * load balancers like nginx) instead of multiple ip addresses" />
       <item value="Return one meta server address. If multiple meta server addresses are configured, will select one" />
       <item value="Return meta server address. If multiple meta server addresses are configured, will return the comma separated string." />
-      <item value="String metaServerAddress = getMetaServerAddress(env); // if there is more than one address, need to select one if (metaServerAddress.contains(&quot;,&quot;)) { return selectMetaServerAddress(metaServerAddress); }" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1482" />
-        <entry key="ENGLISH" value="1483" />
+        <entry key="CHINESE" value="1483" />
+        <entry key="ENGLISH" value="1484" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
