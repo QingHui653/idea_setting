@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sign Qry" />
+      <item value="get Sign Info" />
+      <item value="pub Sign Qry" />
       <item value="Default Lifecycle Processor" />
       <item value="DefaultLifecycleProcessor defaultProcessor = new DefaultLifecycleProcessor();" />
       <item value="Configure the bean factory with context callbacks." />
@@ -48,14 +51,11 @@
       <item value="Return one meta server address. If multiple meta server addresses are configured, will select one" />
       <item value="Return meta server address. If multiple meta server addresses are configured, will return the comma separated string." />
       <item value="String metaServerAddress = getMetaServerAddress(env); // if there is more than one address, need to select one if (metaServerAddress.contains(&quot;,&quot;)) { return selectMetaServerAddress(metaServerAddress); }" />
-      <item value="Return one meta server address. If multiple meta server addresses are configured, will select one." />
-      <item value="// env -&gt; meta server address cache private static final Map&lt;Env, String&gt; metaServerAddressCache = Maps.newConcurrentMap(); private static volatile List&lt;MetaServerProvider&gt; metaServerProviders = null; private static final long REFRESH_INTERVAL_IN_SECOND = 60;// 1 min private static final Logger logger = LoggerFactory.getLogger(MetaDomainConsts.class); // comma separated meta server address -&gt; selected single meta server address cache private static final Map&lt;String, String&gt; selectedMetaServerAddressCache = Maps.newConcurrentMap(); private static final AtomicBoolean periodicRefreshStarted = new AtomicBoolean(false); private static final Object LOCK = new Object();" />
-      <item value="if not found prefix 'spring.datasource.druid' jdbc properties ,'spring.datasource' prefix jdbc properties will be used." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1479" />
-        <entry key="ENGLISH" value="1480" />
+        <entry key="CHINESE" value="1482" />
+        <entry key="ENGLISH" value="1483" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
