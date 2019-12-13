@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Static utility methods pertaining to {@link Escaper} instances." />
+      <item value="Escapers" />
+      <item value="Xml Escapers" />
+      <item value="Copyright (C) 2012 The Guava Authors * * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except * in compliance with the License. You may obtain a copy of the License at * * http://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, software distributed under the License * is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express * or implied. See the License for the specific language governing permissions and limitations under * the License. */ /** * Escapers * for * XML. * * &lt;p&gt;This package is a part of the open-source &lt;a href=&quot;http://github.com/google/guava&quot;&gt;Guava&lt;/a&gt; * library." />
+      <item value="Annotates a program element that exists, or is more widely visible than otherwise necessary, only * for use in test code." />
+      <item value="The presence of this annotation on a type indicates that the type may be used with the * &lt;a href=&quot;http://code.google.com/webtoolkit/&quot;&gt;Google Web Toolkit&lt;/a&gt; (GWT). When applied to a * method, the return type of the method is GWT compatible. It's useful to indicate that an instance * created by factory methods has a GWT serializable type. In the following example," />
+      <item value="Gwt Compatible" />
+      <item value="animal-sniffer-annotation" />
+      <item value="Specifies the type of a top-level domain definition." />
+      <item value="Parser for a map of reversed domain names stored as a serialized radix tree." />
+      <item value="Trie Parser" />
       <item value="Pub Sig Pay Request" />
       <item value="sign Qry" />
       <item value="get Sign Info" />
@@ -40,22 +51,11 @@
       <item value="ocale" />
       <item value="default Time Zone" />
       <item value="default Locale" />
-      <item value="Locale" />
-      <item value="Time Zone" />
-      <item value="Initialize ProviderManager failed" />
-      <item value="Null Provider Manager" />
-      <item value="Double locking to make sure only one thread initializes ProviderManager." />
-      <item value="The number of bytes in a kilobyte." />
-      <item value="select the first available meta server" />
-      <item value="check whether /services/config is accessible" />
-      <item value="* Select one available meta server from the comma separated meta server addresses, e.g. * http://1.2.3.4:8080,http://2.3.4.5:8080 * * &lt;br /&gt; * * In production environment, we still suggest using one single domain like http://config.xxx.com(backed by software * load balancers like nginx) instead of multiple ip addresses" />
-      <item value="Return one meta server address. If multiple meta server addresses are configured, will select one" />
-      <item value="Return meta server address. If multiple meta server addresses are configured, will return the comma separated string." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1483" />
-        <entry key="ENGLISH" value="1484" />
+        <entry key="CHINESE" value="1495" />
+        <entry key="ENGLISH" value="1496" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
