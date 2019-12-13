@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="graphs whose nodes/edges are insertion-ordered, sorted, or unordered" />
+      <item value="graphs that do/don't allow self-loops" />
+      <item value="undirected graphs" />
+      <item value="directed graphs" />
+      <item value="Graph supports the following use cases (definitions of terms ):" />
+      <item value="Capabilities" />
+      <item value="An interface for graph -structured data, whose edges are anonymous entities with no identity or information of their own. A graph is composed of a set of nodes and a set of edges connecting pairs of nodes. There are three main interfaces provided to represent graphs. In order of increasing complexity they are: Graph, ValueGraph, and Network. You should generally prefer the simplest interface that satisfies your use case. See the &quot;Choosing the right graph type&quot; section of the Guava User Guide for more details." />
+      <item value="Returns the number of edges in this graph; used to calculate the size of {@link #edges()}. The * default implementation is O(|N|). You can manually keep track of the number of edges and * override this method for better performance." />
+      <item value="his class provides a skeletal implementation of {@link Graph}. It is recommended to extend this * class rather than implement {@link Graph} directly." />
+      <item value="Graph" />
+      <item value="kevinb" />
+      <item value="remove this" />
       <item value="Combine the characters and/or escaped sequences into a single array." />
       <item value="A TypeTable maintains mapping from {@link TypeVariable} to types." />
       <item value="Returns an Escaper instance that escapes strings so they can be safely included in URL form parameter names and values . Escaping is performed with the UTF-8 character encoding. The caller is responsible for replacing any unpaired carriage return or line feed characters with a CR+LF pair on any non-file inputs before escaping them with this escaper. When escaping a String, the following rules apply: The alphanumeric characters &quot;a&quot; through &quot;z&quot;, &quot;A&quot; through &quot;Z&quot; and &quot;0&quot; through &quot;9&quot; remain the same. The special characters &quot;.&quot;, &quot;-&quot;, &quot;*&quot;, and &quot;_&quot; remain the same. The space character &quot; &quot; is converted into a plus sign &quot;+&quot;. All other characters are converted into one or more bytes using UTF-8 encoding and each byte is then represented by the 3-character string &quot;%XY&quot;, where &quot;XY&quot; is the two-digit, uppercase, hexadecimal representation of the byte value. This escaper is suitable for escaping parameter names and values even when using the non-standard semicolon , rather than the ampersand, as a parameter delimiter. Nevertheless, we recommend using the ampersand unless you must interoperate with systems that require semicolons. Note: Unlike other escapers, URL escapers produce uppercase hexadecimal sequences." />
@@ -39,25 +51,13 @@
       <item value="No context instance was injected at construction time -&gt; see if one // has been registered in the servlet context. If one exists, it is assumed // that the parent context (if any) has already been set and that the // user has performed any initialization such as setting the context id" />
       <item value="Set bean properties from init parameters." />
       <item value="Spring value processor of field or method which has @Value and xml config placeholders." />
-      <item value="unmarshal" />
-      <item value="Beans that support customized output of JSON text to a writer shall implement this interface." />
-      <item value="DEFAULT PARSER FEATURE" />
-      <item value="DEFAULT GENERATE FEATURE" />
-      <item value="Custom Map Deserializer" />
-      <item value="Non String Key As String" />
-      <item value="1.2.41, backport to 1.1.66.android" />
-      <item value="disable field smart match, improve performance in some scenarios." />
-      <item value="Disable Special Key Detect" />
-      <item value="Ordered Field" />
-      <item value="Support Array To Bean" />
-      <item value="Init String Field As Empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1508" />
-        <entry key="ENGLISH" value="1509" />
+        <entry key="CHINESE" value="1513" />
+        <entry key="ENGLISH" value="1513" />
         <entry key="ARABIC" value="1" />
-        <entry key="IRISH" value="1" />
+        <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="2" />
