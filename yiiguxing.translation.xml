@@ -1,7 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A TypeTable maintains mapping from {@link TypeVariable} to types." />
+      <item value="Returns an Escaper instance that escapes strings so they can be safely included in URL form parameter names and values . Escaping is performed with the UTF-8 character encoding. The caller is responsible for replacing any unpaired carriage return or line feed characters with a CR+LF pair on any non-file inputs before escaping them with this escaper. When escaping a String, the following rules apply: The alphanumeric characters &quot;a&quot; through &quot;z&quot;, &quot;A&quot; through &quot;Z&quot; and &quot;0&quot; through &quot;9&quot; remain the same. The special characters &quot;.&quot;, &quot;-&quot;, &quot;*&quot;, and &quot;_&quot; remain the same. The space character &quot; &quot; is converted into a plus sign &quot;+&quot;. All other characters are converted into one or more bytes using UTF-8 encoding and each byte is then represented by the 3-character string &quot;%XY&quot;, where &quot;XY&quot; is the two-digit, uppercase, hexadecimal representation of the byte value. This escaper is suitable for escaping parameter names and values even when using the non-standard semicolon , rather than the ampersand, as a parameter delimiter. Nevertheless, we recommend using the ampersand unless you must interoperate with systems that require semicolons. Note: Unlike other escapers, URL escapers produce uppercase hexadecimal sequences." />
+      <item value="Returns the escaped form of a given literal string, starting at the given index. This method is * called by the {@link #escape(String)} method when it discovers that escaping is required. It is * protected to allow subclasses to override the fastpath escaping function to inline their * escaping test. See {@link CharEscaperBuilder} for an example usage." />
+      <item value="Returns the escaped form of a given literal string, starting at the given index. This method is called by the escape(String) method when it discovers that escaping is required. It is protected to allow subclasses to override the fastpath escaping function to inline their escaping test. See CharEscaperBuilder for an example usage. Params: s – the literal string to be escaped index – the index to start escaping from Returns: the escaped form of string Throws: NullPointerException – if string is null Inferred annotations: Method escapeSlow: @org.jetbrains.annotations.NotNull @org.jetbrains.annotations.Contract(&quot;_,_-&gt;new&quot;) Parameter s: @org.jetbrains.annotations.NotNull" />
+      <item value="Returns the escaped form of a given literal string. * * &lt;p&gt;Note that this method may treat input characters differently depending on the specific * escaper implementation. * * &lt;ul&gt; * &lt;li&gt;{@link UnicodeEscaper} handles &lt;a href=&quot;http://en.wikipedia.org/wiki/UTF-16&quot;&gt;UTF-16&lt;/a&gt; * correctly, including surrogate character pairs. If the input is badly formed the escaper should * throw {@link IllegalArgumentException}. * &lt;li&gt;{@link CharEscaper} handles Java characters independently and does not verify the input for * well formed characters. A {@code CharEscaper} should not be used in situations where input is * not guaranteed to be restricted to the Basic Multilingual Plane (BMP). * &lt;/ul&gt;" />
+      <item value="TODO(user): evaluate custom implementations, considering package private constructor. /** Constructor for use by subclasses." />
+      <item value="An object that converts literal text into a format safe for inclusion in a particular context (such as an XML document). Typically (but not always), the inverse process of &quot;unescaping&quot; the text is performed automatically by the relevant parser. For example, an XML escaper would convert the literal string &quot;Foo&lt;Bar&gt;&quot; into &quot;Foo&amp;lt;Bar&amp;gt;&quot; to prevent &quot;&lt;Bar&gt;&quot; from being confused with an XML tag. When the resulting XML document is parsed, the parser API will return this text as the original literal string &quot;Foo&lt;Bar&gt;&quot;. An Escaper instance is required to be stateless, and safe when used concurrently by multiple threads. Because, in general, escaping operates on the code points of a string and not on its individual char values, it is not safe to assume that escape(s) is equivalent to escape(s.substring(0, n)) + escape(s.substing(n)) for arbitrary n. This is because of the possibility of splitting a surrogate pair. The only case in which it is safe to escape strings and concatenate the results is if you can rule out this possibility, either by splitting an existing long string into short strings adaptively around surrogate pairs, or by starting with short strings already known to be free of unpaired surrogates. The two primary implementations of this interface are CharEscaper and UnicodeEscaper. They are heavily optimized for performance and greatly simplify the task of implementing new escapers. It is strongly recommended that when implementing a new escaper you extend one of these classes. If you find that you are unable to achieve the desired behavior using either of these classes, please contact the Java libraries team for advice. Popular escapers are defined as constants in classes like com.google.common.html.HtmlEscapers and com.google.common.xml.XmlEscapers. To create your own escapers, use CharEscaperBuilder, or extend CharEscaper or UnicodeEscaper." />
+      <item value="GWT specific check (do not optimize)" />
+      <item value="create Replacement Array" />
+      <item value="An implementation-specific parameter class suitable for initializing ArrayBasedCharEscaper or ArrayBasedUnicodeEscaper instances. This class should be used when more than one escaper is created using the same character replacement mapping to allow the underlying (implementation specific) data structures to be shared. The size of the data structure used by ArrayBasedCharEscaper and ArrayBasedUnicodeEscaper is proportional to the highest valued character that has a replacement. For example a replacement map containing the single character '\u1000' will require approximately 16K of memory. As such sharing this data structure between escaper instances is the primary goal of this class." />
+      <item value="Simple helper class to build a &quot;sparse&quot; array of objects based on the indexes that were added to * it. The array will be from 0 to the maximum index given. All non-set indexes will contain null * (so it's not really a sparse array, just a pseudo sparse array). The builder can also return a * CharEscaper based on the generated array." />
+      <item value="Returns an {@link Escaper} that does no escaping, passing all character data through unchanged." />
       <item value="Static utility methods pertaining to {@link Escaper} instances." />
+      <item value="Methods factored out so that they can be emulated differently in GWT." />
+      <item value="Constructor for use by subclasses" />
+      <item value="An object that converts literal text into a format safe for inclusion in a particular context (such as an XML document). Typically (but not always), the inverse process of &quot;unescaping&quot; the text is performed automatically by the relevant parser. For example, an XML escaper would convert the literal string &quot;Foo&lt;Bar&gt;&quot; into &quot;Foo&amp;lt;Bar&amp;gt;&quot; to prevent &quot;&lt;Bar&gt;&quot; from being confused with an XML tag. When the resulting XML document is parsed, the parser API will return this text as the original literal string &quot;Foo&lt;Bar&gt;&quot;. A CharEscaper instance is required to be stateless, and safe when used concurrently by multiple threads. Popular escapers are defined as constants in classes like com.google.common.html.HtmlEscapers and com.google.common.xml.XmlEscapers. To create your own escapers extend this class and implement the escape(char) method." />
       <item value="Escapers" />
       <item value="Xml Escapers" />
       <item value="Copyright (C) 2012 The Guava Authors * * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except * in compliance with the License. You may obtain a copy of the License at * * http://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, software distributed under the License * is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express * or implied. See the License for the specific language governing permissions and limitations under * the License. */ /** * Escapers * for * XML. * * &lt;p&gt;This package is a part of the open-source &lt;a href=&quot;http://github.com/google/guava&quot;&gt;Guava&lt;/a&gt; * library." />
@@ -36,26 +51,11 @@
       <item value="Support Array To Bean" />
       <item value="Init String Field As Empty" />
       <item value="Disable Circular Reference Detect" />
-      <item value="Disable ASM" />
-      <item value="Sort Feid Fast Match" />
-      <item value="Ignore Not Match" />
-      <item value="Use Big Decimal" />
-      <item value="Allow Arbitrary Commas" />
-      <item value="Allow ISO 8601 Date Format" />
-      <item value="Intern Field Names" />
-      <item value="Allow Single Quotes" />
-      <item value="Allow Un Quoted Field Names" />
-      <item value="Allow Comment" />
-      <item value="Auto Close Source" />
-      <item value="DEFAULT TYPE KEY" />
-      <item value="ocale" />
-      <item value="default Time Zone" />
-      <item value="default Locale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1495" />
-        <entry key="ENGLISH" value="1496" />
+        <entry key="CHINESE" value="1507" />
+        <entry key="ENGLISH" value="1508" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="7" />
