@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lock for a specific resource." />
+      <item value="fire Exit" />
+      <item value="Slot Chain" />
+      <item value="Node Selector Slot" />
+      <item value="Following code is an example, &quot;abc&quot; represent a unique name for the protected resource: public void foo() { Entry entry = null; try { entry = SphU.entry(&quot;abc&quot;); // resource that need protection } catch (BlockException blockException) { // when goes there, it is blocked // add blocked handle logic here } catch (Throwable bizException) { // business exception Tracer.trace(bizException); } finally { // ensure finally be executed if (entry != null){ entry.exit(); } } }" />
+      <item value="FlowRuleManager.loadRules(List), DegradeRuleManager.loadRules(List), SystemRuleManager.loadRules(List)." />
+      <item value="Conceptually, physical or logical resource that need protection should be surrounded by an entry. The requests to this resource will be blocked if any criteria is met, eg. when any Rule's threshold is exceeded. Once blocked, a BlockException will be thrown. To configure the criteria, we can use XXXRuleManager.loadRules() to add rules, eg." />
+      <item value="Sph U" />
       <item value="graphs whose nodes/edges are insertion-ordered, sorted, or unordered" />
       <item value="graphs that do/don't allow self-loops" />
       <item value="undirected graphs" />
@@ -43,19 +51,11 @@
       <item value="Pub Sig Pay Request" />
       <item value="sign Qry" />
       <item value="get Sign Info" />
-      <item value="pub Sign Qry" />
-      <item value="Default Lifecycle Processor" />
-      <item value="DefaultLifecycleProcessor defaultProcessor = new DefaultLifecycleProcessor();" />
-      <item value="Configure the bean factory with context callbacks." />
-      <item value="Tell the internal bean factory to use the context's class loader etc." />
-      <item value="No context instance was injected at construction time -&gt; see if one // has been registered in the servlet context. If one exists, it is assumed // that the parent context (if any) has already been set and that the // user has performed any initialization such as setting the context id" />
-      <item value="Set bean properties from init parameters." />
-      <item value="Spring value processor of field or method which has @Value and xml config placeholders." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1513" />
-        <entry key="ENGLISH" value="1513" />
+        <entry key="CHINESE" value="1516" />
+        <entry key="ENGLISH" value="1517" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
@@ -68,6 +68,7 @@
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="4" />
         <entry key="MALAGASY" value="2" />
+        <entry key="MALTESE" value="1" />
         <entry key="MALAY" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="2" />
