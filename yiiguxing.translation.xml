@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Crypt" />
+      <item value="Wx Ma Crypt Utils" />
+      <item value="canonical, avoids branching, which matters more than alu ops" />
+      <item value="Class for miscellaneous helper methods." />
+      <item value="Matrix" />
+      <item value="WritableDataSource&lt;List&lt;ParamFlowRule&gt;&gt; getWritableDataSource()" />
+      <item value="Param Flow Rule" />
+      <item value="Writable Data Source" />
+      <item value="type:parameter flow rule" />
+      <item value="Receiving rule change" />
+      <item value="[API Server] Receiving rule change (type:parameter flow rule)" />
       <item value="Lock for a specific resource." />
       <item value="fire Exit" />
       <item value="Slot Chain" />
@@ -40,22 +51,11 @@
       <item value="An object that converts literal text into a format safe for inclusion in a particular context (such as an XML document). Typically (but not always), the inverse process of &quot;unescaping&quot; the text is performed automatically by the relevant parser. For example, an XML escaper would convert the literal string &quot;Foo&lt;Bar&gt;&quot; into &quot;Foo&amp;lt;Bar&amp;gt;&quot; to prevent &quot;&lt;Bar&gt;&quot; from being confused with an XML tag. When the resulting XML document is parsed, the parser API will return this text as the original literal string &quot;Foo&lt;Bar&gt;&quot;. A CharEscaper instance is required to be stateless, and safe when used concurrently by multiple threads. Popular escapers are defined as constants in classes like com.google.common.html.HtmlEscapers and com.google.common.xml.XmlEscapers. To create your own escapers extend this class and implement the escape(char) method." />
       <item value="Escapers" />
       <item value="Xml Escapers" />
-      <item value="Copyright (C) 2012 The Guava Authors * * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except * in compliance with the License. You may obtain a copy of the License at * * http://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, software distributed under the License * is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express * or implied. See the License for the specific language governing permissions and limitations under * the License. */ /** * Escapers * for * XML. * * &lt;p&gt;This package is a part of the open-source &lt;a href=&quot;http://github.com/google/guava&quot;&gt;Guava&lt;/a&gt; * library." />
-      <item value="Annotates a program element that exists, or is more widely visible than otherwise necessary, only * for use in test code." />
-      <item value="The presence of this annotation on a type indicates that the type may be used with the * &lt;a href=&quot;http://code.google.com/webtoolkit/&quot;&gt;Google Web Toolkit&lt;/a&gt; (GWT). When applied to a * method, the return type of the method is GWT compatible. It's useful to indicate that an instance * created by factory methods has a GWT serializable type. In the following example," />
-      <item value="Gwt Compatible" />
-      <item value="animal-sniffer-annotation" />
-      <item value="Specifies the type of a top-level domain definition." />
-      <item value="Parser for a map of reversed domain names stored as a serialized radix tree." />
-      <item value="Trie Parser" />
-      <item value="Pub Sig Pay Request" />
-      <item value="sign Qry" />
-      <item value="get Sign Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1516" />
-        <entry key="ENGLISH" value="1517" />
+        <entry key="CHINESE" value="1527" />
+        <entry key="ENGLISH" value="1528" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
