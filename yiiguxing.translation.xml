@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SPEC COMPARE 2" />
+      <item value="SPEC COMPARE" />
+      <item value="IS TEXT MODE" />
+      <item value="dirty work" />
+      <item value="autoescape" />
       <item value="make Spec Table Data" />
       <item value="pre Process" />
       <item value="render" />
@@ -46,16 +51,11 @@
       <item value="GWT specific check (do not optimize)" />
       <item value="create Replacement Array" />
       <item value="An implementation-specific parameter class suitable for initializing ArrayBasedCharEscaper or ArrayBasedUnicodeEscaper instances. This class should be used when more than one escaper is created using the same character replacement mapping to allow the underlying (implementation specific) data structures to be shared. The size of the data structure used by ArrayBasedCharEscaper and ArrayBasedUnicodeEscaper is proportional to the highest valued character that has a replacement. For example a replacement map containing the single character '\u1000' will require approximately 16K of memory. As such sharing this data structure between escaper instances is the primary goal of this class." />
-      <item value="Simple helper class to build a &quot;sparse&quot; array of objects based on the indexes that were added to * it. The array will be from 0 to the maximum index given. All non-set indexes will contain null * (so it's not really a sparse array, just a pseudo sparse array). The builder can also return a * CharEscaper based on the generated array." />
-      <item value="Returns an {@link Escaper} that does no escaping, passing all character data through unchanged." />
-      <item value="Static utility methods pertaining to {@link Escaper} instances." />
-      <item value="Methods factored out so that they can be emulated differently in GWT." />
-      <item value="Constructor for use by subclasses" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1530" />
-        <entry key="ENGLISH" value="1531" />
+        <entry key="CHINESE" value="1534" />
+        <entry key="ENGLISH" value="1535" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
@@ -75,7 +75,7 @@
         <entry key="SLOVAK" value="2" />
         <entry key="SOMALI" value="1" />
         <entry key="WELSH" value="11" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="INDONESIAN" value="1" />
