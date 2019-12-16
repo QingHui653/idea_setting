@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="make Spec Table Data" />
+      <item value="pre Process" />
+      <item value="render" />
       <item value="Crypt" />
       <item value="Wx Ma Crypt Utils" />
       <item value="canonical, avoids branching, which matters more than alu ops" />
@@ -48,14 +51,11 @@
       <item value="Static utility methods pertaining to {@link Escaper} instances." />
       <item value="Methods factored out so that they can be emulated differently in GWT." />
       <item value="Constructor for use by subclasses" />
-      <item value="An object that converts literal text into a format safe for inclusion in a particular context (such as an XML document). Typically (but not always), the inverse process of &quot;unescaping&quot; the text is performed automatically by the relevant parser. For example, an XML escaper would convert the literal string &quot;Foo&lt;Bar&gt;&quot; into &quot;Foo&amp;lt;Bar&amp;gt;&quot; to prevent &quot;&lt;Bar&gt;&quot; from being confused with an XML tag. When the resulting XML document is parsed, the parser API will return this text as the original literal string &quot;Foo&lt;Bar&gt;&quot;. A CharEscaper instance is required to be stateless, and safe when used concurrently by multiple threads. Popular escapers are defined as constants in classes like com.google.common.html.HtmlEscapers and com.google.common.xml.XmlEscapers. To create your own escapers extend this class and implement the escape(char) method." />
-      <item value="Escapers" />
-      <item value="Xml Escapers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1527" />
-        <entry key="ENGLISH" value="1528" />
+        <entry key="CHINESE" value="1530" />
+        <entry key="ENGLISH" value="1531" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
