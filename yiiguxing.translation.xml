@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corporation logo" />
       <item value="product Page" />
       <item value="SPEC COMPARE 2" />
       <item value="SPEC COMPARE" />
@@ -50,12 +51,11 @@
       <item value="TODO(user): evaluate custom implementations, considering package private constructor. /** Constructor for use by subclasses." />
       <item value="An object that converts literal text into a format safe for inclusion in a particular context (such as an XML document). Typically (but not always), the inverse process of &quot;unescaping&quot; the text is performed automatically by the relevant parser. For example, an XML escaper would convert the literal string &quot;Foo&lt;Bar&gt;&quot; into &quot;Foo&amp;lt;Bar&amp;gt;&quot; to prevent &quot;&lt;Bar&gt;&quot; from being confused with an XML tag. When the resulting XML document is parsed, the parser API will return this text as the original literal string &quot;Foo&lt;Bar&gt;&quot;. An Escaper instance is required to be stateless, and safe when used concurrently by multiple threads. Because, in general, escaping operates on the code points of a string and not on its individual char values, it is not safe to assume that escape(s) is equivalent to escape(s.substring(0, n)) + escape(s.substing(n)) for arbitrary n. This is because of the possibility of splitting a surrogate pair. The only case in which it is safe to escape strings and concatenate the results is if you can rule out this possibility, either by splitting an existing long string into short strings adaptively around surrogate pairs, or by starting with short strings already known to be free of unpaired surrogates. The two primary implementations of this interface are CharEscaper and UnicodeEscaper. They are heavily optimized for performance and greatly simplify the task of implementing new escapers. It is strongly recommended that when implementing a new escaper you extend one of these classes. If you find that you are unable to achieve the desired behavior using either of these classes, please contact the Java libraries team for advice. Popular escapers are defined as constants in classes like com.google.common.html.HtmlEscapers and com.google.common.xml.XmlEscapers. To create your own escapers, use CharEscaperBuilder, or extend CharEscaper or UnicodeEscaper." />
       <item value="GWT specific check (do not optimize)" />
-      <item value="create Replacement Array" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1535" />
-        <entry key="ENGLISH" value="1536" />
+        <entry key="CHINESE" value="1536" />
+        <entry key="ENGLISH" value="1537" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
