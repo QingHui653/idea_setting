@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="build Pick Order Context" />
       <item value="build Delivery Order Context" />
       <item value="corporation logo" />
       <item value="product Page" />
@@ -50,12 +51,11 @@
       <item value="Returns the escaped form of a given literal string, starting at the given index. This method is called by the escape(String) method when it discovers that escaping is required. It is protected to allow subclasses to override the fastpath escaping function to inline their escaping test. See CharEscaperBuilder for an example usage. Params: s – the literal string to be escaped index – the index to start escaping from Returns: the escaped form of string Throws: NullPointerException – if string is null Inferred annotations: Method escapeSlow: @org.jetbrains.annotations.NotNull @org.jetbrains.annotations.Contract(&quot;_,_-&gt;new&quot;) Parameter s: @org.jetbrains.annotations.NotNull" />
       <item value="Returns the escaped form of a given literal string. * * &lt;p&gt;Note that this method may treat input characters differently depending on the specific * escaper implementation. * * &lt;ul&gt; * &lt;li&gt;{@link UnicodeEscaper} handles &lt;a href=&quot;http://en.wikipedia.org/wiki/UTF-16&quot;&gt;UTF-16&lt;/a&gt; * correctly, including surrogate character pairs. If the input is badly formed the escaper should * throw {@link IllegalArgumentException}. * &lt;li&gt;{@link CharEscaper} handles Java characters independently and does not verify the input for * well formed characters. A {@code CharEscaper} should not be used in situations where input is * not guaranteed to be restricted to the Basic Multilingual Plane (BMP). * &lt;/ul&gt;" />
       <item value="TODO(user): evaluate custom implementations, considering package private constructor. /** Constructor for use by subclasses." />
-      <item value="An object that converts literal text into a format safe for inclusion in a particular context (such as an XML document). Typically (but not always), the inverse process of &quot;unescaping&quot; the text is performed automatically by the relevant parser. For example, an XML escaper would convert the literal string &quot;Foo&lt;Bar&gt;&quot; into &quot;Foo&amp;lt;Bar&amp;gt;&quot; to prevent &quot;&lt;Bar&gt;&quot; from being confused with an XML tag. When the resulting XML document is parsed, the parser API will return this text as the original literal string &quot;Foo&lt;Bar&gt;&quot;. An Escaper instance is required to be stateless, and safe when used concurrently by multiple threads. Because, in general, escaping operates on the code points of a string and not on its individual char values, it is not safe to assume that escape(s) is equivalent to escape(s.substring(0, n)) + escape(s.substing(n)) for arbitrary n. This is because of the possibility of splitting a surrogate pair. The only case in which it is safe to escape strings and concatenate the results is if you can rule out this possibility, either by splitting an existing long string into short strings adaptively around surrogate pairs, or by starting with short strings already known to be free of unpaired surrogates. The two primary implementations of this interface are CharEscaper and UnicodeEscaper. They are heavily optimized for performance and greatly simplify the task of implementing new escapers. It is strongly recommended that when implementing a new escaper you extend one of these classes. If you find that you are unable to achieve the desired behavior using either of these classes, please contact the Java libraries team for advice. Popular escapers are defined as constants in classes like com.google.common.html.HtmlEscapers and com.google.common.xml.XmlEscapers. To create your own escapers, use CharEscaperBuilder, or extend CharEscaper or UnicodeEscaper." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1537" />
-        <entry key="ENGLISH" value="1538" />
+        <entry key="CHINESE" value="1538" />
+        <entry key="ENGLISH" value="1539" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
