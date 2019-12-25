@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Entity Utils" />
       <item value="build Pick Order Context" />
       <item value="build Delivery Order Context" />
       <item value="corporation logo" />
@@ -50,12 +51,11 @@
       <item value="Returns the escaped form of a given literal string, starting at the given index. This method is * called by the {@link #escape(String)} method when it discovers that escaping is required. It is * protected to allow subclasses to override the fastpath escaping function to inline their * escaping test. See {@link CharEscaperBuilder} for an example usage." />
       <item value="Returns the escaped form of a given literal string, starting at the given index. This method is called by the escape(String) method when it discovers that escaping is required. It is protected to allow subclasses to override the fastpath escaping function to inline their escaping test. See CharEscaperBuilder for an example usage. Params: s – the literal string to be escaped index – the index to start escaping from Returns: the escaped form of string Throws: NullPointerException – if string is null Inferred annotations: Method escapeSlow: @org.jetbrains.annotations.NotNull @org.jetbrains.annotations.Contract(&quot;_,_-&gt;new&quot;) Parameter s: @org.jetbrains.annotations.NotNull" />
       <item value="Returns the escaped form of a given literal string. * * &lt;p&gt;Note that this method may treat input characters differently depending on the specific * escaper implementation. * * &lt;ul&gt; * &lt;li&gt;{@link UnicodeEscaper} handles &lt;a href=&quot;http://en.wikipedia.org/wiki/UTF-16&quot;&gt;UTF-16&lt;/a&gt; * correctly, including surrogate character pairs. If the input is badly formed the escaper should * throw {@link IllegalArgumentException}. * &lt;li&gt;{@link CharEscaper} handles Java characters independently and does not verify the input for * well formed characters. A {@code CharEscaper} should not be used in situations where input is * not guaranteed to be restricted to the Basic Multilingual Plane (BMP). * &lt;/ul&gt;" />
-      <item value="TODO(user): evaluate custom implementations, considering package private constructor. /** Constructor for use by subclasses." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1538" />
-        <entry key="ENGLISH" value="1539" />
+        <entry key="CHINESE" value="1539" />
+        <entry key="ENGLISH" value="1540" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
