@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="cur Debt" />
+      <item value="during Debt" />
       <item value="Entity Utils" />
       <item value="build Pick Order Context" />
       <item value="build Delivery Order Context" />
@@ -50,12 +51,11 @@
       <item value="A TypeTable maintains mapping from {@link TypeVariable} to types." />
       <item value="Returns an Escaper instance that escapes strings so they can be safely included in URL form parameter names and values . Escaping is performed with the UTF-8 character encoding. The caller is responsible for replacing any unpaired carriage return or line feed characters with a CR+LF pair on any non-file inputs before escaping them with this escaper. When escaping a String, the following rules apply: The alphanumeric characters &quot;a&quot; through &quot;z&quot;, &quot;A&quot; through &quot;Z&quot; and &quot;0&quot; through &quot;9&quot; remain the same. The special characters &quot;.&quot;, &quot;-&quot;, &quot;*&quot;, and &quot;_&quot; remain the same. The space character &quot; &quot; is converted into a plus sign &quot;+&quot;. All other characters are converted into one or more bytes using UTF-8 encoding and each byte is then represented by the 3-character string &quot;%XY&quot;, where &quot;XY&quot; is the two-digit, uppercase, hexadecimal representation of the byte value. This escaper is suitable for escaping parameter names and values even when using the non-standard semicolon , rather than the ampersand, as a parameter delimiter. Nevertheless, we recommend using the ampersand unless you must interoperate with systems that require semicolons. Note: Unlike other escapers, URL escapers produce uppercase hexadecimal sequences." />
       <item value="Returns the escaped form of a given literal string, starting at the given index. This method is * called by the {@link #escape(String)} method when it discovers that escaping is required. It is * protected to allow subclasses to override the fastpath escaping function to inline their * escaping test. See {@link CharEscaperBuilder} for an example usage." />
-      <item value="Returns the escaped form of a given literal string, starting at the given index. This method is called by the escape(String) method when it discovers that escaping is required. It is protected to allow subclasses to override the fastpath escaping function to inline their escaping test. See CharEscaperBuilder for an example usage. Params: s – the literal string to be escaped index – the index to start escaping from Returns: the escaped form of string Throws: NullPointerException – if string is null Inferred annotations: Method escapeSlow: @org.jetbrains.annotations.NotNull @org.jetbrains.annotations.Contract(&quot;_,_-&gt;new&quot;) Parameter s: @org.jetbrains.annotations.NotNull" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1540" />
-        <entry key="ENGLISH" value="1540" />
+        <entry key="CHINESE" value="1541" />
+        <entry key="ENGLISH" value="1541" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
@@ -63,7 +63,7 @@
         <entry key="RUSSIAN" value="2" />
         <entry key="FRENCH" value="6" />
         <entry key="HAUSA" value="1" />
-        <entry key="DUTCH" value="2" />
+        <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="2" />
