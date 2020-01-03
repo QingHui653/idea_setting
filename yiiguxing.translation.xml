@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Provide an API for time-related service, such as getting the current time and waiting for * a given period of time. By default, these services are provided by actual time services * in the JDK (i.e. System.nanoTime(), System.currentTimeMillis(), Thread.sleep(), and * java.util.concurrent.locks.LockSupport.parkNanos()). However, if the property * LatencyUtils.useActualTime is set to &quot;false&quot;, TimeServers will only move the notion * of time in response to calls to the #setCurrentTime() method." />
+      <item value="JSONObject.NULL is equivalent to the value that JavaScript calls null, * whilst Java's null is equivalent to the value that JavaScript calls * undefined." />
       <item value="Called for each attempt and retry" />
       <item value="cur Debt" />
       <item value="during Debt" />
@@ -49,13 +51,11 @@
       <item value="kevinb" />
       <item value="remove this" />
       <item value="Combine the characters and/or escaped sequences into a single array." />
-      <item value="A TypeTable maintains mapping from {@link TypeVariable} to types." />
-      <item value="Returns an Escaper instance that escapes strings so they can be safely included in URL form parameter names and values . Escaping is performed with the UTF-8 character encoding. The caller is responsible for replacing any unpaired carriage return or line feed characters with a CR+LF pair on any non-file inputs before escaping them with this escaper. When escaping a String, the following rules apply: The alphanumeric characters &quot;a&quot; through &quot;z&quot;, &quot;A&quot; through &quot;Z&quot; and &quot;0&quot; through &quot;9&quot; remain the same. The special characters &quot;.&quot;, &quot;-&quot;, &quot;*&quot;, and &quot;_&quot; remain the same. The space character &quot; &quot; is converted into a plus sign &quot;+&quot;. All other characters are converted into one or more bytes using UTF-8 encoding and each byte is then represented by the 3-character string &quot;%XY&quot;, where &quot;XY&quot; is the two-digit, uppercase, hexadecimal representation of the byte value. This escaper is suitable for escaping parameter names and values even when using the non-standard semicolon , rather than the ampersand, as a parameter delimiter. Nevertheless, we recommend using the ampersand unless you must interoperate with systems that require semicolons. Note: Unlike other escapers, URL escapers produce uppercase hexadecimal sequences." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1541" />
-        <entry key="ENGLISH" value="1542" />
+        <entry key="CHINESE" value="1543" />
+        <entry key="ENGLISH" value="1544" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
