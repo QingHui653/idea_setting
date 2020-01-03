@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Map type to be used for key spaces must not be null!" />
+      <item value="Store must not be null." />
+      <item value="/** * The toJSONString method allows a class to produce its own JSON * serialization. * * @return String representation of JSON object * */" />
+      <item value="key Space Map Type" />
+      <item value="Map Key Value Adapter" />
+      <item value="Release 2.1.1 (Lovelace SR1)." />
+      <item value="Release 2.0.11 (Kay SR11)." />
+      <item value="Full editing pass on reference documentation." />
       <item value="reference/mongodb-extended-json/ MongoDB Extended JSON" />
       <item value="The legacy representation of UUID used by the Java driver * * BSON binary subtype 3" />
       <item value="The legacy representation of UUID used by the Java driver" />
@@ -43,19 +51,11 @@
       <item value="Conceptually, physical or logical resource that need protection should be surrounded by an entry. The requests to this resource will be blocked if any criteria is met, eg. when any Rule's threshold is exceeded. Once blocked, a BlockException will be thrown. To configure the criteria, we can use XXXRuleManager.loadRules() to add rules, eg." />
       <item value="Sph U" />
       <item value="graphs whose nodes/edges are insertion-ordered, sorted, or unordered" />
-      <item value="graphs that do/don't allow self-loops" />
-      <item value="undirected graphs" />
-      <item value="directed graphs" />
-      <item value="Graph supports the following use cases (definitions of terms ):" />
-      <item value="Capabilities" />
-      <item value="An interface for graph -structured data, whose edges are anonymous entities with no identity or information of their own. A graph is composed of a set of nodes and a set of edges connecting pairs of nodes. There are three main interfaces provided to represent graphs. In order of increasing complexity they are: Graph, ValueGraph, and Network. You should generally prefer the simplest interface that satisfies your use case. See the &quot;Choosing the right graph type&quot; section of the Guava User Guide for more details." />
-      <item value="Returns the number of edges in this graph; used to calculate the size of {@link #edges()}. The * default implementation is O(|N|). You can manually keep track of the number of edges and * override this method for better performance." />
-      <item value="his class provides a skeletal implementation of {@link Graph}. It is recommended to extend this * class rather than implement {@link Graph} directly." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1547" />
-        <entry key="ENGLISH" value="1548" />
+        <entry key="CHINESE" value="1556" />
+        <entry key="ENGLISH" value="1557" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
