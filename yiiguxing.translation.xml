@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reference/mongodb-extended-json/ MongoDB Extended JSON" />
+      <item value="The legacy representation of UUID used by the Java driver * * BSON binary subtype 3" />
+      <item value="The legacy representation of UUID used by the Java driver" />
+      <item value="Shape" />
       <item value="Provide an API for time-related service, such as getting the current time and waiting for * a given period of time. By default, these services are provided by actual time services * in the JDK (i.e. System.nanoTime(), System.currentTimeMillis(), Thread.sleep(), and * java.util.concurrent.locks.LockSupport.parkNanos()). However, if the property * LatencyUtils.useActualTime is set to &quot;false&quot;, TimeServers will only move the notion * of time in response to calls to the #setCurrentTime() method." />
       <item value="JSONObject.NULL is equivalent to the value that JavaScript calls null, * whilst Java's null is equivalent to the value that JavaScript calls * undefined." />
       <item value="Called for each attempt and retry" />
@@ -47,15 +51,11 @@
       <item value="An interface for graph -structured data, whose edges are anonymous entities with no identity or information of their own. A graph is composed of a set of nodes and a set of edges connecting pairs of nodes. There are three main interfaces provided to represent graphs. In order of increasing complexity they are: Graph, ValueGraph, and Network. You should generally prefer the simplest interface that satisfies your use case. See the &quot;Choosing the right graph type&quot; section of the Guava User Guide for more details." />
       <item value="Returns the number of edges in this graph; used to calculate the size of {@link #edges()}. The * default implementation is O(|N|). You can manually keep track of the number of edges and * override this method for better performance." />
       <item value="his class provides a skeletal implementation of {@link Graph}. It is recommended to extend this * class rather than implement {@link Graph} directly." />
-      <item value="Graph" />
-      <item value="kevinb" />
-      <item value="remove this" />
-      <item value="Combine the characters and/or escaped sequences into a single array." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1543" />
-        <entry key="ENGLISH" value="1544" />
+        <entry key="CHINESE" value="1547" />
+        <entry key="ENGLISH" value="1548" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
