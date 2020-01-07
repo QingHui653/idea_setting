@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="role" />
+      <item value="env" />
+      <item value="time" />
+      <item value="industry Id" />
       <item value="Map type to be used for key spaces must not be null!" />
       <item value="Store must not be null." />
       <item value="/** * The toJSONString method allows a class to produce its own JSON * serialization. * * @return String representation of JSON object * */" />
@@ -47,21 +51,17 @@
       <item value="Slot Chain" />
       <item value="Node Selector Slot" />
       <item value="Following code is an example, &quot;abc&quot; represent a unique name for the protected resource: public void foo() { Entry entry = null; try { entry = SphU.entry(&quot;abc&quot;); // resource that need protection } catch (BlockException blockException) { // when goes there, it is blocked // add blocked handle logic here } catch (Throwable bizException) { // business exception Tracer.trace(bizException); } finally { // ensure finally be executed if (entry != null){ entry.exit(); } } }" />
-      <item value="FlowRuleManager.loadRules(List), DegradeRuleManager.loadRules(List), SystemRuleManager.loadRules(List)." />
-      <item value="Conceptually, physical or logical resource that need protection should be surrounded by an entry. The requests to this resource will be blocked if any criteria is met, eg. when any Rule's threshold is exceeded. Once blocked, a BlockException will be thrown. To configure the criteria, we can use XXXRuleManager.loadRules() to add rules, eg." />
-      <item value="Sph U" />
-      <item value="graphs whose nodes/edges are insertion-ordered, sorted, or unordered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1556" />
-        <entry key="ENGLISH" value="1557" />
+        <entry key="CHINESE" value="1560" />
+        <entry key="ENGLISH" value="1561" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="2" />
-        <entry key="FRENCH" value="6" />
+        <entry key="FRENCH" value="7" />
         <entry key="HAUSA" value="1" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
