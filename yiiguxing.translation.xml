@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="return responseUtil.buildSuccessResponse(payResponse.getRespMsg());" />
       <item value="role" />
       <item value="env" />
       <item value="time" />
@@ -50,12 +51,11 @@
       <item value="fire Exit" />
       <item value="Slot Chain" />
       <item value="Node Selector Slot" />
-      <item value="Following code is an example, &quot;abc&quot; represent a unique name for the protected resource: public void foo() { Entry entry = null; try { entry = SphU.entry(&quot;abc&quot;); // resource that need protection } catch (BlockException blockException) { // when goes there, it is blocked // add blocked handle logic here } catch (Throwable bizException) { // business exception Tracer.trace(bizException); } finally { // ensure finally be executed if (entry != null){ entry.exit(); } } }" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1560" />
-        <entry key="ENGLISH" value="1561" />
+        <entry key="CHINESE" value="1562" />
+        <entry key="ENGLISH" value="1563" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
