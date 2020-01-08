@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Auto Populating List" />
+      <item value="this state invariant must be true" />
+      <item value="this state invariant" />
+      <item value="Illegal State Exception" />
+      <item value="state" />
+      <item value="Ant Path Matcher" />
+      <item value="Alternative" />
+      <item value="Alternative Jdk" />
+      <item value="Alternative Jdk Id Generator" />
+      <item value="Constructs a new {@code UUID} using the specified data. {@code * mostSigBits} is used for the most significant 64 bits of the {@code * UUID} and {@code leastSigBits} becomes the least significant 64 bits of * the {@code UUID}." />
+      <item value="least Sig Bits" />
+      <item value="most Sig Bits" />
       <item value="return responseUtil.buildSuccessResponse(payResponse.getRespMsg());" />
       <item value="role" />
       <item value="env" />
@@ -39,23 +51,11 @@
       <item value="Crypt" />
       <item value="Wx Ma Crypt Utils" />
       <item value="canonical, avoids branching, which matters more than alu ops" />
-      <item value="Class for miscellaneous helper methods." />
-      <item value="Matrix" />
-      <item value="WritableDataSource&lt;List&lt;ParamFlowRule&gt;&gt; getWritableDataSource()" />
-      <item value="Param Flow Rule" />
-      <item value="Writable Data Source" />
-      <item value="type:parameter flow rule" />
-      <item value="Receiving rule change" />
-      <item value="[API Server] Receiving rule change (type:parameter flow rule)" />
-      <item value="Lock for a specific resource." />
-      <item value="fire Exit" />
-      <item value="Slot Chain" />
-      <item value="Node Selector Slot" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1562" />
-        <entry key="ENGLISH" value="1563" />
+        <entry key="CHINESE" value="1573" />
+        <entry key="ENGLISH" value="1574" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
@@ -71,7 +71,7 @@
         <entry key="MALAGASY" value="2" />
         <entry key="MALTESE" value="1" />
         <entry key="MALAY" value="2" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="2" />
         <entry key="SOMALI" value="1" />
