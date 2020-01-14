@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Once the underlying operation has completed successfully, the execution instance can be simply discarded." />
+      <item value="Provide a BackOffExecution that indicates the rate at which an operation should be retried. Users of this interface are expected to use it like this:" />
+      <item value="ready to be used" />
+      <item value="Start a new back off execution." />
+      <item value="Back Off" />
+      <item value="Functional Interface" />
       <item value="Method 'statByCustomer(com.kp.server.lib.core.entity.flow.request.QueryCustomerStatReq)' is never used" />
       <item value="Could not find MessageDigest with algorithm" />
       <item value="algorithm" />
@@ -45,17 +51,11 @@
       <item value="Provide an API for time-related service, such as getting the current time and waiting for * a given period of time. By default, these services are provided by actual time services * in the JDK (i.e. System.nanoTime(), System.currentTimeMillis(), Thread.sleep(), and * java.util.concurrent.locks.LockSupport.parkNanos()). However, if the property * LatencyUtils.useActualTime is set to &quot;false&quot;, TimeServers will only move the notion * of time in response to calls to the #setCurrentTime() method." />
       <item value="JSONObject.NULL is equivalent to the value that JavaScript calls null, * whilst Java's null is equivalent to the value that JavaScript calls * undefined." />
       <item value="Called for each attempt and retry" />
-      <item value="cur Debt" />
-      <item value="during Debt" />
-      <item value="Entity Utils" />
-      <item value="build Pick Order Context" />
-      <item value="build Delivery Order Context" />
-      <item value="corporation logo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1586" />
-        <entry key="ENGLISH" value="1586" />
+        <entry key="CHINESE" value="1590" />
+        <entry key="ENGLISH" value="1590" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
