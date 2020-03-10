@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Implements Map.remove and related methods." />
+      <item value="Removes the mapping for the specified key from this map if present." />
       <item value="refresh" />
       <item value="search Similar" />
       <item value="Chain using {@code AND}" />
@@ -49,13 +51,11 @@
       <item value="this state invariant must be true" />
       <item value="this state invariant" />
       <item value="Illegal State Exception" />
-      <item value="state" />
-      <item value="Ant Path Matcher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1612" />
-        <entry key="ENGLISH" value="1613" />
+        <entry key="CHINESE" value="1614" />
+        <entry key="ENGLISH" value="1615" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
