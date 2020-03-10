@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid" />
       <item value="Caller Runs Policy" />
       <item value="Implements Map.remove and related methods." />
       <item value="Removes the mapping for the specified key from this map if present." />
@@ -50,12 +51,11 @@
       <item value="Support class for throttling concurrent access to a specific resource. * * &lt;p&gt;Designed for use as a base class, with the subclass invoking * the {@link #beforeAccess()} and {@link #afterAccess()} methods at * appropriate points of its workflow. Note that {@code afterAccess} * should usually be called in a finally block! * * &lt;p&gt;The default concurrency limit of this support class is -1 * (&quot;unbounded concurrency&quot;). Subclasses may override this default; * check the javadoc of the concrete class that you're using." />
       <item value="Auto Populating List" />
       <item value="this state invariant must be true" />
-      <item value="this state invariant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1615" />
-        <entry key="ENGLISH" value="1616" />
+        <entry key="CHINESE" value="1616" />
+        <entry key="ENGLISH" value="1617" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
