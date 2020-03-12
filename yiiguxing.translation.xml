@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Single" />
       <item value="letter Combinations" />
       <item value="build Union Lower Condition" />
       <item value="invalid" />
@@ -50,12 +51,11 @@
       <item value="Digest" />
       <item value="Switch concurrency 'off': that is, don't allow any concurrent invocations." />
       <item value="Permit any number of concurrent invocations: that is, don't throttle concurrency." />
-      <item value="Support class for throttling concurrent access to a specific resource. * * &lt;p&gt;Designed for use as a base class, with the subclass invoking * the {@link #beforeAccess()} and {@link #afterAccess()} methods at * appropriate points of its workflow. Note that {@code afterAccess} * should usually be called in a finally block! * * &lt;p&gt;The default concurrency limit of this support class is -1 * (&quot;unbounded concurrency&quot;). Subclasses may override this default; * check the javadoc of the concrete class that you're using." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1618" />
-        <entry key="ENGLISH" value="1619" />
+        <entry key="CHINESE" value="1619" />
+        <entry key="ENGLISH" value="1620" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
