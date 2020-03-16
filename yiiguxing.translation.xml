@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a match query with type &quot;PHRASE_PREFIX&quot; for the provided field name and text." />
+      <item value="Creates a text query with type &quot;PHRASE&quot; for the provided field name and text." />
       <item value="he number of search hits to return. Defaults to &lt;tt&gt;10&lt;/tt&gt;." />
       <item value="The number of search hits to return. Defaults to &lt;tt&gt;10&lt;/tt&gt;." />
       <item value="perf" />
@@ -22,7 +24,6 @@
       <item value="english分词器" />
       <item value="ik分词器" />
       <item value="条码精准匹配正则表达式，多单位多条码逗号分隔" />
-      <item value="Creates a text query with type &quot;PHRASE&quot; for the provided field name and text." />
       <item value="Creates a match query with type &quot;BOOLEAN&quot; for the provided field name and text." />
       <item value="A Query that matches documents using fuzzy query." />
       <item value="Returns the image as one large tile. The &lt;code&gt;Raster&lt;/code&gt; * returned is a copy of the image data is not updated if the * image is changed. * @return a &lt;code&gt;Raster&lt;/code&gt; that is a copy of the image data." />
@@ -50,12 +51,11 @@
       <item value="{'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'};" />
       <item value="MD 5_ALGORITHM NAME" />
       <item value="Miscellaneous methods for calculating digests. * * &lt;p&gt;Mainly for internal use within the framework; consider * &lt;a href=&quot;http://commons.apache.org/codec/&quot;&gt;Apache Commons Codec&lt;/a&gt; * for a more comprehensive suite of digest utilities." />
-      <item value="Digest Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1622" />
-        <entry key="ENGLISH" value="1623" />
+        <entry key="CHINESE" value="1624" />
+        <entry key="ENGLISH" value="1625" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
