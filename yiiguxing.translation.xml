@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TYPE REACHABLE" />
+      <item value="No available alive servers after 10 tries from load balancer" />
       <item value="Creates a match query with type &quot;PHRASE_PREFIX&quot; for the provided field name and text." />
       <item value="Creates a text query with type &quot;PHRASE&quot; for the provided field name and text." />
       <item value="he number of search hits to return. Defaults to &lt;tt&gt;10&lt;/tt&gt;." />
@@ -49,13 +51,11 @@
       <item value="algorithm" />
       <item value="md 5 Digest" />
       <item value="{'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'};" />
-      <item value="MD 5_ALGORITHM NAME" />
-      <item value="Miscellaneous methods for calculating digests. * * &lt;p&gt;Mainly for internal use within the framework; consider * &lt;a href=&quot;http://commons.apache.org/codec/&quot;&gt;Apache Commons Codec&lt;/a&gt; * for a more comprehensive suite of digest utilities." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1624" />
-        <entry key="ENGLISH" value="1625" />
+        <entry key="CHINESE" value="1626" />
+        <entry key="ENGLISH" value="1627" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
