@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="query Pay Sign" />
+      <item value="query Scan" />
       <item value="TYPE REACHABLE" />
       <item value="No available alive servers after 10 tries from load balancer" />
       <item value="Creates a match query with type &quot;PHRASE_PREFIX&quot; for the provided field name and text." />
@@ -49,13 +51,11 @@
       <item value="Method 'statByCustomer(com.kp.server.lib.core.entity.flow.request.QueryCustomerStatReq)' is never used" />
       <item value="Could not find MessageDigest with algorithm" />
       <item value="algorithm" />
-      <item value="md 5 Digest" />
-      <item value="{'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'};" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1626" />
-        <entry key="ENGLISH" value="1627" />
+        <entry key="CHINESE" value="1628" />
+        <entry key="ENGLISH" value="1629" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
