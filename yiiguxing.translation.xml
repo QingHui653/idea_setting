@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="use constructor parameters of configuration API provided by HttpClient" />
       <item value="check Sale Authority" />
       <item value="query Pay Sign" />
       <item value="query Scan" />
@@ -50,12 +51,11 @@
       <item value="Back Off" />
       <item value="Functional Interface" />
       <item value="Method 'statByCustomer(com.kp.server.lib.core.entity.flow.request.QueryCustomerStatReq)' is never used" />
-      <item value="Could not find MessageDigest with algorithm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1629" />
-        <entry key="ENGLISH" value="1630" />
+        <entry key="CHINESE" value="1630" />
+        <entry key="ENGLISH" value="1631" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
