@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Product Cost Price" />
       <item value="discount Rate" />
       <item value="Create a StringBody from the specified text. * The MIME type is set to &quot;text/plain&quot;." />
       <item value="use constructor parameters of configuration API provided by HttpClient" />
@@ -50,12 +51,11 @@
       <item value="Provide a BackOffExecution that indicates the rate at which an operation should be retried. Users of this interface are expected to use it like this:" />
       <item value="ready to be used" />
       <item value="Start a new back off execution." />
-      <item value="Back Off" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1632" />
-        <entry key="ENGLISH" value="1633" />
+        <entry key="CHINESE" value="1633" />
+        <entry key="ENGLISH" value="1634" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
