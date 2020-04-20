@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="preserve Sale Order Es" />
       <item value="log.warn(&quot;this corp has no receiver ! corpId:{}&quot;,addRemotePrintTaskReq.getCorpId());" />
       <item value="build Remote Print Result" />
       <item value="remote Print" />
@@ -50,12 +51,11 @@
       <item value="system Count" />
       <item value="function Count" />
       <item value="activity Count" />
-      <item value="Once the underlying operation has completed successfully, the execution instance can be simply discarded." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1636" />
-        <entry key="ENGLISH" value="1637" />
+        <entry key="CHINESE" value="1637" />
+        <entry key="ENGLISH" value="1638" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
