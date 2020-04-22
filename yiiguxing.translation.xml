@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="receiver" />
       <item value="primitive" />
       <item value="缺纸" />
       <item value="preserve Sale Order Es" />
@@ -50,12 +51,11 @@
       <item value="Pem Util" />
       <item value="Auto Update Certificates Verifier" />
       <item value="Failed to load ApplicationContext" />
-      <item value="system Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1638" />
-        <entry key="ENGLISH" value="1639" />
+        <entry key="CHINESE" value="1639" />
+        <entry key="ENGLISH" value="1640" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
