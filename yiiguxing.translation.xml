@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pixels" />
       <item value="MAXIMAGEWIDTH" />
       <item value="print label" />
       <item value="byte" />
@@ -50,12 +51,11 @@
       <item value="Removes the mapping for the specified key from this map if present." />
       <item value="refresh" />
       <item value="search Similar" />
-      <item value="Chain using {@code AND}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1662" />
-        <entry key="ENGLISH" value="1663" />
+        <entry key="CHINESE" value="1663" />
+        <entry key="ENGLISH" value="1664" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
