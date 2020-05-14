@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Represents image data that contains or might contain arbitrary * alpha values between and including 0.0 and 1.0." />
       <item value="Fills the specified rectangle. The left and right edges of the rectangle are at x and x + width - 1. The top and bottom edges are at y and y + height - 1. The resulting rectangle covers an area width pixels wide by height pixels tall. The rectangle is filled using the graphics context's current color." />
       <item value="TYPE USHORT GRAY" />
       <item value="BINARY" />
@@ -50,12 +51,11 @@
       <item value="he number of search hits to return. Defaults to &lt;tt&gt;10&lt;/tt&gt;." />
       <item value="The number of search hits to return. Defaults to &lt;tt&gt;10&lt;/tt&gt;." />
       <item value="perf" />
-      <item value="Single" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1673" />
-        <entry key="ENGLISH" value="1673" />
+        <entry key="ENGLISH" value="1674" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
