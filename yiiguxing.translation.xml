@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An informative annotation type used to indicate that an interface type declaration is intended to be a functional interface as defined by the Java Language Specification. Conceptually, a functional interface has exactly one abstract method. Since default methods have an implementation, they are not abstract. If an interface declares an abstract method overriding one of the public methods of java.lang.Object, that also does not count toward the interface's abstract method count since any implementation of the interface will have an implementation from java.lang.Object or elsewhere. Note that instances of functional interfaces can be created with lambda expressions, method references, or constructor references. If a type is annotated with this annotation type, compilers are required to generate an error message unless: The type is an interface type and not an annotation type, enum, or class. The annotated type satisfies the requirements of a functional interface. However, the compiler will treat any interface meeting the definition of a functional interface as a functional interface regardless of whether or not a FunctionalInterface annotation is present on the interface declaration." />
       <item value="delay delay in milliseconds before task is to be executed." />
       <item value="Schedules the specified task for execution after the specified delay." />
       <item value="Causes the current thread to wait until another thread invokes the notify() method or the notifyAll() method for this object. In other words, this method behaves exactly as if it simply performs the call wait(0). The current thread must own this object's monitor. The thread releases ownership of this monitor and waits until another thread notifies threads waiting on this object's monitor to wake up either through a call to the notify method or the notifyAll method. The thread then waits until it can re-obtain ownership of the monitor and resumes execution. As in the one argument version, interrupts and spurious wakeups are possible, and this method should always be used in a loop: synchronized (obj) { while (&lt;condition does not hold&gt;) obj.wait(); ... // Perform action appropriate to condition } This method should only be called by a thread that is the owner of this object's monitor. See the notify method for a description of the ways in which a thread can become the owner of a monitor." />
@@ -50,11 +51,10 @@
       <item value="check Sale Authority" />
       <item value="query Pay Sign" />
       <item value="query Scan" />
-      <item value="TYPE REACHABLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1678" />
+        <entry key="CHINESE" value="1679" />
         <entry key="ENGLISH" value="1679" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
