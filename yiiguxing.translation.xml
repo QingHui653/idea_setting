@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Yun Prt Device" />
       <item value="select By Agent Condition" />
       <item value="Remote object value in case of primitive values or JSON values (if it was requested)." />
       <item value="Aspect Exception" />
@@ -50,12 +51,11 @@
       <item value="build Remote Print Result" />
       <item value="remote Print" />
       <item value="Product Cost Price" />
-      <item value="discount Rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1684" />
-        <entry key="ENGLISH" value="1685" />
+        <entry key="CHINESE" value="1685" />
+        <entry key="ENGLISH" value="1686" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
