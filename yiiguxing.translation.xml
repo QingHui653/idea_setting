@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a {@code BigDecimal} whose value is {@code (-this)}, * and whose scale is {@code this.scale()}." />
       <item value="online" />
       <item value="stock" />
       <item value="set Unit Index" />
@@ -50,12 +51,11 @@
       <item value="The text to enter into the dialog prompt before accepting. Used only if this * is a prompt dialog." />
       <item value="on Load Event Fired" />
       <item value="load Event Fired" />
-      <item value="Actions and events related to the inspected page belong to the page domain." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1698" />
-        <entry key="ENGLISH" value="1699" />
+        <entry key="CHINESE" value="1699" />
+        <entry key="ENGLISH" value="1700" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
