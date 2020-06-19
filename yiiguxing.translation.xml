@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customer signature" />
+      <item value="delivery creator" />
+      <item value="order creator" />
       <item value="Formats source code using the google-java-format tool. This version of the plugin uses version 1.7 of the tool." />
       <item value="This plugin performs translations in Editor window from one language to another. It uses translate.google.com service behind the scene." />
       <item value="Provides Google account setting and authentication for IntelliJ plugins that need it. Not to be installed independently." />
@@ -48,14 +51,11 @@
       <item value="print label" />
       <item value="byte" />
       <item value="{ List&lt;AddSnReq&gt; listData = new ArrayList&lt;&gt;(); for (Object importData : importList) { String jsonStr = json.toJson(importData); Map&lt;String, String&gt; map = json.fromJson(jsonStr, Map.class); // 数据校验 StringBuilder logSb = new StringBuilder(); String errorMsg = importValidate(corpId, map, logSb); if (StringUtil.isNotBlank(errorMsg)) { log.warn(&quot;[SnTaskService.processRowData] validate fail! corpId:{},errorMsg:{}&quot;, corpId, logSb.toString()); map.put(&quot;tip&quot;, errorMsg); importErrorData.add(map); continue; } log.debug(&quot;[SnTaskService.processRowData] validate success!&quot;); AddSnReq snReq = new AddSnReq(); snReq.setSnNo(map.get(&quot;IMEI&quot;)); listData.add(snReq); } //接口调用,保存SN Response&lt;BatchAddSnRes&gt; response = taskFeignUtil.batchAdd(listData); if (response.success() &amp;&amp; response.getData() != null) { BatchAddSnRes data = response.getData(); List&lt;String&gt; failNoList = data.getFailNoList(); for (String failNo : failNoList) { HashMap&lt;String, String&gt; rowData = new HashMap&lt;&gt;(); rowData.put(&quot;IMEI&quot;, failNo); rowData.put(&quot;tip&quot;, failNo + &quot; 导入失败&quot;); log.warn(&quot;[SnTaskService.processRowData] fail! errorSN:{}&quot;, failNo); // 添加到失败列表 importErrorData.add(rowData); } } log.debug(&quot;[SnTaskService.processRowData] saveSn success! result:{}&quot;, response.getData()); }" />
-      <item value="{ log.warn(&quot;[SnTaskService.processRowData] validate fail! corpId:{},errorMsg:{}&quot;, corpId, logSb.toString()); map.put(&quot;tip&quot;, errorMsg); importErrorData.add(map); continue; }" />
-      <item value="Sn Task Service" />
-      <item value="process Row Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1703" />
-        <entry key="ENGLISH" value="1703" />
+        <entry key="CHINESE" value="1707" />
+        <entry key="ENGLISH" value="1708" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
