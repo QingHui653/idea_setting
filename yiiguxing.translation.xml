@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="简单写入String到File." />
       <item value="MaxiCode 2D barcode format." />
       <item value="QR Code 2D barcode format." />
       <item value="customer signature" />
@@ -50,11 +51,10 @@
       <item value="scale" />
       <item value="pixels" />
       <item value="MAXIMAGEWIDTH" />
-      <item value="print label" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1709" />
+        <entry key="CHINESE" value="1710" />
         <entry key="ENGLISH" value="1710" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
