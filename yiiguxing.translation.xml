@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To use 'FlightRecorder', first unlock using -XX:+UnlockCommercialFeatures." />
+      <item value="Could not create the Java Virtual Machine." />
+      <item value="A fatal exception has occurred. Program will exit." />
       <item value="finance" />
       <item value="简单写入String到File." />
       <item value="MaxiCode 2D barcode format." />
@@ -48,14 +51,11 @@
       <item value="TYPE BYTE BINARY" />
       <item value="profit" />
       <item value="Back Track Test" />
-      <item value="/** * Print page as PDF. * * @param landscape Paper orientation. Defaults to false. * @param displayHeaderFooter Display header and footer. Defaults to false. * @param printBackground Print background graphics. Defaults to false. * @param scale Scale of the webpage rendering. Defaults to 1. * @param paperWidth Paper width in inches. Defaults to 8.5 inches. * @param paperHeight Paper height in inches. Defaults to 11 inches. * @param marginTop Top margin in inches. Defaults to 1cm (~0.4 inches). * @param marginBottom Bottom margin in inches. Defaults to 1cm (~0.4 inches). * @param marginLeft Left margin in inches. Defaults to 1cm (~0.4 inches). * @param marginRight Right margin in inches. Defaults to 1cm (~0.4 inches). * @param pageRanges Paper ranges to print, e.g., '1-5, 8, 11-13'. Defaults to the empty string, * which means print all pages. * @param ignoreInvalidPageRanges Whether to silently ignore invalid but successfully parsed page * ranges, such as '3-2'. Defaults to false. * @param headerTemplate HTML template for the print header. Should be valid HTML markup with * following classes used to inject printing values into them: - `date`: formatted print date * - `title`: document title - `url`: document location - `pageNumber`: current page number - * `totalPages`: total pages in the document * &lt;p&gt;For example, `&lt;span class=title&gt;&lt;/span&gt;` would generate span containing the title. * @param footerTemplate HTML template for the print footer. Should use the same format as the * `headerTemplate`. * @param preferCSSPageSize Whether or not to prefer page size as defined by css. Defaults to * false, in which case the content will be scaled to fit the paper size. * @param transferMode return as stream */" />
-      <item value="scale" />
-      <item value="pixels" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1710" />
-        <entry key="ENGLISH" value="1711" />
+        <entry key="CHINESE" value="1713" />
+        <entry key="ENGLISH" value="1714" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
