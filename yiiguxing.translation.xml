@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fix flow" />
       <item value="To use 'FlightRecorder', first unlock using -XX:+UnlockCommercialFeatures." />
       <item value="Could not create the Java Virtual Machine." />
       <item value="A fatal exception has occurred. Program will exit." />
@@ -50,12 +51,11 @@
       <item value="BINARY" />
       <item value="TYPE BYTE BINARY" />
       <item value="profit" />
-      <item value="Back Track Test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1713" />
-        <entry key="ENGLISH" value="1714" />
+        <entry key="CHINESE" value="1714" />
+        <entry key="ENGLISH" value="1715" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
