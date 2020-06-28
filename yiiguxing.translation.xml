@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="builder" />
       <item value="&quot;Authentication failed." />
       <item value="Authentication" />
       <item value="Authentication failed." />
@@ -50,12 +51,11 @@
       <item value="fill Rect" />
       <item value="create Compatible Image" />
       <item value="Represents image data that contains or might contain arbitrary * alpha values between and including 0.0 and 1.0." />
-      <item value="Fills the specified rectangle. The left and right edges of the rectangle are at x and x + width - 1. The top and bottom edges are at y and y + height - 1. The resulting rectangle covers an area width pixels wide by height pixels tall. The rectangle is filled using the graphics context's current color." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1714" />
-        <entry key="ENGLISH" value="1715" />
+        <entry key="CHINESE" value="1715" />
+        <entry key="ENGLISH" value="1716" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
@@ -86,11 +86,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
