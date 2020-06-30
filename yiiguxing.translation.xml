@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="order Debt" />
+      <item value="customer Debt" />
       <item value="builder" />
       <item value="&quot;Authentication failed." />
       <item value="Authentication" />
@@ -49,13 +51,11 @@
       <item value="Causes the current thread to wait until another thread invokes the notify() method or the notifyAll() method for this object. In other words, this method behaves exactly as if it simply performs the call wait(0). The current thread must own this object's monitor. The thread releases ownership of this monitor and waits until another thread notifies threads waiting on this object's monitor to wake up either through a call to the notify method or the notifyAll method. The thread then waits until it can re-obtain ownership of the monitor and resumes execution. As in the one argument version, interrupts and spurious wakeups are possible, and this method should always be used in a loop: synchronized (obj) { while (&lt;condition does not hold&gt;) obj.wait(); ... // Perform action appropriate to condition } This method should only be called by a thread that is the owner of this object's monitor. See the notify method for a description of the ways in which a thread can become the owner of a monitor." />
       <item value="Waits until devtools is closed." />
       <item value="fill Rect" />
-      <item value="create Compatible Image" />
-      <item value="Represents image data that contains or might contain arbitrary * alpha values between and including 0.0 and 1.0." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1715" />
-        <entry key="ENGLISH" value="1716" />
+        <entry key="CHINESE" value="1718" />
+        <entry key="ENGLISH" value="1719" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
