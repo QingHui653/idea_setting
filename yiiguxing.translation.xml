@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HTML CONVERT IMG ERROR" />
       <item value="message Expire Config" />
       <item value="device Sn While On Off" />
       <item value="CUSTOMER LAST DEBT VALUE" />
@@ -50,12 +51,11 @@
       <item value="Remote object value in case of primitive values or JSON values (if it was requested)." />
       <item value="Aspect Exception" />
       <item value="Advice" />
-      <item value="not authorized on upload to execute command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1725" />
-        <entry key="ENGLISH" value="1726" />
+        <entry key="CHINESE" value="1726" />
+        <entry key="ENGLISH" value="1727" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
