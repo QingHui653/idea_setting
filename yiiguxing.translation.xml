@@ -1,8 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="prefer CSS Page Size" />
+      <item value="private String pxWidth; /** * 像素高 */ private String pxHeight;" />
+      <item value="scale Scale of the webpage rendering. Defaults to 1." />
+      <item value="/** * Print page as PDF. * * @param landscape Paper orientation. Defaults to false. * @param displayHeaderFooter Display header and footer. Defaults to false. * @param printBackground Print background graphics. Defaults to false. * @param scale Scale of the webpage rendering. Defaults to 1. * @param paperWidth Paper width in inches. Defaults to 8.5 inches. * @param paperHeight Paper height in inches. Defaults to 11 inches. * @param marginTop Top margin in inches. Defaults to 1cm (~0.4 inches). * @param marginBottom Bottom margin in inches. Defaults to 1cm (~0.4 inches). * @param marginLeft Left margin in inches. Defaults to 1cm (~0.4 inches). * @param marginRight Right margin in inches. Defaults to 1cm (~0.4 inches). * @param pageRanges Paper ranges to print, e.g., '1-5, 8, 11-13'. Defaults to the empty string, * which means print all pages. * @param ignoreInvalidPageRanges Whether to silently ignore invalid but successfully parsed page * ranges, such as '3-2'. Defaults to false. * @param headerTemplate HTML template for the print header. Should be valid HTML markup with * following classes used to inject printing values into them: - `date`: formatted print date * - `title`: document title - `url`: document location - `pageNumber`: current page number - * `totalPages`: total pages in the document * &lt;p&gt;For example, `&lt;span class=title&gt;&lt;/span&gt;` would generate span containing the title. * @param footerTemplate HTML template for the print footer. Should use the same format as the * `headerTemplate`. * @param preferCSSPageSize Whether or not to prefer page size as defined by css. Defaults to * false, in which case the content will be scaled to fit the paper size. * @param transferMode return as stream" />
+      <item value="paper Height" />
+      <item value="paper Width" />
       <item value="ignore Invalid Page Ranges" />
+      <item value="prefer CSS Page Size" />
       <item value="HTML CONVERT IMG ERROR" />
       <item value="message Expire Config" />
       <item value="device Sn While On Off" />
@@ -46,16 +51,11 @@
       <item value="Evaluates expression on global object." />
       <item value="valuates expression on global object. *" />
       <item value="divide" />
-      <item value="* Returns a {@code BigDecimal} whose value is the absolute value * of this {@code BigDecimal}, and whose scale is * {@code this.scale()}. * * @return {@code abs(this)}" />
-      <item value="This method attempts to convert an Oracle-formatted date in the form dd-MMM-yyyy to * yyyy-MM-dd." />
-      <item value="add Yun Prt Device" />
-      <item value="select By Agent Condition" />
-      <item value="Remote object value in case of primitive values or JSON values (if it was requested)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1730" />
-        <entry key="ENGLISH" value="1731" />
+        <entry key="CHINESE" value="1736" />
+        <entry key="ENGLISH" value="1736" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
