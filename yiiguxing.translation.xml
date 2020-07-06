@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Product Extend List" />
+      <item value="Image compression format (defaults to png)." />
+      <item value="Capture Screenshot Format" />
+      <item value="/*- * #%L * cdt-java-client * %% * Copyright (C) 2018 - 2019 Kenan Klisura * %% * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); * you may not use this file except in compliance with the License. * You may obtain a copy of the License at * * http://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License. * #L% */" />
       <item value="quality" />
       <item value="byte 2 Hex V 1" />
       <item value="end Debt" />
@@ -47,15 +51,11 @@
       <item value="This plugin performs translations in Editor window from one language to another. It uses translate.google.com service behind the scene." />
       <item value="Provides Google account setting and authentication for IntelliJ plugins that need it. Not to be installed independently." />
       <item value="qty scale" />
-      <item value="money scale" />
-      <item value="Returns a {@code BigDecimal} whose value is {@code (-this)}, * and whose scale is {@code this.scale()}." />
-      <item value="online" />
-      <item value="stock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1746" />
-        <entry key="ENGLISH" value="1747" />
+        <entry key="CHINESE" value="1750" />
+        <entry key="ENGLISH" value="1751" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
