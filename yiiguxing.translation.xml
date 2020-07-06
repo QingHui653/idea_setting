@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quality" />
       <item value="byte 2 Hex V 1" />
       <item value="end Debt" />
       <item value="begin Debt" />
@@ -50,12 +51,11 @@
       <item value="Returns a {@code BigDecimal} whose value is {@code (-this)}, * and whose scale is {@code this.scale()}." />
       <item value="online" />
       <item value="stock" />
-      <item value="set Unit Index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1745" />
-        <entry key="ENGLISH" value="1746" />
+        <entry key="CHINESE" value="1746" />
+        <entry key="ENGLISH" value="1747" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
