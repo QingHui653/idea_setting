@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="适用于响应返回" />
       <item value="get Product Extend List" />
       <item value="Image compression format (defaults to png)." />
       <item value="Capture Screenshot Format" />
@@ -50,11 +51,10 @@
       <item value="Formats source code using the google-java-format tool. This version of the plugin uses version 1.7 of the tool." />
       <item value="This plugin performs translations in Editor window from one language to another. It uses translate.google.com service behind the scene." />
       <item value="Provides Google account setting and authentication for IntelliJ plugins that need it. Not to be installed independently." />
-      <item value="qty scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1750" />
+        <entry key="CHINESE" value="1751" />
         <entry key="ENGLISH" value="1751" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
