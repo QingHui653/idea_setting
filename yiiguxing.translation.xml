@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create Isolated World" />
+      <item value="clip Capture the screenshot of a given region only." />
+      <item value="fromSurface Capture the screenshot from the surface, rather than the view. Defaults to" />
+      <item value="from Surface" />
+      <item value="Compression quality from range [0..100] (jpeg only)." />
+      <item value="@param format Image compression format (defaults to png). * @param quality Compression quality from range [0..100] (jpeg only). * @param clip Capture the screenshot of a given region only. * @param fromSurface Capture the screenshot from the surface, rather than the view. Defaults to * true." />
+      <item value="Capture page screenshot." />
       <item value="适用于响应返回" />
       <item value="get Product Extend List" />
       <item value="Image compression format (defaults to png)." />
@@ -44,18 +51,11 @@
       <item value="finance" />
       <item value="简单写入String到File." />
       <item value="MaxiCode 2D barcode format." />
-      <item value="QR Code 2D barcode format." />
-      <item value="customer signature" />
-      <item value="delivery creator" />
-      <item value="order creator" />
-      <item value="Formats source code using the google-java-format tool. This version of the plugin uses version 1.7 of the tool." />
-      <item value="This plugin performs translations in Editor window from one language to another. It uses translate.google.com service behind the scene." />
-      <item value="Provides Google account setting and authentication for IntelliJ plugins that need it. Not to be installed independently." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1751" />
-        <entry key="ENGLISH" value="1751" />
+        <entry key="CHINESE" value="1757" />
+        <entry key="ENGLISH" value="1758" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
