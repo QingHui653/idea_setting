@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Character Code Table" />
+      <item value="PART" />
+      <item value="FULL" />
       <item value="@param nLines number of lines with the line spacing of * &lt;code&gt;defaultStyle&lt;/code&gt; * @return this object. * @exception IOException if an I/O error occurs. * @exception IllegalArgumentException if nLines out of range 0 to 255 * @see #feed(Style, int) */" />
       <item value="number of lines with the line spacing of * &lt;code&gt;defaultStyle&lt;/code&gt;" />
       <item value="Call feed with default style." />
@@ -48,14 +51,11 @@
       <item value="received" />
       <item value="receivable" />
       <item value="order Debt" />
-      <item value="customer Debt" />
-      <item value="builder" />
-      <item value="&quot;Authentication failed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1767" />
-        <entry key="ENGLISH" value="1768" />
+        <entry key="CHINESE" value="1770" />
+        <entry key="ENGLISH" value="1771" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
