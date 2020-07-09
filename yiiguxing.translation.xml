@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Write String to outputStream. * &lt;p&gt; * Configure Style by with ESC/POS commands, encode String by charsetName * and write to outputStream." />
+      <item value="Writes one byte directly to outputStream. Can be used to send customized * commands to printer." />
+      <item value="Values for CutMode." />
+      <item value="Write some usual ESC/POS commands to the OutPutStream.&lt;p&gt; * ESC/POS was developed by &lt;i&gt;Seiko Epson Corporation&lt;/i&gt;&lt;p&gt; * Most receipt printers on the market recognize these commands.&lt;p&gt; * and can be used to print texts, barcodes or images" />
       <item value="delay delay in milliseconds before task is to be executed." />
       <item value="on if task was already scheduled or * cancelled, timer was cancelled, or timer thread terminated." />
       <item value="create Isolated World" />
@@ -47,15 +51,11 @@
       <item value="Authentication failed." />
       <item value="Copyright (C) 2007 Free Software Foundation, Inc. &lt;https://fsf.org/&gt; Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed." />
       <item value="fix flow" />
-      <item value="To use 'FlightRecorder', first unlock using -XX:+UnlockCommercialFeatures." />
-      <item value="Could not create the Java Virtual Machine." />
-      <item value="A fatal exception has occurred. Program will exit." />
-      <item value="finance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1759" />
-        <entry key="ENGLISH" value="1760" />
+        <entry key="CHINESE" value="1763" />
+        <entry key="ENGLISH" value="1764" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
