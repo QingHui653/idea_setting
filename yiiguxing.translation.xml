@@ -1,87 +1,90 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Write some usual ESC/POS commands to the OutPutStream.&lt;p&gt; * ESC/POS was developed by &lt;i&gt;Seiko Epson Corporation&lt;/i&gt;&lt;p&gt; * Most receipt printers on the market recognize these commands.&lt;p&gt; * and can be used to print texts, barcodes or images" />
+      <item value="Unsupported Encoding Exception" />
+      <item value="KZ_1048_Kazakhstan" />
+      <item value="WCP 1258_Vietnamese" />
+      <item value="WCP 1257_Baltic Rim" />
+      <item value="WCP 1256_Arabic" />
+      <item value="WCP 1255_Hebrew" />
+      <item value="WCP 1254_Turkish" />
+      <item value="WCP 1253_Greek" />
+      <item value="WCP 1251_Cyrillic" />
+      <item value="WCP 1250_Latin 2" />
+      <item value="CP 1125_Ukrainian" />
+      <item value="CP 1119_Lithuanian" />
+      <item value="CP 1118_Lithuanian" />
+      <item value="CP 1098_Farsi" />
+      <item value="ISO 8859_15_Latin 9" />
+      <item value="ISO 8859_2_Latin 2" />
+      <item value="CP 869_Greek" />
+      <item value="CP 864_Arabic" />
+      <item value="CP 862_Hebrew" />
+      <item value="CP 861_Icelandic" />
+      <item value="CP 855_Cyrillic" />
+      <item value="WPC 775_Baltic Rim" />
+      <item value="PC 720_Arabic" />
+      <item value="TCVN_3_2_Vietnamese" />
+      <item value="TCVN_3_1_Vietnamese" />
+      <item value="TIS 18_Thai" />
+      <item value="KU 42_Thai" />
+      <item value="CP 858_Euro" />
+      <item value="CP 852_Latin 2" />
+      <item value="WPC 1252" />
+      <item value="ISO 8859_7_Greek" />
+      <item value="CP 737_Greek" />
+      <item value="CP 857_Turkish" />
+      <item value="CP 853_Turkish" />
+      <item value="CP 851_Greek" />
+      <item value="CP 865_Nordic" />
+      <item value="CP 863_Canadian French" />
+      <item value="CP 860_Portuguese" />
+      <item value="CP 850_Multilingual" />
+      <item value="Katakana" />
+      <item value="CP 437_USA Standard Europe" />
+      <item value="CP437_USA_Standard_Europe(0, &quot;cp437&quot;), Katakana(1), CP850_Multilingual(2, &quot;cp850&quot;), CP860_Portuguese(3, &quot;cp860&quot;), CP863_Canadian_French(4, &quot;cp863&quot;), CP865_Nordic(5, &quot;cp865&quot;), CP851_Greek(11), CP853_Turkish(12), CP857_Turkish(13, &quot;cp857&quot;), CP737_Greek(14, &quot;cp737&quot;), ISO8859_7_Greek(15, &quot;iso8859_7&quot;), WPC1252(16), CP866_Cyrillic_2(17, &quot;cp866&quot;), CP852_Latin2(18, &quot;cp852&quot;), CP858_Euro(19, &quot;cp858&quot;), KU42_Thai(20), TIS11_Thai(21), TIS18_Thai(26), TCVN_3_1_Vietnamese(30), TCVN_3_2_Vietnamese(31), PC720_Arabic(32), WPC775_BalticRim(33), CP855_Cyrillic(34, &quot;cp855&quot;), CP861_Icelandic(35, &quot;cp861&quot;), CP862_Hebrew(36, &quot;cp862&quot;), CP864_Arabic(37, &quot;cp864&quot;), CP869_Greek(38, &quot;cp869&quot;), ISO8859_2_Latin2(39, &quot;iso8859_2&quot;), ISO8859_15_Latin9(40, &quot;iso8859_15&quot;), CP1098_Farsi(41, &quot;cp1098&quot;), CP1118_Lithuanian(42), CP1119_Lithuanian(43), CP1125_Ukrainian(44), WCP1250_Latin2(45, &quot;cp1250&quot;), WCP1251_Cyrillic(46, &quot;cp1251&quot;), WCP1253_Greek(47, &quot;cp1253&quot;), WCP1254_Turkish(48, &quot;cp1254&quot;), WCP1255_Hebrew(49, &quot;cp1255&quot;), WCP1256_Arabic(50, &quot;cp1256&quot;), WCP1257_BalticRim(51, &quot;cp1257&quot;), WCP1258_Vietnamese(52, &quot;cp1258&quot;), KZ_1048_Kazakhstan(53), User_defined_page(255);" />
+      <item value="character Code Table" />
+      <item value="charsetName value used on String.getBytes" />
+      <item value="Set charsetName used on encodes of Strings." />
+      <item value="cp 437" />
+      <item value="User defined page" />
       <item value="Character Code Table" />
       <item value="PART" />
-      <item value="FULL" />
-      <item value="@param nLines number of lines with the line spacing of * &lt;code&gt;defaultStyle&lt;/code&gt; * @return this object. * @exception IOException if an I/O error occurs. * @exception IllegalArgumentException if nLines out of range 0 to 255 * @see #feed(Style, int) */" />
-      <item value="number of lines with the line spacing of * &lt;code&gt;defaultStyle&lt;/code&gt;" />
-      <item value="Call feed with default style." />
-      <item value="/** * A convenience method which looks up 2D print services. * Services returned from this method may be installed on * &lt;code&gt;PrinterJob&lt;/code&gt;s which support print services. * Calling this method is equivalent to calling * {@link javax.print.PrintServiceLookup#lookupPrintServices( * DocFlavor, AttributeSet) * PrintServiceLookup.lookupPrintServices()} * and specifying a Pageable DocFlavor. * @return a possibly empty array of 2D print services. * @since 1.4 */" />
-      <item value="* Write String to outputStream. * &lt;p&gt; * Configure Style by with ESC/POS commands, encode String by charsetName * and write to outputStream." />
-      <item value="Writes one byte directly to outputStream. Can be used to send customized * commands to printer." />
-      <item value="Values for CutMode." />
-      <item value="Write some usual ESC/POS commands to the OutPutStream.&lt;p&gt; * ESC/POS was developed by &lt;i&gt;Seiko Epson Corporation&lt;/i&gt;&lt;p&gt; * Most receipt printers on the market recognize these commands.&lt;p&gt; * and can be used to print texts, barcodes or images" />
-      <item value="delay delay in milliseconds before task is to be executed." />
-      <item value="on if task was already scheduled or * cancelled, timer was cancelled, or timer thread terminated." />
-      <item value="create Isolated World" />
-      <item value="clip Capture the screenshot of a given region only." />
-      <item value="fromSurface Capture the screenshot from the surface, rather than the view. Defaults to" />
-      <item value="from Surface" />
-      <item value="Compression quality from range [0..100] (jpeg only)." />
-      <item value="@param format Image compression format (defaults to png). * @param quality Compression quality from range [0..100] (jpeg only). * @param clip Capture the screenshot of a given region only. * @param fromSurface Capture the screenshot from the surface, rather than the view. Defaults to * true." />
-      <item value="Capture page screenshot." />
-      <item value="适用于响应返回" />
-      <item value="get Product Extend List" />
-      <item value="Image compression format (defaults to png)." />
-      <item value="Capture Screenshot Format" />
-      <item value="/*- * #%L * cdt-java-client * %% * Copyright (C) 2018 - 2019 Kenan Klisura * %% * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); * you may not use this file except in compliance with the License. * You may obtain a copy of the License at * * http://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License. * #L% */" />
-      <item value="quality" />
-      <item value="byte 2 Hex V 1" />
-      <item value="end Debt" />
-      <item value="begin Debt" />
-      <item value="during Debt" />
-      <item value="cur Debt" />
-      <item value="total Sale Debt" />
-      <item value="during Paid" />
-      <item value="during Pay" />
-      <item value="set Discount Product" />
-      <item value="private String pxWidth; /** * 像素高 */ private String pxHeight;" />
-      <item value="scale Scale of the webpage rendering. Defaults to 1." />
-      <item value="/** * Print page as PDF. * * @param landscape Paper orientation. Defaults to false. * @param displayHeaderFooter Display header and footer. Defaults to false. * @param printBackground Print background graphics. Defaults to false. * @param scale Scale of the webpage rendering. Defaults to 1. * @param paperWidth Paper width in inches. Defaults to 8.5 inches. * @param paperHeight Paper height in inches. Defaults to 11 inches. * @param marginTop Top margin in inches. Defaults to 1cm (~0.4 inches). * @param marginBottom Bottom margin in inches. Defaults to 1cm (~0.4 inches). * @param marginLeft Left margin in inches. Defaults to 1cm (~0.4 inches). * @param marginRight Right margin in inches. Defaults to 1cm (~0.4 inches). * @param pageRanges Paper ranges to print, e.g., '1-5, 8, 11-13'. Defaults to the empty string, * which means print all pages. * @param ignoreInvalidPageRanges Whether to silently ignore invalid but successfully parsed page * ranges, such as '3-2'. Defaults to false. * @param headerTemplate HTML template for the print header. Should be valid HTML markup with * following classes used to inject printing values into them: - `date`: formatted print date * - `title`: document title - `url`: document location - `pageNumber`: current page number - * `totalPages`: total pages in the document * &lt;p&gt;For example, `&lt;span class=title&gt;&lt;/span&gt;` would generate span containing the title. * @param footerTemplate HTML template for the print footer. Should use the same format as the * `headerTemplate`. * @param preferCSSPageSize Whether or not to prefer page size as defined by css. Defaults to * false, in which case the content will be scaled to fit the paper size. * @param transferMode return as stream" />
-      <item value="paper Height" />
-      <item value="paper Width" />
-      <item value="ignore Invalid Page Ranges" />
-      <item value="prefer CSS Page Size" />
-      <item value="HTML CONVERT IMG ERROR" />
-      <item value="message Expire Config" />
-      <item value="device Sn While On Off" />
-      <item value="CUSTOMER LAST DEBT VALUE" />
-      <item value="ORDER RECEIVED VALUE" />
-      <item value="received" />
-      <item value="receivable" />
-      <item value="order Debt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1770" />
-        <entry key="ENGLISH" value="1771" />
+        <entry key="CHINESE" value="1814" />
+        <entry key="ENGLISH" value="1815" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="2" />
+        <entry key="RUSSIAN" value="3" />
         <entry key="FRENCH" value="7" />
+        <entry key="FINNISH" value="2" />
         <entry key="HAUSA" value="1" />
-        <entry key="DUTCH" value="7" />
+        <entry key="DUTCH" value="10" />
         <entry key="CATALAN" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="2" />
-        <entry key="ROMANIAN" value="5" />
+        <entry key="ROMANIAN" value="6" />
         <entry key="MALAGASY" value="2" />
         <entry key="MALTESE" value="1" />
-        <entry key="MALAY" value="2" />
-        <entry key="NORWEGIAN" value="2" />
+        <entry key="MALAY" value="3" />
+        <entry key="NORWEGIAN" value="3" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="2" />
         <entry key="SOMALI" value="1" />
         <entry key="WELSH" value="11" />
         <entry key="SPANISH" value="2" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="GREEK" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="2" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
