@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CODE 93_Default" />
+      <item value="BarCode Assembly into ESC/POS bytes. &lt;p&gt; * * Set bar code height &lt;p&gt; * ASCII GS h n &lt;p&gt; * * Set bar code width &lt;p&gt; * ASCII GS w n &lt;p&gt; * * Select print position of Human Readable Interpretation (HRI) characters &lt;p&gt; * ASCII GS H n * * Select font for HRI characters &lt;p&gt; * ASCII GS f n * * Select justification &lt;p&gt; * ASCII ESC a n &lt;p&gt; * * print BarCode &lt;p&gt; * ASCII GS k m d1 ... dk &lt;p&gt;" />
       <item value="Write some usual ESC/POS commands to the OutPutStream.&lt;p&gt; * ESC/POS was developed by &lt;i&gt;Seiko Epson Corporation&lt;/i&gt;&lt;p&gt; * Most receipt printers on the market recognize these commands.&lt;p&gt; * and can be used to print texts, barcodes or images" />
       <item value="Unsupported Encoding Exception" />
       <item value="KZ_1048_Kazakhstan" />
@@ -49,13 +51,11 @@
       <item value="Set charsetName used on encodes of Strings." />
       <item value="cp 437" />
       <item value="User defined page" />
-      <item value="Character Code Table" />
-      <item value="PART" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1814" />
-        <entry key="ENGLISH" value="1815" />
+        <entry key="CHINESE" value="1815" />
+        <entry key="ENGLISH" value="1816" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
