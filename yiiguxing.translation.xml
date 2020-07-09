@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@param nLines number of lines with the line spacing of * &lt;code&gt;defaultStyle&lt;/code&gt; * @return this object. * @exception IOException if an I/O error occurs. * @exception IllegalArgumentException if nLines out of range 0 to 255 * @see #feed(Style, int) */" />
+      <item value="number of lines with the line spacing of * &lt;code&gt;defaultStyle&lt;/code&gt;" />
+      <item value="Call feed with default style." />
+      <item value="/** * A convenience method which looks up 2D print services. * Services returned from this method may be installed on * &lt;code&gt;PrinterJob&lt;/code&gt;s which support print services. * Calling this method is equivalent to calling * {@link javax.print.PrintServiceLookup#lookupPrintServices( * DocFlavor, AttributeSet) * PrintServiceLookup.lookupPrintServices()} * and specifying a Pageable DocFlavor. * @return a possibly empty array of 2D print services. * @since 1.4 */" />
       <item value="* Write String to outputStream. * &lt;p&gt; * Configure Style by with ESC/POS commands, encode String by charsetName * and write to outputStream." />
       <item value="Writes one byte directly to outputStream. Can be used to send customized * commands to printer." />
       <item value="Values for CutMode." />
@@ -47,15 +51,11 @@
       <item value="customer Debt" />
       <item value="builder" />
       <item value="&quot;Authentication failed." />
-      <item value="Authentication" />
-      <item value="Authentication failed." />
-      <item value="Copyright (C) 2007 Free Software Foundation, Inc. &lt;https://fsf.org/&gt; Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed." />
-      <item value="fix flow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1763" />
-        <entry key="ENGLISH" value="1764" />
+        <entry key="CHINESE" value="1767" />
+        <entry key="ENGLISH" value="1768" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
