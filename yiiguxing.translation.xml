@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Print the text above and below the bar-code" />
+      <item value="Print the text below the bar-code" />
+      <item value="Print the text above the bar-code" />
+      <item value="Bar Code Wrapper Interface" />
+      <item value="auto create" />
       <item value="CODE 93_Default" />
       <item value="BarCode Assembly into ESC/POS bytes. &lt;p&gt; * * Set bar code height &lt;p&gt; * ASCII GS h n &lt;p&gt; * * Set bar code width &lt;p&gt; * ASCII GS w n &lt;p&gt; * * Select print position of Human Readable Interpretation (HRI) characters &lt;p&gt; * ASCII GS H n * * Select font for HRI characters &lt;p&gt; * ASCII GS f n * * Select justification &lt;p&gt; * ASCII ESC a n &lt;p&gt; * * print BarCode &lt;p&gt; * ASCII GS k m d1 ... dk &lt;p&gt;" />
       <item value="Write some usual ESC/POS commands to the OutPutStream.&lt;p&gt; * ESC/POS was developed by &lt;i&gt;Seiko Epson Corporation&lt;/i&gt;&lt;p&gt; * Most receipt printers on the market recognize these commands.&lt;p&gt; * and can be used to print texts, barcodes or images" />
@@ -46,16 +51,11 @@
       <item value="Katakana" />
       <item value="CP 437_USA Standard Europe" />
       <item value="CP437_USA_Standard_Europe(0, &quot;cp437&quot;), Katakana(1), CP850_Multilingual(2, &quot;cp850&quot;), CP860_Portuguese(3, &quot;cp860&quot;), CP863_Canadian_French(4, &quot;cp863&quot;), CP865_Nordic(5, &quot;cp865&quot;), CP851_Greek(11), CP853_Turkish(12), CP857_Turkish(13, &quot;cp857&quot;), CP737_Greek(14, &quot;cp737&quot;), ISO8859_7_Greek(15, &quot;iso8859_7&quot;), WPC1252(16), CP866_Cyrillic_2(17, &quot;cp866&quot;), CP852_Latin2(18, &quot;cp852&quot;), CP858_Euro(19, &quot;cp858&quot;), KU42_Thai(20), TIS11_Thai(21), TIS18_Thai(26), TCVN_3_1_Vietnamese(30), TCVN_3_2_Vietnamese(31), PC720_Arabic(32), WPC775_BalticRim(33), CP855_Cyrillic(34, &quot;cp855&quot;), CP861_Icelandic(35, &quot;cp861&quot;), CP862_Hebrew(36, &quot;cp862&quot;), CP864_Arabic(37, &quot;cp864&quot;), CP869_Greek(38, &quot;cp869&quot;), ISO8859_2_Latin2(39, &quot;iso8859_2&quot;), ISO8859_15_Latin9(40, &quot;iso8859_15&quot;), CP1098_Farsi(41, &quot;cp1098&quot;), CP1118_Lithuanian(42), CP1119_Lithuanian(43), CP1125_Ukrainian(44), WCP1250_Latin2(45, &quot;cp1250&quot;), WCP1251_Cyrillic(46, &quot;cp1251&quot;), WCP1253_Greek(47, &quot;cp1253&quot;), WCP1254_Turkish(48, &quot;cp1254&quot;), WCP1255_Hebrew(49, &quot;cp1255&quot;), WCP1256_Arabic(50, &quot;cp1256&quot;), WCP1257_BalticRim(51, &quot;cp1257&quot;), WCP1258_Vietnamese(52, &quot;cp1258&quot;), KZ_1048_Kazakhstan(53), User_defined_page(255);" />
-      <item value="character Code Table" />
-      <item value="charsetName value used on String.getBytes" />
-      <item value="Set charsetName used on encodes of Strings." />
-      <item value="cp 437" />
-      <item value="User defined page" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1815" />
-        <entry key="ENGLISH" value="1816" />
+        <entry key="CHINESE" value="1820" />
+        <entry key="ENGLISH" value="1821" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
