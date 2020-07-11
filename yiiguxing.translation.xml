@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pay inner error" />
       <item value="云打印失败" />
       <item value="Print the text above and below the bar-code" />
       <item value="Print the text below the bar-code" />
@@ -50,12 +51,11 @@
       <item value="CP 860_Portuguese" />
       <item value="CP 850_Multilingual" />
       <item value="Katakana" />
-      <item value="CP 437_USA Standard Europe" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1824" />
-        <entry key="ENGLISH" value="1824" />
+        <entry key="ENGLISH" value="1825" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
