@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="micro Refund Order" />
+      <item value="refund Query" />
       <item value="pay inner error" />
       <item value="云打印失败" />
       <item value="Print the text above and below the bar-code" />
@@ -49,13 +51,11 @@
       <item value="CP 865_Nordic" />
       <item value="CP 863_Canadian French" />
       <item value="CP 860_Portuguese" />
-      <item value="CP 850_Multilingual" />
-      <item value="Katakana" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1824" />
-        <entry key="ENGLISH" value="1825" />
+        <entry key="CHINESE" value="1827" />
+        <entry key="ENGLISH" value="1828" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
