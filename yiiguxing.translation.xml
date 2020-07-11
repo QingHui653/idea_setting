@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理中英混合长度" />
+      <item value="handle Chinese English Len" />
       <item value="micro Refund Order" />
       <item value="refund Query" />
       <item value="pay inner error" />
@@ -49,13 +51,11 @@
       <item value="CP 853_Turkish" />
       <item value="CP 851_Greek" />
       <item value="CP 865_Nordic" />
-      <item value="CP 863_Canadian French" />
-      <item value="CP 860_Portuguese" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1827" />
-        <entry key="ENGLISH" value="1828" />
+        <entry key="CHINESE" value="1829" />
+        <entry key="ENGLISH" value="1829" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
