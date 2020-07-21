@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no-zygote" />
+      <item value="zygote" />
+      <item value="no-sandbox" />
+      <item value="disable-setuid-sandbox" />
+      <item value="setuid" />
+      <item value="sandbox" />
       <item value="disable-gpu" />
       <item value="disable-sync" />
       <item value="disable-hang-monitor" />
@@ -45,17 +51,11 @@
       <item value="micro Refund Order" />
       <item value="refund Query" />
       <item value="pay inner error" />
-      <item value="云打印失败" />
-      <item value="Print the text above and below the bar-code" />
-      <item value="Print the text below the bar-code" />
-      <item value="Print the text above the bar-code" />
-      <item value="Bar Code Wrapper Interface" />
-      <item value="auto create" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1861" />
-        <entry key="ENGLISH" value="1862" />
+        <entry key="CHINESE" value="1868" />
+        <entry key="ENGLISH" value="1869" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
