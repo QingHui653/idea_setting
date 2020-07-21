@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Control duplicated message id would be ignore in seconds" />
+      <item value="consume Timeout" />
+      <item value="message Expire Config" />
       <item value="CU Micro Pay Response" />
       <item value="A custom &lt;code&gt;@Configuration&lt;/code&gt; for the feign client. Can contain override * &lt;code&gt;@Bean&lt;/code&gt; definition for the pieces that make up the client, for instance" />
       <item value="10000" />
@@ -48,14 +51,11 @@
       <item value="CP 869_Greek" />
       <item value="CP 864_Arabic" />
       <item value="CP 862_Hebrew" />
-      <item value="CP 861_Icelandic" />
-      <item value="CP 855_Cyrillic" />
-      <item value="WPC 775_Baltic Rim" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1839" />
-        <entry key="ENGLISH" value="1837" />
+        <entry key="CHINESE" value="1841" />
+        <entry key="ENGLISH" value="1842" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="7" />
