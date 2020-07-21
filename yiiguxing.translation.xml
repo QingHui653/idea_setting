@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disable-gpu" />
+      <item value="disable-sync" />
+      <item value="disable-hang-monitor" />
+      <item value="disable-prompt-on-repost" />
+      <item value="disable-background-networking" />
+      <item value="hide-scrollbars" />
+      <item value="headless" />
+      <item value="safebrowsing-disable-auto-update" />
+      <item value="disable-translate" />
+      <item value="disable-background-timer-throttling" />
+      <item value="o-default-browser-check" />
+      <item value="metrics-recording-only" />
+      <item value="disable-extensions" />
+      <item value="disable-default-apps" />
+      <item value="disable-default-apps=" />
+      <item value="disable-popup-blocking" />
+      <item value="disable-client-side-phishing-detection" />
+      <item value="mute-audio" />
+      <item value="mute-audio=" />
+      <item value="no-first-run" />
       <item value="Print page as PDF." />
       <item value="Returns the Page command." />
       <item value="Control duplicated message id would be ignore in seconds" />
@@ -31,34 +51,14 @@
       <item value="Print the text above the bar-code" />
       <item value="Bar Code Wrapper Interface" />
       <item value="auto create" />
-      <item value="CODE 93_Default" />
-      <item value="BarCode Assembly into ESC/POS bytes. &lt;p&gt; * * Set bar code height &lt;p&gt; * ASCII GS h n &lt;p&gt; * * Set bar code width &lt;p&gt; * ASCII GS w n &lt;p&gt; * * Select print position of Human Readable Interpretation (HRI) characters &lt;p&gt; * ASCII GS H n * * Select font for HRI characters &lt;p&gt; * ASCII GS f n * * Select justification &lt;p&gt; * ASCII ESC a n &lt;p&gt; * * print BarCode &lt;p&gt; * ASCII GS k m d1 ... dk &lt;p&gt;" />
-      <item value="Write some usual ESC/POS commands to the OutPutStream.&lt;p&gt; * ESC/POS was developed by &lt;i&gt;Seiko Epson Corporation&lt;/i&gt;&lt;p&gt; * Most receipt printers on the market recognize these commands.&lt;p&gt; * and can be used to print texts, barcodes or images" />
-      <item value="Unsupported Encoding Exception" />
-      <item value="KZ_1048_Kazakhstan" />
-      <item value="WCP 1258_Vietnamese" />
-      <item value="WCP 1257_Baltic Rim" />
-      <item value="WCP 1256_Arabic" />
-      <item value="WCP 1255_Hebrew" />
-      <item value="WCP 1254_Turkish" />
-      <item value="WCP 1253_Greek" />
-      <item value="WCP 1251_Cyrillic" />
-      <item value="WCP 1250_Latin 2" />
-      <item value="CP 1125_Ukrainian" />
-      <item value="CP 1119_Lithuanian" />
-      <item value="CP 1118_Lithuanian" />
-      <item value="CP 1098_Farsi" />
-      <item value="ISO 8859_15_Latin 9" />
-      <item value="ISO 8859_2_Latin 2" />
-      <item value="CP 869_Greek" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1843" />
-        <entry key="ENGLISH" value="1844" />
+        <entry key="CHINESE" value="1861" />
+        <entry key="ENGLISH" value="1862" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
-        <entry key="BULGARIAN" value="7" />
+        <entry key="BULGARIAN" value="9" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
