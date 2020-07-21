@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Vip Channel Enabled" />
+      <item value="BROADCASTING" />
+      <item value="CLUSTERING" />
+      <item value="sub Expression" />
+      <item value="set Consume Timeout" />
+      <item value="Default Message Listener Orderly" />
+      <item value="CONCURRENTLY" />
+      <item value="ORDERLY" />
+      <item value="consume Mode" />
+      <item value="Consume Timeout" />
+      <item value="delay Level When Next Consume" />
       <item value="no-zygote" />
       <item value="zygote" />
       <item value="no-sandbox" />
@@ -40,22 +51,11 @@
       <item value="WebSocketServiceImpl.onClose Web socket connection closed due to BufferOverflow raised by Tyrus client." />
       <item value="Failed sending data to ws server" />
       <item value="hget All" />
-      <item value="and device_print_type! = 2" />
-      <item value="设备云功能联网异常" />
-      <item value="query Device Task" />
-      <item value="DEFAULT" />
-      <item value="navigate Pages" />
-      <item value="public PageInfo(List&lt;T&gt; list, int navigatePages) {" />
-      <item value="处理中英混合长度" />
-      <item value="handle Chinese English Len" />
-      <item value="micro Refund Order" />
-      <item value="refund Query" />
-      <item value="pay inner error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1868" />
-        <entry key="ENGLISH" value="1869" />
+        <entry key="CHINESE" value="1877" />
+        <entry key="ENGLISH" value="1878" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
