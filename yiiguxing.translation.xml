@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="7 actionable tasks: 1 executed, 6 up-to-date" />
+      <item value="Use '--warning-mode all' to show the individual deprecation warnings." />
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0." />
+      <item value="The following classes needed for analysis were missing:" />
       <item value="查询数据" />
       <item value="Real Deliver Quantity" />
       <item value="t Real Deliver Quantity" />
@@ -47,15 +51,11 @@
       <item value="disable-client-side-phishing-detection" />
       <item value="mute-audio" />
       <item value="mute-audio=" />
-      <item value="no-first-run" />
-      <item value="Print page as PDF." />
-      <item value="Returns the Page command." />
-      <item value="Control duplicated message id would be ignore in seconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1890" />
-        <entry key="ENGLISH" value="1890" />
+        <entry key="CHINESE" value="1895" />
+        <entry key="ENGLISH" value="1896" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
