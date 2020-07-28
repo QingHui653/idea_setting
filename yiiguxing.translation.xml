@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="根据公告标签,设置查询公司 付费类型" />
       <item value="template Code" />
       <item value="push Custom Content" />
       <item value="env" />
@@ -50,11 +51,10 @@
       <item value="metrics-recording-only" />
       <item value="disable-extensions" />
       <item value="disable-default-apps" />
-      <item value="disable-default-apps=" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1898" />
+        <entry key="CHINESE" value="1899" />
         <entry key="ENGLISH" value="1899" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
