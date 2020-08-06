@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JIAXIN ACCESS TOKEN KEY" />
       <item value="The constructor com.kp.server.third.dl.constants.DlProductAttrEnum(java.lang.String, java.lang.String) is undefined" />
       <item value="micro pay" />
       <item value="get Exwarehouse Time" />
@@ -50,7 +51,6 @@
       <item value="disable-prompt-on-repost" />
       <item value="disable-background-networking" />
       <item value="hide-scrollbars" />
-      <item value="headless" />
     </histories>
     <option name="languageScores">
       <map>
