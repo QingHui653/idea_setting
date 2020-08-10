@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The funnel to translate Ts to bytes" />
+      <item value="num Hash Functions" />
+      <item value="Number of hashes per element" />
+      <item value="The bit set of the BloomFilter (not necessarily power of 2!)" />
+      <item value="Identifier used to encode this strategy, when marshalled as part of a BloomFilter. Only * values in the [-128, 127] range are valid for the compact serial form. Non-negative values * are reserved for enums defined in BloomFilterStrategies; negative values are reserved for any * custom, stateful strategy we may define (e.g. any kind of strategy that would depend on user * input)." />
+      <item value="ordinal" />
+      <item value="might Contain" />
       <item value="Strategy" />
       <item value="Bloom Filter" />
       <item value="企业注册请求实体" />
@@ -44,18 +51,11 @@
       <item value="Default Message Listener Orderly" />
       <item value="CONCURRENTLY" />
       <item value="ORDERLY" />
-      <item value="consume Mode" />
-      <item value="Consume Timeout" />
-      <item value="delay Level When Next Consume" />
-      <item value="no-zygote" />
-      <item value="zygote" />
-      <item value="no-sandbox" />
-      <item value="disable-setuid-sandbox" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1909" />
-        <entry key="ENGLISH" value="1910" />
+        <entry key="CHINESE" value="1917" />
+        <entry key="ENGLISH" value="1918" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
