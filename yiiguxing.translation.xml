@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Strategy" />
+      <item value="Bloom Filter" />
       <item value="企业注册请求实体" />
       <item value="phone" />
       <item value="corp Admin Name" />
@@ -49,13 +51,11 @@
       <item value="zygote" />
       <item value="no-sandbox" />
       <item value="disable-setuid-sandbox" />
-      <item value="setuid" />
-      <item value="sandbox" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1909" />
-        <entry key="ENGLISH" value="1909" />
+        <entry key="ENGLISH" value="1910" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
