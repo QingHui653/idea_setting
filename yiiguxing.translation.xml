@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the incoming buffer to 24MB" />
       <item value="The funnel to translate Ts to bytes" />
       <item value="num Hash Functions" />
       <item value="Number of hashes per element" />
@@ -50,12 +51,11 @@
       <item value="set Consume Timeout" />
       <item value="Default Message Listener Orderly" />
       <item value="CONCURRENTLY" />
-      <item value="ORDERLY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1917" />
-        <entry key="ENGLISH" value="1918" />
+        <entry key="CHINESE" value="1918" />
+        <entry key="ENGLISH" value="1919" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
