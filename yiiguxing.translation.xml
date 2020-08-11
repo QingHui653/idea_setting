@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DefaultMetaServerProvider.initMetaServerAddress Located meta services from apollo.meta configuration: http://192.168.8.24:18080!" />
+      <item value="MetaDomainConsts.initMetaServerAddress Located meta server address http://192.168.8.24:18080 for env UNKNOWN from com.ctrip.framework.apollo.internals.DefaultMetaServerProvider" />
+      <item value="UNKNOWN from com.ctrip.framework.apollo.internals.DefaultMetaServerProvider" />
       <item value="Compression quality from range [0..100] (jpeg only)." />
       <item value="Set the incoming buffer to 24MB" />
       <item value="The funnel to translate Ts to bytes" />
@@ -48,14 +51,11 @@
       <item value="set Vip Channel Enabled" />
       <item value="BROADCASTING" />
       <item value="CLUSTERING" />
-      <item value="sub Expression" />
-      <item value="set Consume Timeout" />
-      <item value="Default Message Listener Orderly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1919" />
-        <entry key="ENGLISH" value="1920" />
+        <entry key="CHINESE" value="1922" />
+        <entry key="ENGLISH" value="1923" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
