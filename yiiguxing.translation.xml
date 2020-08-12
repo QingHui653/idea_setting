@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="由saleEntity.getOrderStatus() == OrderStatus.EX_WAREHOUSE,改为 判断是否已发货 saleEntity.getDeliveryStatus()==2" />
       <item value="A custom Codec or PojoCodec may need to be explicitly configured and registered to handle this type." />
       <item value="we will be the first bean to shutdown and last bean to start" />
       <item value="调拨单货品唯一id" />
@@ -50,11 +51,10 @@
       <item value="No qualifying bean found for" />
       <item value="No Such Bean Definition Exception" />
       <item value="is Niche Order Refund" />
-      <item value="divide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1924" />
+        <entry key="CHINESE" value="1925" />
         <entry key="ENGLISH" value="1925" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
