@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="stj" value="String json = &quot;$END$&quot;;" shortcut="TAB" description="传入个json" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
