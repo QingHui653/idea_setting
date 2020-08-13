@@ -4,4 +4,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="//a" value="//737修改by卿辉:$END$" description="修改注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
