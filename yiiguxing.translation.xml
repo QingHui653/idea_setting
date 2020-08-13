@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Launches chrome with user-data-dir param." />
+      <item value="USER DATA DIR ARGUMENT" />
       <item value="get Sku Detail By Flow Item" />
       <item value="由saleEntity.getOrderStatus() == OrderStatus.EX_WAREHOUSE,改为 判断是否已发货 saleEntity.getDeliveryStatus()==2" />
       <item value="A custom Codec or PojoCodec may need to be explicitly configured and registered to handle this type." />
@@ -49,13 +51,11 @@
       <item value="get Real Deliver Quantity" />
       <item value="get Unit Ratio" />
       <item value="generate Product Label Name Code Mixture Instruction" />
-      <item value="No qualifying bean found for" />
-      <item value="No Such Bean Definition Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1926" />
-        <entry key="ENGLISH" value="1927" />
+        <entry key="CHINESE" value="1928" />
+        <entry key="ENGLISH" value="1929" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
