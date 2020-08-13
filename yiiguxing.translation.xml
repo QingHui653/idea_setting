@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send Sku Stock Info Change" />
+      <item value="mongo" />
       <item value="True if its closed." />
       <item value="Time unit representing one thousandth of a microsecond" />
       <item value="Time unit representing one thousandth of a millisecond" />
@@ -49,13 +51,11 @@
       <item value="Use '--warning-mode all' to show the individual deprecation warnings." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0." />
       <item value="The following classes needed for analysis were missing:" />
-      <item value="查询数据" />
-      <item value="Real Deliver Quantity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1932" />
-        <entry key="ENGLISH" value="1933" />
+        <entry key="CHINESE" value="1934" />
+        <entry key="ENGLISH" value="1935" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
@@ -75,7 +75,7 @@
         <entry key="MALTESE" value="1" />
         <entry key="MALAY" value="3" />
         <entry key="NORWEGIAN" value="3" />
-        <entry key="SWEDISH" value="2" />
+        <entry key="SWEDISH" value="3" />
         <entry key="SLOVAK" value="2" />
         <entry key="SOMALI" value="1" />
         <entry key="WELSH" value="11" />
