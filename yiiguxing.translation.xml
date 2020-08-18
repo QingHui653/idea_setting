@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="super(corePoolSize, Integer.MAX_VALUE, 0, NANOSECONDS, new DelayedWorkQueue(), threadFactory, handler);" />
       <item value="SN USER NOT MATCH" />
       <item value="com.alibaba.druid.pool.GetConnectionTimeoutException: wait millis 3001, active 0, maxActive 50, creating 1" />
       <item value="send Sku Stock Info Change" />
@@ -50,12 +51,11 @@
       <item value="env" />
       <item value="industry Id" />
       <item value="7 actionable tasks: 1 executed, 6 up-to-date" />
-      <item value="Use '--warning-mode all' to show the individual deprecation warnings." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1936" />
-        <entry key="ENGLISH" value="1937" />
+        <entry key="CHINESE" value="1937" />
+        <entry key="ENGLISH" value="1938" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
