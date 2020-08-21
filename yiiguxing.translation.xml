@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="30000 L" />
       <item value="String lockKey, String value, int retryingCount,long sleepTime,long lock_expire_time" />
       <item value="on Load Event Fired" />
       <item value="Rate Limiter" />
@@ -50,11 +51,10 @@
       <item value="set Print Element" />
       <item value="corp version bigger than config, so skip.corpId {} app-version {} config-version" />
       <item value="corp version bigger than config, so skip.corpId {} app-version {} config-version {}&quot;" />
-      <item value="根据公告标签,设置查询公司 付费类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1941" />
+        <entry key="CHINESE" value="1942" />
         <entry key="ENGLISH" value="1942" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
@@ -63,7 +63,7 @@
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="3" />
-        <entry key="FRENCH" value="9" />
+        <entry key="FRENCH" value="10" />
         <entry key="FINNISH" value="2" />
         <entry key="HAUSA" value="1" />
         <entry key="DUTCH" value="10" />
