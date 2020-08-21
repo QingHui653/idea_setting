@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String lockKey, String value, int retryingCount,long sleepTime,long lock_expire_time" />
       <item value="on Load Event Fired" />
       <item value="Rate Limiter" />
       <item value="Returns true if a new document should be inserted if there are no matches to the query filter. The default is false." />
@@ -50,12 +51,11 @@
       <item value="corp version bigger than config, so skip.corpId {} app-version {} config-version" />
       <item value="corp version bigger than config, so skip.corpId {} app-version {} config-version {}&quot;" />
       <item value="根据公告标签,设置查询公司 付费类型" />
-      <item value="template Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1940" />
-        <entry key="ENGLISH" value="1941" />
+        <entry key="CHINESE" value="1941" />
+        <entry key="ENGLISH" value="1942" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
