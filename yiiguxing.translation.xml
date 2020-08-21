@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fired when page is about to send HTTP request." />
+      <item value="Tells whether clearing browser cache is supported." />
+      <item value="Returns the Network command." />
+      <item value="new Concurrent Map" />
+      <item value="logger.info(&quot;init concurrent limit {}&quot;, currentLimit);" />
       <item value="on Load Event Fired" />
       <item value="cache api request id" />
       <item value="Map&lt;String, String&gt; apiRequests = Maps.newConcurrentMap(); Network network = devToolsService.getNetwork(); network.onRequestWillBeSent(event -&gt; { Request request = event.getRequest(); if (request.getMethod().equalsIgnoreCase(&quot;post&quot;)) { apiRequests.put(event.getRequestId(), request.getUrl()); } });" />
@@ -46,16 +51,11 @@
       <item value="offline" />
       <item value="Analyze" />
       <item value="init Other Corporation Setting" />
-      <item value="JIAXIN ACCESS TOKEN KEY" />
-      <item value="The constructor com.kp.server.third.dl.constants.DlProductAttrEnum(java.lang.String, java.lang.String) is undefined" />
-      <item value="micro pay" />
-      <item value="get Exwarehouse Time" />
-      <item value="新增的createtime替换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1943" />
-        <entry key="ENGLISH" value="1944" />
+        <entry key="CHINESE" value="1948" />
+        <entry key="ENGLISH" value="1949" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
