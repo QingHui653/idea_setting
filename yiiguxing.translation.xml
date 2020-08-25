@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="counteract Detail" />
       <item value="failed to get chrome instance" />
       <item value="discount" />
       <item value="concurrent limiter acquire failed, waiting" />
@@ -50,12 +51,11 @@
       <item value="The bit set of the BloomFilter (not necessarily power of 2!)" />
       <item value="Identifier used to encode this strategy, when marshalled as part of a BloomFilter. Only * values in the [-128, 127] range are valid for the compact serial form. Non-negative values * are reserved for enums defined in BloomFilterStrategies; negative values are reserved for any * custom, stateful strategy we may define (e.g. any kind of strategy that would depend on user * input)." />
       <item value="ordinal" />
-      <item value="might Contain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1954" />
-        <entry key="ENGLISH" value="1955" />
+        <entry key="CHINESE" value="1955" />
+        <entry key="ENGLISH" value="1956" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
