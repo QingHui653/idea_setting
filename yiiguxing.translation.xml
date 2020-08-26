@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SN USER NOT MATCH" />
       <item value="counteract Detail" />
       <item value="failed to get chrome instance" />
       <item value="discount" />
@@ -25,7 +26,6 @@
       <item value="Returns true if a new document should be inserted if there are no matches to the query filter. The default is false." />
       <item value="Set to true if a new document should be inserted if there are no matches to the query filter." />
       <item value="super(corePoolSize, Integer.MAX_VALUE, 0, NANOSECONDS, new DelayedWorkQueue(), threadFactory, handler);" />
-      <item value="SN USER NOT MATCH" />
       <item value="com.alibaba.druid.pool.GetConnectionTimeoutException: wait millis 3001, active 0, maxActive 50, creating 1" />
       <item value="send Sku Stock Info Change" />
       <item value="mongo" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1955" />
-        <entry key="ENGLISH" value="1956" />
+        <entry key="CHINESE" value="1956" />
+        <entry key="ENGLISH" value="1957" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
