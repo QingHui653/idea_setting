@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a RateLimiter with the specified stable throughput, given as &quot;permits per second&quot; (commonly referred to as QPS, queries per second). The returned RateLimiter ensures that on average no more than permitsPerSecond are issued during any given second, with sustained requests being smoothly spread over each second. When the incoming request rate exceeds permitsPerSecond the rate limiter will release one permit every (1.0 / permitsPerSecond) seconds. When the rate limiter is unused, bursts of up to permitsPerSecond permits will be allowed, with subsequent requests being smoothly limited at the stable rate of permitsPerSecond." />
+      <item value="TODO(user): &quot;This is equivalent to // {@code createWithCapacity(permitsPerSecond, 1, TimeUnit.SECONDS)}" />
       <item value="SN USER NOT MATCH" />
       <item value="counteract Detail" />
       <item value="failed to get chrome instance" />
@@ -49,13 +51,11 @@
       <item value="num Hash Functions" />
       <item value="Number of hashes per element" />
       <item value="The bit set of the BloomFilter (not necessarily power of 2!)" />
-      <item value="Identifier used to encode this strategy, when marshalled as part of a BloomFilter. Only * values in the [-128, 127] range are valid for the compact serial form. Non-negative values * are reserved for enums defined in BloomFilterStrategies; negative values are reserved for any * custom, stateful strategy we may define (e.g. any kind of strategy that would depend on user * input)." />
-      <item value="ordinal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1956" />
-        <entry key="ENGLISH" value="1957" />
+        <entry key="CHINESE" value="1958" />
+        <entry key="ENGLISH" value="1958" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
