@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Case" />
       <item value="Hyphenated variable naming convention, e.g., &quot;lower-hyphen&quot;." />
       <item value="encoded Length" />
       <item value="propagate If Instance Of" />
@@ -50,12 +51,11 @@
       <item value="Rate Limiter" />
       <item value="Returns true if a new document should be inserted if there are no matches to the query filter. The default is false." />
       <item value="Set to true if a new document should be inserted if there are no matches to the query filter." />
-      <item value="super(corePoolSize, Integer.MAX_VALUE, 0, NANOSECONDS, new DelayedWorkQueue(), threadFactory, handler);" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1979" />
-        <entry key="ENGLISH" value="1980" />
+        <entry key="CHINESE" value="1980" />
+        <entry key="ENGLISH" value="1981" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
