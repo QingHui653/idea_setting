@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ISO-8859-1: ISO Latin Alphabet Number 1 (ISO-LATIN-1)." />
       <item value="Preconditions" />
       <item value="Visible For Testing" />
       <item value="If a hostname is not a key in the EXCLUDE map, and if removing its * leftmost component results in a name which is a key in this map, it is a * public suffix." />
@@ -50,12 +51,11 @@
       <item value="MetaDomainConsts.initMetaServerAddress Located meta server address http://192.168.8.24:18080 for env UNKNOWN from com.ctrip.framework.apollo.internals.DefaultMetaServerProvider" />
       <item value="UNKNOWN from com.ctrip.framework.apollo.internals.DefaultMetaServerProvider" />
       <item value="Compression quality from range [0..100] (jpeg only)." />
-      <item value="Set the incoming buffer to 24MB" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1961" />
-        <entry key="ENGLISH" value="1962" />
+        <entry key="CHINESE" value="1962" />
+        <entry key="ENGLISH" value="1963" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
