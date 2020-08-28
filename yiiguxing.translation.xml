@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hyphenated variable naming convention, e.g., &quot;lower-hyphen&quot;." />
+      <item value="encoded Length" />
+      <item value="propagate If Instance Of" />
+      <item value="compose" />
+      <item value="public static &lt;F, T&gt; Supplier&lt;T&gt; compose(Function&lt;? super F, T&gt; function, Supplier&lt;F&gt; supplier) {" />
       <item value="Funnels" />
       <item value="Small Char Matcher" />
       <item value="dicates" />
@@ -46,16 +51,11 @@
       <item value="Returns true if a new document should be inserted if there are no matches to the query filter. The default is false." />
       <item value="Set to true if a new document should be inserted if there are no matches to the query filter." />
       <item value="super(corePoolSize, Integer.MAX_VALUE, 0, NANOSECONDS, new DelayedWorkQueue(), threadFactory, handler);" />
-      <item value="com.alibaba.druid.pool.GetConnectionTimeoutException: wait millis 3001, active 0, maxActive 50, creating 1" />
-      <item value="send Sku Stock Info Change" />
-      <item value="mongo" />
-      <item value="True if its closed." />
-      <item value="Time unit representing one thousandth of a microsecond" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1974" />
-        <entry key="ENGLISH" value="1975" />
+        <entry key="CHINESE" value="1979" />
+        <entry key="ENGLISH" value="1980" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
