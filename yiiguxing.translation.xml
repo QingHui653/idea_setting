@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="referent" />
+      <item value="@return &lt;code&gt;true&lt;/code&gt; if this reference object was successfully * enqueued; &lt;code&gt;false&lt;/code&gt; if it was already enqueued or if * it was not registered with a queue when it was created" />
+      <item value="&lt;p&gt; This method is invoked only by Java code; when the garbage collector * enqueues references it does so directly, without invoking this method." />
+      <item value="Adds this reference object to the queue with which it is registered, * if any." />
+      <item value="google" />
+      <item value="populate" />
+      <item value="populate Cache" />
+      <item value="private static &lt;T extends Enum&lt;T&gt;&gt; Map&lt;String, WeakReference&lt;? extends Enum&lt;?&gt;&gt;&gt; populateCache(" />
+      <item value="java.lang.ref.Weak Reference" />
       <item value="ISO-8859-1: ISO Latin Alphabet Number 1 (ISO-LATIN-1)." />
       <item value="Preconditions" />
       <item value="Visible For Testing" />
@@ -42,20 +51,11 @@
       <item value="await Termination" />
       <item value="Launches chrome with user-data-dir param." />
       <item value="USER DATA DIR ARGUMENT" />
-      <item value="get Sku Detail By Flow Item" />
-      <item value="由saleEntity.getOrderStatus() == OrderStatus.EX_WAREHOUSE,改为 判断是否已发货 saleEntity.getDeliveryStatus()==2" />
-      <item value="A custom Codec or PojoCodec may need to be explicitly configured and registered to handle this type." />
-      <item value="we will be the first bean to shutdown and last bean to start" />
-      <item value="调拨单货品唯一id" />
-      <item value="DefaultMetaServerProvider.initMetaServerAddress Located meta services from apollo.meta configuration: http://192.168.8.24:18080!" />
-      <item value="MetaDomainConsts.initMetaServerAddress Located meta server address http://192.168.8.24:18080 for env UNKNOWN from com.ctrip.framework.apollo.internals.DefaultMetaServerProvider" />
-      <item value="UNKNOWN from com.ctrip.framework.apollo.internals.DefaultMetaServerProvider" />
-      <item value="Compression quality from range [0..100] (jpeg only)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1962" />
-        <entry key="ENGLISH" value="1963" />
+        <entry key="CHINESE" value="1971" />
+        <entry key="ENGLISH" value="1971" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
@@ -67,7 +67,7 @@
         <entry key="FINNISH" value="2" />
         <entry key="HAUSA" value="1" />
         <entry key="DUTCH" value="10" />
-        <entry key="CATALAN" value="3" />
+        <entry key="CATALAN" value="4" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="6" />
