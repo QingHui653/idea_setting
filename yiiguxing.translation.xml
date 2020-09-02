@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get the first value from the pair." />
+      <item value="Get the second value from the pair." />
       <item value="check Entry Not Null" />
       <item value="&lt;p&gt;The returned collection isn't threadsafe or serializable, even if * {@code unfiltered} is." />
       <item value="* &lt;p&gt;Many of the filtered collection's methods, such as {@code size()}, * iterate across every element in the underlying collection and determine * which elements satisfy the filter. When a live view is &lt;i&gt;not&lt;/i&gt; needed, * it may be faster to copy {@code Iterables.filter(unfiltered, predicate)} * and use the copy." />
@@ -49,13 +51,11 @@
       <item value="Maintanance" />
       <item value="available Processors" />
       <item value="Fired when page is about to send HTTP request." />
-      <item value="Tells whether clearing browser cache is supported." />
-      <item value="Returns the Network command." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1990" />
-        <entry key="ENGLISH" value="1991" />
+        <entry key="CHINESE" value="1992" />
+        <entry key="ENGLISH" value="1993" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
