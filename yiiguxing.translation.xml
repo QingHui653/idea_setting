@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cache to support the object identity semantics of autoboxing for values between * -128 and 127 (inclusive) as required by JLS. * * The cache is initialized on first usage. The size of the cache * may be controlled by the {@code -XX:AutoBoxCacheMax=&lt;size&gt;} option. * During VM initialization, java.lang.Integer.IntegerCache.high property * may be set and saved in the private system properties in the * sun.misc.VM class." />
       <item value="clear Arrea Finance Flow Entityr Map" />
       <item value="Get the first value from the pair." />
       <item value="Get the second value from the pair." />
@@ -50,7 +51,6 @@
       <item value="Scheduled Executor Service" />
       <item value="Maintenance" />
       <item value="Maintanance" />
-      <item value="available Processors" />
     </histories>
     <option name="languageScores">
       <map>
