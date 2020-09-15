@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Executes a mix of inserts, updates, replaces, and deletes." />
+      <item value="bulk Write" />
+      <item value="Invalid BSON field name customerName" />
+      <item value="Put the given key/value pair into this Document and return this. Useful for chaining puts in a single expression, e.g." />
+      <item value="Invalid BSON field name customerId" />
       <item value="Creates an empty Document instance." />
       <item value="query Sale Order By Page" />
       <item value="specs Style" />
@@ -46,16 +51,11 @@
       <item value="google" />
       <item value="populate" />
       <item value="populate Cache" />
-      <item value="private static &lt;T extends Enum&lt;T&gt;&gt; Map&lt;String, WeakReference&lt;? extends Enum&lt;?&gt;&gt;&gt; populateCache(" />
-      <item value="java.lang.ref.Weak Reference" />
-      <item value="ISO-8859-1: ISO Latin Alphabet Number 1 (ISO-LATIN-1)." />
-      <item value="Preconditions" />
-      <item value="Visible For Testing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2007" />
-        <entry key="ENGLISH" value="2008" />
+        <entry key="CHINESE" value="2012" />
+        <entry key="ENGLISH" value="2013" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
