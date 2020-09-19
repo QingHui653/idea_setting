@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="schedule Prune" />
+      <item value="prune" />
+      <item value="prune start" />
+      <item value="prune Cache" />
       <item value="uninstall Driver Event" />
       <item value="Wi Si Yi Link Uninstall Request" />
       <item value="LOCK EXPIRE_30" />
@@ -47,15 +51,11 @@
       <item value="Small Char Matcher" />
       <item value="dicates" />
       <item value="enum singleton pattern" />
-      <item value="referent" />
-      <item value="@return &lt;code&gt;true&lt;/code&gt; if this reference object was successfully * enqueued; &lt;code&gt;false&lt;/code&gt; if it was already enqueued or if * it was not registered with a queue when it was created" />
-      <item value="&lt;p&gt; This method is invoked only by Java code; when the garbage collector * enqueues references it does so directly, without invoking this method." />
-      <item value="Adds this reference object to the queue with which it is registered, * if any." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2015" />
-        <entry key="ENGLISH" value="2016" />
+        <entry key="CHINESE" value="2018" />
+        <entry key="ENGLISH" value="2019" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
