@@ -1,5 +1,8 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="DEBUGGER_TRANSPORT" value="1" />
+    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -32,11 +35,6 @@
     </filter>
     <filter>
       <option name="PATTERN" value="junit.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.junit.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
@@ -80,14 +78,1054 @@
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+  </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ToStringRenderer">
+      <option name="ON_DEMAND" value="true" />
+    </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.util.concurrent.ConcurrentHashMap" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="java.util.concurrent.ConcurrentHashMap" />
+          <option name="AppendDefault" value="true" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="kotlin_debugger">
+        <configuration>
+          <option name="filterForStdlibAlreadyAdded" value="true" />
         </configuration>
       </debugger>
     </debuggers>

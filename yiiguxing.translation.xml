@@ -1,0 +1,97 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="check Signature" />
+      <item value="Acquires and returns all permits that are immediately available." />
+      <item value="true to check for existence, false to check for absence" />
+      <item value="Completion Service" />
+      <item value="Reverses the order of the given array." />
+      <item value="GitHub found 11 vulnerabilities on QingHui653/AnewB's default branch (4 high, 6 moderate, 1 low). To find out more, visit:" />
+      <item value="deal Corp 2 Cloud" />
+      <item value="// catch all error, keep thread reusable" />
+      <item value="corp Expire Handler" />
+      <item value="corpExpireHandler run, param" />
+      <item value="secondary Preferred" />
+      <item value="Unsupported Operation Exception" />
+      <item value="BULLETIN STATUS" />
+      <item value="hardware Actual Price" />
+      <item value="Returns a splitter that behaves equivalently to {@code this} splitter, but automatically * removes leading and trailing {@linkplain CharMatcher#whitespace whitespace} from each returned * substring; equivalent to {@code trimResults(CharMatcher.whitespace())}. For example, {@code * Splitter.on(',').trimResults().split(&quot; a, b ,c &quot;)} returns an iterable containing * {@code [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;]}." />
+      <item value="Returns a splitter that behaves equivalently to {@code this} splitter, but automatically omits * empty strings from the results. For example, {@code * Splitter.on(',').omitEmptyStrings().split(&quot;,a,,,b,c,,&quot;)} returns an iterable containing only * {@code [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;]}. * * &lt;p&gt;If either {@code trimResults} option is also specified when creating a splitter, that * splitter always trims results first before checking for emptiness. So, for example, {@code * Splitter.on(':').omitEmptyStrings().trimResults().split(&quot;: : : &quot;)} returns an empty iterable. * * &lt;p&gt;Note that it is ordinarily not possible for {@link #split(CharSequence)} to return an empty * iterable, but when using this option, it can (if the input sequence consists of nothing but * separators). * * @return a splitter with the desired configuration" />
+      <item value="1. Try to get environment from JVM system property" />
+      <item value="No implementation defined in /META-INF/services/%s, please check whether the file exists and has the right implementation class" />
+      <item value="issue" />
+      <item value="performance" />
+      <item value="fix performance issue when calling getHostName" />
+      <item value="Jason Song" />
+      <item value="Returns an {@code Optional} with the specified present non-null value." />
+      <item value="NORMAL" />
+      <item value="* * Create a new transaction, and suspend the current transaction if one exists. * Analogous to the EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available it to it (which is server-specific in standard Java EE). * @see org.springframework.transaction.jta.JtaTransactionManager#setTransactionManager" />
+      <item value="* Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name." />
+      <item value="Support a current transaction, execute non-transactionally if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATION_SUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager." />
+      <item value="Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;This is the default setting of a transaction annotation." />
+      <item value="INSTANCE" />
+      <item value="schedule Prune" />
+      <item value="prune" />
+      <item value="prune start" />
+      <item value="prune Cache" />
+      <item value="uninstall Driver Event" />
+      <item value="Wi Si Yi Link Uninstall Request" />
+      <item value="LOCK EXPIRE_30" />
+      <item value="Executes a mix of inserts, updates, replaces, and deletes." />
+      <item value="bulk Write" />
+      <item value="Invalid BSON field name customerName" />
+      <item value="Put the given key/value pair into this Document and return this. Useful for chaining puts in a single expression, e.g." />
+      <item value="Invalid BSON field name customerId" />
+      <item value="Creates an empty Document instance." />
+      <item value="query Sale Order By Page" />
+      <item value="specs Style" />
+      <item value="merge Field Type" />
+      <item value="replica" />
+      <item value="media Part" />
+      <item value="media Size" />
+      <item value="get System Type()" />
+      <item value="记录此次登录是使用超级验证码登录的" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2046" />
+        <entry key="ENGLISH" value="2047" />
+        <entry key="ARABIC" value="1" />
+        <entry key="IRISH" value="2" />
+        <entry key="BULGARIAN" value="9" />
+        <entry key="ICELANDIC" value="1" />
+        <entry key="DANISH" value="2" />
+        <entry key="GERMAN" value="1" />
+        <entry key="RUSSIAN" value="3" />
+        <entry key="FRENCH" value="11" />
+        <entry key="FINNISH" value="2" />
+        <entry key="HAUSA" value="1" />
+        <entry key="DUTCH" value="10" />
+        <entry key="CATALAN" value="4" />
+        <entry key="CORSICAN" value="1" />
+        <entry key="LATIN" value="2" />
+        <entry key="ROMANIAN" value="6" />
+        <entry key="MALAGASY" value="2" />
+        <entry key="MALTESE" value="1" />
+        <entry key="MALAY" value="3" />
+        <entry key="NORWEGIAN" value="3" />
+        <entry key="SWEDISH" value="4" />
+        <entry key="SAMOAN" value="1" />
+        <entry key="SLOVAK" value="2" />
+        <entry key="SOMALI" value="1" />
+        <entry key="WELSH" value="11" />
+        <entry key="SPANISH" value="2" />
+        <entry key="GREEK" value="1" />
+        <entry key="ITALIAN" value="2" />
+        <entry key="SUNDANESE" value="1" />
+        <entry key="INDONESIAN" value="4" />
+        <entry key="JAVANESE" value="2" />
+        <entry key="VIETNAMESE" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>

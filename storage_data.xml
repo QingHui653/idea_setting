@@ -1,0 +1,56 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="has Constructor Argument Values" />
+      <item value="Abstract bean factory superclass that implements default bean creation , with the full capabilities specified by the {@ link Root Bean Definition } class . Implements the {@ link org . springframework . beans . factory . config . Autowire Capable Bean Factory } interface in addition to Abstract Bean Factory ' s {@ link # create Bean } method ." />
+      <item value="Abstract bean factory superclass that implements default bean creation , with the full capabilities specified by the {@ link Root Bean Definition } class . Implements the {@ link org . springframework . beans . factory . config . Autowire Capable Bean Factory } interface in addition to Abstract Bean Factory ' s {@ link # create Bean } method . &lt; p &gt; Provides bean creation ( with constructor resolution ), property population , wiring ( including autowiring ), and initialization . Handles runtime bean references , resolves managed collections , calls initialization methods , etc . Supports autowiring constructors , properties by name , and properties by type . &lt; p &gt; The main template method to be implemented by subclasses is {@ link # resolve Dependency ( Dependency Descriptor , String , Set , Type Converter )}, used for autowiring by type . In case of a factory which is capable of searching its bean definitions , matching beans will typically be implemented through such a search . For other factory styles , simplified matching algorithms can be implemented . &lt; p &gt; Note that this class does &lt; i &gt; not &lt;/ i &gt; assume or implement bean definition registry capabilities . See {@ link Default Listable Bean Factory } for an implementation of the {@ link org . springframework . beans . factory . Listable Bean Factory } and {@ link Bean Definition Registry } interfaces , which represent the API and SPI view of such a factory , respectively ." />
+      <item value="Abstract Autowire Capable Bean Factory" />
+      <item value="Capable" />
+      <item value="Prototype" />
+      <item value="Eagerly check singleton cache for manually registered singletons ." />
+      <item value="Fail if we ' re already creating this bean instance : // We ' re assumably within a circular reference ." />
+      <item value="// Fail if we ' re already creating this bean instance :" />
+      <item value="Eager" />
+      <item value="While this may not be part of the regular factory bootstrap , it does otherwise work fine ." />
+      <item value="Iterate over a copy to allow for init methods which in turn register new bean definitions ." />
+      <item value="Iterate over a copy to allow for init methods which in turn register new bean definitions . // While this may not be part of the regular factory bootstrap , it does otherwise work fine ." />
+      <item value="Check for listener beans and register them ." />
+      <item value="Initialize other special beans in specific context subclasses ." />
+      <item value="Initialize event multicaster for this context ." />
+      <item value="Initialize message source for this context ." />
+      <item value="Register bean processors that intercept bean creation ." />
+      <item value="Invoke factory processors registered as beans in the context ." />
+      <item value="Allows post - processing of the bean factory in context subclasses ." />
+      <item value="Prepare the bean factory for use in this context ." />
+      <item value="Definitions" />
+      <item value="such as the context ' s Class Loader and post - processors ." />
+      <item value="Configure the factory ' s standard context characteristics ," />
+      <item value="Listable" />
+      <item value="Default Listable Bean Factory" />
+      <item value="Allow for the collection of early Application Events , // to be published once the multicaster is available ..." />
+      <item value="Validate that all properties marked as required are resolvable // see Configurable Property Resolver # set Required Properties" />
+      <item value="Initialize any placeholder property sources in the context environment" />
+      <item value="Prepare this context for refreshing" />
+      <item value="No context instance is defined for this servlet -&gt; create a local one" />
+      <item value="// No context instance was injected at construction time -&gt; see if one // has been registered in the servlet context . If one exists , it is assumed // that the parent context ( if any ) has already been set and that the // user has performed any initialization such as setting the context id" />
+      <item value="Initialize and publish the Web Application Context for this servlet . &lt; p &gt; Delegates to {@ link # create Web Application Context } for actual creation of the context . Can be overridden in subclasses ." />
+      <item value="&lt; p &gt; Delegates to {@ link # create Web Application Context } for actual creation of the context . Can be overridden in subclasses ." />
+      <item value="Initialize and publish the Web Application Context for this servlet ." />
+      <item value="Let subclasses do whatever initialization they like ." />
+      <item value="if any required properties are missing" />
+      <item value="set of property names we need , where we can ' t accept default values" />
+      <item value="set of property names we need , where" />
+      <item value="Servlet Config we ' ll use to take Property Values from" />
+      <item value="Create new Servlet Config Property Values ." />
+      <item value="we can ' t accept default values" />
+      <item value="register Custom Editor" />
+      <item value="This method will be invoked after any bean properties have been set and the Web Application Context has been loaded . The default implementation is empty ; subclasses may override this method to perform any initialization they require ." />
+      <item value="This default implementation is empty ." />
+      <item value="Initialize the Bean Wrapper for this Http Servlet Bean , possibly with custom editors ." />
+      <item value="editors" />
+      <item value="custom" />
+      <item value="with" />
+      <item value="possibly" />
+    </histories>
+  </component>
+</application>

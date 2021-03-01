@@ -1,0 +1,14 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="centos 183" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://frp.bob.kim:44145" />
+      </configuration>
+    </remote-server>
+    <remote-server name="n1 143" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://frp.bob.kim:44135" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
