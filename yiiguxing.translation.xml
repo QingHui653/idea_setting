@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nested exception is java.lang.IllegalStateException" />
+      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'wxMpConfiguration': Unsatisfied dependency expressed through field 'subscribeHandler'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'subscribeHandler': Unsatisfied dependency expressed through field 'wxFeignUtil'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'wxFeignUtil': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.kp.server.lib.core.feign.corporation.CorpMiniCustomInternalFeign': FactoryBean threw exception on object creation; nested exception is java.lang.IllegalStateException: Method has too many Body parameters: public abstract com.kp.server.lib.core.entity.Response com.kp.server.lib.core.feign.corporation.CorpMiniCustomInternalFeign.save(com.kp.server.lib.core.entity.corporation.MiniCloudCodeEntity,org.springframework.web.multipart.MultipartFile)" />
+      <item value="Unsatisfied dependency expressed through field 'wxFeignUtil';" />
       <item value="printer" />
       <item value="acquire" />
       <item value="try Acquire" />
@@ -48,14 +51,11 @@
       <item value="schedule Prune" />
       <item value="prune" />
       <item value="prune start" />
-      <item value="prune Cache" />
-      <item value="uninstall Driver Event" />
-      <item value="Wi Si Yi Link Uninstall Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2062" />
-        <entry key="ENGLISH" value="2063" />
+        <entry key="CHINESE" value="2065" />
+        <entry key="ENGLISH" value="2066" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
