@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exchange" />
       <item value="close Corp Store" />
       <item value="batch Find Settings By Corp Id" />
       <item value="industry Id" />
@@ -50,12 +51,11 @@
       <item value="NORMAL" />
       <item value="* * Create a new transaction, and suspend the current transaction if one exists. * Analogous to the EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available it to it (which is server-specific in standard Java EE). * @see org.springframework.transaction.jta.JtaTransactionManager#setTransactionManager" />
       <item value="* Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name." />
-      <item value="Support a current transaction, execute non-transactionally if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATION_SUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2069" />
-        <entry key="ENGLISH" value="2070" />
+        <entry key="CHINESE" value="2070" />
+        <entry key="ENGLISH" value="2071" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
