@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ARREAR" />
       <item value="Supplier Arrear" />
       <item value="batch Find Settings By Corp Id" />
       <item value="build Redis Key Of Multi Warehouse" />
@@ -50,7 +51,6 @@
       <item value="fix performance issue when calling getHostName" />
       <item value="Jason Song" />
       <item value="Returns an {@code Optional} with the specified present non-null value." />
-      <item value="NORMAL" />
     </histories>
     <option name="languageScores">
       <map>
