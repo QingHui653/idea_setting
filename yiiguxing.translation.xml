@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cache Current Order Lock Stock" />
       <item value="累计此货品sku 指定lockWarehouseIds 的库存" />
       <item value="ARREAR" />
       <item value="Supplier Arrear" />
@@ -50,12 +51,11 @@
       <item value="issue" />
       <item value="performance" />
       <item value="fix performance issue when calling getHostName" />
-      <item value="Jason Song" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2074" />
-        <entry key="ENGLISH" value="2074" />
+        <entry key="ENGLISH" value="2075" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
