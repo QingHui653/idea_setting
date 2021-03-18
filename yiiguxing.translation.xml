@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Replaces each substring of this string that matches the literal target sequence with the specified literal replacement sequence. The replacement proceeds from the beginning of the string to the end, for example, replacing &quot;aa&quot; with &quot;b&quot; in the string &quot;aaa&quot; will result in &quot;ba&quot; rather than &quot;ab&quot;." />
+      <item value="The sequence of char values to be replaced" />
+      <item value="The replacement sequence of char values" />
+      <item value="regex" />
+      <item value="replacement" />
       <item value="cache Current Order Lock Stock" />
       <item value="累计此货品sku 指定lockWarehouseIds 的库存" />
       <item value="ARREAR" />
@@ -46,16 +51,11 @@
       <item value="hardware Actual Price" />
       <item value="Returns a splitter that behaves equivalently to {@code this} splitter, but automatically * removes leading and trailing {@linkplain CharMatcher#whitespace whitespace} from each returned * substring; equivalent to {@code trimResults(CharMatcher.whitespace())}. For example, {@code * Splitter.on(',').trimResults().split(&quot; a, b ,c &quot;)} returns an iterable containing * {@code [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;]}." />
       <item value="Returns a splitter that behaves equivalently to {@code this} splitter, but automatically omits * empty strings from the results. For example, {@code * Splitter.on(',').omitEmptyStrings().split(&quot;,a,,,b,c,,&quot;)} returns an iterable containing only * {@code [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;]}. * * &lt;p&gt;If either {@code trimResults} option is also specified when creating a splitter, that * splitter always trims results first before checking for emptiness. So, for example, {@code * Splitter.on(':').omitEmptyStrings().trimResults().split(&quot;: : : &quot;)} returns an empty iterable. * * &lt;p&gt;Note that it is ordinarily not possible for {@link #split(CharSequence)} to return an empty * iterable, but when using this option, it can (if the input sequence consists of nothing but * separators). * * @return a splitter with the desired configuration" />
-      <item value="1. Try to get environment from JVM system property" />
-      <item value="No implementation defined in /META-INF/services/%s, please check whether the file exists and has the right implementation class" />
-      <item value="issue" />
-      <item value="performance" />
-      <item value="fix performance issue when calling getHostName" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2074" />
-        <entry key="ENGLISH" value="2075" />
+        <entry key="CHINESE" value="2080" />
+        <entry key="ENGLISH" value="2081" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
