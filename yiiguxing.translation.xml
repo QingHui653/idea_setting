@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="该员工没有归属仓库" />
       <item value="export Custom" />
       <item value="get Default Staff Custom Sale Flow Fields" />
       <item value="admin Special Staff" />
@@ -50,11 +51,10 @@
       <item value="// catch all error, keep thread reusable" />
       <item value="corp Expire Handler" />
       <item value="corpExpireHandler run, param" />
-      <item value="secondary Preferred" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2084" />
+        <entry key="CHINESE" value="2085" />
         <entry key="ENGLISH" value="2085" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616120219700" />
+    <option name="lastTrimTime" value="1616655402934" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
