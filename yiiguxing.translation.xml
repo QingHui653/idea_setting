@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ver" />
       <item value="multi Unit" />
       <item value="SPECIFICATION OPEN" />
       <item value="corp Setting" />
@@ -50,11 +51,10 @@
       <item value="Completion Service" />
       <item value="Reverses the order of the given array." />
       <item value="GitHub found 11 vulnerabilities on QingHui653/AnewB's default branch (4 high, 6 moderate, 1 low). To find out more, visit:" />
-      <item value="deal Corp 2 Cloud" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2087" />
+        <entry key="CHINESE" value="2088" />
         <entry key="ENGLISH" value="2088" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
@@ -80,7 +80,7 @@
         <entry key="SLOVAK" value="2" />
         <entry key="SOMALI" value="1" />
         <entry key="WELSH" value="11" />
-        <entry key="SPANISH" value="2" />
+        <entry key="SPANISH" value="3" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
