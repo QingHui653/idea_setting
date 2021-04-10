@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="keep Alive Time" />
       <item value="acquire" />
       <item value="acquire Shared Interruptibly" />
       <item value="try Acquire" />
@@ -50,12 +51,11 @@
       <item value="is Multi Price" />
       <item value="query Customer Finance From Order Detail" />
       <item value="check Signature" />
-      <item value="Acquires and returns all permits that are immediately available." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2093" />
-        <entry key="ENGLISH" value="2094" />
+        <entry key="CHINESE" value="2094" />
+        <entry key="ENGLISH" value="2095" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
