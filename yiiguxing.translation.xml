@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="acquire" />
       <item value="acquire Shared Interruptibly" />
       <item value="try Acquire" />
-      <item value="acquire" />
       <item value="concurrent limiter acquire failed, waiting" />
       <item value="shutdown Now" />
       <item value="new Fixed Thread Pool" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2092" />
-        <entry key="ENGLISH" value="2093" />
+        <entry key="CHINESE" value="2093" />
+        <entry key="ENGLISH" value="2094" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
