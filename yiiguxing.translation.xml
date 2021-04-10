@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="acquire Shared Interruptibly" />
+      <item value="try Acquire" />
+      <item value="acquire" />
+      <item value="concurrent limiter acquire failed, waiting" />
       <item value="shutdown Now" />
       <item value="new Fixed Thread Pool" />
       <item value="ver" />
@@ -33,8 +37,6 @@
       <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'wxMpConfiguration': Unsatisfied dependency expressed through field 'subscribeHandler'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'subscribeHandler': Unsatisfied dependency expressed through field 'wxFeignUtil'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'wxFeignUtil': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.kp.server.lib.core.feign.corporation.CorpMiniCustomInternalFeign': FactoryBean threw exception on object creation; nested exception is java.lang.IllegalStateException: Method has too many Body parameters: public abstract com.kp.server.lib.core.entity.Response com.kp.server.lib.core.feign.corporation.CorpMiniCustomInternalFeign.save(com.kp.server.lib.core.entity.corporation.MiniCloudCodeEntity,org.springframework.web.multipart.MultipartFile)" />
       <item value="Unsatisfied dependency expressed through field 'wxFeignUtil';" />
       <item value="printer" />
-      <item value="acquire" />
-      <item value="try Acquire" />
       <item value="Semaphore" />
       <item value="migrate" />
       <item value="Could not load config for namespace KpServer.sentinel from Apollo, please check whether the configs are released in Apollo! Return default value now!" />
@@ -49,13 +51,11 @@
       <item value="query Customer Finance From Order Detail" />
       <item value="check Signature" />
       <item value="Acquires and returns all permits that are immediately available." />
-      <item value="true to check for existence, false to check for absence" />
-      <item value="Completion Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2088" />
-        <entry key="ENGLISH" value="2089" />
+        <entry key="CHINESE" value="2092" />
+        <entry key="ENGLISH" value="2093" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
