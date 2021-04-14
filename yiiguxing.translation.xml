@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="category 1 Ids" />
+      <item value="category Level 1 Sort" />
       <item value="set Total Saleout Product Count" />
       <item value="acquire Shared Interruptibly" />
       <item value="keep Alive Time" />
@@ -49,8 +51,6 @@
       <item value="fact Price" />
       <item value="discount Rate" />
       <item value="preserve Sale Order Flow" />
-      <item value="is Multi Price" />
-      <item value="query Customer Finance From Order Detail" />
     </histories>
     <option name="languageScores">
       <map>
