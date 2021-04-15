@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Primary Key" />
       <item value="stock Inventory Sheet" />
       <item value="Inventory Sheet" />
       <item value="category 1 Ids" />
@@ -50,7 +51,6 @@
       <item value="configuration Properties Rebinder Auto Configuration" />
       <item value="e [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfigurationEnhancerBySpringCGLIB93c605e9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)" />
       <item value="is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)" />
-      <item value="fact Price" />
     </histories>
     <option name="languageScores">
       <map>
