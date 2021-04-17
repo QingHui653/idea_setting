@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Replica" />
+      <item value="Primary Key" />
+      <item value="stock Inventory Sheet" />
+      <item value="Inventory Sheet" />
+      <item value="category 1 Ids" />
+      <item value="category Level 1 Sort" />
+      <item value="set Total Saleout Product Count" />
+      <item value="acquire Shared Interruptibly" />
+      <item value="keep Alive Time" />
+      <item value="acquire" />
+      <item value="try Acquire" />
+      <item value="concurrent limiter acquire failed, waiting" />
+      <item value="shutdown Now" />
+      <item value="new Fixed Thread Pool" />
+      <item value="ver" />
       <item value="multi Unit" />
       <item value="SPECIFICATION OPEN" />
       <item value="corp Setting" />
@@ -30,32 +45,17 @@
       <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'wxMpConfiguration': Unsatisfied dependency expressed through field 'subscribeHandler'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'subscribeHandler': Unsatisfied dependency expressed through field 'wxFeignUtil'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'wxFeignUtil': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.kp.server.lib.core.feign.corporation.CorpMiniCustomInternalFeign': FactoryBean threw exception on object creation; nested exception is java.lang.IllegalStateException: Method has too many Body parameters: public abstract com.kp.server.lib.core.entity.Response com.kp.server.lib.core.feign.corporation.CorpMiniCustomInternalFeign.save(com.kp.server.lib.core.entity.corporation.MiniCloudCodeEntity,org.springframework.web.multipart.MultipartFile)" />
       <item value="Unsatisfied dependency expressed through field 'wxFeignUtil';" />
       <item value="printer" />
-      <item value="acquire" />
-      <item value="try Acquire" />
       <item value="Semaphore" />
       <item value="migrate" />
       <item value="Could not load config for namespace KpServer.sentinel from Apollo, please check whether the configs are released in Apollo! Return default value now!" />
       <item value="preserve" />
       <item value="configuration Properties Rebinder Auto Configuration" />
       <item value="e [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfigurationEnhancerBySpringCGLIB93c605e9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)" />
-      <item value="is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)" />
-      <item value="fact Price" />
-      <item value="discount Rate" />
-      <item value="preserve Sale Order Flow" />
-      <item value="is Multi Price" />
-      <item value="query Customer Finance From Order Detail" />
-      <item value="check Signature" />
-      <item value="Acquires and returns all permits that are immediately available." />
-      <item value="true to check for existence, false to check for absence" />
-      <item value="Completion Service" />
-      <item value="Reverses the order of the given array." />
-      <item value="GitHub found 11 vulnerabilities on QingHui653/AnewB's default branch (4 high, 6 moderate, 1 low). To find out more, visit:" />
-      <item value="deal Corp 2 Cloud" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2087" />
-        <entry key="ENGLISH" value="2088" />
+        <entry key="CHINESE" value="2096" />
+        <entry key="ENGLISH" value="2097" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
@@ -80,7 +80,7 @@
         <entry key="SLOVAK" value="2" />
         <entry key="SOMALI" value="1" />
         <entry key="WELSH" value="11" />
-        <entry key="SPANISH" value="2" />
+        <entry key="SPANISH" value="3" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617676833243" />
+    <option name="lastTrimTime" value="1618195284400" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
