@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stockorder add product conflict" />
+      <item value="conflict" />
       <item value="get Replica" />
       <item value="Primary Key" />
       <item value="stock Inventory Sheet" />
@@ -49,8 +51,6 @@
       <item value="migrate" />
       <item value="Could not load config for namespace KpServer.sentinel from Apollo, please check whether the configs are released in Apollo! Return default value now!" />
       <item value="preserve" />
-      <item value="configuration Properties Rebinder Auto Configuration" />
-      <item value="e [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfigurationEnhancerBySpringCGLIB93c605e9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)" />
     </histories>
     <option name="languageScores">
       <map>
@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618195284400" />
+    <option name="lastTrimTime" value="1618815507580" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
