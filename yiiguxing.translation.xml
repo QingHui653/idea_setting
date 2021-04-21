@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="search Product Id Bson" />
       <item value="payer Id" />
       <item value="receiver Id" />
       <item value="receiver" />
@@ -50,7 +51,6 @@
       <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'wxMpConfiguration': Unsatisfied dependency expressed through field 'subscribeHandler'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'subscribeHandler': Unsatisfied dependency expressed through field 'wxFeignUtil'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'wxFeignUtil': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.kp.server.lib.core.feign.corporation.CorpMiniCustomInternalFeign': FactoryBean threw exception on object creation; nested exception is java.lang.IllegalStateException: Method has too many Body parameters: public abstract com.kp.server.lib.core.entity.Response com.kp.server.lib.core.feign.corporation.CorpMiniCustomInternalFeign.save(com.kp.server.lib.core.entity.corporation.MiniCloudCodeEntity,org.springframework.web.multipart.MultipartFile)" />
       <item value="Unsatisfied dependency expressed through field 'wxFeignUtil';" />
       <item value="printer" />
-      <item value="Semaphore" />
     </histories>
     <option name="languageScores">
       <map>
