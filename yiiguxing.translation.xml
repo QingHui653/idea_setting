@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="货品未进销，多规格新增，删除库存流水" />
+      <item value="auxiliary Stock" />
       <item value="auxiliary Unit Name" />
       <item value="auxiliary Quantity" />
       <item value="Stock Flow Item" />
@@ -49,8 +51,6 @@
       <item value="close Corp Store" />
       <item value="industry Id" />
       <item value="count Bulletin Corp" />
-      <item value="server inner error" />
-      <item value="nested exception is java.lang.IllegalStateException" />
     </histories>
     <option name="languageScores">
       <map>
