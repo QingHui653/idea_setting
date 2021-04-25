@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SearchFinanceFlowEsReq req" />
+      <item value="PAY TRANSFER BALANCE ID" />
+      <item value="type Balance Id V 1" />
       <item value="lock Warehouse Ids" />
       <item value="Order Info Change Msg" />
       <item value="货品未进销，多规格新增，删除库存流水" />
@@ -48,9 +51,6 @@
       <item value="ARREAR" />
       <item value="Supplier Arrear" />
       <item value="batch Find Settings By Corp Id" />
-      <item value="build Redis Key Of Multi Warehouse" />
-      <item value="exchange" />
-      <item value="close Corp Store" />
     </histories>
     <option name="languageScores">
       <map>
