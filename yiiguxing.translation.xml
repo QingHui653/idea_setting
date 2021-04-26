@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="failure Time" />
+      <item value="manufacture Time" />
       <item value="SearchFinanceFlowEsReq req" />
       <item value="PAY TRANSFER BALANCE ID" />
       <item value="type Balance Id V 1" />
@@ -50,7 +51,6 @@
       <item value="cache Current Order Lock Stock" />
       <item value="累计此货品sku 指定lockWarehouseIds 的库存" />
       <item value="ARREAR" />
-      <item value="Supplier Arrear" />
     </histories>
     <option name="languageScores">
       <map>
