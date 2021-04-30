@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NGRAM MERGE SEARCH FIELDS" />
       <item value="failure Time" />
       <item value="manufacture Time" />
       <item value="SearchFinanceFlowEsReq req" />
@@ -50,7 +51,6 @@
       <item value="replacement" />
       <item value="cache Current Order Lock Stock" />
       <item value="累计此货品sku 指定lockWarehouseIds 的库存" />
-      <item value="ARREAR" />
     </histories>
     <option name="languageScores">
       <map>
@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619316522079" />
+    <option name="lastTrimTime" value="1619753225384" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
