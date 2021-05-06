@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Completion Service" />
       <item value="NGRAM MERGE SEARCH FIELDS" />
       <item value="failure Time" />
       <item value="manufacture Time" />
@@ -50,7 +51,6 @@
       <item value="regex" />
       <item value="replacement" />
       <item value="cache Current Order Lock Stock" />
-      <item value="累计此货品sku 指定lockWarehouseIds 的库存" />
     </histories>
     <option name="languageScores">
       <map>
