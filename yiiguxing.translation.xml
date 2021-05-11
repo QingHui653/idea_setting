@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bulk Quantity" />
       <item value="assemble Quantity" />
       <item value="total Bulk Quantity" />
       <item value="total Assemble Quantity" />
@@ -50,7 +51,6 @@
       <item value="admin Special Staff" />
       <item value="企业开启打印次数限制功能时，返回剩余打印次数" />
       <item value="OpenSSL SSL_connect: Connection was reset in connection to github.com:443" />
-      <item value="Replaces each substring of this string that matches the literal target sequence with the specified literal replacement sequence. The replacement proceeds from the beginning of the string to the end, for example, replacing &quot;aa&quot; with &quot;b&quot; in the string &quot;aaa&quot; will result in &quot;ba&quot; rather than &quot;ab&quot;." />
     </histories>
     <option name="languageScores">
       <map>
