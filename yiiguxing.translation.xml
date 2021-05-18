@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validte Whole Stock Order Cart" />
       <item value="Conversation" />
       <item value="get Replica" />
       <item value="Primary Key" />
@@ -50,7 +51,6 @@
       <item value="migrate" />
       <item value="Could not load config for namespace KpServer.sentinel from Apollo, please check whether the configs are released in Apollo! Return default value now!" />
       <item value="preserve" />
-      <item value="configuration Properties Rebinder Auto Configuration" />
     </histories>
     <option name="languageScores">
       <map>
@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618627740032" />
+    <option name="lastTrimTime" value="1621316766255" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
