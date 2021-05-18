@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MONGO PRINT TEMPLATE" />
+      <item value="Id Generator Table" />
       <item value="validte Whole Stock Order Cart" />
       <item value="Conversation" />
       <item value="get Replica" />
@@ -49,8 +51,6 @@
       <item value="printer" />
       <item value="Semaphore" />
       <item value="migrate" />
-      <item value="Could not load config for namespace KpServer.sentinel from Apollo, please check whether the configs are released in Apollo! Return default value now!" />
-      <item value="preserve" />
     </histories>
     <option name="languageScores">
       <map>
