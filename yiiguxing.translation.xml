@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Mul Spec Price" />
       <item value="Discard Policy" />
       <item value="Linked Blocking Queue" />
       <item value="Caller Runs Policy" />
@@ -50,12 +51,11 @@
       <item value="set Total Saleout Product Count" />
       <item value="acquire Shared Interruptibly" />
       <item value="keep Alive Time" />
-      <item value="acquire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2113" />
-        <entry key="ENGLISH" value="2114" />
+        <entry key="CHINESE" value="2114" />
+        <entry key="ENGLISH" value="2115" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
