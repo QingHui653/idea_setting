@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Big Decimal" />
       <item value="persistence Stock Order" />
       <item value="is Mul Spec Price" />
       <item value="Discard Policy" />
@@ -50,12 +51,11 @@
       <item value="category 1 Ids" />
       <item value="category Level 1 Sort" />
       <item value="set Total Saleout Product Count" />
-      <item value="acquire Shared Interruptibly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2115" />
-        <entry key="ENGLISH" value="2116" />
+        <entry key="CHINESE" value="2116" />
+        <entry key="ENGLISH" value="2117" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
