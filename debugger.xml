@@ -1099,7 +1099,7 @@
       <option name="ON_DEMAND" value="true" />
     </Renderer>
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.util.concurrent.ConcurrentHashMap" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
@@ -1114,9 +1114,7 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
-    </general>
+    <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
