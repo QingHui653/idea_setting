@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="un Count Total" />
       <item value="left Total Auxiliary Stock" />
       <item value="left Total Stock" />
       <item value="Big Decimal" />
@@ -50,12 +51,11 @@
       <item value="Primary Key" />
       <item value="stock Inventory Sheet" />
       <item value="Inventory Sheet" />
-      <item value="category 1 Ids" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2118" />
-        <entry key="ENGLISH" value="2119" />
+        <entry key="CHINESE" value="2119" />
+        <entry key="ENGLISH" value="2120" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
