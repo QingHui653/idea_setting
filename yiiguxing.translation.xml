@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caller Runs Policy" />
       <item value="un Count Total" />
       <item value="left Total Auxiliary Stock" />
       <item value="left Total Stock" />
@@ -9,7 +10,6 @@
       <item value="is Mul Spec Price" />
       <item value="Discard Policy" />
       <item value="Linked Blocking Queue" />
-      <item value="Caller Runs Policy" />
       <item value="Abort Policy" />
       <item value="on Javascript Dialog Opening" />
       <item value="on Load Event Fired" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2119" />
-        <entry key="ENGLISH" value="2120" />
+        <entry key="CHINESE" value="2120" />
+        <entry key="ENGLISH" value="2121" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
