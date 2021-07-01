@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="notify third fasteregister" />
       <item value="call Timeout" />
       <item value="rejected Execution" />
       <item value="Caller Runs Policy" />
@@ -50,12 +51,11 @@
       <item value="stockorder add product conflict" />
       <item value="conflict" />
       <item value="get Replica" />
-      <item value="Primary Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2122" />
-        <entry key="ENGLISH" value="2123" />
+        <entry key="CHINESE" value="2123" />
+        <entry key="ENGLISH" value="2124" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
