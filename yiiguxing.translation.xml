@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="template Type" />
       <item value="Examine" />
       <item value="pay Examine Template Id" />
       <item value="being Play Push Template Id" />
@@ -50,12 +51,11 @@
       <item value="{ dispatcher = new Dispatcher(); protocols = DEFAULT_PROTOCOLS; connectionSpecs = DEFAULT_CONNECTION_SPECS; eventListenerFactory = EventListener.factory(EventListener.NONE); proxySelector = ProxySelector.getDefault(); cookieJar = CookieJar.NO_COOKIES; socketFactory = SocketFactory.getDefault(); hostnameVerifier = OkHostnameVerifier.INSTANCE; certificatePinner = CertificatePinner.DEFAULT; proxyAuthenticator = Authenticator.NONE; authenticator = Authenticator.NONE; connectionPool = new ConnectionPool(); dns = Dns.SYSTEM; followSslRedirects = true; followRedirects = true; retryOnConnectionFailure = true; connectTimeout = 10_000; readTimeout = 10_000; writeTimeout = 10_000; pingInterval = 0; }" />
       <item value="If we already have a stream, confirm that the incoming request will use it." />
       <item value="排除997、998、995、994" />
-      <item value="candies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2152" />
-        <entry key="ENGLISH" value="2153" />
+        <entry key="CHINESE" value="2153" />
+        <entry key="ENGLISH" value="2154" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
@@ -92,7 +92,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624869368360" />
+    <option name="lastTrimTime" value="1625307274593" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
