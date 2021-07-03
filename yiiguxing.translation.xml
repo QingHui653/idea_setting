@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mini mode onoff" />
+      <item value="Remote Router Service" />
+      <item value="router report success" />
+      <item value="do Upload Remote Print Result" />
       <item value="60000 L" />
       <item value="cu Merchant Key" />
       <item value="refund Notify Url" />
@@ -47,15 +51,11 @@
       <item value="assemble Quantity" />
       <item value="total Bulk Quantity" />
       <item value="total Assemble Quantity" />
-      <item value="构建统计条件, 按照货品ID分组, 默认销量倒序" />
-      <item value="Completion Service" />
-      <item value="NGRAM MERGE SEARCH FIELDS" />
-      <item value="failure Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2139" />
-        <entry key="ENGLISH" value="2139" />
+        <entry key="CHINESE" value="2143" />
+        <entry key="ENGLISH" value="2143" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
@@ -75,7 +75,7 @@
         <entry key="MALTESE" value="1" />
         <entry key="MALAY" value="3" />
         <entry key="NORWEGIAN" value="3" />
-        <entry key="SWEDISH" value="4" />
+        <entry key="SWEDISH" value="5" />
         <entry key="SAMOAN" value="1" />
         <entry key="SLOVAK" value="2" />
         <entry key="SOMALI" value="1" />
