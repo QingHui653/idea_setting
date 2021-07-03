@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="60000 L" />
+      <item value="cu Merchant Key" />
+      <item value="refund Notify Url" />
+      <item value="trade Type" />
+      <item value="trans Code" />
+      <item value="refund Time Sleep" />
+      <item value="merchant Trm No" />
+      <item value="Trm No" />
+      <item value="wx Micro Pay" />
+      <item value="merchant No" />
+      <item value="mch Publick Key" />
+      <item value="plat Public Key" />
+      <item value="zx" />
+      <item value="sub App Id" />
       <item value="SMS SEND VAR URL" />
       <item value="query Customer Finance From Order" />
       <item value="share Limit Num" />
@@ -37,25 +51,11 @@
       <item value="Completion Service" />
       <item value="NGRAM MERGE SEARCH FIELDS" />
       <item value="failure Time" />
-      <item value="manufacture Time" />
-      <item value="SearchFinanceFlowEsReq req" />
-      <item value="PAY TRANSFER BALANCE ID" />
-      <item value="type Balance Id V 1" />
-      <item value="lock Warehouse Ids" />
-      <item value="Order Info Change Msg" />
-      <item value="货品未进销，多规格新增，删除库存流水" />
-      <item value="auxiliary Unit Name" />
-      <item value="auxiliary Quantity" />
-      <item value="Stock Flow Item" />
-      <item value="search Product Id Bson" />
-      <item value="payer Id" />
-      <item value="receiver Id" />
-      <item value="receiver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2125" />
-        <entry key="ENGLISH" value="2125" />
+        <entry key="CHINESE" value="2139" />
+        <entry key="ENGLISH" value="2139" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
@@ -63,14 +63,14 @@
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="3" />
-        <entry key="FRENCH" value="11" />
+        <entry key="FRENCH" value="12" />
         <entry key="FINNISH" value="2" />
         <entry key="HAUSA" value="1" />
         <entry key="DUTCH" value="10" />
         <entry key="CATALAN" value="4" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="2" />
-        <entry key="ROMANIAN" value="6" />
+        <entry key="ROMANIAN" value="7" />
         <entry key="MALAGASY" value="2" />
         <entry key="MALTESE" value="1" />
         <entry key="MALAY" value="3" />
@@ -87,7 +87,7 @@
         <entry key="SUNDANESE" value="1" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="2" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
   </component>
