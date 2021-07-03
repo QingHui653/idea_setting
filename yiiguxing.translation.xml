@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Examine" />
+      <item value="pay Examine Template Id" />
+      <item value="being Play Push Template Id" />
+      <item value="order Cancel" />
+      <item value="examine Result" />
+      <item value="sub Receipt" />
+      <item value="receipt Template Id" />
       <item value="inventory" />
       <item value="stock-inventory" />
       <item value="render Path" />
@@ -44,18 +51,11 @@
       <item value="If we already have a stream, confirm that the incoming request will use it." />
       <item value="排除997、998、995、994" />
       <item value="candies" />
-      <item value="Rounding mode to round towards zero. Never increments the digit prior to a discarded fraction (i.e., truncates). Note that this rounding mode never increases the magnitude of the calculated value." />
-      <item value="set Alarm Stock Count" />
-      <item value="auxiliary Stock" />
-      <item value="product Auxiliary Stock" />
-      <item value="A handler for rejected tasks that runs the rejected task directly in the calling thread of the {@code execute} method, unless the executor has been shut down, in which case the task is discarded." />
-      <item value="Arithmetic Util" />
-      <item value="bulk Quantity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2146" />
-        <entry key="ENGLISH" value="2147" />
+        <entry key="CHINESE" value="2152" />
+        <entry key="ENGLISH" value="2153" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
