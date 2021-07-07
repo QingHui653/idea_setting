@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remark" />
       <item value="@ApiModelProperty(&quot;1.是开启、0.是关闭&quot;) private Integer configStatus;" />
       <item value="get Mini Custom Info" />
       <item value="head.add(Collections.singleton List(&quot;多规格&quot;));" />
@@ -50,12 +51,11 @@
       <item value="left Total Stock" />
       <item value="Big Decimal" />
       <item value="persistence Stock Order" />
-      <item value="is Mul Spec Price" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2160" />
-        <entry key="ENGLISH" value="2160" />
+        <entry key="ENGLISH" value="2161" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
