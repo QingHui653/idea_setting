@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="head.add(Collections.singleton List(&quot;多规格&quot;));" />
       <item value="get Staff Custom Sale Order Field Export Set" />
       <item value="custom Type" />
       <item value="flow tag" />
@@ -50,11 +51,10 @@
       <item value="is Mul Spec Price" />
       <item value="Discard Policy" />
       <item value="Linked Blocking Queue" />
-      <item value="Abort Policy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2158" />
+        <entry key="CHINESE" value="2159" />
         <entry key="ENGLISH" value="2159" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
