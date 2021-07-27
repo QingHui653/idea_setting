@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A custom Codec or PojoCodec may need to be explicitly configured and registered to handle this type." />
+      <item value="Failed to decode '_id'. Invalid numeric type, found: DOCUMENT" />
       <item value="bordering Countries" />
       <item value="borders" />
       <item value="104100000000011199 L" />
@@ -49,13 +51,11 @@
       <item value="notify third fasteregister" />
       <item value="call Timeout" />
       <item value="rejected Execution" />
-      <item value="Caller Runs Policy" />
-      <item value="un Count Total" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2163" />
-        <entry key="ENGLISH" value="2164" />
+        <entry key="CHINESE" value="2165" />
+        <entry key="ENGLISH" value="2166" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
@@ -92,7 +92,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626940237383" />
+    <option name="lastTrimTime" value="1627372332391" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
