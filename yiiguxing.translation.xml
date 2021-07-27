@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bordering Countries" />
+      <item value="borders" />
       <item value="104100000000011199 L" />
       <item value="Returns a stream consisting of the elements of this stream that match the given predicate." />
       <item value="remark" />
@@ -49,13 +51,11 @@
       <item value="rejected Execution" />
       <item value="Caller Runs Policy" />
       <item value="un Count Total" />
-      <item value="left Total Auxiliary Stock" />
-      <item value="left Total Stock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2162" />
-        <entry key="ENGLISH" value="2162" />
+        <entry key="CHINESE" value="2163" />
+        <entry key="ENGLISH" value="2164" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
