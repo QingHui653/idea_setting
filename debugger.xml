@@ -1100,14 +1100,12 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundNodeRenderer">
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="java.util.concurrent.ConcurrentHashMap" />
-        <Renderer ID="EnumerationChildrenRenderer" role="children">
-          <option name="QUALIFIED_NAME" value="java.util.concurrent.ConcurrentHashMap" />
-          <option name="AppendDefault" value="true" />
-          <ChildrenExpression Name="">
-            <TextWithImports text="&#13;&#13;JAVA" type="expression" />
-          </ChildrenExpression>
+        <option name="NAME" value="JSON" />
+        <option name="QUALIFIED_NAME" value="java.lang.Object" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.lang.Object" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="JSON.toJSON(this)&#13;com.alibaba.fastjson.JSON&#13;JAVA" />
         </Renderer>
       </Renderer>
     </CustomRenderers>
