@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auxiliary Unit" />
       <item value="query Supplier Balance Debt" />
       <item value="numeric Ordering" />
       <item value="Whether to mark the feign proxy as a primary bean. Defaults to true." />
@@ -50,12 +51,11 @@
       <item value="merchant No" />
       <item value="mch Publick Key" />
       <item value="plat Public Key" />
-      <item value="zx" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2172" />
-        <entry key="ENGLISH" value="2173" />
+        <entry key="CHINESE" value="2174" />
+        <entry key="ENGLISH" value="2175" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
