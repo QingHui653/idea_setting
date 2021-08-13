@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="query Supplier Balance Debt" />
       <item value="numeric Ordering" />
       <item value="Whether to mark the feign proxy as a primary bean. Defaults to true." />
       <item value="get Change Stock" />
@@ -50,7 +51,6 @@
       <item value="mch Publick Key" />
       <item value="plat Public Key" />
       <item value="zx" />
-      <item value="sub App Id" />
     </histories>
     <option name="languageScores">
       <map>
