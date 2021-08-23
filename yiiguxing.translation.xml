@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wx Ma Template Message" />
+      <item value="emphasis Keyword" />
       <item value="is Defined" />
       <item value="is Title Case" />
       <item value="is Lower Case" />
@@ -49,13 +51,11 @@
       <item value="Remote Router Service" />
       <item value="router report success" />
       <item value="do Upload Remote Print Result" />
-      <item value="60000 L" />
-      <item value="cu Merchant Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2187" />
-        <entry key="ENGLISH" value="2188" />
+        <entry key="CHINESE" value="2189" />
+        <entry key="ENGLISH" value="2190" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
