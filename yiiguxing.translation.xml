@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="changed Keys" />
       <item value="invalid credential, access_token is invalid or not latest rid: 61249bc5-660ad268-2bbafad6" />
       <item value="access token" />
       <item value="read Preference=secondary Preferred" />
@@ -50,12 +51,11 @@
       <item value="sub Receipt" />
       <item value="receipt Template Id" />
       <item value="inventory" />
-      <item value="stock-inventory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2195" />
-        <entry key="ENGLISH" value="2196" />
+        <entry key="CHINESE" value="2196" />
+        <entry key="ENGLISH" value="2197" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
