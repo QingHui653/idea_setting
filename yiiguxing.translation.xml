@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Http Request Method Not Supported Exception" />
+      <item value="Be careful when using the 'excludeBranch' or 'excludeRegex' methods. They use regular expressions and their definitions may be error prone. You could exclude more URLs than expected" />
       <item value="changed Keys" />
       <item value="invalid credential, access_token is invalid or not latest rid: 61249bc5-660ad268-2bbafad6" />
       <item value="access token" />
@@ -49,13 +51,11 @@
       <item value="order Cancel" />
       <item value="examine Result" />
       <item value="sub Receipt" />
-      <item value="receipt Template Id" />
-      <item value="inventory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2196" />
-        <entry key="ENGLISH" value="2197" />
+        <entry key="CHINESE" value="2198" />
+        <entry key="ENGLISH" value="2199" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
