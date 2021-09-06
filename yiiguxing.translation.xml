@@ -1,5 +1,8 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="879" />
+    <option name="newTranslationDialogY" value="486" />
     <histories>
       <item value="Invalid bound statement (not found): co.yixiang.app.common.persistence.dao.SysNoticeMapper.selectNoticeList" />
       <item value="Http Request Method Not Supported Exception" />
