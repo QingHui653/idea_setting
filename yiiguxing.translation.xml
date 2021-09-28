@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="QUIC (Quick UDP Internet Connection) is a new multiplexed and secure transport atop UDP, designed from the ground up and optimized for HTTP2 semantics. HTTP1.1 semantics are layered on HTTP2. &lt;p&gt;QUIC is not natively supported by OkHttp, but provided to allow a theoretical interceptor that provides support." />
+      <item value="OkHttp also uses daemon threads for HTTP2 connections. These will exit automatically if they remain idle" />
+      <item value="The singleton HTTP client." />
+      <item value="use new OkHttpClient.Builder() to create a shared instance with custom settings" />
       <item value="Represents a generic type {@code T}. Java doesn't yet provide a way to represent generic types, so this class does. Forces clients to create a subclass of this class which enables retrieval the type information even at runtime. &lt;p&gt;For example, to create a type literal for {@code List&lt;String&gt;}, you can create an empty anonymous inner class: &lt;pre&gt; TypeReference&amp;lt;List&amp;lt;String&amp;gt;&amp;gt; list = new TypeReference&amp;lt;List&amp;lt;String&amp;gt;&amp;gt;() {}; &lt;pre&gt; This syntax cannot be used to create type literals that have wildcard parameters, such as {@code Class&lt;?&gt;} or {@code List&lt;? extends CharSequence&gt;}." />
       <item value="Type Reference" />
       <item value="{ Object arg0 = map.get(&quot;language&quot;); Object arg1 = map.get(&quot;country&quot;); if(arg0 instanceof String){ String language = (String) arg0; if(arg1 instanceof String){ String country = (String) arg1; return (T) new Locale(language, country); } else if(arg1 == null){ return (T) new Locale(language); } } }" />
@@ -50,15 +54,11 @@
       <item value="get Purchase Price" />
       <item value="product Amount" />
       <item value="negative" />
-      <item value="A custom Codec or PojoCodec may need to be explicitly configured and registered to handle this type." />
-      <item value="Failed to decode '_id'. Invalid numeric type, found: DOCUMENT" />
-      <item value="bordering Countries" />
-      <item value="borders" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2215" />
-        <entry key="ENGLISH" value="2216" />
+        <entry key="CHINESE" value="2219" />
+        <entry key="ENGLISH" value="2217" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
@@ -95,7 +95,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632280316824" />
+    <option name="lastTrimTime" value="1632817995952" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
