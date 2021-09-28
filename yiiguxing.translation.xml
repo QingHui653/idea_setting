@@ -1,9 +1,8 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="Represents a generic type {@code T}. Java doesn't yet provide a way to represent generic types, so this class does. Forces clients to create a subclass of this class which enables retrieval the type information even at runtime. &lt;p&gt;For example, to create a type literal for {@code List&lt;String&gt;}, you can create an empty anonymous inner class: &lt;pre&gt; TypeReference&amp;lt;List&amp;lt;String&amp;gt;&amp;gt; list = new TypeReference&amp;lt;List&amp;lt;String&amp;gt;&amp;gt;() {}; &lt;pre&gt; This syntax cannot be used to create type literals that have wildcard parameters, such as {@code Class&lt;?&gt;} or {@code List&lt;? extends CharSequence&gt;}." />
       <item value="Type Reference" />
