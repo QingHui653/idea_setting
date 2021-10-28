@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Weight" />
       <item value="automatic" />
       <item value="STOCK" />
       <item value="Start the Disruptor, starts all threads running" />
@@ -53,12 +54,11 @@
       <item value="Internal error in the mapping processor: java.lang.NullPointerException" />
       <item value="Specifies that the request was served from the disk cache." />
       <item value="media Size" />
-      <item value="auxiliary Unit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2222" />
-        <entry key="ENGLISH" value="2223" />
+        <entry key="CHINESE" value="2223" />
+        <entry key="ENGLISH" value="2224" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
@@ -95,6 +95,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634712518314" />
+    <option name="lastTrimTime" value="1635401311731" />
   </component>
 </application>
