@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="remind Jump URL" />
       <item value="customer Repay Remind Android" />
       <item value="customer Repay Remind" />
       <item value="Weight" />
@@ -53,7 +54,6 @@
       <item value="is Letter" />
       <item value="is Digit" />
       <item value="is English" />
-      <item value="Internal error in the mapping processor: java.lang.NullPointerException" />
     </histories>
     <option name="languageScores">
       <map>
