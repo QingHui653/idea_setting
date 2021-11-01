@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="invalid query r" />
       <item value="invalid appsecret rid" />
       <item value="invalid appsecret" />
       <item value="component is not authorized by this account rid: 617f803b-4ad78425-1e1694db" />
@@ -53,12 +54,11 @@
       <item value="is Defined" />
       <item value="is Title Case" />
       <item value="is Lower Case" />
-      <item value="is Letter Or Digit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2231" />
-        <entry key="ENGLISH" value="2232" />
+        <entry key="CHINESE" value="2232" />
+        <entry key="ENGLISH" value="2233" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
