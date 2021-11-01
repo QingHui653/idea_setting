@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="component is not authorized by this account rid: 617f803b-4ad78425-1e1694db" />
       <item value="customer Repay Remind Android" />
       <item value="remind Jump URL" />
       <item value="customer Repay Remind" />
@@ -53,12 +54,11 @@
       <item value="is Letter Or Digit" />
       <item value="is Letter" />
       <item value="is Digit" />
-      <item value="is English" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2228" />
-        <entry key="ENGLISH" value="2229" />
+        <entry key="CHINESE" value="2229" />
+        <entry key="ENGLISH" value="2230" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
