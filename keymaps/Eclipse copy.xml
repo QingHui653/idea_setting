@@ -1,41 +1,5 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="$EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="alt 1" />
-  </action>
-  <action id="ActivateProjectToolWindow" />
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-  </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-  <action id="Editor EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="alt 1" />
-  </action>
-  <action id="EditorDuplicateLines">
-    <keyboard-shortcut first-keystroke="ctrl down" />
-  </action>
-  <action id="EditorLookupDown" />
-  <action id="EditorScrollDown" />
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
-  <action id="MethodOverloadSwitchDown" />
-  <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="shift alt h" />
-  </action>
-  <action id="RunDashboard.ShowConfigurations" />
-  <action id="StructuralSearchPlugin.StructuralSearchAction">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
-  </action>
-  <action id="UpdateRunningApplication" />
-  <action id="Vcs.ShowMessageHistory">
-    <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  <action id="RestfulTool.action.OptionForEditor-NavigationServiceTreeAction">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
 </keymap>
