@@ -1,8 +1,16 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ActivateProjectToolWindow" />
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="RestfulTool.action.OptionForEditor-NavigationServiceTreeAction">
     <keyboard-shortcut first-keystroke="alt back_slash" />
