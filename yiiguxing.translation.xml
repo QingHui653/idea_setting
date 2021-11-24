@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="ored Criteria" />
       <item value="Conditional On Missing Bean" />
       <item value="get Cluster Print Url" />
       <item value="all cloud cart product delete" />
@@ -53,7 +54,6 @@
       <item value="true to check for existence, false to check for absence" />
       <item value="generate Product Label Name Code Mixture Instruction" />
       <item value="Invalid bound statement (not found): co.yixiang.app.common.persistence.dao.SysNoticeMapper.selectNoticeList" />
-      <item value="Http Request Method Not Supported Exception" />
     </histories>
     <option name="languageScores">
       <map>
