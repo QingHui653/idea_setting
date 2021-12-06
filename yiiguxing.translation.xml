@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="env" />
       <item value="NORM DATETIME FORMAT" />
       <item value="exhibition Play Service" />
       <item value="ticket" />
@@ -53,11 +54,10 @@
       <item value="resolve Proxy Class" />
       <item value="since" />
       <item value="hotmail" />
-      <item value="wenshao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2251" />
+        <entry key="CHINESE" value="2252" />
         <entry key="ENGLISH" value="2252" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
@@ -66,7 +66,7 @@
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="3" />
-        <entry key="FRENCH" value="14" />
+        <entry key="FRENCH" value="20" />
         <entry key="FINNISH" value="2" />
         <entry key="HAUSA" value="1" />
         <entry key="DUTCH" value="10" />
@@ -95,6 +95,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638155504217" />
+    <option name="lastTrimTime" value="1638762038188" />
   </component>
 </application>
