@@ -15,6 +15,12 @@
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
+  </action>
   <action id="RestfulTool.action.OptionForEditor-NavigationServiceTreeAction">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
