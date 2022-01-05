@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Replacement for Class.forName() that also returns Class instances for primitives (e.g. &quot;int&quot;) and array class names (e.g. &quot;String[]&quot;). Furthermore, it is also capable of resolving inner class names in Java source style (e.g. &quot;java.lang.Thread.State&quot; instead of &quot;java.lang.ThreadState&quot;). 形参: name – the name of the Class" />
       <item value="parent Bean Factory" />
       <item value="prototype" />
       <item value="When used as a type-level annotation in conjunction with @Component, @Scope indicates the name of a scope to use for instances of the annotated type. When used as a method-level annotation in conjunction with @Bean, @Scope indicates the name of a scope to use for the instance returned from the method. NOTE: @Scope annotations are only introspected on the concrete bean class (for annotated components) or the factory method (for @Bean methods). In contrast to XML bean definitions, there is no notion of bean definition inheritance, and inheritance hierarchies at the class level are irrelevant for metadata purposes. In this context, scope means the lifecycle of an instance, such as singleton, prototype, and so forth. Scopes provided out of the box in Spring may be referred to using the SCOPE_ constants available in the ConfigurableBeanFactory and WebApplicationContext interfaces. To register additional custom scopes, see CustomScopeConfigurer." />
@@ -54,11 +55,10 @@
       <item value="component is not authorized by this account rid: 617f803b-4ad78425-1e1694db" />
       <item value="customer Repay Remind Android" />
       <item value="remind Jump URL" />
-      <item value="customer Repay Remind" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2264" />
+        <entry key="CHINESE" value="2265" />
         <entry key="ENGLISH" value="2263" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
