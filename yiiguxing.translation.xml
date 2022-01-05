@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="The comma-separated list of namespace names to integrate with Spring property sources. If not specified, then default to application namespace." />
+      <item value="Apollo configuration section to integrate with Spring" />
       <item value="Interface that encapsulates event publication functionality. Serves as super-interface for ApplicationContext. 自: 1.1.1" />
       <item value="Use this annotation to register Apollo ConfigChangeListener." />
       <item value="Replacement for Class.forName() that also returns Class instances for primitives (e.g. &quot;int&quot;) and array class names (e.g. &quot;String[]&quot;). Furthermore, it is also capable of resolving inner class names in Java source style (e.g. &quot;java.lang.Thread.State&quot; instead of &quot;java.lang.ThreadState&quot;). 形参: name – the name of the Class" />
@@ -53,13 +55,11 @@
       <item value="mongodb" />
       <item value="invalid query r" />
       <item value="invalid appsecret rid" />
-      <item value="invalid appsecret" />
-      <item value="component is not authorized by this account rid: 617f803b-4ad78425-1e1694db" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2267" />
-        <entry key="ENGLISH" value="2263" />
+        <entry key="ENGLISH" value="2265" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
