@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="parent Bean Factory" />
+      <item value="prototype" />
+      <item value="When used as a type-level annotation in conjunction with @Component, @Scope indicates the name of a scope to use for instances of the annotated type. When used as a method-level annotation in conjunction with @Bean, @Scope indicates the name of a scope to use for the instance returned from the method. NOTE: @Scope annotations are only introspected on the concrete bean class (for annotated components) or the factory method (for @Bean methods). In contrast to XML bean definitions, there is no notion of bean definition inheritance, and inheritance hierarchies at the class level are irrelevant for metadata purposes. In this context, scope means the lifecycle of an instance, such as singleton, prototype, and so forth. Scopes provided out of the box in Spring may be referred to using the SCOPE_ constants available in the ConfigurableBeanFactory and WebApplicationContext interfaces. To register additional custom scopes, see CustomScopeConfigurer." />
+      <item value="RUNTIME" />
+      <item value="Element Type" />
+      <item value="Scope" />
       <item value="multi" />
       <item value="Annotation which indicates that a method parameter should be bound to a web request header. &lt;p&gt;Supported for annotated handler methods in Servlet and Portlet environments. &lt;p&gt;If the method parameter is {@link java.util.Map Map&amp;lt;String, String&amp;gt;}, {@link org.springframework.util.MultiValueMap MultiValueMap&amp;lt;String, String&amp;gt;}, or {@link org.springframework.http.HttpHeaders HttpHeaders} then the map is populated with all header names and values." />
       <item value="Request Header" />
@@ -40,7 +46,6 @@
       <item value="APPLYMENT STATE WAITTING FOR AUDIT" />
       <item value="Implicitly sets a tag for the operations, legacy support (read description). &lt;p&gt; In swagger-core 1.3.X, this was used as the 'path' that is to host the API Declaration of the resource. This is no longer relevant in swagger-core 1.5.X. &lt;p&gt; If {@link tags()} is &lt;i&gt;not&lt;i&gt; used, this value will be used to set the tag for the operations described by this resource. Otherwise, the value will be ignored. &lt;p&gt; The leading (if exists) will be removed. @return tag name for operations under this resource, unless {@link tags()} is defined." />
       <item value="Not used in 1.5.X, kept for legacy support." />
-      <item value="Element Type" />
       <item value="convert" />
       <item value="mongodb" />
       <item value="invalid query r" />
@@ -50,15 +55,10 @@
       <item value="customer Repay Remind Android" />
       <item value="remind Jump URL" />
       <item value="customer Repay Remind" />
-      <item value="Weight" />
-      <item value="automatic" />
-      <item value="STOCK" />
-      <item value="Start the Disruptor, starts all threads running" />
-      <item value="211020032700" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2262" />
+        <entry key="CHINESE" value="2264" />
         <entry key="ENGLISH" value="2263" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
@@ -96,6 +96,18 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640657073013" />
+    <option name="lastTrimTime" value="1641354034734" />
+  </component>
+  <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAIfwSYUEMm05AS" />
+      </app-key>
+    </option>
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20220105001047030" />
+      </app-key>
+    </option>
   </component>
 </application>
