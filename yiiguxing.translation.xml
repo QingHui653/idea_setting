@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="retrieve up to 10 causes" />
+      <item value="Determines an output value based on an input value; a pre-Java-8 version of java.util.function.Function. The Functions class provides common functions and related utilites. See the Guava User Guide article on the use of Function. For Java 8+ users This interface is now a legacy type. Use java.util.function.Function (or the appropriate primitive specialization such as ToIntFunction) instead whenever possible. Otherwise, at least reduce explicit dependencies on this type by using lambda expressions or method references instead of classes, leaving your code easier to migrate in the future. To use an existing function (say, named function) in a context where the other type of function is expected, use the method reference function::apply. A future version of com.google.common.base.Function will be made to extend java.util.function.Function, making conversion code necessary only in one direction. At that time, this interface will be officially discouraged." />
+      <item value="Injector" />
+      <item value="Apollo Injector" />
       <item value="The comma-separated list of namespace names to integrate with Spring property sources. If not specified, then default to application namespace." />
       <item value="Apollo configuration section to integrate with Spring" />
       <item value="Interface that encapsulates event publication functionality. Serves as super-interface for ApplicationContext. 自: 1.1.1" />
@@ -51,15 +55,11 @@
       <item value="APPLYMENT STATE WAITTING FOR AUDIT" />
       <item value="Implicitly sets a tag for the operations, legacy support (read description). &lt;p&gt; In swagger-core 1.3.X, this was used as the 'path' that is to host the API Declaration of the resource. This is no longer relevant in swagger-core 1.5.X. &lt;p&gt; If {@link tags()} is &lt;i&gt;not&lt;i&gt; used, this value will be used to set the tag for the operations described by this resource. Otherwise, the value will be ignored. &lt;p&gt; The leading (if exists) will be removed. @return tag name for operations under this resource, unless {@link tags()} is defined." />
       <item value="Not used in 1.5.X, kept for legacy support." />
-      <item value="convert" />
-      <item value="mongodb" />
-      <item value="invalid query r" />
-      <item value="invalid appsecret rid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2267" />
-        <entry key="ENGLISH" value="2265" />
+        <entry key="CHINESE" value="2268" />
+        <entry key="ENGLISH" value="2268" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
