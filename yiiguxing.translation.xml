@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="sign" />
       <item value="get Expire" />
       <item value="BASE CHAR NUMBER" />
       <item value="retrieve up to 10 causes" />
@@ -54,12 +55,11 @@
       <item value="自定义" />
       <item value="current Live" />
       <item value="set Audit Status" />
-      <item value="APPLYMENT STATE WAITTING FOR AUDIT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2269" />
-        <entry key="ENGLISH" value="2270" />
+        <entry key="CHINESE" value="2270" />
+        <entry key="ENGLISH" value="2271" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
