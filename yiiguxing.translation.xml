@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="clear order version expire" />
       <item value="validate Cash Lock" />
       <item value="STATEMENT" />
       <item value="STATEMENT ORDER" />
@@ -54,12 +55,11 @@
       <item value="Jedis Cluster Pipeline" />
       <item value="singleton" />
       <item value="Jedis Cluster" />
-      <item value="Required Args Constructor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2278" />
-        <entry key="ENGLISH" value="2279" />
+        <entry key="CHINESE" value="2279" />
+        <entry key="ENGLISH" value="2280" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
