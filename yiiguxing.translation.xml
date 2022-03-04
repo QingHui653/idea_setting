@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Unsupported operator attention:self." />
       <item value="The from part of the range query. Null indicates unbounded. In case lower bound is assigned to a string, we internally convert it to a {@link BytesRef} because in {@link RangeQueryBuilder} field are later parsed as {@link BytesRef} and we need internal representation of query to be equal regardless of whether it was created from XContent or via Java API." />
       <item value="Should the lower bound be included or not." />
       <item value="Should the lower bound be included or not. Defaults to &lt;tt&gt;true&lt;tt&gt;." />
@@ -54,12 +55,11 @@
       <item value="query Device List Order By Modify" />
       <item value="Redpack" />
       <item value="env" />
-      <item value="NORM DATETIME FORMAT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2287" />
-        <entry key="ENGLISH" value="2288" />
+        <entry key="CHINESE" value="2288" />
+        <entry key="ENGLISH" value="2289" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
@@ -96,7 +96,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645784598805" />
+    <option name="lastTrimTime" value="1646383026672" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
