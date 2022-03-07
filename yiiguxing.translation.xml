@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Creates builder object for construction of custom CloseableHttpClient instances." />
+      <item value="Creates CloseableHttpClient instance with default configuration." />
+      <item value="instance with default configuration based on ssytem properties." />
+      <item value="Creates {@link CloseableHttpClient} instance that implements the most basic HTTP protocol support." />
       <item value="Unsupported operator attention:self." />
       <item value="The from part of the range query. Null indicates unbounded. In case lower bound is assigned to a string, we internally convert it to a {@link BytesRef} because in {@link RangeQueryBuilder} field are later parsed as {@link BytesRef} and we need internal representation of query to be equal regardless of whether it was created from XContent or via Java API." />
       <item value="Should the lower bound be included or not." />
@@ -51,15 +55,11 @@
       <item value="hget All" />
       <item value="true to check for existence, false to check for absence" />
       <item value="org.openqa.selenium.WebDriverException: chrome not reachable (Session info: chrome=96.0.4664.93) Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z' System info: host: 'KP', ip: '192.168.9.167', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.93, chrome: {chromedriverVersion: 96.0.4664.35 (8df3babf8da8f..., userDataDir: C:\Users\qinghui\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:49733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true} Session ID: a947e318414c417f0e9380ee78b31b01 Element info: {Using=id, value=loginSub} 检查信息: 报告测试中失败的方法调用或断言。 它有助于更快地检测代码中失败的行，并立即开始调试。 示例： @Test fun foo() { assertEquals(1, 0) 高亮显示 }" />
-      <item value="login" />
-      <item value="query Device List Order By Modify" />
-      <item value="Redpack" />
-      <item value="env" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2288" />
-        <entry key="ENGLISH" value="2289" />
+        <entry key="CHINESE" value="2292" />
+        <entry key="ENGLISH" value="2293" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
