@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="879" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Distributor" />
       <item value="total Received" />
       <item value="Creates builder object for construction of custom CloseableHttpClient instances." />
       <item value="Creates CloseableHttpClient instance with default configuration." />
@@ -54,12 +55,11 @@
       <item value="Count Down Latch" />
       <item value="auxiliary Unit" />
       <item value="hget All" />
-      <item value="true to check for existence, false to check for absence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2294" />
-        <entry key="ENGLISH" value="2295" />
+        <entry key="CHINESE" value="2295" />
+        <entry key="ENGLISH" value="2296" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
@@ -96,7 +96,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646383026672" />
+    <option name="lastTrimTime" value="1646815881155" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
