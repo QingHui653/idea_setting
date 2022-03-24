@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="486" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SDBM算法" />
+      <item value="SDBM Filter" />
+      <item value="PJW Filter" />
+      <item value="JS Filter" />
+      <item value="ELF Filter" />
+      <item value="Blomm Filter" />
       <item value="Sets the transparent color for the last added frame and any subsequent frames. Since all colors are subject to modification in the quantization process, the color in the final palette for each frame closest to the given color becomes the transparent color for that frame. May be set to null to indicate no transparent color. @param c Color to be treated as transparent on display." />
       <item value="Adapted from Jef Poskanzer's Java port by way of J. M. G. Elliott." />
       <item value="Ported to Java 1200 K Weiner" />
@@ -50,28 +56,22 @@
       <item value="The comma-separated list of namespace names to integrate with Spring property sources. If not specified, then default to application namespace." />
       <item value="Apollo configuration section to integrate with Spring" />
       <item value="Interface that encapsulates event publication functionality. Serves as super-interface for ApplicationContext. 自: 1.1.1" />
-      <item value="Use this annotation to register Apollo ConfigChangeListener." />
-      <item value="Replacement for Class.forName() that also returns Class instances for primitives (e.g. &quot;int&quot;) and array class names (e.g. &quot;String[]&quot;). Furthermore, it is also capable of resolving inner class names in Java source style (e.g. &quot;java.lang.Thread.State&quot; instead of &quot;java.lang.ThreadState&quot;). 形参: name – the name of the Class" />
-      <item value="parent Bean Factory" />
-      <item value="prototype" />
-      <item value="When used as a type-level annotation in conjunction with @Component, @Scope indicates the name of a scope to use for instances of the annotated type. When used as a method-level annotation in conjunction with @Bean, @Scope indicates the name of a scope to use for the instance returned from the method. NOTE: @Scope annotations are only introspected on the concrete bean class (for annotated components) or the factory method (for @Bean methods). In contrast to XML bean definitions, there is no notion of bean definition inheritance, and inheritance hierarchies at the class level are irrelevant for metadata purposes. In this context, scope means the lifecycle of an instance, such as singleton, prototype, and so forth. Scopes provided out of the box in Spring may be referred to using the SCOPE_ constants available in the ConfigurableBeanFactory and WebApplicationContext interfaces. To register additional custom scopes, see CustomScopeConfigurer." />
-      <item value="RUNTIME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2308" />
-        <entry key="ENGLISH" value="2309" />
+        <entry key="CHINESE" value="2311" />
+        <entry key="ENGLISH" value="2311" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
-        <entry key="GERMAN" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="3" />
         <entry key="FRENCH" value="20" />
         <entry key="FINNISH" value="2" />
         <entry key="HAUSA" value="1" />
-        <entry key="DUTCH" value="10" />
+        <entry key="DUTCH" value="12" />
         <entry key="CATALAN" value="4" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="2" />
