@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="486" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sets the transparent color for the last added frame and any subsequent frames. Since all colors are subject to modification in the quantization process, the color in the final palette for each frame closest to the given color becomes the transparent color for that frame. May be set to null to indicate no transparent color. @param c Color to be treated as transparent on display." />
+      <item value="Adapted from Jef Poskanzer's Java port by way of J. M. G. Elliott." />
+      <item value="Ported to Java 1200 K Weiner" />
+      <item value="NeuQuant Neural-Net Quantization Algorithm" />
+      <item value="Copyright (c) 1994 Anthony Dekker NEUQUANT Neural-Net quantization algorithm by Anthony Dekker, 1994. See &quot;Kohonen neural networks for optimal colour quantization&quot; in &quot;Network: Computation in Neural Systems&quot; Vol. 5 (1994) pp 351-367. for a discussion of the algorithm. Any party obtaining a copy of these files from the author, directly or indirectly, is granted, free of charge, a full and unrestricted irrevocable, world-wide, paid up, royalty-free, nonexclusive right and license to deal in this software and documentation files (the &quot;Software&quot;), including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, andor sell copies of the Software, and to permit persons who receive copies from any such party to do so, with the only requirement being that this copyright notice remain intact." />
       <item value="DEFLATE" />
       <item value="get Sms Channel" />
       <item value="validate Cash Lock" />
@@ -51,16 +56,11 @@
       <item value="prototype" />
       <item value="When used as a type-level annotation in conjunction with @Component, @Scope indicates the name of a scope to use for instances of the annotated type. When used as a method-level annotation in conjunction with @Bean, @Scope indicates the name of a scope to use for the instance returned from the method. NOTE: @Scope annotations are only introspected on the concrete bean class (for annotated components) or the factory method (for @Bean methods). In contrast to XML bean definitions, there is no notion of bean definition inheritance, and inheritance hierarchies at the class level are irrelevant for metadata purposes. In this context, scope means the lifecycle of an instance, such as singleton, prototype, and so forth. Scopes provided out of the box in Spring may be referred to using the SCOPE_ constants available in the ConfigurableBeanFactory and WebApplicationContext interfaces. To register additional custom scopes, see CustomScopeConfigurer." />
       <item value="RUNTIME" />
-      <item value="Element Type" />
-      <item value="Scope" />
-      <item value="multi" />
-      <item value="Annotation which indicates that a method parameter should be bound to a web request header. &lt;p&gt;Supported for annotated handler methods in Servlet and Portlet environments. &lt;p&gt;If the method parameter is {@link java.util.Map Map&amp;lt;String, String&amp;gt;}, {@link org.springframework.util.MultiValueMap MultiValueMap&amp;lt;String, String&amp;gt;}, or {@link org.springframework.http.HttpHeaders HttpHeaders} then the map is populated with all header names and values." />
-      <item value="Request Header" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2302" />
-        <entry key="ENGLISH" value="2303" />
+        <entry key="CHINESE" value="2308" />
+        <entry key="ENGLISH" value="2309" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
