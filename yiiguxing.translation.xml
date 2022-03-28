@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="486" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Field" />
       <item value="get Staff Id" />
       <item value="SDBM算法" />
       <item value="SDBM Filter" />
@@ -55,12 +56,11 @@
       <item value="Injector" />
       <item value="Apollo Injector" />
       <item value="The comma-separated list of namespace names to integrate with Spring property sources. If not specified, then default to application namespace." />
-      <item value="Apollo configuration section to integrate with Spring" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2311" />
-        <entry key="ENGLISH" value="2312" />
+        <entry key="CHINESE" value="2313" />
+        <entry key="ENGLISH" value="2314" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
