@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="486" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Staff Id" />
       <item value="SDBM算法" />
       <item value="SDBM Filter" />
       <item value="PJW Filter" />
@@ -55,12 +56,11 @@
       <item value="Apollo Injector" />
       <item value="The comma-separated list of namespace names to integrate with Spring property sources. If not specified, then default to application namespace." />
       <item value="Apollo configuration section to integrate with Spring" />
-      <item value="Interface that encapsulates event publication functionality. Serves as super-interface for ApplicationContext. 自: 1.1.1" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2311" />
-        <entry key="ENGLISH" value="2311" />
+        <entry key="ENGLISH" value="2312" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647830266304" />
+    <option name="lastTrimTime" value="1648433864352" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
