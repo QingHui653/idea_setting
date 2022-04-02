@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="486" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="bought" />
       <item value="exclude Not Bulletin" />
       <item value="thing 2 long" />
       <item value="Implementation which stores the reverse long-to-String mapping in memory." />
@@ -55,12 +56,11 @@
       <item value="get Expire" />
       <item value="BASE CHAR NUMBER" />
       <item value="retrieve up to 10 causes" />
-      <item value="Determines an output value based on an input value; a pre-Java-8 version of java.util.function.Function. The Functions class provides common functions and related utilites. See the Guava User Guide article on the use of Function. For Java 8+ users This interface is now a legacy type. Use java.util.function.Function (or the appropriate primitive specialization such as ToIntFunction) instead whenever possible. Otherwise, at least reduce explicit dependencies on this type by using lambda expressions or method references instead of classes, leaving your code easier to migrate in the future. To use an existing function (say, named function) in a context where the other type of function is expected, use the method reference function::apply. A future version of com.google.common.base.Function will be made to extend java.util.function.Function, making conversion code necessary only in one direction. At that time, this interface will be officially discouraged." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2316" />
-        <entry key="ENGLISH" value="2317" />
+        <entry key="CHINESE" value="2317" />
+        <entry key="ENGLISH" value="2318" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
