@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="486" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="build Sales Temp List" />
       <item value="instance-enabled-onit" />
       <item value="instance" />
       <item value="Failed to load ApplicationContext" />
@@ -55,12 +56,11 @@
       <item value="Creates a &lt;code&gt;FileInputStream&lt;code&gt; by opening a connection to an actual file, the file named by the path name &lt;code&gt;name&lt;code&gt; in the file system. A new &lt;code&gt;FileDescriptor&lt;code&gt; object is created to represent this file connection. &lt;p&gt; First, if there is a security manager, its &lt;code&gt;checkRead&lt;code&gt; method is called with the &lt;code&gt;name&lt;code&gt; argument as its argument. &lt;p&gt; If the named file does not exist, is a directory rather than a regular file, or for some other reason cannot be opened for reading then a &lt;code&gt;FileNotFoundException&lt;code&gt; is thrown." />
       <item value="the system-dependent file name." />
       <item value="Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: Could not initialize class cfca.sadk.lib.crypto.JCrypto" />
-      <item value="A filter to filter only documents where a field exists in them." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2329" />
-        <entry key="ENGLISH" value="2330" />
+        <entry key="CHINESE" value="2330" />
+        <entry key="ENGLISH" value="2331" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
