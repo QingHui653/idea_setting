@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="486" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="cannot open git-upload-pack" />
+      <item value="it: cannot open git-upload-pack" />
       <item value="get Print Template Address" />
       <item value="build Sales Temp List" />
       <item value="instance-enabled-onit" />
@@ -54,13 +56,11 @@
       <item value="Should the lower bound be included or not. Defaults to &lt;tt&gt;true&lt;tt&gt;." />
       <item value="The to part of the range query. Null indicates unbounded." />
       <item value="get Verify Cert Info" />
-      <item value="Creates a &lt;code&gt;FileInputStream&lt;code&gt; by opening a connection to an actual file, the file named by the path name &lt;code&gt;name&lt;code&gt; in the file system. A new &lt;code&gt;FileDescriptor&lt;code&gt; object is created to represent this file connection. &lt;p&gt; First, if there is a security manager, its &lt;code&gt;checkRead&lt;code&gt; method is called with the &lt;code&gt;name&lt;code&gt; argument as its argument. &lt;p&gt; If the named file does not exist, is a directory rather than a regular file, or for some other reason cannot be opened for reading then a &lt;code&gt;FileNotFoundException&lt;code&gt; is thrown." />
-      <item value="the system-dependent file name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2331" />
-        <entry key="ENGLISH" value="2332" />
+        <entry key="CHINESE" value="2333" />
+        <entry key="ENGLISH" value="2334" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="9" />
